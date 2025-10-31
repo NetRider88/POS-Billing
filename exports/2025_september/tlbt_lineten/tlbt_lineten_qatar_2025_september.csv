@@ -1,0 +1,4 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,47231,1aa358e3-8b4e-49dc-bd0b-36e96a6ba0dd,"Five Guys, Al Sadd",Tlbt-Lineten,15207,Five Guys,OWN_DELIVERY,,Qatar
+TB_QA,27018,4df76200-11de-44a2-a156-ff782c6641e2,"Five Guys, Doha Festival city mall, 1st floor",Tlbt-Lineten,15207,Five Guys,OWN_DELIVERY,,Qatar
+TB_QA,734194,d3af284b-c5fe-46a2-8607-6495adadf2b3,"Five Guys, west Bay",Tlbt-Lineten,15207,Five Guys,OWN_DELIVERY,,Qatar

@@ -1,0 +1,17 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,694195,65263,"Starbucks, 18 November, Azaiba ",TLBT-Qikserve,657630,"Starbucks, 18 November, Azaiba",OWN_DELIVERY,,Oman
+TB_OM,710992,78551,"Starbucks, A`Raya Complex - POS, Al Khuwayr North",TLBT-Qikserve,666365,"Starbucks, A`Raya Complex - Al Khuwayr North",OWN_DELIVERY,,Oman
+TB_OM,693589,65272,"Starbucks, Azaiba Commercial DT",TLBT-Qikserve,657285,"Starbucks, Azaiba Commercial DT",OWN_DELIVERY,,Oman
+TB_OM,693856,26493,"Starbucks, Barka Mall",TLBT-Qikserve,657458,"Starbucks, Barka Mall",OWN_DELIVERY,,Oman
+TB_OM,767482,68446,"Starbucks, Bawshar",TLBT-Qikserve,608822,Starbucks ,OWN_DELIVERY,,Oman
+TB_OM,710995,34338,"Starbucks, Beach Road Corniche, Qurm ",TLBT-Qikserve,666368,"Starbucks, Beach Road Corniche, Qurm",OWN_DELIVERY,,Oman
+TB_OM,693859,51844,"Starbucks, Ghala Heights DT",TLBT-Qikserve,657461,"Starbucks, Ghala Heights DT",OWN_DELIVERY,,Oman
+TB_OM,693857,23195,"Starbucks, Jasmine Mall",TLBT-Qikserve,657459,"Starbucks, Jasmine Mall",OWN_DELIVERY,,Oman
+TB_OM,693854,34256,"Starbucks, Muscat City Center",TLBT-Qikserve,657456,"Starbucks, Muscat City Center",OWN_DELIVERY,,Oman
+TB_OM,694197,34277,"Starbucks, Muscat Madinat Qabos",TLBT-Qikserve,657632,"Starbucks, Muscat Madinat Qaboos",OWN_DELIVERY,,Oman
+TB_OM,694196,29307,"Starbucks, Muzn Center Muscat",TLBT-Qikserve,657631,"Starbucks, Muzn Center Muscat",OWN_DELIVERY,,Oman
+TB_OM,688086,51435,"Starbucks, Qurum Drive Thru ",TLBT-Qikserve,654192,"Starbucks, Qurum Drive Thru",OWN_DELIVERY,,Oman
+TB_OM,694394,66087,"Starbucks, Seeb DT",TLBT-Qikserve,657717,"Starbucks, Seeb DT",OWN_DELIVERY,,Oman
+TB_OM,693776,67769,"Starbucks, Square DT",TLBT-Qikserve,657396,"Starbucks, Square DT",OWN_DELIVERY,,Oman
+TB_OM,693858,24187,"Starbucks, The Avenue",TLBT-Qikserve,657460,"Starbucks, The Avenue",OWN_DELIVERY,,Oman
+TB_OM,710993,23216,"Starbucks, The Wave",TLBT-Qikserve,666366,"Starbucks, The Wave",OWN_DELIVERY,,Oman

@@ -1,0 +1,6 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,713032,TGO-1acd8033-23ff-4614-8699-4b8d05c588e2,"Papa John`s Pizza, 7th Circle",TLBT iiko Plugin,665083,Papa John`s Pizza,OWN_DELIVERY,,Jordan
+TB_JO,710691,TGO-129dddcf-adae-4bde-95e2-4fead02d57d8,"Papa John`s Pizza, Al shmeisani",TLBT iiko Plugin,665083,Papa John`s Pizza,OWN_DELIVERY,,Jordan
+TB_JO,715325,TGO-7b5c15f6-dd42-4223-b27f-c1a9b98aeef0,"Papa John`s Pizza, Fuheis",TLBT iiko Plugin,665083,Papa John`s Pizza,OWN_DELIVERY,,Jordan
+TB_JO,708575,TGO-5153bbb6-65f3-49aa-a550-d2c8eed6801d,"Papa John`s Pizza, Madina street",TLBT iiko Plugin,665083,Papa John`s Pizza,OWN_DELIVERY,,Jordan
+TB_JO,708577,TGO-25cb21df-8d61-49e4-9c86-d83716b22534,"Papa John`s Pizza, university street,University Street",TLBT iiko Plugin,665083,Papa John`s Pizza,OWN_DELIVERY,,Jordan

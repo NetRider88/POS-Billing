@@ -1,0 +1,259 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+HF_EG,652608,KFC_EGY_78,ASYOT 2 KFC - TMP,Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,733273,HRD_EGY_31,"Hardee's, Arab Mall HARD ",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,503105,HRD_EGY_33,"Hardee's, BAKRY HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503087,HRD_EGY_35,"Hardee's, CARFOUR ALEX HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503097,HRD_EGY_36,"Hardee's, CARFOUR CAIRO HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,507556,HRD_EGY_37,"Hardee's, CITY CENTER HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,765669,HRD_EGY_1019,"Hardee's, Diar HARD, Tagammoa 5 - Al Diyar Compound",Tlbt-Americana-Digital,698691,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,503095,HRD_EGY_44,"Hardee's, MAADY  HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503096,HRD_EGY_45,"Hardee's, MAADY CLUB HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,507013,HRD_EGY_46,"Hardee's, MADINTY HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,507541,HRD_EGY_51,"Hardee's, MERGHANI HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503092,HRD_EGY_52,"Hardee's, MOHANDESEN HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503093,HRD_EGY_53,"Hardee's, MOSADAK HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503101,HRD_EGY_54,"Hardee's, PLAZA N CAIRO HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,745422,HRD_EGY_55,"Hardee's, PRIMA VESTA, TGO",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,503103,HRD_EGY_642,"Hardee's, REHAB HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503106,HRD_EGY_61,"Hardee's, SHAMS HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,722769,HRD_EGY_59,"Hardee's, San Stefano",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,503102,HRD_EGY_63,"Hardee's, TAHRER HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503091,HRD_EGY_64,"Hardee's, TAYRAN HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,641513,HRD_EGY_1381,"Hardee's, Watanya Dream HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,503094,HRD_EGY_50702,"Hardee's, ZAMALEK HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,749252,HRD_EGY_66,"Hardee's, ZAMALEK HARD,Zamalek - Abo El Feda",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,661398,HRD_EGY_34,"Hardee`s, BATRAWY HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,737165,HRD_EGY_40,"Hardee`s, Green Plaza Hard",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,641516,HRD_EGY_42,"Hardee`s, HARAM 2 HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,641517,HRD_EGY_41,"Hardee`s, HARAM HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,653013,HRD_EGY_47,"Hardee`s, MALL OF EGYPT HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,745425,HRD_EGY_2594,"Hardee`s, Mobile El Hamd-TGO",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,653010,HRD_EGY_50763,"Hardee`s, Mobile El Hamd-TMP",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,641524,HRD_EGY_43,"Hardee`s, Mohandesin - Lebanon Square",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,737161,HRD_EGY_57,"Hardee`s, ROSHDI HARD",Tlbt-Americana-Digital,502349,Hardee's,OWN_DELIVERY,,Egypt
+HF_EG,653014,HRD_EGY_988,"Hardee`s, Rehab Chill-Out HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,641521,HRD_EGY_58,"Hardee`s, SAHRAWY HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,688907,HRD_EGY_1611,"Hardee`s, Tagammoa 1",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,641518,HRD_EGY_65,"Hardee`s, ZAIED HARD",Tlbt-Americana-Digital,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,502756,KFC_EGY_12838,KFC - City Stars 6th of October - TMP,Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,648723,KFC_EGY_12897,KFC - El Seyouf - TMP,Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737020,KFC_EGY_90,"KFC - El Seyouf,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,738771,KFC_EGY_182,"KFC,  Zayed - El Hay 2 - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,652771,KFC_EGY_727,"KFC, 10th of Ramadan City - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737627,KFC_EGY_69,"KFC, A AZIZ KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,502758,KFC_EGY_70,"KFC, ABBASEYA KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502744,KFC_EGY_71,"KFC, ABOU EL EZZ KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507501,KFC_EGY_72,"KFC, ABOU ELHOL KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502733,KFC_EGY_73,"KFC, AIN SHAMS KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737626,KFC_EGY_74,"KFC, AL3OBOR 1 KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737625,KFC_EGY_2354,"KFC, AL3OBOR Chillout KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,733624,KFC_EGY_12718,"KFC, AL3OBOR Chillout KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,647116,KFC_EGY_77,"KFC, ASYOT 1 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,746414,KFC_EGY_1832,"KFC, Agamy - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,765676,KFC_EGY_1296,"KFC, Al Manial",Tlbt-Americana-Digital,698696,KFC,OWN_DELIVERY,,Egypt
+HF_EG,666417,KFC_EGY_1371,"KFC, Arabella KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,652759,KFC_EGY_624,"KFC, Area Alf - Hadayek El Ahram, Haram - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,645280,KFC_EGY_79,"KFC, BANHA KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,666412,KFC_EGY_1375,"KFC, Bellagio - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,764134,KFC_EGY_80,"KFC, Beni Suef - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,696941,KFC_EGY_1794,"KFC, CFC 2,New Cairo - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507527,KFC_EGY_81,"KFC, CITY CENTER KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,642361,KFC_EGY_134,"KFC, Cornishe el nile, Minya - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,645283,KFC_EGY_82,"KFC, DAMANHOUR KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507509,KFC_EGY_83,"KFC, DAWLATIAN - SHOBRA 2 - KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,645285,KFC_EGY_88,"KFC, DOMYAT 1 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,645282,KFC_EGY_89,"KFC, DOMYAT 2 KFC  - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,690229,KFC_EGY_93,"KFC, ELWEHDA IMBABA - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737026,KFC_EGY_170,"KFC, El Galaa Street, Tanta,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737649,KFC_EGY_100,"KFC, El Motawakel, Gesr El Suez - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,652788,KFC_EGY_12805,"KFC, El Motawakel, Gesr El Suez - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,652787,KFC_EGY_92,"KFC, El Nakhil - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502720,KFC_EGY_95,"KFC, FISAL 1 KFC- TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507515,KFC_EGY_96,"KFC, FISAL 2 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507511,KFC_EGY_97,"KFC, FUTURE KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,741088,KFC_EGY_1825,"KFC, Fasil 3, Faisal - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,652789,KFC_EGY_98,"KFC, GAMGOM, 6th of October City",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737370,KFC_EGY_99,"KFC, GENENA MALL KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,502729,KFC_EGY_101,"KFC, GIZA KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737019,KFC_EGY_666,"KFC, GREEN PLAZA, TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737636,KFC_EGY_1377,"KFC, Golden Square - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,666413,KFC_EGY_12611,"KFC, Golden Square,TMP ",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502704,KFC_EGY_102,"KFC, HANOVEEL KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502719,KFC_EGY_103,"KFC, HARAM 1 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507502,KFC_EGY_104,"KFC, HARAM 2 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737648,KFC_EGY_106,"KFC, HEGAZ KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737632,KFC_EGY_107,"KFC, HELWAN KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,725298,KFC_EGY_105,"KFC, Hassan Maamon - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737398,KFC_EGY_1415,"KFC, Hub 50 KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,740028,KFC_EGY_1826,"KFC, Hyper 1 Zayed - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737016,KFC_EGY_109,"KFC, IBRAHMYA KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,652747,KFC_EGY_110,"KFC, IMBABA KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,740785,KFC_EGY_111,"KFC, ISMALIA 1 KFC,Downtown - Champollion - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737646,KFC_EGY_113,"KFC, KOBA KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,757745,KFC_EGY_112,"KFC, Kafr El Sheikh, El Awakaf - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737644,KFC_EGY_947,"KFC, Khamayel Zayed KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737017,KFC_EGY_115,"KFC, LORAN KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,741755,KFC_EGY_1824,"KFC, Lebiny - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502734,KFC_EGY_117,"KFC, MAADI 1 KFC- TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502735,KFC_EGY_118,"KFC, MAADI 2 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502736,KFC_EGY_119,"KFC, MAADI 3 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,645284,KFC_EGY_121,"KFC, MAHALA KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737023,KFC_EGY_122,"KFC, MANSOURA 1 KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737027,KFC_EGY_123,"KFC, MANSOURA 2 KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737024,KFC_EGY_124,"KFC, MANSOURA 3 KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,502724,KFC_EGY_127,"KFC, MARGHANI KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,769942,KFC_EGY_131,"KFC, MASR & SUDAN - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507523,KFC_EGY_133,"KFC, MEGA BYTE KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507504,KFC_EGY_136,"KFC, MOBTADAYAN KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737388,KFC_EGY_137,"KFC, MOKTTAM KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,652748,KFC_EGY_138,"KFC, MOSTOROD, Shobra - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737382,KFC_EGY_656,"KFC, Madinaty - South Park,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737633,KFC_EGY_1296,"KFC, Manial KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,658817,KFC_EGY_12707,"KFC, Manial KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737628,KFC_EGY_1400,"KFC, Mazar Mall - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737015,KFC_EGY_135,"KFC, Miamy 1 KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,738183,KFC_EGY_1823,"KFC, Mohandesin - Lebanon Square - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737387,KFC_EGY_1890,"KFC, Mokattam 2,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,677657,KFC_EGY_1374,"KFC, N90 KFC,Tagammoa 5 - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737371,KFC_EGY_139,"KFC, NAHAS KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737650,KFC_EGY_140,"KFC, NOZHA KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,652742,KFC_EGY_763,"KFC, Nakhil Chill Out, Mokattam - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,725287,KFC_EGY_67,"KFC, Nasr City - Hay 10 - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737664,KFC_EGY_141,"KFC, Nozha Sheraton KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,502757,KFC_EGY_142,"KFC, OCTOBER 1 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737642,KFC_EGY_143,"KFC, OCTOBER 2 KFC",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,674453,KFC_EGY_1376,"KFC, Ola Gardenia KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737383,KFC_EGY_1559,"KFC, Open Air Mall, Madinaty,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,507520,KFC_EGY_144,"KFC, PLAZA N CAIRO KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,648067,KFC_EGY_147,"KFC, PORTSAID 2 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,642356,KFC_EGY_148,"KFC, PORTSAID 3 KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,653210,KFC_EGY_145,"KFC, Port Fuad - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737013,KFC_EGY_150,"KFC, RAML,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,645286,KFC_EGY_151,"KFC, RAS ELBAR KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737378,KFC_EGY_563,"KFC, REHAB 2,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737380,KFC_EGY_152,"KFC, REHAB KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737011,KFC_EGY_153,"KFC, ROSHDY,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737647,KFC_EGY_155,"KFC, ROXY KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737014,KFC_EGY_156,"KFC, ROYAL PLAZA KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,652744,KFC_EGY_1008,"KFC, Rehab Chill-Out KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502728,KFC_EGY_157,"KFC, S ELKHIMA KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502726,KFC_EGY_158,"KFC, SAHRAWY KFC- TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737012,KFC_EGY_159,"KFC, SEMOHA KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,647115,KFC_EGY_167,"KFC, SOHAG KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,695191,KFC_EGY_168,"KFC, SUDAN St, Giza - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,739868,KFC_EGY_162,"KFC, Shams Club - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,725807,KFC_EGY_2273,"KFC, Shebin El Kom KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737375,KFC_EGY_1976,"KFC, Sherouk Chill Out KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737635,KFC_EGY_166,"KFC, Sliver Star - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,741778,KFC_EGY_169,"KFC, Suez - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502748,KFC_EGY_12728,"KFC, TAYRAN KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737365,KFC_EGY_171,"KFC, TAYRAN KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737630,KFC_EGY_172,"KFC, TBL KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,507032,KFC_EGY_173,"KFC, THAWRA KFC  - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737641,KFC_EGY_175,"KFC, TOTAL RING ROAD KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737639,KFC_EGY_2097,"KFC, Talaat Harb - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737634,KFC_EGY_176,"KFC, Twin Plaza - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,507503,KFC_EGY_177,"KFC, VINI KFC- TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,666416,KFC_EGY_1373,"KFC, Watanya El Waha- TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737395,KFC_EGY_178,"KFC, ZAHRAA MAADY KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,737022,KFC_EGY_180,"KFC, ZAKAZEK 2 KFC,TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,502746,KFC_EGY_181,"KFC, ZAMALEK KFC - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,737651,KFC_EGY_183,"KFC, ZAYTON KFC - TGO",Tlbt-Americana-Digital,502320,KFC,OWN_DELIVERY,,Egypt
+HF_EG,769687,KFC_EGY_125,"KFC- Marakia, Maraqia Compound - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,686049,KFC_EGY_1686,"Koronfil KFC, New Cairo - TMP",Tlbt-Americana-Digital,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,502761,PHD_EGY_219,Pizza Hut - El Mansoura University,Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502760,PHD_EGY_184,"Pizza Hut, 10TH RAMADAN PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502771,PHD_EGY_185,"Pizza Hut, ABBASIA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507549,PHD_EGY_186,"Pizza Hut, ABOU ELHOL PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507572,PHD_EGY_187,"Pizza Hut, AFRICA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502765,PHD_EGY_188,"Pizza Hut, AIN SHAMS PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502783,PHD_EGY_189,"Pizza Hut, AKAD PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502767,PHD_EGY_190,"Pizza Hut, AL3OBOR PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507542,PHD_EGY_192,"Pizza Hut, ARCADIA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,692297,PHD_EGY_1804,"Pizza Hut, Bellagio PH,Tagammoa 5",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647601,PHD_EGY_210,"Pizza Hut, CARREFOUR ALEX PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502785,PHD_EGY_195,"Pizza Hut, DANDY MALL PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647606,PHD_EGY_1109,"Pizza Hut, DIAR PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,765672,PHD_EGY_229,"Pizza Hut, Dokki - Mosaddak",Tlbt-Americana-Digital,698694,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502790,PHD_EGY_199,"Pizza Hut, EL EKBAL PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502774,PHD_EGY_200,"Pizza Hut, EL REHAB PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647609,PHD_EGY_649,"Pizza Hut, El Rehab Avenue",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507546,PHD_EGY_202,"Pizza Hut, FUTURE PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502777,PHD_EGY_203,"Pizza Hut, GIZA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502796,PHD_EGY_204,"Pizza Hut, GREEN PLAZA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,671165,PHD_EGY_1179,"Pizza Hut, Gate Plaza Mall, El Sheikh Zayed",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,664221,PHD_EGY_1380,"Pizza Hut, Golden Square PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,642699,PHD_EGY_623,"Pizza Hut, HADYAK EL AHRAM PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502781,PHD_EGY_205,"Pizza Hut, HARAM 1 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,653016,PHD_EGY_206,"Pizza Hut, HARAM 2 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502810,PHD_EGY_207,"Pizza Hut, HELWAN PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,720493,PHD_EGY_2272,"Pizza Hut, Hub 50 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502806,PHD_EGY_209,"Pizza Hut, ISMALIA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502791,PHD_EGY_212,"Pizza Hut, KORNISH PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502778,PHD_EGY_213,"Pizza Hut, LEBANON PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502784,PHD_EGY_214,"Pizza Hut, MAADI 1 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502809,PHD_EGY_215,"Pizza Hut, MAADI 2 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,666422,PHD_EGY_1401,"Pizza Hut, MADINATY 2 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502811,PHD_EGY_216,"Pizza Hut, MADINATY PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507519,PHD_EGY_218,"Pizza Hut, MALL MISR PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,653017,PHD_EGY_220,"Pizza Hut, MANSORA 2 PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507547,PHD_EGY_224,"Pizza Hut, MARYLAND PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502780,PHD_EGY_225,"Pizza Hut, MESSAHA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502792,PHD_EGY_226,"Pizza Hut, MIAMY PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647813,PHD_EGY_227,"Pizza Hut, MOHANDSIEN PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502770,PHD_EGY_228,"Pizza Hut, MOKATTAM PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647595,PHD_EGY_229,"Pizza Hut, MOSADAK PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647596,PHD_EGY_1013,"Pizza Hut, Mivida PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,696179,PHD_EGY_1885,"Pizza Hut, Mokattam 2",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502782,PHD_EGY_230,"Pizza Hut, NAHAS PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,653015,PHD_EGY_654,"Pizza Hut, NAKHIL CHILOUT PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507534,PHD_EGY_231,"Pizza Hut, NOZHA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502773,PHD_EGY_232,"Pizza Hut, OCTOBER (1) PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,670645,PHD_EGY_1479,"Pizza Hut, Ola Deplo - Tagammoa 3",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507576,PHD_EGY_233,"Pizza Hut, PLAZA NCAIRO H.D PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502772,PHD_EGY_234,"Pizza Hut, PORT SAID PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647600,PHD_EGY_1096,"Pizza Hut, Palm Strip",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,510372,PHD_EGY_235,"Pizza Hut, RASELBAR PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502789,PHD_EGY_236,"Pizza Hut, ROSHDI PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502759,PHD_EGY_238,"Pizza Hut, SAAYED ABD WAHED PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507566,PHD_EGY_239,"Pizza Hut, SAFIR PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502795,PHD_EGY_240,"Pizza Hut, SAN STIFANO PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507565,PHD_EGY_242,"Pizza Hut, SHAMS PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502775,PHD_EGY_244,"Pizza Hut, SHOUBRA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647604,PHD_EGY_492,"Pizza Hut, SODIC PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502787,PHD_EGY_1067,"Pizza Hut, SOLIC PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,647597,PHD_EGY_400,"Pizza Hut, Sefarat PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,664225,PHD_EGY_1355,"Pizza Hut, Sheraton PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,693803,PHD_EGY_1842,"Pizza Hut, Sherouk Chill Out, El Shorouk",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,650645,PHD_EGY_1142,"Pizza Hut, Sherouk Terrace Mall PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,715940,PHD_EGY_247,"Pizza Hut, Suez, Port Tawfik",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502776,PHD_EGY_248,"Pizza Hut, TAHRIR PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,653018,PHD_EGY_249,"Pizza Hut, TANTA EL OROBA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502762,PHD_EGY_250,"Pizza Hut, TANTA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502766,PHD_EGY_251,"Pizza Hut, TOTAL PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502808,PHD_EGY_252,"Pizza Hut, TWIN PLAZA PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,700050,PHD_EGY_1943,"Pizza Hut, Talaat Harb,Downtown - Talaat Harab",Tlbt-Americana-Digital,502321,Pizza Hut,OWN_DELIVERY,,Egypt
+HF_EG,653019,PHD_EGY_1141,"Pizza Hut, Tivoli PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,686347,PHD_EGY_1740,"Pizza Hut, Tucano PH, Nasr City",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,666423,PHD_EGY_1379,"Pizza Hut, Watanya El Waha PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,507581,PHD_EGY_254,"Pizza Hut, ZAHRAA MAADI PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502779,PHD_EGY_255,"Pizza Hut, ZAMALEK PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,502769,PHD_EGY_256,"Pizza Hut, ZAYED H.D PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,666424,PHD_EGY_1402,"Pizza hut, Glim Alex PH",Tlbt-Americana-Digital,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt
+HF_EG,764335,WMP_EGY_679,"Wimpy - Al Batal Ahmed Abd Aaziaz, Mohandsin",Tlbt-Americana-Digital,697834,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,687230,WMP_EGY_1760,Wimpy - El Sheikh Zayed,Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,681261,WMP_EGY_1182,Wimpy - Mohandiseen,Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,680861,WMP_EGY_1433,"Wimpy, Americana Plaza, Tagamoa",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,681260,WMP_EGY_1432,"Wimpy, Golden Square,New Cairo",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,773347,WMP_EGY_11736,"Wimpy, Madinaty",Tlbt-Americana-Digital,649373,Wimpy,VENDOR_DELIVERY,,Egypt
+HF_EG,681259,WMP_EGY_1592,"Wimpy, Madinaty,Madinaty",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,697522,WMP_EGY_1889,"Wimpy, Mobil CFC,Tagammoa 5",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,732087,WMP_EGY_1430,"Wimpy, N90 - Tagammoa, ",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,681263,WMP_EGY_1267,"Wimpy, Nasr City Abbas Al Akkad",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,681267,WMP_EGY_1553,"Wimpy, Ola Arabella,New Cairo",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,680090,WMP_EGY_1554,"Wimpy, Ola Gardenia",Tlbt-Americana-Digital,649373,Wimpy,VENDOR_DELIVERY,,Egypt
+HF_EG,686272,WMP_EGY_1721,"Wimpy, Sheraton",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,773346,WMP_EGY_11724,"Wimpy, Tagammoa 5 - Emaar Mivida",Tlbt-Americana-Digital,649373,Wimpy,VENDOR_DELIVERY,,Egypt
+HF_EG,698889,WMP_EGY_1930,"Wimpy, Talaat Harb,Downtown",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt
+HF_EG,736324,WMP_EGY_11717,"Wimpy, Wataniya Bellagio, TMP",Tlbt-Americana-Digital,649373,Wimpy,VENDOR_DELIVERY,,Egypt
+HF_EG,681268,WMP_EGY_1590,"Wimpy, Wataniya Bellagio,New Cairo",Tlbt-Americana-Digital,649373,Wimpy,OWN_DELIVERY,,Egypt

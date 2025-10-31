@@ -1,0 +1,4 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+HF_EG,503108,HRD_EGY_50760,"Hardee's, PRIMA VESTA HARD",Tlbt-Americana-IPaas,502349,Hardee's,VENDOR_DELIVERY,,Egypt
+HF_EG,652772,KFC_EGY_75,"KFC, AL3OBOR 2 KFC",Tlbt-Americana-IPaas,502320,KFC,VENDOR_DELIVERY,,Egypt
+HF_EG,507567,246,"Pizza Hut, Sun City",Tlbt-Americana-IPaas,502321,Pizza Hut,VENDOR_DELIVERY,,Egypt

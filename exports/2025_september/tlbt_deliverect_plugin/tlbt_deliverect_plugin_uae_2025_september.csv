@@ -1,0 +1,3 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,35615,62e761162acdc88d2b3a6e32,"Hummingbird Bakery, Al Barsha 1",TLBT Deliverect Plugin,11703,Hummingbird Bakery,OWN_DELIVERY,,UAE
+TB_AE,27264,60fe7f792b441e7ea8c1d794,"Marosh Restaurant, Jumeirah 1",TLBT Deliverect Plugin,15362,Maroosh Restaurant,OWN_DELIVERY,,UAE

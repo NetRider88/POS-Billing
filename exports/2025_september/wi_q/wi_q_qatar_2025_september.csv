@@ -1,0 +1,21 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,676826,ebd4dc81-9552-4796-af1a-181a2f8c5957,"Asha's, Doha Festival City",Wi-Q,647422,Asha's,OWN_DELIVERY,,Qatar
+TB_QA,676825,c90ccbb0-2e70-4e6c-ae9e-0304aea5c442,"Asha's, Villaggio Mall",Wi-Q,647421,Asha's,OWN_DELIVERY,,Qatar
+TB_QA,684283,93661e08-f59c-4a88-9ff8-b1fc6cd4521e,"P.F Chang's, Al Ebb",Wi-Q,651961,P.F Chang's,OWN_DELIVERY,,Qatar
+TB_QA,684657,d15943b3-6d8d-4cf1-8e50-acb70e66450c,"P.F Chang's, Villaggio Mall",Wi-Q,652180,P.F Chang's,OWN_DELIVERY,,Qatar
+TB_QA,692838,89bd3321-3b4f-42e6-9d52-3ec331c21c95,"Pinkberry, City Center Doha ",Wi-Q,656827,Pinkberry,OWN_DELIVERY,,Qatar
+TB_QA,674857,b1922ec3-a822-4b3b-9e99-b2b0dd15f918,"Pinkberry, Doha Festival City",Wi-Q,646288,Pinkberry,OWN_DELIVERY,,Qatar
+TB_QA,656590,b1e30ad0-261d-4132-8518-fc6d10565f6b,"Pinkberry, Landmark Area",Wi-Q,635125,Pinkberry,OWN_DELIVERY,,Qatar
+TB_QA,674848,f28a4562-c9d3-4111-8463-ebc8c8150c55,"Pinkberry, Mall of Qatar",Wi-Q,646281,Pinkberry,OWN_DELIVERY,,Qatar
+TB_QA,656589,1aa5be35-f846-4f10-af9a-fe2df7c054ac,"Pinkberry, Villagio Mall",Wi-Q,635124,Pinkberry,OWN_DELIVERY,,Qatar
+TB_QA,744558,e5567b0e-8e3a-4e0a-b3eb-b43be7efb9c0,"Raising Cane's, Umm Al Seneem",Wi-Q,686011,Raising Cane's,OWN_DELIVERY,,Qatar
+TB_QA,777159,dfbd00f3-a21-44eb-a630-1dc9ca4ee780,"Raising Canes, DFC, Umm Salal Mohammed",Wi-Q,686011,Raising Cane's,OWN_DELIVERY,,Qatar
+TB_QA,692842,391b1d9e-b018-4b80-9eef-460a48aadbe5,"Shake Shack, City Center",Wi-Q,656830,Shake Shack,OWN_DELIVERY,,Qatar
+TB_QA,654409,4da7846f-6ffe-478f-85db-98999a2742b6,"Shake Shack, Doha Festival City",Wi-Q,633724,Shake Shack,OWN_DELIVERY,,Qatar
+TB_QA,654410,f6ea3920-128b-41dc-bc46-a61213d34f7b,"Shake Shack, Gulf Mall",Wi-Q,633725,Shake Shack,OWN_DELIVERY,,Qatar
+TB_QA,654406,233e493c-b81e-433c-9209-44ab99f20f1c,"Shake Shack, Mall of Qatar",Wi-Q,633721,Shake Shack,OWN_DELIVERY,,Qatar
+TB_QA,654405,3dc40744-0861-4bb6-8e68-15b0981ff860,"Shake Shack, Villaggio Mall",Wi-Q,633720,Shake Shack,OWN_DELIVERY,,Qatar
+TB_QA,600629,a72ddd1f-d229-48e5-8b55-7aca376063d4,"Texas Roadhouse, Doha festival City Mall",Wi-Q,600299,Texas Roadhouse,OWN_DELIVERY,,Qatar
+TB_QA,701543,2e6de133-ed2c-415d-a8e1-a4ff3a55af63,"The Cheesecake Factory, Doha Festival City",Wi-Q,661324,The Cheesecake factory,OWN_DELIVERY,,Qatar
+TB_QA,702396,f27eb77f-25d8-4e9f-a116-a1ee9f51a8d4,"The Cheesecake Factory, Mall of Qatar",Wi-Q,661783,The Cheesecake Factory,OWN_DELIVERY,,Qatar
+TB_QA,701570,d9cf842f-b1b7-49c6-9c4a-084aedfc2b5a,"The Cheesecake Factory, Villaggio Mall",Wi-Q,661338,The Cheesecake Factory,OWN_DELIVERY,,Qatar

@@ -1,0 +1,131 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,725012,9e0b2877-cdbb-497f-9014-e97a2fbf9f3f,"Al Ameed Coffee,  Al Shifa'a",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629689,40cfb9b7-82dc-4648-8981-47d038be9c9b,"Al Ameed Coffee, Al Muqabalain",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629685,9115936d-e257-49a8-9f52-9e91334f8354,"Al Ameed Coffee, Al Swaifyeh",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629688,7743f3c4-8e5b-47b4-ab4b-f182d87a58b9,"Al Ameed Coffee, Gardens Street",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,736087,4055222b-7a2e-4547-910b-dcccba3c8f80,"Al Ameed Coffee, Jabal Al Weibdeh",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629687,12502978-2a5c-440f-9337-a0074990caa5,"Al Ameed Coffee, Jubaiha",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629683,b9b0385b-12b9-4b11-af53-0829dd6918cc,"Al Ameed Coffee, Khalda",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629684,707906e2-3f0f-46cf-a01a-af6b28c6c52c,"Al Ameed Coffee, Makka Al Mokarama",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,629686,f0c3e064-dcd6-4291-b6cf-e51b9e116571,"Al Ameed Coffee, Marka",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,732532,aacffe1b-5b0b-43f9-8db0-461bf4a2fd6c,"Al Ameed Coffee, Medina Street",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,646006,f9fcb529-2b8d-459c-844a-8cb86afb2003,"Al Ameed Coffee, Souq bab al madinah",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,657766,e743d5f9-e80f-40d6-beb8-b37938924230,"Al Ameed, Eidoon",Tlbt-Ishbek,618763,Al Ameed Coffee,OWN_DELIVERY,,Jordan
+TB_JO,617486,a7b18481-f858-4a54-9f0b-d7e822455b30,"Al Daya`a, Istiklal mall",Tlbt-Ishbek,26980,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,48270,efc4081b-2f02-428c-8a76-c22fdf38fe56,"Al Daya`a, Jabal Al Hussain",Tlbt-Ishbek,26980,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,27473,d882f851-5d0d-4fb8-a5ee-e995a25d5345,"Al Dayaa, Abdoun circle",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,646801,8b4caf07-bba4-4c23-b2a8-1bd16abab4bf,"Al Dayaa, Al Fuhais",Tlbt-Ishbek,629284,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,30738,77ee557d-e730-43d2-a771-3561ba6184b8,"Al Dayaa, Al Sahl,Al Sahel",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,681782,01a936fb-141e-4bd6-bab0-bba3aef28c73,"Al Dayaa, Al Zarqa Al Jadeedeh",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,604364,2929868a-14e1-44b3-af2b-85cc76c7f5ff,"Al Dayaa, Aqaba, Al Balad Al Qadeemeh",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,735275,00b89a2d-21f7-4aa7-9339-8ce48d68e37b,"Al Dayaa, Dabouq",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,617525,d598ba95-7dda-43e9-a33d-2844d14fcf6d,"Al Dayaa, Jubaiha",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,706679,0db642c7-d529-4cf9-a4c1-c81efe0e71f7,"Al Dayaa, Marj El Hamam",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,20418,724ef613-3c45-46ba-9dc4-85b8ef410cc4,"Al Dayaa, Medina Street",Tlbt-Ishbek,10335,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,723013,0f3245e4-52e0-46e1-990d-5d1cce326f7d,"Al Dayaa, Tabarboor",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,645645,dbc29fde-8b54-4702-a8ad-83e2e870a496,"Al Dayaa, Taj Mall",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,30694,f8b8acea-1325-4c29-b58d-0286c896b40c,"Al Dayaa, jaber complex",Tlbt-Ishbek,4703,Al Dayaa,OWN_DELIVERY,,Jordan
+TB_JO,755459,bf51c4c4-789a-4fc5-a6b5-a72eeec76cf8,"Al Tazaj, Abdali",Tlbt-Ishbek,692160,Al Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,755299,8d30b837-e55d-4b15-ae51-cf3d73e2cc2e,"Al Tazaj, Al Gardens",Tlbt-Ishbek,692163,Al Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,755458,411922dd-eee2-47ca-895d-fecc82128fec,"Al Tazaj, Al Muqabalain",Tlbt-Ishbek,692160,Al Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,755455,57944908-d9d1-4698-ad7c-17112c5d94d0,"Al Tazaj, Al Swaifyeh",Tlbt-Ishbek,692160,Al Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,755296,2e348a59-6d6b-4553-a09c-4fa86a303563,"Al Tazaj, Jubaiha",Tlbt-Ishbek,692160,Al Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,755456,d0a7efae-d741-4879-8fa4-dce83175df85,"Al Tazaj, Marj El Hamam",Tlbt-Ishbek,692160,Al Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,776093,d6a7ff44-8c1b-4b30-80b6-2892f7afef57,"B cafe, Al Hashmi Al Shamali",Tlbt-Ishbek,705078,B cafe,OWN_DELIVERY,,Jordan
+TB_JO,776092,c8c51d65-9213-4560-a9bf-dc1e015d6562,"B cafe, Jubaiha",Tlbt-Ishbek,705078,B cafe,OWN_DELIVERY,,Jordan
+TB_JO,776084,3f4121a1-2510-4950-82ab-f9697c6418a9,"B cafe, Marj El Hamam",Tlbt-Ishbek,705078,B cafe,OWN_DELIVERY,,Jordan
+TB_JO,37694,dc8da9ba-7d4e-435d-81ee-fa5d3b91495b,"Bamboo Sushi, Al Rawabi",Tlbt-Ishbek,16969,Bamboo Sushi,OWN_DELIVERY,,Jordan
+TB_JO,731505,2e3c0dad-d252-4e08-8597-4f0f807c6fbb,"Broodee Chicken, Jubeiha",Tlbt-Ishbek,678442,Broodee Chicken,OWN_DELIVERY,,Jordan
+TB_JO,753638,47398fb3-26bb-4739-aac7-d917f1dcbf48,"Broodee Chicken, Raghadan",Tlbt-Ishbek,678442,Broodee Chicken,OWN_DELIVERY,,Jordan
+TB_JO,768938,a63e5c91-a598-419c-944c-2639c6cc9045,"Burgerizz, Abdoun",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,48540,b5726332-fad3-4d07-938d-2401a06dc118,"Burgerizz, Al Hashmi Al Shamali",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,729697,6593e249-f554-44a1-b8ed-e3f9981c4e16,"Burgerizz, Al Muqabalain",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,48470,87ebd45e-0729-4252-ac0c-291996150846,"Burgerizz, Al Sahel",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,727727,64e92763-65e7-4906-a483-4343222012ce,"Burgerizz, Istiqlal Mall",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,48539,d8fe9b27-7f1f-463f-ac8b-a53acfa80287,"Burgerizz, Jubaiha",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,48541,fc9aade1-65aa-4536-a847-ab97bf2cd492,"Burgerizz, Khalda",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,694730,a8df1b1f-1151-41ca-9a1e-d5ec09015748,"Burgerizz, Marj El Hamam",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,727726,a1376aa2-cec1-4ef4-ae73-0839a454b9de,"Burgerizz, Taj Mall",Tlbt-Ishbek,27100,Burgerizz,OWN_DELIVERY,,Jordan
+TB_JO,720409,20fe8ab5-c85c-475b-994d-cd9f7a9dc900,"Challenge burger, Al Rawabi",Tlbt-Ishbek,671961,Challenge burger,OWN_DELIVERY,,Jordan
+TB_JO,773842,125747d5-7663-413f-bcbc-bb9c38c341f6,"Challenge burger, Tla' Ali",Tlbt-Ishbek,671961,Challenge burger,OWN_DELIVERY,,Jordan
+TB_JO,693908,e258044a-a647-4bc0-a8bd-1178ef2992ee,"Chef Eyad, Mecca Street",Tlbt-Ishbek,657495,Chef Eyad,OWN_DELIVERY,,Jordan
+TB_JO,775272,06b16468-92ef-4cf4-9d23-1800f2e40e21,"Fitness Kitchen, Jubaiha",Tlbt-Ishbek,704515,Fitness Kitchen,OWN_DELIVERY,,Jordan
+TB_JO,37899,620a3518-a50d-4325-8cd9-ce4b099566f7,"Fitness-Kitchen, um El summaq",Tlbt-Ishbek,21477,Fitness Kitchen,OWN_DELIVERY,,Jordan
+TB_JO,730731,47362969-e55a-4d5b-b991-8012c346d052,"Heat Burger, Al Rawabi",Tlbt-Ishbek,677952,Heat Burger,OWN_DELIVERY,,Jordan
+TB_JO,767870,b45489e4-93b2-4d2a-9b8a-2b7c514f4f69,Jordan International Food Festival,Tlbt-Ishbek,700071,Jordan International Food Festival,VENDOR_DELIVERY,,Jordan
+TB_JO,610739,229f3638-a31a-499b-9c1a-a281ec120ab6,"Khobze W Shawerma, Abdoun",Tlbt-Ishbek,5034,Khobze W Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,741497,a8d3b40a-703a-44cf-a57d-610772098113,"Khobze W Shawerma, Al Swaifyeh",Tlbt-Ishbek,5034,Khobze W Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,669770,c1008b35-5403-4473-ae7d-91533be6ed35,"Khobze W Shawerma, Al-Madina Al-Monawara St. ,Medina Street",Tlbt-Ishbek,5034,Khobze W Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,27051,4e640075-0782-474d-bef1-3d7f57390140,"Khobze W Shawerma, Khalda,Khalda",Tlbt-Ishbek,5034,Khobze W Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,635815,a4cab6c8-f5c1-4091-99cc-556b46e4e3f9,"Khobzeh w Shawerma, Al Rabieh - Al Salam",Tlbt-Ishbek,5034,Khobze W Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,713843,e388af7e-ae12-4817-bfa7-114d8c61e544,"Khobzeh w Shawerma, Al-Ameer Rashed",Tlbt-Ishbek,5034,Khobze W Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,670561,bbc254f3-4435-4c3b-9b2b-7e1ffeacdae6,"Popeyes, Abdali Mall",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,775531,3ee6096c-3816-4b00-afb2-f3d9e21d171e,"Popeyes, Abdoun",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,722888,1fc6fad4-2040-4fb8-9c0e-7214756c2966,"Popeyes, Abu Nseir",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,644806,7749c9f9-47f6-40fa-b377-70b42496e556,"Popeyes, Al Afrah",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,604051,26211213-3c40-482d-b661-140a940585b6,"Popeyes, Al Balad Al Qadeemeh",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,644795,75a24306-992e-4be6-bd6e-678d3f5824a2,"Popeyes, Al Muqabalain",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,774079,3f3ff026-0210-4199-b747-31b4fdf267c0,"Popeyes, Al Rawabi",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,722011,920c554d-d519-427b-ac64-c20e3f51b950,"Popeyes, Al Swaifyeh",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,607145,3cb7ea4c-c59c-4596-97e3-8564428fd0ef,"Popeyes, Al Zarqa Al Jadeedeh,Makka Al Mokarama",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,670560,5863ac1e-a279-451e-8a4d-6b077264deb0,"Popeyes, Arifah Mall",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,735795,a5cd5dda-2ff4-40bd-860b-6e27d8fda186,"Popeyes, Autostrad",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,39357,4c708cb0-55e8-450b-9404-3060dd531336,"Popeyes, Irbid,Al Worod",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,675077,3e1f4a70-2d50-46a6-995f-bfba2efba809,"Popeyes, Khalda",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,738807,41fc2cfc-8552-47ab-b2f3-d0c7abfed1c8,"Popeyes, Marj El Hamam",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,670563,d7c34a80-1801-4778-a615-ad174d73d45c,"Popeyes, Mecca Mall",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,670562,cf525661-ae99-4e97-8716-1545f66941be,"Popeyes, Shmaisani",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,741114,7c7534e2-fab8-4699-a382-a6a3b002df7f,"Popeyes, University Street ",Tlbt-Ishbek,19647,Popeyes,OWN_DELIVERY,,Jordan
+TB_JO,675451,69dadacd-f369-45f7-8457-c36be2dc308c,"Prosto, Abdullah Ghosheh St.",Tlbt-Ishbek,626485,Prosto,OWN_DELIVERY,,Jordan
+TB_JO,748678,c28c41e9-8c0a-4871-bd7e-b720a7163e31,"Prosto, Abu Nseir",Tlbt-Ishbek,626485,Prosto,OWN_DELIVERY,,Jordan
+TB_JO,740434,4fa690f8-0ebd-46fa-9352-a2b21415b0a3,"Prosto, Dabouq",Tlbt-Ishbek,626485,Prosto,OWN_DELIVERY,,Jordan
+TB_JO,641718,adec3a8e-bd64-430d-a3e9-31736e0bc913,"Prosto, Medina Street",Tlbt-Ishbek,626485,Prosto,OWN_DELIVERY,,Jordan
+TB_JO,696687,aabaa281-9e1f-4553-896c-8751d2ffe91f,"Prosto, Tabarbour",Tlbt-Ishbek,626485,Prosto,OWN_DELIVERY,,Jordan
+TB_JO,766382,7f77dcdf-c8f5-4da7-9a43-5f20f5f24921,"Prosto, Tabarbour",Tlbt-Ishbek,626485,Prosto,OWN_DELIVERY,,Jordan
+TB_JO,714175,cb231eb8-bb93-4b76-a1de-27d738968f3e,"Saj, Al Muqabalain",Tlbt-Ishbek,16362,Saj,OWN_DELIVERY,,Jordan
+TB_JO,628537,41d4998f-8aab-440d-841f-9ed5ee15a342,"Saj, As Salt",Tlbt-Ishbek,618024,"Saj, As Salt",OWN_DELIVERY,,Jordan
+TB_JO,671427,2f5bee8c-fcf5-4250-bc74-1973cfef81da,"Saj, Business Park",Tlbt-Ishbek,16362,Saj,OWN_DELIVERY,,Jordan
+TB_JO,621284,43ace8dc-05af-4980-9ffb-b0c41b8dfdef,"Saj, Dahit al Rasheed",Tlbt-Ishbek,16362,Saj,OWN_DELIVERY,,Jordan
+TB_JO,768920,bd627eac-16cf-45d9-96f9-999befc01f3f,"Saj, Istiqlal",Tlbt-Ishbek,16362,Saj,OWN_DELIVERY,,Jordan
+TB_JO,632066,c8b61001-ad78-4b6c-877d-e24647d30ee6,"Saj, Madaba",Tlbt-Ishbek,620341,"Saj, Madaba",OWN_DELIVERY,,Jordan
+TB_JO,740014,d14f3b12-d6f4-432b-b5e4-aac32a6bd15a,"Saj, Shmaisani",Tlbt-Ishbek,16362,Saj,OWN_DELIVERY,,Jordan
+TB_JO,694609,e717d423-be2c-45dc-96ae-8da0ce56d6c0,"Saj, Tla' Ali",Tlbt-Ishbek,16362,Saj,OWN_DELIVERY,,Jordan
+TB_JO,769928,90dbd4ab-3e97-4e87-9266-0201e4ab1e68,"Shawarma Al Madinah L Kol El Nas, Khalda",Tlbt-Ishbek,701372,Shawarma Al Madinah L Kol El Nas,OWN_DELIVERY,,Jordan
+TB_JO,712412,14c30488-b961-4989-83e6-2ffce63d3488,"Shawerma 3 Saj, 5B Mall",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641616,0b49c12c-1bd9-4bf8-b302-a2f8383290eb,"Shawerma 3 Saj, Abdoun",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,720893,2edec232-e2b4-4b78-b523-68c830e97c5d,"Shawerma 3 Saj, Al Fuhais",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641617,4ec490f6-e8db-46d4-bc3f-3d4cac9ca3e6,"Shawerma 3 Saj, Al Muqabalain",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641612,15e2fa3e-6878-4d8d-a29d-7c6fcb7787f0,"Shawerma 3 Saj, Al Rawabi",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641618,297bef6c-2c3f-4a2a-a088-b44feea2240a,"Shawerma 3 Saj, Al Salt",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641615,9a84e59e-5a16-4f31-89bc-715558c4f841,"Shawerma 3 Saj, Al Swaifyeh",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,715137,e69578a7-9f99-4c12-8eb1-9b5438d6bd09,"Shawerma 3 Saj, City Mall",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,723868,503a482a-d18f-4de2-8663-24a0b20ab389,"Shawerma 3 Saj, Daheit Al Yasmeen",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641613,ab4ba6a1-4016-47fd-b03a-e32e43ef630d,"Shawerma 3 Saj, Jabal Al Weibdeh",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,642122,eba480f9-7641-4959-bfd6-155112cb6486,"Shawerma 3 Saj, Jabal Amman",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,707708,c9aad009-84b9-46e6-9a79-65174881b497,"Shawerma 3 Saj, Jubaiha",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641619,bf2c5dc9-6d86-4fc7-bb3f-d3883e0bb05c,"Shawerma 3 Saj, Marj El Hamam",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,641620,d86f00ae-78a4-4397-81a9-9e818540fe8e,"Shawerma 3 Saj, Medina Street",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,729443,E347e108-4f1b-441f-9c15-3c20d94fc1d5,"Shawerma 3 Saj, Shmaisani",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,657105,f47f8cc7-1158-44db-b752-190d0809d93b,"Shawerma 3 Saj, Tabarbour",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,728889,9fd9e7b9-7b83-4791-8a23-1d63f4108385,"Shawerma 3 Saj, Tla' Ali",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,671125,c74f1ec6-9cd0-4fd8-900c-5f9339e56fb4,"Shawerma 3 Saj, al ameer rashed",Tlbt-Ishbek,626423,Shawerma 3 Saj,OWN_DELIVERY,,Jordan
+TB_JO,678296,c7b0fae1-6979-449b-ba3f-7400f4544fba,Shic'N -jbaiha ,Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,769906,7968f984-186b-4458-9f35-abbe118991c9,"Shic'N, Abdoun",Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,736548,33946b5a-8a0d-4dab-839c-5c10220c0659,"Shic'N, Al Muqabalain",Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,682622,fdfcc42f-6dda-47bd-8d0e-d1baeede6240,"Shic`N, Al Hashmi Al Shamali",Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,682623,86d0ce02-15f4-4284-90e9-eb812539f9ba,"Shic`N, Al Sahel",Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,682624,255779a2-20a6-4597-a0d6-19d72066460a,"Shic`N, Khalda",Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,694731,390f845c-a56f-46fa-a797-5b2f7fd303d6,"Shic`N, Marj El Hamam",Tlbt-Ishbek,648313,Shic`N,OWN_DELIVERY,,Jordan
+TB_JO,603486,70e725f2-ee34-46b1-b6bf-aca3cef66db4,"Signetch, Jubaiha",Tlbt-Ishbek,601562,Signetch,OWN_DELIVERY,,Jordan
+TB_JO,36066,da74a40a-17ff-495b-80b1-d0e99ab265cd,"Tazaj, Al Muqabalain",Tlbt-Ishbek,5291,Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,36068,51d6042c-43be-4e31-a110-77398ade2d99,"Tazaj, Gardens Street",Tlbt-Ishbek,5291,Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,36067,8692ae65-8380-4f89-93ec-b8ffc25d63f0,"Tazaj, Jubaiha",Tlbt-Ishbek,5291,Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,728705,73f5a879-2972-4fe5-a648-909f17cd9c9b,"Tazaj, Marj El Hamam",Tlbt-Ishbek,5291,Tazaj,OWN_DELIVERY,,Jordan
+TB_JO,710134,5a1cea7e-883e-4e0d-93cf-08d3b240b463,"Teta Raheeba, Al Muqabalain",Tlbt-Ishbek,648471,Teta Raheebeh,OWN_DELIVERY,,Jordan
+TB_JO,678576,60ccc919-84fe-4402-8c3a-13eafcb88529,"Teta Raheebeh, Al Rawabi",Tlbt-Ishbek,648471,Teta Raheebeh,OWN_DELIVERY,,Jordan
+TB_JO,729452,D359b0d6-Db95-463f-817b-B0dd8956c504,"Teta Raheebeh, Shmaisani",Tlbt-Ishbek,648471,Teta Raheebeh,OWN_DELIVERY,,Jordan
+TB_JO,691559,fcf6f499-1c16-4269-a854-aee057ea4893,"Teta Raheebeh, Tla' Ali",Tlbt-Ishbek,648471,Teta Raheebeh,OWN_DELIVERY,,Jordan
+TB_JO,10588,c66a341d-a0b9-4023-aec2-f11ceb465e74,"Treats And Beans, Abdoun",Tlbt-Ishbek,5338,Treats And Beans,OWN_DELIVERY,,Jordan
+TB_JO,42345,7ac11f86-43d0-4fe2-b87f-100f4c1da990,"Treats And Beans, Jubaiha",Tlbt-Ishbek,5338,Treats And Beans,OWN_DELIVERY,,Jordan
+TB_JO,42344,c006121d-e9c4-465c-86fd-08a188273f8d,"Treats And Beans, Khalda",Tlbt-Ishbek,5338,Treats And Beans,OWN_DELIVERY,,Jordan
+TB_JO,42343,bf87e4cf-477f-43e8-b183-2b66017b03db,"Treats And Beans, Marj El Hamam",Tlbt-Ishbek,5338,Treats And Beans,OWN_DELIVERY,,Jordan

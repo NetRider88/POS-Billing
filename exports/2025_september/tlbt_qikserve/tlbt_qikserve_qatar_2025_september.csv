@@ -1,0 +1,46 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,712406,78951,"Starbucks , Al Meera Sailiya South",TLBT-Qikserve,667146,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677790,27069,"Starbucks Almeera jeryan, Najaima",TLBT-Qikserve,648015,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677646,24512,"Starbucks,  Al Wakrah CBQ Academy",TLBT-Qikserve,647911,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677039,57993,"Starbucks,  Landmark Mall",TLBT-Qikserve,647542,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,716145,78879,"Starbucks, 900 Park, Al Qassar",TLBT-Qikserve,669289,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677576,27068,"Starbucks, AL Meera, Al Thumama",TLBT-Qikserve,647856,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,699919,68247,"Starbucks, Abu Sidra Mall, Abu Sidra",TLBT-Qikserve,660613,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,710155,71972,"Starbucks, Al Almeera Fox hills - Lusail",TLBT-Qikserve,665985,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,710583,77093,"Starbucks, Al Dafna Corniche, West Bay",TLBT-Qikserve,666175,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677505,34305,"Starbucks, Al Emadi Centre, New Salata",TLBT-Qikserve,647796,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677037,63160,"Starbucks, Al Khor ",TLBT-Qikserve,647540,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,697389,69887,"Starbucks, Al Meera Lebaib",TLBT-Qikserve,659311,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677579,27070,"Starbucks, Al Meera Murraikh Mall, Muraikh",TLBT-Qikserve,647859,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677167,65267,"Starbucks, Al Meera Rawdat Al Hamam",TLBT-Qikserve,647598,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677168,63161,"Starbucks, Al Meera Umm Garn,Umm Garn",TLBT-Qikserve,647599,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,715953,80266,"Starbucks, Al Meera bu sidra,Abu Sidra",TLBT-Qikserve,669173,"Starbucks,Al Meera Bu Sidra",OWN_DELIVERY,,Qatar
+TB_QA,677764,62723,"Starbucks, Al Mirqab Mall",TLBT-Qikserve,647993,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677648,51598,"Starbucks, Al Wakrah Ezdan Mall",TLBT-Qikserve,647912,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,687350,66351,"Starbucks, Asmakh Mall",TLBT-Qikserve,653761,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677031,23218,"Starbucks, Bonyan Building, Al Hilal West",TLBT-Qikserve,647534,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677038,18611,"Starbucks, Dar Al Salam Mall, Abu Hamour",TLBT-Qikserve,647541,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677033,29609,"Starbucks, Doha Festival City, Al Ebb",TLBT-Qikserve,647536,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677044,19447,"Starbucks, Ezdan Mall Al Gharrafa, Al Gharrafa",TLBT-Qikserve,647548,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677169,48720,"Starbucks, Ezdan tower 4",TLBT-Qikserve,647600,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,707669,64575,"Starbucks, Gold Plaza Complex, Abu Hamour",TLBT-Qikserve,664571,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677035,19607,"Starbucks, Gulf Mall, Al Gharaffa",TLBT-Qikserve,647538,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677765,34293,"Starbucks, Hyatt Plaza All Waab,Al Waab",TLBT-Qikserve,647994,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,710567,70800,"Starbucks, J22 Mall Lusail",TLBT-Qikserve,666170,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,697604,69071,"Starbucks, Lulu Ain Khaled",TLBT-Qikserve,659426,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677043,16595,"Starbucks, Lulu Al khor, Al Khor ",TLBT-Qikserve,647547,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677766,24513,"Starbucks, Lulu, Barwa City",TLBT-Qikserve,647995,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,697611,70617,"Starbucks, Lusail Downtown",TLBT-Qikserve,659432,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677498,47883,"Starbucks, MOQ 02 / Bani Hajar,Bani Hajar",TLBT-Qikserve,647790,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677578,28808,"Starbucks, Muaither Villa",TLBT-Qikserve,647858,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677041,22237,"Starbucks, Ooredoo Old Airport Road, Old Airport",TLBT-Qikserve,647545,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,718762,80842,"Starbucks, Porto Arabia 2,Pearl Qatar",TLBT-Qikserve,670928,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,697377,70234,"Starbucks, QIG Lusail",TLBT-Qikserve,659305,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,712764,79947,"Starbucks, Ramada Tower Doha",TLBT-Qikserve,667346,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677577,53443,"Starbucks, Tawar Mall",TLBT-Qikserve,647857,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,697362,70245,"Starbucks, The Pearl",TLBT-Qikserve,659301,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,733259,68611,"Starbucks, Tornado Tower Dune Plaza, West Bay",TLBT-Qikserve,679436,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677717,27067,"Starbucks, Wakrah Al Meera, Al Wakrah",TLBT-Qikserve,647964,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677493,47382,"Starbucks, West Bay",TLBT-Qikserve,647787,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,697390,69228,"Starbucks, West Walk, Al Waab",TLBT-Qikserve,659312,Starbucks,OWN_DELIVERY,,Qatar
+TB_QA,677036,65270,"Starbucks, Woqod Al Rayyan 2",TLBT-Qikserve,647539,Starbucks,OWN_DELIVERY,,Qatar

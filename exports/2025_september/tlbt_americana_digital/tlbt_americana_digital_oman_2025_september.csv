@@ -1,0 +1,92 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,764528,HRD_OMN_3,"Hardee's, AL KHUWAIR, Bawshar",Tlbt-Americana-Digital,697955,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,677245,HRD_OMN_438,"Hardee's, Amarat Phase 1",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,13850,HRD_OMN_36,"Hardee's, Mawaleh South",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,32422,HRD_OMN_3,"Hardee`s , Al Khuwayr South",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,646355,HRD_OMN_237,"Hardee`s, Shati Al Qurm",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,3622,HRD_OMN_1,"Hardees, Ghubrah Ashmaliya",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,20220,HRD_OMN_40,"Hardees, Hail North",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,3625,HRD_OMN_2,"Hardees, Khoud",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,11897,HRD_OMN_5,"Hardees, Maabela",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,13313,HRD_OMN_34,"Hardees, Nizwa Grand Mall",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,11347,HRD_OMN_6,"Hardees, Salalah  Garden Mall",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,3624,HRD_OMN_4,"Hardees, Wattiyah",Tlbt-Americana-Digital,2214,Hardee's,OWN_DELIVERY,,Oman
+TB_OM,29440,KFC_OMN_38,"KFC , Muttrah",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,45581,KFC_OMN_55,"KFC, 18th November Street,Azaiba",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3585,KFC_OMN_7,"KFC, Airport Heights",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,706564,KFC_OMN_638,"KFC, Al Ansab",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,4975,KFC_OMN_27,"KFC, Al Hambar",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,735915,KFC_OMN_450,"KFC, Al Jafnayn, Rusayl",Tlbt-Americana-Digital,2197,KFC,VENDOR_DELIVERY,,Oman
+TB_OM,639951,KFC_OMN_98,"KFC, Al Khaboura Street",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,45580,KFC_OMN_10,"KFC, Al Khuwair , Sultan Qaboos Street,Al Khuwayr North",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,764527,KFC_OMN_10,"KFC, Al Khuwar, Bawshar",Tlbt-Americana-Digital,697954,KFC,OWN_DELIVERY,,Oman
+TB_OM,3560,KFC_OMN_8,"KFC, Al Koudh",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3593,KFC_OMN_11,"KFC, Al Mawalih South",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3586,KFC_OMN_13,"KFC, Amarat Phase 1",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,699845,KFC_OMN_558,"KFC, At Turayf",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3591,KFC_OMN_21,"KFC, Azaiba",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,13836,KFC_OMN_14,"KFC, Barka Round About",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3584,KFC_OMN_17,"KFC, Buraimi Industrial",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3583,KFC_OMN_15,"KFC, Falaj Al Awhi",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,703818,KFC_OMN_598,"KFC, Hail south",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,11348,KFC_OMN_19,"KFC, Hormuz",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,720383,KFC_OMN_738,"KFC, Ibri, Hijjar",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,696672,KFC_OMN_458,"KFC, Jalan bani buali",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3589,KFC_OMN_9,"KFC, Khuwair 33",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,640405,KFC_OMN_158,"KFC, Maabilah 2 Freeway",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3596,KFC_OMN_18,"KFC, Mabella",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3595,KFC_OMN_22,"KFC, Madinat Al Sultan Qaboos",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,703699,KFC_OMN_578,"KFC, Mahaj",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,691794,KFC_OMN_498,"KFC, Mubila Gateway",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,13849,KFC_OMN_35,"KFC, Musannah",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,8250,KFC_OMN_20,"KFC, Nizwa Suq",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,713013,KFC_OMN_720,"KFC, Oman Oil Seeb, Seeb ",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3590,KFC_OMN_23,"KFC, Qurm",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,720526,KFC_OMN_778,"KFC, Rustaq,Al Ghashub ",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3582,KFC_OMN_24,"KFC, Ruwi",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,32432,KFC_OMN_39,"KFC, Saham",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3588,KFC_OMN_26,"KFC, Salalah",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,3597,KFC_OMN_25,"KFC, Salalah Wosta",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,692498,KFC_OMN_459,"KFC, Shamal Ad Dahariz",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,648993,KFC_OMN_197,"KFC, Shatti Al Qurm",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,13117,KFC_OMN_28,"KFC, Sur University College",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,16447,KFC_OMN_37,"KFC, The Wave",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,8474,KFC_OMN_29,"KFC, Wadi Al Kabir",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,645471,KFC_OMN_442,"KFC, Wedam",Tlbt-Americana-Digital,2197,KFC,OWN_DELIVERY,,Oman
+TB_OM,763364,PHD_OMN_178,"Pizza Hut Pos Test  TMP, Ghala  ",Tlbt-Americana-Digital,697185,Pizza Hut Pos Test TMP,VENDOR_DELIVERY,,Oman
+TB_OM,24247,PHD_OMN_982,"Pizza Hut, Al Ansab",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,715603,PHD_OMN_1023,"Pizza Hut, Al Ghushbah",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,16246,PHD_OMN_1011,"Pizza Hut, Al Hambar Al Hambar - Sohar",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,19410,PHD_OMN_1015,"Pizza Hut, Al Koudh 6",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,652899,PHD_OMN_1007,"Pizza Hut, Al Sada North",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,652901,PHD_OMN_987,"Pizza Hut, Al khuwair south",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,775923,PHD_OMN_987,"Pizza Hut, Al kuwair south POS ",Tlbt-Americana-Digital,704967,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,14862,PHD_OMN_981,"Pizza Hut, Amerat Area 1",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,601029,PHD_OMN_991,"Pizza Hut, Amirat 6",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,652898,PHD_OMN_992,"Pizza Hut, Awqad North",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634841,PHD_OMN_983,"Pizza Hut, Azaiba",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,694782,PHD_OMN_1022,"Pizza Hut, Barkha Kurhat Al Balush",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,663966,PHD_OMN_1019,"Pizza Hut, Buraimi,Khadrah Al Sieh (New)",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5537,PHD_OMN_994,"Pizza Hut, Ghala",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5538,PHD_OMN_984,"Pizza Hut, Ghubrah Ashmaliya",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,19409,PHD_OMN_985,"Pizza Hut, Hail North",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634839,PHD_OMN_1009,"Pizza Hut, Hay Al Sarooj",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634847,PHD_OMN_995,"Pizza Hut, Ibri Souq",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5536,PHD_OMN_988,"Pizza Hut, Khuwair 33 (Delco)",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634845,PHD_OMN_986,"Pizza Hut, Koudh",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,652902,PHD_OMN_1000,"Pizza Hut, MBD",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,664363,PHD_OMN_1020,"Pizza Hut, Mabelah 4",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634846,PHD_OMN_998,"Pizza Hut, Mabelah 8",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5535,PHD_OMN_999,"Pizza Hut, Mabelah Delco",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634844,PHD_OMN_997,"Pizza Hut, Mabelah Dine-in",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5534,PHD_OMN_989,"Pizza Hut, Mawaleh South",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,634842,PHD_OMN_990,"Pizza Hut, Mazoun",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,33392,PHD_OMN_1002,"Pizza Hut, Nizwa",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,1452,PHD_OMN_1004,"Pizza Hut, Qurm",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5540,PHD_OMN_1005,"Pizza Hut, Ruwi",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,652900,PHD_OMN_1008,"Pizza Hut, Salalah",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,50986,PHD_OMN_1010,"Pizza Hut, Sohar Sanaiyah",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,29427,PHD_OMN_1013,"Pizza Hut, Sur,Hillat Al Kahraba",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,662895,PHD_OMN_1014,"Pizza Hut, Tharmad",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,5542,PHD_OMN_1016,"Pizza Hut, Wadi Al Kabir",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman
+TB_OM,16245,PHD_OMN_993,"Pizza Hut, samhan- Barka",Tlbt-Americana-Digital,993,Pizza Hut,OWN_DELIVERY,,Oman

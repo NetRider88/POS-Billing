@@ -1,0 +1,8 @@
+pandas
+reportlab
+python-dateutil
+fuzzywuzzy
+python-Levenshtein
+schedule
+flask
+flask-mail

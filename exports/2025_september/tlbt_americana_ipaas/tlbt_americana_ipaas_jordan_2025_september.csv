@@ -1,0 +1,6 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,687470,23,"KFC, Jabal Al Hussain",Tlbt-Americana-IPaas,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649661,31,"KFC, Zarkaa Road,Marka",Tlbt-Americana-IPaas,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,27749,20,"KFC,Amman- TGO,Medina Street",Tlbt-Americana-IPaas,15629,KFC,OWN_DELIVERY,,Jordan
+TB_JO,676769,PHD_JOR_34,"Pizza Hut, City Mall,Khalda",Tlbt-Americana-IPaas,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676842,37,"Pizza Hut, Daheit Al Yasmeen",Tlbt-Americana-IPaas,14920,Pizza Hut,OWN_DELIVERY,,Jordan

@@ -1,0 +1,33 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,13311,38110,"Domino's Pizza , Al Muntazah",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,9028,38112,"Domino's Pizza , Muaither",TLBT LimeTray,1857,Domino's Pizza,VENDOR_DELIVERY,,Qatar
+TB_QA,675768,39952,Domino's Pizza - Ain Khaled,TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,3711,38114,"Domino's Pizza, Al Aziziya",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,604392,39948,"Domino's Pizza, Al Gharrafa",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,2967,38116,"Domino's Pizza, Al Khor",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,2963,39943,"Domino's Pizza, Al Nasr",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,2966,38117,"Domino's Pizza, Al Wakrah",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,664931,39949,"Domino's Pizza, Izghawa",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,675859,39953,"Domino's Pizza, New Rayan",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,14698,38118,"Domino's Pizza, Pearl Qatar",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,2964,39944,"Domino's Pizza, Ras Abu Abboud",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,665612,39951,"Domino's Pizza, Umm Salal Ali",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,684835,39954,"Domino`s Pizza, Jerian Najaima",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,684836,38115,"Domino`s Pizza, Lusail",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,665613,39950,"Domino`s Pizza, Nuaija, Al Hilal West",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,696684,36730,"Domino`s Pizza, Umm Al Seneem",TLBT LimeTray,1857,Domino's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,35816,40120,"Jollibee, Al Asmakh Mall, Al Sadd",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,46129,40126,"Jollibee, Al Ebb",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,734981,40265,"Jollibee, Al Hilal West",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,715282,40131,"Jollibee, Al Khor Mall",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,40908,40125,"Jollibee, Al Nasr",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,46446,40127,"Jollibee, Bani Hajar",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,765536,40488,"Jollibee, Bin Mahmoud",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,636894,40123,"Jollibee, City Center Mall",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,35820,40121,"Jollibee, Dar Al Salam Mall, Abu Hamour",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,35019,40118,"Jollibee, Ezdan Mall, Al Gharrafa",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,34523,40122,"Jollibee, Ezdan Mall, Al Wakrah",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,680364,40129,"Jollibee, Lusail",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,35819,40119,"Jollibee, Old Airport",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,708864,40130,"Jollibee, Tawar Mall, Al Markhiya",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar
+TB_QA,650068,40128,"Jollibee, Villaggio Mall",TLBT LimeTray,19616,Jollibee,OWN_DELIVERY,,Qatar

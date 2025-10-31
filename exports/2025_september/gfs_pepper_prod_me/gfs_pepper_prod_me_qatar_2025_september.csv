@@ -1,0 +1,20 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,742723,677761,"15 Minutes by Diet Cafe Catering, Al Gharrafa",gfs-pepper-prod-me,684923,15 Minutes by Diet Cafe Catering,OWN_DELIVERY,,Qatar
+TB_QA,742719,677761,"15 Minutes by Diet Café, Al Gharrafa",gfs-pepper-prod-me,684920,15 Minutes by Diet Café,OWN_DELIVERY,,Qatar
+TB_QA,742593,680376,"15 Minutes by Ottoman Palace, Al Gharrafa",gfs-pepper-prod-me,684844,15 Minutes by Ottoman Palace,OWN_DELIVERY,,Qatar
+TB_QA,742601,735460,"15 Minutes by Salad Lab, Al Gharrafa",gfs-pepper-prod-me,684849,15 Minutes by Salad Lab,OWN_DELIVERY,,Qatar
+TB_QA,742736,736526,"15 Minutes by Shawarma El Mama Restaurant, Al Gharrafa",gfs-pepper-prod-me,684927,15 Minutes by Shawarma El Mama Restaurant ,OWN_DELIVERY,,Qatar
+TB_QA,746425,742996,"15 Minutes by Shawarma El Turco, Al Gharrafa",gfs-pepper-prod-me,687111,15 Minutes by Shawarma El Turco,OWN_DELIVERY,,Qatar
+TB_QA,749035,749035,Al Shami Home Cafe & Restaurant (Express) (DH Kitchen) Al Ghraffa,gfs-pepper-prod-me,688665,Al Shami Home Cafe & Restaurant (Express) ,OWN_DELIVERY,,Qatar
+TB_QA,752585,752585,"Blaze Fried Chicken, (DH Kitchen) Al Gharafa",gfs-pepper-prod-me,690713,Blaze Fried Chicken Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,701888,677761,"Diet Cafe,Catering(DH Kitchen),Al Gharrafa",gfs-pepper-prod-me,661507,Diet Cafe catering,OWN_DELIVERY,,Qatar
+TB_QA,677761,677761,"Diet Café,Al Gharrafa,(DH Kitchen)",gfs-pepper-prod-me,647991,Diet Cafe,OWN_DELIVERY,,Qatar
+TB_QA,745773,745773,"FlaminGo Restaurant (DH Kitchen) , Al Gharrafa",gfs-pepper-prod-me,686730,FlaminGo Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,730858,730858,"KAPENG BARAKO BY LOMBAR ,(DH Kitchen) Al Gharrafa",gfs-pepper-prod-me,678032,KAPENG BARAKO BY LOMBAR ,OWN_DELIVERY,,Qatar
+TB_QA,717117,717117,"Ninja Ramen, (DH Kitchen) Al Gharrafa",gfs-pepper-prod-me,669894,Ninja Ramen,OWN_DELIVERY,,Qatar
+TB_QA,680376,680376,"Ottoman Palace,Al Gharrafa,(DH Kitchen)",gfs-pepper-prod-me,649563,Ottoman Palace Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,752606,752606,"Power Wings, (DH Kitchen) Al Gharrafa",gfs-pepper-prod-me,690729,Power Wings,OWN_DELIVERY,,Qatar
+TB_QA,752613,752613,"Royals Restaurant, (DH Kitchen) Al Gharafa",gfs-pepper-prod-me,690734,Royals Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,735460,735460,"Salad Lab,(DH Kitchen) Al Gharrafa",gfs-pepper-prod-me,680635,Salad Lab,OWN_DELIVERY,,Qatar
+TB_QA,736526,736526,"Shawarma El Mama Restaurant,(DH Kitchen) Al Gharrafa",gfs-pepper-prod-me,681245,Shawarma El Mama Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,742996,742996,"Shawarma El Turco, Al Gharrafa",gfs-pepper-prod-me,685081,Shawarma El Turco,OWN_DELIVERY,,Qatar

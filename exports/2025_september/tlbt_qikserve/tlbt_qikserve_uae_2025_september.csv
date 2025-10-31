@@ -1,0 +1,219 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,665632,18530,"Starbucks (Drive thru), Zayed City (Western Region)",TLBT-Qikserve,640811,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,704911,69823,Starbucks Al Warqa City Mall,TLBT-Qikserve,663069,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,755838,83860,"Starbucks Arabian Ranches 3,Arabian Ranches",TLBT-Qikserve,692483,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,755837,83585,"Starbucks Enoc 1622, Al Khawaneej,Al Khawaneej 2",TLBT-Qikserve,692482,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665629,64923,Starbucks Forsan Central Mall,TLBT-Qikserve,640808,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661052,34346,Starbucks Knowledge Park,TLBT-Qikserve,637975,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661020,51596,"Starbucks by Snap, ADNOC Khalifa City",TLBT-Qikserve,637943,Starbucks by Snap,OWN_DELIVERY,,UAE
+TB_AE,661021,15060,"Starbucks by Snap, Barsha Head Office",TLBT-Qikserve,637944,Starbucks by Snap,OWN_DELIVERY,,UAE
+TB_AE,708676,48588,"Starbucks by Snap, Souq Extra ",TLBT-Qikserve,665133,Starbucks by Snap,OWN_DELIVERY,,UAE
+TB_AE,661079,32029,"Starbucks,  Al Dafrah Blue Tower A",TLBT-Qikserve,638002,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660991,49298,"Starbucks,  Mushrif Coop",TLBT-Qikserve,637914,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672948,56902,"Starbucks,  Palm Jumeirah Mall",TLBT-Qikserve,645176,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661011,32269,"Starbucks, 21st Century Tower",TLBT-Qikserve,637934,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,766218,81778,"Starbucks, ADNOC 755, Al Shawamekh",TLBT-Qikserve,699010,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660985,51595,"Starbucks, ADNOC Old Baniyas Club",TLBT-Qikserve,637908,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669257,61824,"Starbucks, Adnoc Business Centre Drive Thru",TLBT-Qikserve,643078,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,668150,48257,"Starbucks, Adnoc Mahawi Drive Thru",TLBT-Qikserve,642418,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661075,28810,"Starbucks, Adnoc Mushrif",TLBT-Qikserve,637998,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661085,52293,"Starbucks, Ajman City Center",TLBT-Qikserve,638008,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661010,29560,"Starbucks, Ajman Corniche",TLBT-Qikserve,637933,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661016,22331,"Starbucks, Ajman Drive Thru",TLBT-Qikserve,637939,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,717217,70757,"Starbucks, Akoya Damac Hills 2",TLBT-Qikserve,669968,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661059,29306,"Starbucks, Al Ain Ladies Club",TLBT-Qikserve,637982,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660972,16257,"Starbucks, Al Ain Mall",TLBT-Qikserve,637895,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,663462,17127,"Starbucks, Al Ain Tower",TLBT-Qikserve,639494,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660970,29562,"Starbucks, Al Ain Zoo",TLBT-Qikserve,637893,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,704908,68961,"Starbucks, Al Amsaf Mall",TLBT-Qikserve,663066,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,719555,70935,"Starbucks, Al Anwar Street, Mohammed Bin Zayed City",TLBT-Qikserve,671421,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672787,15976,"Starbucks, Al Barsha Mall",TLBT-Qikserve,645082,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691564,69822,"Starbucks, Al Barsha South Mall",TLBT-Qikserve,656077,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660979,20772,"Starbucks, Al Falah",TLBT-Qikserve,637902,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,711666,77752,"Starbucks, Al Falah Mall, Al Falah City",TLBT-Qikserve,666793,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661065,50245,"Starbucks, Al Garhoud",TLBT-Qikserve,637988,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661042,32328,"Starbucks, Al Ghadeer Tower",TLBT-Qikserve,637965,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661089,34219,"Starbucks, Al Ghurair Centre",TLBT-Qikserve,638012,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682312,68873,"Starbucks, Al Jada",TLBT-Qikserve,650723,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661080,63633,"Starbucks, Al Khawaneej Walk",TLBT-Qikserve,638003,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,679240,68999,"Starbucks, Al Maqtaa Mall",TLBT-Qikserve,648823,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661009,3172,"Starbucks, Al Naeem City Center",TLBT-Qikserve,637932,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,721930,81384,"Starbucks, Al Nahda Mall, Al Nahda",TLBT-Qikserve,672829,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665631,67330,"Starbucks, Al Nahyan",TLBT-Qikserve,640810,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661004,29651,"Starbucks, Al Otaibi",TLBT-Qikserve,637927,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661073,24931,"Starbucks, Al Raha Gardens - Madinat Khalifa-A",TLBT-Qikserve,637996,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,667470,67787,"Starbucks, Al Rahmania",TLBT-Qikserve,642029,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661000,49327,"Starbucks, Al Reef",TLBT-Qikserve,637923,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665633,23197,"Starbucks, Al Ruwais Mall, Al Ruwais",TLBT-Qikserve,640812,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661076,65075,"Starbucks, Al Safa Park",TLBT-Qikserve,637999,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661032,20008,"Starbucks, Al Seef Mall",TLBT-Qikserve,637955,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,711100,67391,"Starbucks, Al Suyoh Mall, Al Seyouh",TLBT-Qikserve,666442,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672786,21600,"Starbucks, Al Twar 2",TLBT-Qikserve,645081,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,679514,55296,"Starbucks, Al Wadi Park",TLBT-Qikserve,648993,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661023,31719,"Starbucks, Al Wahda Mall",TLBT-Qikserve,637946,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,673268,63443,"Starbucks, Al Wasl Drive Thru",TLBT-Qikserve,645356,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676697,68072,"Starbucks, Al Zeina",TLBT-Qikserve,647347,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,724740,34217,"Starbucks, American University of Sharjah,University of Sharjah",TLBT-Qikserve,674505,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660995,3173,"Starbucks, Arabian Centre",TLBT-Qikserve,637918,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682313,69043,"Starbucks, Avenues Mall",TLBT-Qikserve,650724,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661041,15938,"Starbucks, Bawabat Al Sharq Mall, Bani Yas",TLBT-Qikserve,637964,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661003,1926,"Starbucks, Bawadi Mall",TLBT-Qikserve,637926,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661051,48396,"Starbucks, Bay Avenue - Business Bay",TLBT-Qikserve,637974,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661062,17787,"Starbucks, Beach Road DT",TLBT-Qikserve,637985,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661026,25406,"Starbucks, Bin Sougat",TLBT-Qikserve,637949,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682317,48097,"Starbucks, Boulevard Plaza",TLBT-Qikserve,650727,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661055,28809,"Starbucks, Boutik Mall",TLBT-Qikserve,637978,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666945,28258,"Starbucks, Boxpark",TLBT-Qikserve,641705,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661029,34253,"Starbucks, Bukhatir Tower",TLBT-Qikserve,637952,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666946,34320,"Starbucks, Burjuman",TLBT-Qikserve,641707,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661047,22125,"Starbucks, Carrefour Green",TLBT-Qikserve,637970,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661007,29311,"Starbucks, Central Park Tower",TLBT-Qikserve,637930,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661063,65076,"Starbucks, Circle Mall",TLBT-Qikserve,637986,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,674011,68448,"Starbucks, City Centre Al Zahia",TLBT-Qikserve,645809,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682316,68872,"Starbucks, City Life Al Tallah",TLBT-Qikserve,650726,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661024,57961,"Starbucks, Corniche Park",TLBT-Qikserve,637947,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661082,17964,"Starbucks, Corniche Villa",TLBT-Qikserve,638005,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,722902,28908,"Starbucks, DIFC Marble Walk",TLBT-Qikserve,673439,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660981,18182,"Starbucks, Dalma Mall",TLBT-Qikserve,637904,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660980,20113,"Starbucks, Deerfields Mall",TLBT-Qikserve,637903,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,717996,77987,"Starbucks, Dhaid Souq Heritage, Al Dhaid",TLBT-Qikserve,670477,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,717998,80420,"Starbucks, Dhaid University Souq, Al Dhaid",TLBT-Qikserve,670479,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,712702,71627,"Starbucks, Dibba",TLBT-Qikserve,667301,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666947,63305,"Starbucks, Dubai Airport Freezone",TLBT-Qikserve,641708,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,725769,81927,"Starbucks, Dubai Creek Harbour",TLBT-Qikserve,675136,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676044,65169,"Starbucks, Dubai Digital Park Silicon Oasis",TLBT-Qikserve,647001,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669376,49595,"Starbucks, Dubai Economic Development",TLBT-Qikserve,643152,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669375,50733,"Starbucks, Dubai Festival City Borders",TLBT-Qikserve,643151,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669380,62864,"Starbucks, Dubai Hills 3 FF",TLBT-Qikserve,643156,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691562,68556,"Starbucks, Dubai Hills Business Park",TLBT-Qikserve,656075,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669377,62504,"Starbucks, Dubai Hills GF 2",TLBT-Qikserve,643153,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,727309,82784,"Starbucks, Dubai Island",TLBT-Qikserve,675990,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669374,67927,"Starbucks, Dubai Land Dept",TLBT-Qikserve,643150,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,758372,48522,"Starbucks, Dubai Outlet Village, Dubai Techno Park",TLBT-Qikserve,693990,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,716139,79917,"Starbucks, Dxbike",TLBT-Qikserve,669287,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676046,24139,"Starbucks, ENOC 1009 DRIVE THRU",TLBT-Qikserve,647003,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691569,47926,"Starbucks, ENOC 1032 DT",TLBT-Qikserve,656082,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672783,67849,"Starbucks, ENOC 1038 TRIPOLI STREET DT",TLBT-Qikserve,645078,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,721929,77091,"Starbucks, ENOC 1066, Mirdif",TLBT-Qikserve,672828,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691563,68786,"Starbucks, ENOC 1103 DT Recharge",TLBT-Qikserve,656076,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691568,69040,"Starbucks, ENOC 1604 Nad Al Sheba",TLBT-Qikserve,656081,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661050,61377,"Starbucks, ENOC Tasjeel Village",TLBT-Qikserve,637973,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661056,20423,"Starbucks, Eastern Mangrove",TLBT-Qikserve,637979,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672788,68215,"Starbucks, El Centro",TLBT-Qikserve,645083,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660976,31002,"Starbucks, Emaar Town Center",TLBT-Qikserve,637899,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,734439,77765,"Starbucks, Emarat Ajman Jurf",TLBT-Qikserve,680087,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,723582,81834,"Starbucks, Emarat Al Awir DT, Al Awir",TLBT-Qikserve,673855,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,734457,80999,"Starbucks, Emarat Zubara DT",TLBT-Qikserve,680090,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,704909,56096,"Starbucks, Enoc 1021",TLBT-Qikserve,663067,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682319,67850,"Starbucks, Enoc 1135,Al Homaa",TLBT-Qikserve,650729,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,731052,81588,"Starbucks, Enoc 1702 Al Reef DT, Al Reef",TLBT-Qikserve,678165,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665625,56370,"Starbucks, Enoc Site 1505",TLBT-Qikserve,640804,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660978,25879,"Starbucks, Etihad Mall",TLBT-Qikserve,637901,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669378,55897,"Starbucks, First Avenue Motor City",TLBT-Qikserve,643154,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665623,17045,"Starbucks, Fujairah City Centre",TLBT-Qikserve,640802,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661025,58899,"Starbucks, Galleria Mall, Al Maryah Central L3",TLBT-Qikserve,637948,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661077,50249,"Starbucks, Golden Mile",TLBT-Qikserve,638000,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661019,58351,"Starbucks, Grand Mosque",TLBT-Qikserve,637942,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,723926,82112,"Starbucks, Green Avenue",TLBT-Qikserve,674053,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661066,49510,"Starbucks, Grove Village DT",TLBT-Qikserve,637989,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,772293,16453,"Starbucks, Guardian Tower",TLBT-Qikserve,702758,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661058,49299,"Starbucks, HBZ Stadium",TLBT-Qikserve,637981,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,698209,69985,"Starbucks, Hamarain Mall DT,Seih Al Uraibi",TLBT-Qikserve,659729,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661086,34260,"Starbucks, Hamdan Street",TLBT-Qikserve,638009,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661040,1911,"Starbucks, Hamra Village",TLBT-Qikserve,637963,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661022,51430,"Starbucks, Hessa Street",TLBT-Qikserve,637945,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666948,34336,"Starbucks, IBM Persia",TLBT-Qikserve,641709,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661068,24191,"Starbucks, International Tower",TLBT-Qikserve,637991,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661035,63475,"Starbucks, Irise Tower",TLBT-Qikserve,637958,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,775550,53572,"Starbucks, JAFZA, Jebel Ali Freezone",TLBT-Qikserve,704706,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672784,32571,"Starbucks, JBR 3 Bahar",TLBT-Qikserve,645079,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676043,68356,"Starbucks, JLT Almas Tower",TLBT-Qikserve,647000,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661060,17291,"Starbucks, Jahili Park",TLBT-Qikserve,637983,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661005,81336,"Starbucks, Jebel Ali Freezone",TLBT-Qikserve,637928,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661048,34332,"Starbucks, Jimi Mall",TLBT-Qikserve,637971,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661074,32523,"Starbucks, Jumeirah Beach Residence 1",TLBT-Qikserve,637997,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660977,32457,"Starbucks, Jumeirah Beach Residence 4",TLBT-Qikserve,637900,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660975,32476,"Starbucks, Jumeirah Beach Residence 5 GM10",TLBT-Qikserve,637898,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676045,26915,"Starbucks, Jumeirah Drive Thru 3",TLBT-Qikserve,647002,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691565,65721,"Starbucks, Jumeirah Park Club House",TLBT-Qikserve,656078,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669382,63022,"Starbucks, Jumeirah Park Thru",TLBT-Qikserve,643158,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661006,18026,"Starbucks, Jumeriah Villa",TLBT-Qikserve,637929,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665628,61982,"Starbucks, Kalba",TLBT-Qikserve,640807,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666944,67078,"Starbucks, Kalba Mall",TLBT-Qikserve,641706,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661033,32239,"Starbucks, Khalidiya Mall",TLBT-Qikserve,637956,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660997,30781,"Starbucks, Khalidiyah Street",TLBT-Qikserve,637920,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,709423,70781,"Starbucks, Khalifa City Waitrose",TLBT-Qikserve,665590,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665624,61827,"Starbucks, Khor Fakkan Beach",TLBT-Qikserve,640803,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661072,28071,"Starbucks, Lulu Fujairah",TLBT-Qikserve,637995,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665621,55896,"Starbucks, Lulu Mall",TLBT-Qikserve,640800,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,698210,58094,"Starbucks, MBZ Drive Thru - South,Al Muntazi 2",TLBT-Qikserve,659730,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691566,58095,"Starbucks, MBZ Drive Thru North",TLBT-Qikserve,656079,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661083,23549,"Starbucks, Makani Al Shamkha Mall, Al Shamkha",TLBT-Qikserve,638006,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676047,26048,"Starbucks, Mall of the Emirates Borders",TLBT-Qikserve,647004,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661046,24932,"Starbucks, Mamoura",TLBT-Qikserve,637969,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661028,48961,"Starbucks, Manar Mall",TLBT-Qikserve,637951,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661087,34262,"Starbucks, Marina Mall - Abu Dhabi",TLBT-Qikserve,638010,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661027,34315,"Starbucks, Marina Walk",TLBT-Qikserve,637950,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665630,63387,"Starbucks, Masdar City",TLBT-Qikserve,640809,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661090,63179,"Starbucks, Masoudi Mall",TLBT-Qikserve,638013,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,669381,64983,"Starbucks, Matajer Al Mirgab",TLBT-Qikserve,643157,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661067,34252,"Starbucks, Mega Mall",TLBT-Qikserve,637990,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660984,34284,"Starbucks, Mercato Center",TLBT-Qikserve,637907,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,708732,71707,"Starbucks, Mina Al Arab",TLBT-Qikserve,665162,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682318,68077,"Starbucks, Mira Town Centre",TLBT-Qikserve,650728,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,667953,66788,"Starbucks, Mirdif Avenue",TLBT-Qikserve,642333,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661039,51593,"Starbucks, Mirdiff Park Centre",TLBT-Qikserve,637962,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661008,4141,"Starbucks, Motor City",TLBT-Qikserve,637931,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661078,32714,"Starbucks, Movenpick Hotel",TLBT-Qikserve,638001,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661088,27950,"Starbucks, Mudon",TLBT-Qikserve,638011,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660996,23974,"Starbucks, Muroor Centre",TLBT-Qikserve,637919,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,719554,77662,"Starbucks, Nad Al Hamar",TLBT-Qikserve,671420,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661044,65074,"Starbucks, Nad Al Sheba",TLBT-Qikserve,637967,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661081,62129,"Starbucks, Nasma Centre DT",TLBT-Qikserve,638004,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,764003,86302,"Starbucks, Noya Plaza, Yas Island",TLBT-Qikserve,697607,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666950,3183,"Starbucks, Oasis Mall",TLBT-Qikserve,641711,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,672785,32329,"Starbucks, Old Town Burj Dubai",TLBT-Qikserve,645080,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,682315,32144,"Starbucks, Old Town Commercial Island",TLBT-Qikserve,650725,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661013,48395,"Starbucks, One Central Building DWTC",TLBT-Qikserve,637936,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,725770,32073,"Starbucks, Outlet Mall, Dubai Outsource Zone",TLBT-Qikserve,675137,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,744693,81493,"Starbucks, Park Gate Tower, Al Kifaf",TLBT-Qikserve,686095,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661049,1359,"Starbucks, Qanat Al Qasba",TLBT-Qikserve,637972,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,708675,71013,"Starbucks, RTA Head Office ",TLBT-Qikserve,665132,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660993,21605,"Starbucks, Saadiyat Island",TLBT-Qikserve,637916,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660988,34259,"Starbucks, Sahara Centre",TLBT-Qikserve,637911,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660998,31853,"Starbucks, Sahara Tower",TLBT-Qikserve,637921,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,683485,65080,"Starbucks, Sas Al Nakhal",TLBT-Qikserve,651464,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661017,32767,"Starbucks, Shangri-La",TLBT-Qikserve,637940,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661043,53312,"Starbucks, Sharjah Coop Society",TLBT-Qikserve,637966,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691567,69000,"Starbucks, Sharjah Gate Tower",TLBT-Qikserve,656080,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661012,63293,"Starbucks, Sheikha Fatima Park",TLBT-Qikserve,637935,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,691570,66634,"Starbucks, Silicon Central",TLBT-Qikserve,656083,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661061,34317,"Starbucks, Souk Madinat Jumeirah",TLBT-Qikserve,637984,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,734404,81036,"Starbucks, Souq Sarab Community Mall",TLBT-Qikserve,680061,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666951,16528,"Starbucks, Spinney's Silicon Oasis",TLBT-Qikserve,641712,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661053,52493,"Starbucks, Springs Village",TLBT-Qikserve,637976,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,730798,82191,"Starbucks, Sweihat Sharjah Co-Op, Wasit Suburb",TLBT-Qikserve,677993,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661054,55641,"Starbucks, TDM Metro Link",TLBT-Qikserve,637977,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661037,32640,"Starbucks, Tawam Hospital",TLBT-Qikserve,637960,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,676698,65725,"Starbucks, The Courtyard Mall, Madinat Al Riyad",TLBT-Qikserve,647348,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,725768,83437,"Starbucks, The Fountain, Yas Island",TLBT-Qikserve,675135,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661069,54634,"Starbucks, The Palace Cafe",TLBT-Qikserve,637992,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,666952,54134,"Starbucks, The Villa Community",TLBT-Qikserve,641713,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,732574,80385,"Starbucks, Tilal Al Ghaf, Dubai Studio City",TLBT-Qikserve,679070,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660983,34213,"Starbucks, Tower One",TLBT-Qikserve,637906,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661034,56754,"Starbucks, Townsquare",TLBT-Qikserve,637957,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,722901,80925,"Starbucks, Townsquare Park",TLBT-Qikserve,673438,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660992,1897,"Starbucks, Twin Towers, Madinat Zayed",TLBT-Qikserve,637915,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660982,22126,"Starbucks, TwoFour 54",TLBT-Qikserve,637905,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,665622,22697,"Starbucks, Umm Al Quwain Drive Thru",TLBT-Qikserve,640801,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661018,34291,"Starbucks, Umm Suqeim",TLBT-Qikserve,637941,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,736743,77663,"Starbucks, Union Coop Motor City",TLBT-Qikserve,681376,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661002,31338,"Starbucks, Uptown Mirdiff",TLBT-Qikserve,637925,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,714542,79039,"Starbucks, Ventura Mall",TLBT-Qikserve,668372,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,704910,69967,"Starbucks, Victory Heights",TLBT-Qikserve,663068,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661031,34249,"Starbucks, Wafi Mall",TLBT-Qikserve,637954,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660974,24510,"Starbucks, Wahat Hili Mall",TLBT-Qikserve,637897,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,661015,63122,"Starbucks, Waitrose Motorcity",TLBT-Qikserve,637938,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660994,18837,"Starbucks, World Trade Centre - AD",TLBT-Qikserve,637917,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660999,56193,"Starbucks, Zawaya Walk",TLBT-Qikserve,637922,Starbucks,OWN_DELIVERY,,UAE
+TB_AE,660989,49508,"Starbucks, Zero 6",TLBT-Qikserve,637912,Starbucks,OWN_DELIVERY,,UAE

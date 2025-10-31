@@ -1,0 +1,5 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_BH,27196,2c7b2e94-9abb-4f75-8897-065486189cee,"Five Guys, Al Juffair",Tlbt-Lineten,14989,Five Guys,OWN_DELIVERY,,Bahrain
+TB_BH,26744,72495d08-945c-420c-8a7c-73831b6405d5,"Five Guys, Bahrain Bay The Avenues",Tlbt-Lineten,14989,Five Guys,OWN_DELIVERY,,Bahrain
+TB_BH,740165,948c1358-2fc4-4cb6-b203-f9898cdc33d4,"Five Guys, Diyar Al Muharraq ",Tlbt-Lineten,14989,Five Guys,OWN_DELIVERY,,Bahrain
+TB_BH,706933,4b702005-d654-4a52-8f56-595abbbf0e91,"Five Guys, Hamala",Tlbt-Lineten,14989,Five Guys,OWN_DELIVERY,,Bahrain

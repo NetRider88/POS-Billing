@@ -1,0 +1,4 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,704372,bcaf10eb-f034-4420-a68d-d68f0a1b19e6,"PF Chang, Avenues Mall",Wi-Q,662769,PF Chang's,OWN_DELIVERY,,Oman
+TB_OM,704563,9b6af108-5d0e-4a0b-8ed0-da2da9601a26,"Pinkberry, Avenues Mall",Wi-Q,662875,Pinkberry,OWN_DELIVERY,,Oman
+TB_OM,704564,c0eadd70-a708-4586-acc0-e92fc5f184eb,"Pinkberry, Muscat City Center",Wi-Q,662876,Pinkberry,OWN_DELIVERY,,Oman

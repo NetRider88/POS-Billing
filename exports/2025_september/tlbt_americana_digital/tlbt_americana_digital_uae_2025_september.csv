@@ -1,0 +1,391 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,625779,HRD_UAE_1586,"Hardee's,  Ajman Corniche (Rumailah2)",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,750956,HRD_UAE_8173,"Hardee's,  Al Shawamekh",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,771166,HRD_UAE_1054,"Hardee's, Abu Dhabi Mall, Tourist Club Area (Al Zahiya)",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,3285,HRD_UAE_180,"Hardee's, Abu Hail",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,3282,HRD_UAE_183,"Hardee's, Ajman GrandLube",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,761229,HRD_UAE_5,"Hardee's, Al Ain Mall, Al Kuwaitat",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,641175,HRD_UAE_2364,"Hardee's, Al Awir",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5671,HRD_UAE_4,"Hardee's, Al Barsha 3",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,749266,HRD_UAE_8174,"Hardee's, Al Foaa",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5681,HRD_UAE_605,"Hardee's, Al Gharayen",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5687,HRD_UAE_591,"Hardee's, Al Gurf",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,8387,HRD_UAE_181,"Hardee's, Al Hamra Village (Adnoc Bawabat)",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,3201,HRD_UAE_14,"Hardee's, Al Khalidiyah",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,714294,HRD_UAE_6985,"Hardee's, Al Khawaneej 2",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,8389,HRD_UAE_6,"Hardee's, Al Majaz 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,748628,HRD_UAE_8153,"Hardee's, Al Maqam",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,24801,HRD_UAE_1074,"Hardee's, Al Markaziyah",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5683,HRD_UAE_12,"Hardee's, Al Nahda",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,13283,HRD_UAE_760,"Hardee's, Al Quoz Industrial Area 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5674,HRD_UAE_23,"Hardee's, Al Rashidiya",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5675,HRD_UAE_24,"Hardee's, Al Rigga",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,703221,HRD_UAE_6085,"Hardee's, Al Salamah, Al Salamah - A",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,698312,HRD_UAE_5847,"Hardee's, Al Suyoh",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5673,HRD_UAE_27,"Hardee's, Al Zakher",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5667,HRD_UAE_3,"Hardee's, Baniyas",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,13284,HRD_UAE_696,"Hardee's, Bur Dubai",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,729476,HRD_UAE_1343,"Hardee's, Dalma Mall, ICAD",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,750399,HRD_UAE_8073,"Hardee's, Dibba",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,25896,HRD_UAE_861,"Hardee's, Dubai Motor City",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5663,HRD_UAE_200,"Hardee's, Fujairah",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,652821,HRD_UAE_3344,"Hardee's, International City",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5677,HRD_UAE_18,"Hardee's, Jumeirah 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5678,HRD_UAE_13,"Hardee's, Jumeirah 2",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5679,HRD_UAE_193,"Hardee's, Jumeirah Lakes Towers",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,7394,HRD_UAE_15,"Hardee's, Khalifa Bin Zayed Al Awwal Street",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5664,HRD_UAE_1444,"Hardee's, Khor Fakkan",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,670950,HRD_UAE_4584,"Hardee's, Khuzam",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,13285,HRD_UAE_420,"Hardee's, Knowledge Village",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5688,HRD_UAE_17,"Hardee's, Kubaisi",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5668,HRD_UAE_16,"Hardee's, Madinat Khalifa - A",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,33699,HRD_UAE_863,"Hardee's, Makani Zakher Al Ain, Neima",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,33698,HRD_UAE_1027,"Hardee's, Manar Mall RAK, Al Uraibi",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5684,HRD_UAE_192,"Hardee's, Maysaloon",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,48433,HRD_UAE_1356,"Hardee's, Mira Community",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5672,HRD_UAE_265,"Hardee's, Mirdiff",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5669,HRD_UAE_20,"Hardee's, Mussafah Industrial city",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,13286,HRD_UAE_737,"Hardee's, Salamat",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5685,HRD_UAE_25,"Hardee's, Samnan",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5665,HRD_UAE_184,"Hardee's, Shahama",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,13287,HRD_UAE_716,"Hardee's, Sheikh Zayed",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5670,HRD_UAE_26,"Hardee's, Tourist Club Area",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,3284,HRD_UAE_19,"Hardee's, ِAl Mushrif",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,30952,HRD_UAE_1010,"Hardee`s , Al Shamkha (Motor World)",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,30954,HRD_UAE_22,"Hardee`s , Al Twar 3 (Al Qusais)",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,30956,HRD_UAE_1201,"Hardee`s , Muweilah Commercial",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,671142,HRD_UAE_4544,"Hardee`s, ,Business Bay",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,671121,HRD_UAE_4604,"Hardee`s, Airport Road New, Al Wahdah",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,648423,HRD_UAE_2944,"Hardee`s, Ajman Mall",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,715770,HRD_UAE_6065,"Hardee`s, Al Ameerah",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,48432,HRD_UAE_1138,"Hardee`s, Al Barsha 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,774788,HRD_UAE_ 8856,"Hardee`s, Al Falah Adnoc,Al Falah City",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,30955,HRD_UAE_773,"Hardee`s, Al Hamriya",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,621063,HRD_UAE_1584,"Hardee`s, Al Humrah 2 - Umm Al Quwain",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,642215,HRD_UAE_2484,"Hardee`s, Al Jerf 2",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,47168,HRD_UAE_1320,"Hardee`s, Al Mizhar 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,723728,HRD_UAE_6925,"Hardee`s, Al Qarayen Enoc, Al Gharayen",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,655338,HRD_UAE_3484,"Hardee`s, Al Rahmaniya",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,47454,HRD_UAE_1353,"Hardee`s, Al Tallah 2,Al Yasmin",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,604361,HRD_UAE_1526,"Hardee`s, Al Warqa 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,608638,HRD_UAE_1140,"Hardee`s, Al khirayr,Mezyed",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,48450,HRD_UAE_1141,"Hardee`s, Dubai Festival City",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,602071,HRD_UAE_1357,"Hardee`s, Ibn Battuta Mall",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,612762,HRD_UAE_1746,"Hardee`s, Jebel Ali 1",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,644389,HRD_UAE_2745,"Hardee`s, Jebel Ali Freezone",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,30889,HRD_UAE_726,"Hardee`s, Madint Khalifa  B",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,642302,HRD_UAE_2385,"Hardee`s, Muwafjah",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,46423,HRD_UAE_1339,"Hardee`s, My City Centre Masdar, Masdar City",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,738934,HRD_UAE_8054,"Hardee`s, Silicon Oasis, Dubai Silicon Oasis",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,707729,HRD_UAE_6525,"Hardee`s, Skycourt - Dubai",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,5686,HRD_UAE_599,"Hardee’s, Sharjah Corniche Adnoc",Tlbt-Americana-Digital,1991,Hardee's,VENDOR_DELIVERY,,UAE
+TB_AE,690824,KFC_UAE_1219,KFC Test,Tlbt-Americana-Digital,655660,KFC Test,VENDOR_DELIVERY,,UAE
+TB_AE,625781,KFC_UAE_2024,"KFC,  Ajman Corniche (Rumailah 2)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,654421,KFC_UAE_3545,"KFC,  Al Yahar",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,655402,KFC_UAE_3444,"KFC,  Big Heart,Al Rahmania",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,702870,KFC_UAE_6246,"KFC, Adnoc Mirdif",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,671398,KFC_UAE_4564,"KFC, Airport Road New, Al Dafrah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8444,KFC_UAE_30,"KFC, Ajman",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8443,KFC_UAE_1271,"KFC, Ajman Corniche",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8448,KFC_UAE_1114,"KFC, Al Ain Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8441,KFC_UAE_88,"KFC, Al Araibi Area (RAK MALL)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,654010,KFC_UAE_3504,"KFC, Al Awir",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8408,KFC_UAE_48,"KFC, Al Bada'a",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8411,KFC_UAE_38,"KFC, Al Barsha 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,766353,KFC_UAE_8313,"KFC, Al Barsha Emarat, Al Barsha 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,731690,KFC_UAE_1133,"KFC, Al Barsha Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8412,KFC_UAE_40,"KFC, Al Barsha South",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8442,KFC_UAE_89,"KFC, Al Corniche Area",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,774779,KFC_UAE_ 8858,"KFC, Al Falah Adnoc, Al Falah City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,716802,KFC_UAE_6705,"KFC, Al Falah Central Mall, Al Falah City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8456,KFC_UAE_74,"KFC, Al Fayha",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8451,KFC_UAE_52,"KFC, Al Foaa",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,644559,KFC_UAE_2625,"KFC, Al Ghafat, Khalifa City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8457,KFC_UAE_76,"KFC, Al Gharayen",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8458,KFC_UAE_1384,"KFC, Al Ghuwair",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,760225,KFC_UAE_8553,"KFC, Al Hamra Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8405,KFC_UAE_58,"KFC, Al Hamriya",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,48426,KFC_UAE_1126,"KFC, Al Hili,Al Hili",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,712649,KFC_UAE_5826,"KFC, Al Iqabiyyah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,14245,KFC_UAE_53,"KFC, Al Ittihad (Fujairah)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,725438,KFC_UAE_7533,"KFC, Al Jada",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8415,KFC_UAE_28,"KFC, Al Jaddaf",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,664542,KFC_UAE_4005,"KFC, Al Jurf,Al Hamidiya 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,3169,KFC_UAE_978,"KFC, Al Karama (Spinneys)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8446,KFC_UAE_72,"KFC, Al Khabisi",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,732342,KFC_UAE_1071,"KFC, Al Khail Road, Al Quoz Industrial Area 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8395,KFC_UAE_69,"KFC, Al Khalidiyah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8418,KFC_UAE_36,"KFC, Al Khawaneej",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,717770,KFC_UAE_7085,"KFC, Al Khawaneej 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,613901,KFC_UAE_335,"KFC, Al Khirayr (Al Bawadi Mall)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,722665,KFC_UAE_34,"KFC, Al Mafraq",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8452,KFC_UAE_44,"KFC, Al Majaz 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8461,KFC_UAE_97,"KFC, Al Majaz 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8419,KFC_UAE_65,"KFC, Al Manara",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8420,KFC_UAE_68,"KFC, Al Mankhool",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8450,KFC_UAE_227,"KFC, Al Maqam",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,663429,KFC_UAE_3844,"KFC, Al Maqta Mall, Al Maqtaa",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,3288,KFC_UAE_41,"KFC, Al Mashall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,726765,KFC_UAE_7350,"KFC, Al Mazrah, Al Heliow 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8402,KFC_UAE_80,"KFC, Al Muroor",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8397,KFC_UAE_45,"KFC, Al Mushrif",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,751752,KFC_UAE_8333,"KFC, Al Nahda 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,758159,KFC_UAE_8213,"KFC, Al Nuamia",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,639787,KFC_UAE_2504,"KFC, Al Quoz 3",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40147,KFC_UAE_39,"KFC, Al Quoz Industrial Area 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,705400,KFC_UAE_6165,"KFC, Al Rahmaniya",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8407,KFC_UAE_90,"KFC, Al Rashidiya",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,604362,KFC_UAE_1484,"KFC, Al Reef",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,751442,KFC_UAE_8336,"KFC, Al Reem Mall, Reem Island",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8431,KFC_UAE_91,"KFC, Al Rigga",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,648419,KFC_UAE_2665,"KFC, Al Sajaa",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,704041,KFC_UAE_ 6345,"KFC, Al Salamah, Al Salamah - B",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40148,KFC_UAE_1067,"KFC, Al Sall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,702530,KFC_UAE_5625,"KFC, Al Sarab Mall, Bani Yas East",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,770143,KFC_UAE_8654,"KFC, Al Seef, Al Hamriya",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,720711,KFC_UAE_7354,"KFC, Al Seyouh",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8403,KFC_UAE_398,"KFC, Al Shamkha",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,750816,KFC_UAE_8335,"KFC, Al Shawamekh Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8455,KFC_UAE_229,"KFC, Al Sweihat",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8460,KFC_UAE_35,"KFC, Al Taawun",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40129,KFC_UAE_1216,"KFC, Al Tallah 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,645237,KFC_UAE_2626,"KFC, Al Tallah Emarat, Al Tallah 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,727308,KFC_UAE_1298,"KFC, Al Twar 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,604363,KFC_UAE_1524,"KFC, Al Warqa 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,661524,KFC_UAE_3805,"KFC, Al Wasl",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,687531,KFC_UAE_5246,"KFC, Al Watbha Mall, Al Wathba",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8447,KFC_UAE_99,"KFC, Al Zakher",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,701161,KFC_UAE_12803,"KFC, Arabian Ranches",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,732352,KFC_UAE_85,"KFC, Arouba, Rolla",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8398,KFC_UAE_37,"KFC, Baniyas",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,725744,KFC_UAE_7554,"KFC, Bay Square, Business Bay",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,14246,KFC_UAE_906,"KFC, Business bay",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,712650,KFC_UAE_1024,"KFC, Central Mall, Madinat Khalifa - A",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,739203,KFC_UAE_1104,"KFC, Century Mall, Hor Al Anz East",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,664126,KFC_UAE_3964,"KFC, Circle Mall,Jumeirah Village Circle - JVC",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,751446,KFC_UAE_1115,"KFC, City Center, Halefaath",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8410,KFC_UAE_46,"KFC, Corniche Deira",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8424,KFC_UAE_93,"KFC, DIFC",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,732340,KFC_UAE_50,"KFC, DXB 1 AD Road, Sheikh Zayed Road",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40120,KFC_UAE_478,"KFC, Dhaid",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,721491,KFC_UAE_7225,"KFC, Dibba Al Fujairah Al Ras ",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,50406,KFC_UAE_223,"KFC, Dibba,Dibba",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,3276,KFC_UAE_49,"KFC, Drive Thru, Al Nahda",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,709919,KFC_UAE_1307,"KFC, Dubai Creek Harbour, Ras Al Khor",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,769376,KFC_UAE_8775,"KFC, Dubai Festival Plaza New, Jebel Ali Village",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40128,KFC_UAE_1035,"KFC, Dubai Investment Park 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8423,KFC_UAE_79,"KFC, Dubai Motor City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,742228,KFC_UAE_4684,"KFC, Dubai Park Road, Dubai Techno Park",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8406,KFC_UAE_854,"KFC, Dubai Silicon Oasis",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,737102,KFC_UAE_7993,"KFC, Dubai South,Universal Exposition",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40121,KFC_UAE_613,"KFC, Emirates Club RAK",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,690525,KFC_UAE_5346,"KFC, Enoc Warsan, International City 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,668183,KFC_UAE_1804,"KFC, Festival Plaza",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,14240,KFC_UAE_624,"KFC, Fujairah City Centre (Fujairah Lulu)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,14242,KFC_UAE_54,"KFC, Fujairah Port (Century Fujairah)",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8422,KFC_UAE_230,"KFC, Grand Lube Al Qusais",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,732350,KFC_UAE_56,"KFC, Halwan, Halwan Suburb",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,653716,KFC_UAE_3424,"KFC, Hoshi",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8414,KFC_UAE_60,"KFC, Ibn Batutta Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,682129,KFC_UAE_5185,"KFC, Industrial 5",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8459,KFC_UAE_61,"KFC, Industrial Area 13",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8439,KFC_UAE_684,"KFC, International City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40127,KFC_UAE_1227,"KFC, JVC",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8425,KFC_UAE_64,"KFC, Jebel Ali 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8440,KFC_UAE_62,"KFC, Jebel Ali Freezone",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8449,KFC_UAE_33,"KFC, Jimmy Aamriya",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8437,KFC_UAE_63,"KFC, Jumeirah Beach Residence",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8429,KFC_UAE_201,"KFC, Jumeirah Lakes Towers",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,698586,KFC_UAE_5565,"KFC, Jumeirah Park Pavillion",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,14244,KFC_UAE_66,"KFC, Kalba",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,763653,KFC_UAE_ 931,"KFC, Kenz Mall, Al Hamidiya",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,649441,KFC_UAE_2605,"KFC, Khaledia Emarat, Al Khaledia Suburb",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8396,KFC_UAE_1097,"KFC, Khor Al Bateen",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,14239,KFC_UAE_224,"KFC, Khor Fakkan",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8428,KFC_UAE_73,"KFC, Knowledge Village",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,663428,KFC_UAE_3845,"KFC, Lulu, Al Shamkha Mall, Al Shamkha",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,767898,KFC_UAE_7267,"KFC, MBZ Market, Mohammed Bin Zayed City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,732346,KFC_UAE_233,"KFC, Madina Mall, Muhaisnah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,696549,KFC_UAE_5506,"KFC, Madinat Al Riyad",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8401,KFC_UAE_71,"KFC, Madinat Khalifa - A",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,48839,KFC_UAE_727,"KFC, Madinat Khalifa - B",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,608695,KFC_UAE_671,"KFC, Madinat Zayed",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40126,KFC_UAE_888,"KFC, Makani Zakher Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,719775,KFC_UAE_ 6485,"KFC, Makani, Madinat Khalifa - A",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8445,KFC_UAE_493,"KFC, Manama",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,751747,KFC_UAE_1262,"KFC, Manar Mall, Al Uraibi",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,712184,KFC_UAE_7025,"KFC, Marina Walk,Dubai Marina",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,751748,KFC_UAE_8356,"KFC, Meadows",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,709290,KFC_UAE_1093,"KFC, Mercato, Jumeirah 1",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,46420,KFC_UAE_1337,"KFC, Mira Community,Layan Community",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8421,KFC_UAE_77,"KFC, Mirdif",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40122,KFC_UAE_779,"KFC, Mohamed Bin Zayed",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8430,KFC_UAE_1212,"KFC, Muhaisnah 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,3275,KFC_UAE_82,"KFC, Mussafah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,732345,KFC_UAE_81,"KFC, Mussafah, Mussafah Industrial Area 3",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,47597,KFC_UAE_1349,"KFC, Muwaileh Commercial",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,682755,KFC_UAE_5025,"KFC, Muwailih Adnoc, Muwaileh Commercial",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,606006,KFC_UAE_1291,"KFC, My City Centre Masdar, Masdar City",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,696548,KFC_UAE_5745,"KFC, Nad Al Hammar",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8453,KFC_UAE_1327,"KFC, Oasis Mall Sharjah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,737103,KFC_UAE_7973,"KFC, Oud Metha",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,730524,KFC_UAE_1323,"KFC, Palm Jumeirah Mall",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40150,KFC_UAE_908,"KFC, Qusais 2",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,665919,KFC_UAE_1131,"KFC, Reef Mall, Al Muraqqabat",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,31838,KFC_UAE_1211,"KFC, Remraam",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,40157,KFC_UAE_234,"KFC, Ruwais",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,733862,KFC_UAE_7370,"KFC, Salah Al Din, Salahuddin Road",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8392,KFC_UAE_232,"KFC, Shahama",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,708043,KFC_UAE_6425,"KFC, Skycourt",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,733213,KFC_UAE_7493,"KFC, Soor Kalba",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,696405,KFC_UAE_5045,"KFC, Souq Extra, Mirbah",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,675297,KFC_UAE_4804,"KFC, Tasjeel RAK,Digdagga",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8438,KFC_UAE_55,"KFC, The Greens",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8400,KFC_UAE_95,"KFC, Tourist Club Area",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,16758,KFC_UAE_84,"KFC, Umm Al Quwain Al Humrah B",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8454,KFC_UAE_98,"KFC, Wasit Suburb",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,602495,KFC_UAE_42,"KFC, Zayed City Western Region",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,8434,KFC_UAE_87,"KFC,Qusais Eppco",Tlbt-Americana-Digital,1968,KFC,VENDOR_DELIVERY,,UAE
+TB_AE,666873,PHD_UAE_4204,Pizza Hut - Al Rahmania,Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,42086,PHD_UAE_717,"Pizza Hut,  Meadows",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8491,PHD_UAE_110,"Pizza Hut, Abella",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,738213,PHD_UAE_198,"Pizza Hut, Abu Dhabi Mall, Tourist Club Area (Al Zahiya)",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8483,PHD_UAE_111,"Pizza Hut, Airport Road",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8465,PHD_UAE_112,"Pizza Hut, Ajman",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,766352,PHD_UAE_1152,"Pizza Hut, Ajman City Centre, Al Jurf 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,3280,PHD_UAE_217,"Pizza Hut, Ajman Grandlube",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8516,PHD_UAE_121,"Pizza Hut, Al Baraha",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8502,PHD_UAE_116,"Pizza Hut, Al Barsha 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,664290,PHD_UAE_3986,"Pizza Hut, Al Barsha South",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,3281,PHD_UAE_117,"Pizza Hut, Al Bawadi Mall",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41617,PHD_UAE_734,"Pizza Hut, Al Dhahir",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,702451,PHD_UAE_6285,"Pizza Hut, Al Dhaid",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8517,PHD_UAE_133,"Pizza Hut, Al Fahidi Street",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,46887,PHD_UAE_1312,"Pizza Hut, Al Falah City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8480,PHD_UAE_124,"Pizza Hut, Al Foaa",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8518,PHD_UAE_127,"Pizza Hut, Al Furjan",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8495,PHD_UAE_147,"Pizza Hut, Al Gharayen",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,665920,PHD_UAE_1000,"Pizza Hut, Al Ghurair Centre, Al Rigga",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,16759,PHD_UAE_439,"Pizza Hut, Al Humrah - B",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,712868,PHD_UAE_5825,"Pizza Hut, Al Iqabiyyah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8519,PHD_UAE_699,"Pizza Hut, Al Jafiliya",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,634900,PHD_UAE_2265,"Pizza Hut, Al Jazeerah Al Hamra",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8505,PHD_UAE_132,"Pizza Hut, Al Karama",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8476,PHD_UAE_137,"Pizza Hut, Al Khabisi",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,664816,PHD_UAE_4024,"Pizza Hut, Al Khail Gate,Al Quoz Industrial Area 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,625627,PHD_UAE_1784,"Pizza Hut, Al Khan",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,717772,PHD_UAE_7226,"Pizza Hut, Al Khawaneej 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41619,PHD_UAE_157,"Pizza Hut, Al Majaz (Al Wahda)",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,765661,PHD_UAE_6566,"Pizza Hut, Al Majaz Waterfront, Al Majaz 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,732812,PHD_UAE_1150,"Pizza Hut, Al Manar Mall, Dafan Al Nakheel",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8479,PHD_UAE_141,"Pizza Hut, Al Maqam",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,663442,PHD_UAE_3826,"Pizza Hut, Al Maqtaa",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,751445,PHD_UAE_7894,"Pizza Hut, Al Marayah Island",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41626,PHD_UAE_136,"Pizza Hut, Al Markaziyah West (Corniche Road)",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,720710,PHD_UAE_7352,"Pizza Hut, Al Mizhar, Al Mizhar 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,766351,PHD_UAE_8653,"Pizza Hut, Al Murooj Complex, DIFC",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8485,PHD_UAE_143,"Pizza Hut, Al Muroor",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41611,PHD_UAE_793,"Pizza Hut, Al Mushrif",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,776390,PHD_UAE_1147,"Pizza Hut, Al Mushrif Mall, Al Mushrif",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41615,PHD_UAE_465,"Pizza Hut, Al Mutaredh",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,665216,PHD_UAE_3724,"Pizza Hut, Al Nukhailat",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8523,PHD_UAE_145,"Pizza Hut, Al Quoz 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41618,PHD_UAE_718,"Pizza Hut, Al Quoz 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,727945,PHD_UAE_148,"Pizza Hut, Al Qusais, Al Twar 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,750434,PHD_UAE_7270,"Pizza Hut, Al Raha, Al Bandar (Al Raha)",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8504,PHD_UAE_151,"Pizza Hut, Al Rashidiya",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41607,PHD_UAE_1267,"Pizza Hut, Al Rashidiya 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,668185,PHD_UAE_3764,"Pizza Hut, Al Reef",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,32281,PHD_UAE_213,"Pizza Hut, Al Ruwais (Western Region)",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,696215,PHD_UAE_5485,"Pizza Hut, Al Salamah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41631,PHD_UAE_1048,"Pizza Hut, Al Sall, Al Yasmin",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41613,PHD_UAE_123,"Pizza Hut, Al Satwa",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,710252,PHD_UAE_6785,"Pizza Hut, Al Seyouh",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8484,PHD_UAE_415,"Pizza Hut, Al Shamkha",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,663421,PHD_UAE_3825,"Pizza Hut, Al Shamkha Mall, Al Shamkha",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8496,PHD_UAE_155,"Pizza Hut, Al Taawun",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8521,PHD_UAE_212,"Pizza Hut, Al Twar 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,739204,PHD_UAE_202,"Pizza Hut, Al Wahda Mall, Al Wahdah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,703823,PHD_UAE_6326,"Pizza Hut, Al Warqa City Mall",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41623,PHD_UAE_1246,"Pizza Hut, Al Warqaa",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,687122,PHD_UAE_5245,"Pizza Hut, Al Wathba Mall, Al Wathba",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,653989,PHD_UAE_3564,"Pizza Hut, Al Yahar",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,720713,PHD_UAE_1241,"Pizza Hut, Arabian Center,Al Mizhar 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8507,PHD_UAE_113,"Pizza Hut, Arabian Ranches",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8486,PHD_UAE_115,"Pizza Hut, Baniyas",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,732520,PHD_UAE_1220,"Pizza Hut, Barsha Mall, Al Barsha 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41614,PHD_UAE_458,"Pizza Hut, Bawabat Al Sharq",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8503,PHD_UAE_1525,"Pizza Hut, Box Park",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41622,PHD_UAE_981,"Pizza Hut, Business Bay",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,732521,PHD_UAE_206,"Pizza Hut, Century Mall, Hor Al Anz East",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,664544,PHD_UAE_3985,"Pizza Hut, Circle Mall,Jumeirah Village Circle - JVC",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,768374,PHD_UAE_758,"Pizza Hut, Dalma Mall,Mussafah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,3279,PHD_UAE_210,"Pizza Hut, Deerfield",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,650930,PHD_UAE_3265,"Pizza Hut, Dibba Al Fujairah, Dibba",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8498,PHD_UAE_122,"Pizza Hut, DriveThru",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,655340,PHD_UAE_1260,"Pizza Hut, Dubai Creek Harbor, Ras Al Khor",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,772798,PHD_UAE_8753,"Pizza Hut, Dubai Festival Plaza, Jebel Ali Village",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8514,PHD_UAE_235,"Pizza Hut, Dubai International City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8501,PHD_UAE_211,"Pizza Hut, Dubai Silicon Oasis",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,737104,PHD_UAE_7714,"Pizza Hut, Dubai South",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,760702,PHD_UAE_8513,"Pizza Hut, Emirates City, Al Ameera Village",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,704833,PHD_UAE_1315,"Pizza Hut, Festival Plaza, Jebel Ali 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,29055,PHD_UAE_125,"Pizza Hut, Fujairah Port ( EPPCO )",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41629,PHD_UAE_1193,"Pizza Hut, Green Community",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,732523,PHD_UAE_128,"Pizza Hut, Hamdan, Al Markaziyah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,42085,PHD_UAE_129,"Pizza Hut, Hor Al Anz",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41630,PHD_UAE_977,"Pizza Hut, Ibn Battuta Mall",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8513,PHD_UAE_130,"Pizza Hut, Jebel Ali Freezone",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41610,PHD_UAE_764,"Pizza Hut, Jumeirah Beach Residence",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8510,PHD_UAE_203,"Pizza Hut, Jumeirah Lakes Towers",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,32280,PHD_UAE_215,"Pizza Hut, Kalba",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,663528,PHD_UAE_3944,"Pizza Hut, Kenz Mall",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8478,PHD_UAE_134,"Pizza Hut, Khalifa Street",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,29034,PHD_UAE_1425,"Pizza Hut, Khorfakan, Sharjah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,724302,PHD_UAE_138,"Pizza Hut, Knowledge Park, Al Sufouh 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,675964,PHD_UAE_4904,"Pizza Hut, Living Legends",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,767892,PHD_UAE_7268,"Pizza Hut, MBZ Market,Mohammed Bin Zayed City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8490,PHD_UAE_135,"Pizza Hut, Madinat Khalifa - A",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41624,PHD_UAE_118,"Pizza Hut, Madinat Zayed Western Region",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8464,PHD_UAE_494,"Pizza Hut, Manama",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,654249,PHD_UAE_3525,"Pizza Hut, Marina Mall, BreakWater",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,650955,PHD_UAE_3224,"Pizza Hut, Marina,Dubai Marina",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,3210,PHD_UAE_140,"Pizza Hut, Maysaloon",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,664128,PHD_UAE_199,"Pizza Hut, Mercato Mall,Jumeirah 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,664289,PHD_UAE_3984,"Pizza Hut, Midtown",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,44179,PHD_UAE_1308,"Pizza Hut, Mira Community",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41627,PHD_UAE_839,"Pizza Hut, Motor City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8522,PHD_UAE_356,"Pizza Hut, Muhaisnah 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8489,PHD_UAE_144,"Pizza Hut, Mussafah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41625,PHD_UAE_1062,"Pizza Hut, Mussafah Shabiya",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,704096,PHD_UAE_6265,"Pizza Hut, Muwafja",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41628,PHD_UAE_757,"Pizza Hut, Muwailah Commercial",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,46888,PHD_UAE_1288,"Pizza Hut, My City Centre Masdar, Masdar City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,696673,PHD_UAE_5585,"Pizza Hut, Nad Al Hamar",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,653951,PHD_UAE_3364,"Pizza Hut, Nad Al Sheba 1",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,732522,PHD_UAE_1284,"Pizza Hut, Nahda, Al Nahda 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41609,PHD_UAE_877,"Pizza Hut, Neima",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,736035,PHD_UAE_7954,"Pizza Hut, New Oud Metha",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,29036,PHD_UAE_126,"Pizza Hut, Old Fujairah City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8494,PHD_UAE_146,"Pizza Hut, Orouba",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8508,PHD_UAE_216,"Pizza Hut, Oud Metha",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,3283,PHD_UAE_149,"Pizza Hut, Ras Al Selaab Area",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,46362,PHD_UAE_1311,"Pizza Hut, Reem Island",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,46886,PHD_UAE_1303,"Pizza Hut, Remraam",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,608639,PHD_UAE_1644,"Pizza Hut, Rumailah,",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,713447,PHD_UAE_6205,"Pizza Hut, Salah Al Din,Salahuddin Road",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,702450,PHD_UAE_ 5605,"Pizza Hut, Sarab Mall, Bani Yas East",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,41616,PHD_UAE_725,"Pizza Hut, Shakhbout City",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,704017,PHD_UAE_6325,"Pizza Hut, Skycourt",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,47169,PHD_UAE_719,"Pizza Hut, Souk Extra Silicon",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,698579,PHD_UAE_5848,"Pizza Hut, Souq Extra,Mirbah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,44215,PHD_UAE_1304,"Pizza Hut, Tallah 2",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,696385,PHD_UAE_5507,"Pizza Hut, The Courtyard Mall, Madinat Riyad",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,47455,PHD_UAE_1319,"Pizza Hut, The Greens",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,724797,PHD_UAE_1338,"Pizza Hut, The Palm Jumeirah",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8488,PHD_UAE_156,"Pizza Hut, Tourist Club Area",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8512,PHD_UAE_935,"Pizza Hut, Umm Suqeim",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8506,PHD_UAE_142,"Pizza Hut, Uptown Mirdif",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,700392,PHD_UAE_5606,"Pizza Hut, West Yas Plaza, Yas Island",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8493,PHD_UAE_214,"Pizza Hut, Zahra Mall",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE
+TB_AE,8477,PHD_UAE_159,"Pizza Hut, Zakhar",Tlbt-Americana-Digital,2000,Pizza Hut,VENDOR_DELIVERY,,UAE

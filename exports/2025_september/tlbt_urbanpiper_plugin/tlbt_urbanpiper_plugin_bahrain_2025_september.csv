@@ -1,0 +1,24 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_BH,760331,tgo-135693,Allo Beirut,TLBT UrbanPiper Plugin,695190,Allo Beirut,OWN_DELIVERY,,Bahrain
+TB_BH,742222,tgo-120298,"Bikanervala, Al Hoora",TLBT UrbanPiper Plugin,684642,Bikanervala,OWN_DELIVERY,,Bahrain
+TB_BH,736639,tgo-146896,"Chikex, Busaiteen",TLBT UrbanPiper Plugin,681319,Chikex,OWN_DELIVERY,,Bahrain
+TB_BH,761350,tgo-146898,"Chikex, Hamala",TLBT UrbanPiper Plugin,681319,Chikex,OWN_DELIVERY,,Bahrain
+TB_BH,736846,tgo-146899,"Chikex, Isa town",TLBT UrbanPiper Plugin,681319,Chikex,OWN_DELIVERY,,Bahrain
+TB_BH,736845,tgo-146897,"Chikex, Qudaibiya",TLBT UrbanPiper Plugin,681319,Chikex,OWN_DELIVERY,,Bahrain
+TB_BH,699956,,"Japanese Box, Al Hoora",TLBT UrbanPiper Plugin,660632,Japanese Box,OWN_DELIVERY,,Bahrain
+TB_BH,699960,e882c2fe-682d-479e-8eb7-be926dec86ef,"Japanese Box, Barbar",TLBT UrbanPiper Plugin,660632,Japanese Box,OWN_DELIVERY,,Bahrain
+TB_BH,702324,,"Japanese Box, Wadi Alsail",TLBT UrbanPiper Plugin,660632,Japanese Box,OWN_DELIVERY,,Bahrain
+TB_BH,706054,,"Korean Kitchen, Al Hoora",TLBT UrbanPiper Plugin,663668,Korean Kitchen,OWN_DELIVERY,,Bahrain
+TB_BH,642981,,"Makani Box Restaurant, Wadi Alsail",TLBT UrbanPiper Plugin,627203,Makani Box Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,666159,,"Makani box, Galaly",TLBT UrbanPiper Plugin,627203,Makani Box Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,650056,,"Makani box, Hoora",TLBT UrbanPiper Plugin,627203,Makani Box Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,41449,tgo-47135,"Manaeesh Jubran, Manama Center",TLBT UrbanPiper Plugin,23333,Manaeesh Jubran,OWN_DELIVERY,,Bahrain
+TB_BH,668951,e882c2fe-682d-479e-8eb7-be926dec86ef,"Mumbai Express, Barbar",TLBT UrbanPiper Plugin,641073,Mumbai Express,OWN_DELIVERY,,Bahrain
+TB_BH,666048,,"Mumbai Express, Hoora",TLBT UrbanPiper Plugin,641073,Mumbai Express,OWN_DELIVERY,,Bahrain
+TB_BH,667557,,"Mumbai Express, Wadi Alsail",TLBT UrbanPiper Plugin,641073,Mumbai Express,OWN_DELIVERY,,Bahrain
+TB_BH,666045,,"Subs And More Restaurant, Hoora",TLBT UrbanPiper Plugin,641070,Subs And More Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,668948,,"Subs And More Restaurant, Saar Mall Food Truck",TLBT UrbanPiper Plugin,641070,Subs And More Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,696232,,"Subs And More Restaurant, Wadi Alsail",TLBT UrbanPiper Plugin,641070,Subs And More Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,749568,tgo-130159,"Sushi Library, AlJuffair",TLBT UrbanPiper Plugin,688734,Sushi Library,OWN_DELIVERY,,Bahrain
+TB_BH,760314,tgo-135694,"Sushi Library, Avenues mall,Bahrain Bay",TLBT UrbanPiper Plugin,688734,Sushi Library,OWN_DELIVERY,,Bahrain
+TB_BH,749139,tgo-130158,"Sushi Library, Diyar Al Muharraq",TLBT UrbanPiper Plugin,688734,Sushi Library,OWN_DELIVERY,,Bahrain

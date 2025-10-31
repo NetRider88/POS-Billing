@@ -1,0 +1,179 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,736259,40083,"Al Balad Butchery, Al Quoz 1",TLBT LimeTray,681101,Al Balad Butchery,OWN_DELIVERY,,UAE
+TB_AE,736264,40191,"Al Balad Butchery, Downtown",TLBT LimeTray,681101,Al Balad Butchery,OWN_DELIVERY,,UAE
+TB_AE,738099,40331,"Anarkali Street Food, Al Mwaihat 1",TLBT LimeTray,682150,Anarkali Street Food,OWN_DELIVERY,,UAE
+TB_AE,688434,38714,"Authentic Ceylon, Dubai International City",TLBT LimeTray,654411,Authentic Ceylon,OWN_DELIVERY,,UAE
+TB_AE,688433,38193,"Authentic Ceylon, Dubai Motor City",TLBT LimeTray,654411,Authentic Ceylon,OWN_DELIVERY,,UAE
+TB_AE,739526,38372,"BURRO BLANCO RESTAURANT, Business Bay",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,739863,38489,"BURRO BLANCO RESTAURANT, Dubai Motor City",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,739525,35367,"BURRO BLANCO RESTAURANT, Masdar City",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,739416,37686,"BURRO BLANCO, Saadiyat Island (South)",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,35459,35135,"Bab Al Mansour, Business Bay",TLBT LimeTray,20092,Bab Al Mansour,OWN_DELIVERY,,UAE
+TB_AE,666269,38143,Beresta Business Bay,TLBT LimeTray,641217,Beresta - Biryanis and Indian Cuisine,OWN_DELIVERY,,UAE
+TB_AE,775348,40577,"Burro Blanco Restaurant, Dubai Silicon Oasis",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,21206,32885,"Burro Blanco, Al Khalidiyah",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,740100,40302,"Burro Blanco, Jumeirah Lakes Towers - JLT",TLBT LimeTray,10809,Burro Blanco,OWN_DELIVERY,,UAE
+TB_AE,710834,38802,"Crumb & Co, Motor City",TLBT LimeTray,666286,Crumb & Co,OWN_DELIVERY,,UAE
+TB_AE,727793,,"Debonairs Pizza, Al Qasba",TLBT LimeTray,676253,Debonairs Pizza,OWN_DELIVERY,,UAE
+TB_AE,22150,36345,Domino's Pizza - Al Mankhool,TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,663634,38042,Domino's Pizza - Al Yahar,TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,663251,38040,Domino's Pizza - Bedda Bn Ammar,TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,685790,38794,Domino's Pizza - Jumeirah Village Circle - JVC,TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,663250,38041,Domino's Pizza - Zakher,TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,754440,40378,"Domino's Pizza, Adnoc Yas North 688, Yas Island",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,669736,36797,"Domino's Pizza, Airport Road, Al Karamah",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,41878,36378,"Domino's Pizza, Ajman",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,723599,40114,"Domino's Pizza, Ajman City Center",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,21662,36351,"Domino's Pizza, Al Barsha",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,668152,38210,"Domino's Pizza, Al Falah City",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,16430,36346,"Domino's Pizza, Al Majaz 3",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,16431,36342,"Domino's Pizza, Al Mizhar 1",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,16432,36350,"Domino's Pizza, Al Muraqqabat",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,16433,36353,"Domino's Pizza, Al Qusais Industrial Area 1",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,750684,40325,"Domino's Pizza, Al Samha North, Al Samha",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,750683,40324,"Domino's Pizza, Al Samha South, Al Samha 2",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,685791,38793,"Domino's Pizza, Al Seyouh",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,666643,38149,"Domino's Pizza, Al Shahama",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,663525,38043,"Domino's Pizza, Al Shamka",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,669732,36798,"Domino's Pizza, CI Tower, Al Khalidiyah",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,669734,36385,"Domino's Pizza, Central Mall, Madinat Khalifa - A ",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,663424,38037,"Domino's Pizza, DIP, Dubai Investments Park 1",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,16434,36344,"Domino's Pizza, Discovery Gardens",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,16435,36248,"Domino's Pizza, Dubai Healthcare City",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,20136,36343,"Domino's Pizza, Dubai Marina",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,759612,40440,"Domino's Pizza, Dubai South",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,669737,36377,"Domino's Pizza, Electra",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,41893,36381,"Domino's Pizza, Hamdan, Al Dafrah",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,602172,36376,"Domino's Pizza, Ittihad Road, Al Nahda",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,663269,38046,"Domino's Pizza, Madinat Al Riyad",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,669733,36799,"Domino's Pizza, Mohammed Bin Zayed",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,669735,36380,"Domino's Pizza, Muroor Road, Al Muntazah",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,729544,40174,"Domino's Pizza, Production City, IMPZ",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,740097,40286,"Domino's Pizza, Qana Abu Dhabi, Al Maqta",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,671414,38263,"Domino's Pizza, Town Square, Mira Community",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,24175,36352,"Domino's pizza, Al Nahda 2",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,702703,39344,"Domino`s Pizza, ADNOC The Villa",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,653725,37678,"Domino`s Pizza, Al Barsha South",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,689620,39006,"Domino`s Pizza, Al Dhait North",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,712416,39930,"Domino`s Pizza, Al Garhoud",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,689619,39005,"Domino`s Pizza, Al Hamra Village",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,689622,39007,"Domino`s Pizza, Al Humrah - A",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,42905,36355,"Domino`s Pizza, Al Khalidiya",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,689624,38841,"Domino`s Pizza, Al Quoz 1",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,654107,37724,"Domino`s Pizza, Al Rahmania",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,776378,40582,"Domino`s Pizza, Al Rifah",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,703542,39343,"Domino`s Pizza, Al Taif Mall, Al Heel",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,652948,37642,"Domino`s Pizza, Al Zora",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,774444,40571,"Domino`s Pizza, Arjan",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,696507,39235,"Domino`s Pizza, Avenues mall,Nad Al Sheba 2",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,45709,38044,"Domino`s Pizza, Bani Yas East",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,678344,38456,"Domino`s Pizza, Bawadi Mall, Mezyed",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,653775,37710,"Domino`s Pizza, Business Bay",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,31211,36239,"Domino`s Pizza, Dubai Silicon Oasis",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,709759,39900,"Domino`s Pizza, Gold Souq, Deira",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,36493,36386,"Domino`s Pizza, Greens,The Greens",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,696506,39236,"Domino`s Pizza, Hartland, Nad Al Sheba 1",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,653752,37709,"Domino`s Pizza, Hor Al Anz East",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,611432,36383,"Domino`s Pizza, Matajer",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,770666,40503,"Domino`s Pizza, Meydan, Meydan South",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,757694,40431,"Domino`s Pizza, Midtown Central Mall - Majan",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,689623,38840,"Domino`s Pizza, Mirdif",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,33763,36382,"Domino`s Pizza, Muwaileh Commercial",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,31278,36387,"Domino`s Pizza, Remraam",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,762929,40441,"Domino`s Pizza, Rigga Al Buteen",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,672277,38287,"Domino`s Pizza, Shakbout City",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,666024,38139,"Domino`s Pizza, Town Center",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,41955,36384,"Dominos Pizza, Al Qasimia",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,27512,36347,"Dominos Pizza, Al Taawun",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,27312,36349,"Dominos Pizza, Dubai Media City",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,41870,36379,"Dominos Pizza, International City",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,27511,36354,"Dominos Pizza, Motor City,Dubai Motor City",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,22320,36348,"Domino’s Pizza , Jumeirah",TLBT LimeTray,8516,Domino's Pizza,OWN_DELIVERY,,UAE
+TB_AE,680210,34905,FiLLi Cafe - Al Rumailah,TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,694616,37053,"FiLLi Cafe, Academic City",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,680209,34894,"FiLLi Cafe, Airport Road, Al Nahyan",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,680206,34908,"FiLLi Cafe, Al Barsha",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,703864,39653,"FiLLi Cafe, Al Heerah Suburb",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,23492,34909,"FiLLi Cafe, Al Hudaiba",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603686,34906,"FiLLi Cafe, Al Karama",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,625023,36714,"FiLLi Cafe, Al Majaz 2",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603684,34900,"FiLLi Cafe, Al Mamzar",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603678,34954,"FiLLi Cafe, Al Mankhool",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,636456,37055,"FiLLi Cafe, Al Mankhool",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,680207,34901,"FiLLi Cafe, Al Nahda",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,698452,39310,"FiLLi Cafe, Al Qasba",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603680,34899,"FiLLi Cafe, Al Qusais 1",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603694,37158,"FiLLi Cafe, Al Warqa",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,757853,40429,"FiLLi Cafe, Auh Bound Last exit,Sheikh Zayed Road",TLBT LimeTray,20678,Filli Cafe,OWN_DELIVERY,,UAE
+TB_AE,685805,34904,"FiLLi Cafe, Business Bay",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,757734,40433,"FiLLi Cafe, City Walk,Al Wasl",TLBT LimeTray,20678,Filli Cafe,OWN_DELIVERY,,UAE
+TB_AE,710199,39089,"FiLLi Cafe, Danube Sports World,Al Quoz 1",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,668385,37847,"FiLLi Cafe, Deira city centre",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,639327,34953,"FiLLi Cafe, Dubai Airport Freezone",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,751877,40376,"FiLLi Cafe, Dubai Investments Park",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,668520,37846,"FiLLi Cafe, Dubai Media City- Enoc",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,753626,40375,"FiLLi Cafe, Dubai Motor City",TLBT LimeTray,20678,Filli Cafe,OWN_DELIVERY,,UAE
+TB_AE,24727,34907,"FiLLi Cafe, Dubai Silicon Oasis",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,624893,36371,"FiLLi Cafe, Dubai Sports City",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,23493,34903,"FiLLi Cafe, IMPZ",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,672055,38178,"FiLLi Cafe, Jumeirah Lakes Towers - JLT",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,703865,39654,"FiLLi Cafe, Khor Fakkan",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,23494,34897,"FiLLi Cafe, Nadd Al Hamar",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,736863,40259,"FiLLi Cafe, University of Sharjah",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,763889,40487,"FiLLi Cafe, Zahia City Centre, Muwaileh Commercial",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603679,34898,"Filli Cafe, Al Nahda 1",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,603695,34895,"Filli Cafe, Al Sufouh 2",TLBT LimeTray,12422,FiLLi Cafe,OWN_DELIVERY,,UAE
+TB_AE,642692,37175,"Filli Select, Al Zahia",TLBT LimeTray,21109,Filli Select,OWN_DELIVERY,,UAE
+TB_AE,689317,38990,"Filli Select, City Walk",TLBT LimeTray,21109,Filli Select,OWN_DELIVERY,,UAE
+TB_AE,13598,25463,Forni Pizza,TLBT LimeTray,6961,Forni Pizza,VENDOR_DELIVERY,,UAE
+TB_AE,614450,36125,"Go Thai, Al Nahda 1",TLBT LimeTray,608238,Go Thai,OWN_DELIVERY,,UAE
+TB_AE,616650,36116,"Go Thai, Dubai Healthcare City",TLBT LimeTray,608238,Go Thai,OWN_DELIVERY,,UAE
+TB_AE,642180,37183,"Go Thai, Dubai Silicon Oasis",TLBT LimeTray,608238,Go Thai,OWN_DELIVERY,,UAE
+TB_AE,602816,39993,"Grocery By Vida, Al Barsha South",TLBT LimeTray,601322,Grocery By Vida,OWN_DELIVERY,,UAE
+TB_AE,765667,36231,"Gup Shup, Dubai Silicon Oasis",TLBT LimeTray,698690,Gup Shup,OWN_DELIVERY,,UAE
+TB_AE,766055,40493,"Gup Shup, Jumeirah Lakes Towers - JLT",TLBT LimeTray,698690,Gup Shup,OWN_DELIVERY,,UAE
+TB_AE,766206,40494,"Gup Shup, Mega Mall, Bu Danig",TLBT LimeTray,698690,Gup Shup,OWN_DELIVERY,,UAE
+TB_AE,652562,39366,"Healthy Eats, Al Nuaimia 1",TLBT LimeTray,632655,Healthy Eats,OWN_DELIVERY,,UAE
+TB_AE,602831,39996,"Healthy Grocer By Vida,Al Barsha South",TLBT LimeTray,601328,Healthy Grocer By Vida,OWN_DELIVERY,,UAE
+TB_AE,3034,27367,"Indiana Delights, Jumeirah Lakes Towers",TLBT LimeTray,1895,Indiana Delights,OWN_DELIVERY,,UAE
+TB_AE,40563,27361,"Indiana Delights, Sheikh Zayed Road",TLBT LimeTray,1895,Indiana Delights,OWN_DELIVERY,,UAE
+TB_AE,716273,40014,"Khau Galli, Abu Shagara",TLBT LimeTray,17927,Khau Galli,OWN_DELIVERY,,UAE
+TB_AE,633846,36890,"Khau Galli, Al Barsha 1",TLBT LimeTray,17927,Khau Galli,OWN_DELIVERY,,UAE
+TB_AE,695851,39228,"Khau Galli, Dubai Silicon Oasis",TLBT LimeTray,17927,Khau Galli,OWN_DELIVERY,,UAE
+TB_AE,633745,35449,"Khau Galli, Ibn Batutta Mall",TLBT LimeTray,17927,Khau Galli,OWN_DELIVERY,,UAE
+TB_AE,31561,34006,"Khau Galli, Jumeirah Lakes Towers - JLT",TLBT LimeTray,17927,Khau Galli,OWN_DELIVERY,,UAE
+TB_AE,715778,40461,"Konkans, Al Hosn",TLBT LimeTray,669095,Konkans,OWN_DELIVERY,,UAE
+TB_AE,680286,39275,"Lucknowee, Al Karama",TLBT LimeTray,649507,Lucknowee,OWN_DELIVERY,,UAE
+TB_AE,756287,40424,"Mughal Darbar Restaurant, Al Khalidiyah",TLBT LimeTray,692754,Mughal Darbar Restaurant,OWN_DELIVERY,,UAE
+TB_AE,2995,33220,"Najmat Lahore Restaurant, Al Mareija",TLBT LimeTray,1877,Najmat Lahore,OWN_DELIVERY,,UAE
+TB_AE,41508,32905,"Nawab, Dubai Investments Park 1",TLBT LimeTray,23365,Nawab,OWN_DELIVERY,,UAE
+TB_AE,744555,37619,"Nawab, Jebel Ali",TLBT LimeTray,23365,Nawab,OWN_DELIVERY,,UAE
+TB_AE,726177,40151,"Nawab, Jumeirah, Umm Suqeim 3",TLBT LimeTray,23365,Nawab,OWN_DELIVERY,,UAE
+TB_AE,718803,40047,"Nizamat Hyderabad Restaurant, Muwaileh Commercial",TLBT LimeTray,670950,Nizamat Hyderabad Restaurant,OWN_DELIVERY,,UAE
+TB_AE,602818,39997,"Organic Grocer By QualityFood, Al Qouz ",TLBT LimeTray,601324,Organic Grocer By QualityFood,OWN_DELIVERY,,UAE
+TB_AE,688472,36910,"Pinoy Avenue Restaurant, Mussafah",TLBT LimeTray,654438,Pinoy Avenue Restaurant,OWN_DELIVERY,,UAE
+TB_AE,699056,39334,"Punjabi Dhaba, Al Nahda 1",TLBT LimeTray,19055,Punjabi Dhaba,OWN_DELIVERY,,UAE
+TB_AE,712426,37733,"Punjabi Dhaba, Business Bay",TLBT LimeTray,667114,Punjabi Dhaba,OWN_DELIVERY,,UAE
+TB_AE,33475,36114,"Punjabi Dhaba, Oud Metha",TLBT LimeTray,19055,Punjabi Dhaba,OWN_DELIVERY,,UAE
+TB_AE,713732,39334,"Pure Punjabi, Al Nahda 1",TLBT LimeTray,19056,Pure Punjabi,OWN_DELIVERY,,UAE
+TB_AE,658153,37733,"Pure Punjabi, Business Bay",TLBT LimeTray,19056,Pure Punjabi,OWN_DELIVERY,,UAE
+TB_AE,675975,39263,"Pure Punjabi, Dubai Silicon Oasis",TLBT LimeTray,19056,Pure Punjabi,OWN_DELIVERY,,UAE
+TB_AE,41445,39994,"Quality Food, Al Qouz",TLBT LimeTray,23329,QualityFood,OWN_DELIVERY,,UAE
+TB_AE,652506,36450,"Romanella Pizza Restaurant, Al Mina",TLBT LimeTray,632610,Romanella Pizza Restaurant,OWN_DELIVERY,,UAE
+TB_AE,26312,32285,"Shanghai Kitchen, Al satwa",TLBT LimeTray,14657,Shanghai Kitchen,OWN_DELIVERY,,UAE
+TB_AE,723796,38233,"Shiok, Dubai Motor City",TLBT LimeTray,673977,Shiok,OWN_DELIVERY,,UAE
+TB_AE,46436,33963,"Sofreh Kitchen & Grill,Jumeirah Lakes Towers - JLT",TLBT LimeTray,26054,Sofreh Kitchen & Grill,OWN_DELIVERY,,UAE
+TB_AE,736050,38218,"Streetery Food Hall, Motor City, Dubai Motor City",TLBT LimeTray,680965,Streetery Food Hall,OWN_DELIVERY,,UAE
+TB_AE,727879,40400,"Taste of Rasoi, Al Quoz Industrial Area 4",TLBT LimeTray,676305,Taste of Rasoi,OWN_DELIVERY,,UAE
+TB_AE,38988,38197,"The Meating Room , Neighborhood food hall , Dubai Motor City ",TLBT LimeTray,22003,The Meating Room,OWN_DELIVERY,,UAE
+TB_AE,603631,35802,"Tim Hortons Home Favorites, Ajman City Center",TLBT LimeTray,601169,Tim Hortons Home Favorites,OWN_DELIVERY,,UAE
+TB_AE,603658,35761,"Tim Hortons Home Favorites, Al Jimi",TLBT LimeTray,601169,Tim Hortons Home Favorites,OWN_DELIVERY,,UAE
+TB_AE,603641,35854,"Tim Hortons Home Favorites, Al Uraibi",TLBT LimeTray,601169,Tim Hortons Home Favorites,OWN_DELIVERY,,UAE
+TB_AE,603632,35805,"Tim Hortons Home Favorites, International City",TLBT LimeTray,601169,Tim Hortons Home Favorites,OWN_DELIVERY,,UAE
+TB_AE,603669,35848,"Tim Hortons Home Favorites, Tourist Club,Tourist Club Area (Al Zahiya)",TLBT LimeTray,601169,Tim Hortons Home Favorites,OWN_DELIVERY,,UAE
+TB_AE,31273,35325,"UNIQUE KITCHEN, International City",TLBT LimeTray,17761,UNIQUE KITCHEN,VENDOR_DELIVERY,,UAE
+TB_AE,602817,39992,"Vegan Grocer By QualityFood, Al Qouz",TLBT LimeTray,601323,Vegan Grocer By QualityFood,OWN_DELIVERY,,UAE
+TB_AE,694564,40034,"Virpur Vibes Restaurant, Deira",TLBT LimeTray,657804,Virpur Vibes Restaurant,OWN_DELIVERY,,UAE
+TB_AE,605697,38464,"West To West Kitchen,Tourist Club Area (Al Zahiya)",TLBT LimeTray,602533,West To West Kitchen,OWN_DELIVERY,,UAE
+TB_AE,766018,40492,"Zaika,",TLBT LimeTray,698908,Zaika,OWN_DELIVERY,,UAE
+TB_AE,766020,40495,"Zaika, Mega Mall, Bu Danig",TLBT LimeTray,698908,Zaika,OWN_DELIVERY,,UAE

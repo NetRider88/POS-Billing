@@ -1,0 +1,28 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,663391,TGO-89571fd4-682a-4698-ad66-3e926714e9f6,"Papa John's , Amerat",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,711326,TGO-e31e5b29-3002-4da7-b703-69ef27dc9931,"Papa John's, Al Khabourah",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,693490,TGO-58e3eca2-a3a4-4211-99b9-06297fd075cc,"Papa John's, Ar Rubat",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,699936,TGO-364d2b3b-3e5b-413c-b327-35e5484c3164,"Papa John's, Buraimi university",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,4041,TGO-dd4c295c-5ac6-4392-a23a-84bf95b7fc77,"Papa John's, CBD",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,47307,TGO-ce5753cf-8b20-4f60-8b4e-8d06b80a3d3c,"Papa John's, Darsit",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,4040,TGO-eb74bd5c-05fe-4bf9-9ead-d2c204e91c78,"Papa John's, Hail North",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,716655,TGO-44298fde-99fe-4fb1-a24d-bcf26308405f,"Papa John's, Hijjar",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,4042,TGO-17234ba9-6adc-4957-a60f-a8d3d76e9b3a,"Papa John's, Khoud",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,4039,TGO-39f5ae72-676d-4190-8560-39908acdba72,"Papa John's, Khuwair",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,4044,TGO-393bc2d9-afb9-4a8e-a8be-f904f3c52726,"Papa John's, Madinat Qaboos",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,4043,TGO-305b5a08-febe-4c29-be44-ff17998ae307,"Papa John's, Qurm",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,703817,TGO-a5da4ca7-e749-4b94-8aa3-93436236072b,"Papa John's, Sadda, Al Sada North",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,693513,TGO-a9714776-0127-4246-b345-09017f72b890,"Papa John's, Salalah lulu, Al Jadidah",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,689226,TGO-2036f800-33c8-4b87-8e7f-b6852b719926,"Papa John's, Sohar City Center, Al Ghushbah",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,711324,TGO-73870a08-3fa3-451d-9d7d-c33bb0a9aacc,"Papa John's, Suwaiq",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,730387,TGO-aed423aa-f7a0-4e94-a83e-538553db2593,"Papa John`s, Al Ansab",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,682372,TGO-af39d0cd-d908-4e94-8f72-4d11fc32d33c,"Papa John`s, Azaiba",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,699935,TGO-9b4815cb-337d-4ba2-9d24-33de752a6bd3,"Papa John`s, Firq",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,689132,TGO-5afc5f09-05eb-40cf-b4b4-eaece337f226,"Papa John`s, Hillat Al Kahraba",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,711325,TGO-3bb90338-8ad1-4c53-a5c8-a0af6d8a4b7e,"Papa John`s, Ibra",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,626250,TGO-4b2e7ef0-101a-44e6-8b83-db389b7f7b94,"Papa John`s, Muscat Bay",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,695264,TGO-f5e7d92d-cf66-4540-bd0c-610bfa485d1b,"Papa John`s, Seeb ",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,735508,TGO-df04d744-d0cb-4a37-87ce-5454696bad14,"Papa John`s-Test-pos_dummy_store_OM- Duqm, Azaiba ",TLBT iiko Plugin,680660,Papa Johns Test,OWN_DELIVERY,,Oman
+TB_OM,676879,TGO-ea388c28-eb1f-47fd-a081-c0be3e922297,"Papa Johns, Al Murooj Square",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,676880,TGO-84b8eb9a-93fb-4d7e-b29b-872a9617099b,"Papa Johns, Barka, Samhan",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman
+TB_OM,626251,TGO-2b440f9d-dba4-4004-bfdf-0b9988972936,"Papa john`s, Mabela",TLBT iiko Plugin,2432,Papa Johns,OWN_DELIVERY,,Oman

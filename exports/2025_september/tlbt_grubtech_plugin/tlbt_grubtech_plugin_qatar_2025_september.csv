@@ -1,0 +1,374 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,688457,737aabb6-9ac6-42a4-ba07-37b9ee7c257a,Acai Rush - Muaither,TLBT GrubTech Plugin,654429,Acai Rush,OWN_DELIVERY,,Qatar
+TB_QA,688458,054b6547-7b16-4206-bdcf-c8392a761d75,"Acai Rush, West Bay",TLBT GrubTech Plugin,654429,Acai Rush,OWN_DELIVERY,,Qatar
+TB_QA,715264,28f600e7-afad-4096-abca-de2d5efda78f,"Aloha Poke Reef, Abu Hamour",TLBT GrubTech Plugin,668798,Aloha Poke Reef,OWN_DELIVERY,,Qatar
+TB_QA,770560,a53bc5c8-3b89-4d8b-8367-d028256cf76a,"Aloha Poke Reef, West Bay",TLBT GrubTech Plugin,668798,Aloha Poke Reef,OWN_DELIVERY,,Qatar
+TB_QA,678828,ecedbdc6-8a2f-41c9-9907-2023f051310b,"Arabica, Lusail",TLBT GrubTech Plugin,27466,Arabica,OWN_DELIVERY,,Qatar
+TB_QA,49173,c3a4ec60-530e-4f4a-a67c-b4396c2138e9,"Arabica, Mushiereb",TLBT GrubTech Plugin,27466,Arabica,OWN_DELIVERY,,Qatar
+TB_QA,46661,c96e658f-4a62-4e97-95f6-8aa34fdc1f83,"Aseer Time, Al Mamoura",TLBT GrubTech Plugin,26180,Asseer Time,OWN_DELIVERY,,Qatar
+TB_QA,46662,444f2e94-f3c8-4472-854e-9ac00a058c95,"Aseer Time, Al Wakrah",TLBT GrubTech Plugin,26180,Asseer Time,OWN_DELIVERY,,Qatar
+TB_QA,46663,cf73987d-c59d-4204-b2ac-3d87cbfb5c98,"Aseer Time, Land Mark",TLBT GrubTech Plugin,26180,Asseer Time,OWN_DELIVERY,,Qatar
+TB_QA,46664,d1f99b1b-4211-45ca-a60a-867b5daa3580,"Aseer Time, Muaither",TLBT GrubTech Plugin,26180,Asseer Time,OWN_DELIVERY,,Qatar
+TB_QA,620573,3760d81e-015b-468b-bf6c-c2ab27b7b501,"Aseer Time, umm salal mohammad",TLBT GrubTech Plugin,26180,Asseer Time,OWN_DELIVERY,,Qatar
+TB_QA,697605,b4d5bd0e-b97f-494a-a698-2b4ac46c3da3,"Aseer Time,Legtifya",TLBT GrubTech Plugin,26180,Asseer Time,OWN_DELIVERY,,Qatar
+TB_QA,764222,6d353d37-f483-4d44-92df-9400d57ad270,"BANGKOK BLITZ, Old Airport",TLBT GrubTech Plugin,697751,BANGKOK BLITZ,OWN_DELIVERY,,Qatar
+TB_QA,773571,c01e9da1-840e-4513-ac38-92e31eaddba0,"BREAKFAST HARBOR, Lusail",TLBT GrubTech Plugin,697755,BREAKFAST HARBOR,OWN_DELIVERY,,Qatar
+TB_QA,764226,fd128cfd-18f2-4d47-8c0f-cab20fd96757,"BREAKFAST HARBOR, Old Airport",TLBT GrubTech Plugin,697755,BREAKFAST HARBOR,OWN_DELIVERY,,Qatar
+TB_QA,684734,1bdc7caf-c48a-4f73-b23d-97221963fbe6,Battle Of The Brands,TLBT GrubTech Plugin,651922,Battle Of The Brands,OWN_DELIVERY,,Qatar
+TB_QA,723884,9a6551fc-de69-4ef6-b1b8-5cdddb196f5f,"Battle Of The Brands, Abu Hamour",TLBT GrubTech Plugin,651922,Battle Of The Brands,OWN_DELIVERY,,Qatar
+TB_QA,684233,a6cae65a-9a91-4a51-a58d-1ef54e11a411,"Battle Of The Brands, West Bay",TLBT GrubTech Plugin,651922,Battle Of The Brands,OWN_DELIVERY,,Qatar
+TB_QA,740498,7a1d76fe-f97c-45a7-a271-ebd1e790e53d,Be Waffled,TLBT GrubTech Plugin,683601,Be Waffled,OWN_DELIVERY,,Qatar
+TB_QA,760025,307f87e1-7244-4ed3-9bad-0866ae97d254,"Bella Vita, Old Airport",TLBT GrubTech Plugin,694985,Bella Vita,OWN_DELIVERY,,Qatar
+TB_QA,762937,e6c9195d-1c44-49a8-93c6-0baed26ad883,"Big Rex, Al Duhail",TLBT GrubTech Plugin,696883,Big Rex,OWN_DELIVERY,,Qatar
+TB_QA,708713,b3ad55b6-9eff-4989-a68a-515c7682497b,"Biryani Villains Adventure, Abu Hamour",TLBT GrubTech Plugin,665149,Biryani Villains Adventure,OWN_DELIVERY,,Qatar
+TB_QA,773625,9b503dc0-39fe-403f-a6c1-37f8cf076e1f,"Bite Box, Legtaifiya- West Bay Lagoon",TLBT GrubTech Plugin,697748,Bite Box,OWN_DELIVERY,,Qatar
+TB_QA,764219,ab283fa9-b8d7-405f-8d17-e58b6f3ea17f,"Bite Box, Old Airport",TLBT GrubTech Plugin,697748,Bite Box,OWN_DELIVERY,,Qatar
+TB_QA,665243,33e1942f-ac90-4cd9-a412-d14fb7dca1c9,"Botamba Traditional Kitchen, Al Wukair",TLBT GrubTech Plugin,25178,Botamba Traditional Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,753299,08277df2-8502-4e6b-beda-9a4f124176f5,"Botamba Traditional Kitchen, Lusail",TLBT GrubTech Plugin,25178,Botamba Traditional Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,695820,54346f4d-c0c7-493b-844c-975c7313b5ae,"Botamba Traditional Kitchen, Muaither",TLBT GrubTech Plugin,25178,Botamba Traditional Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,614452,b874b541-5787-4aef-a422-38b524502e6b,"Botamba Traditional Kitchen, Umm salal Mohammed",TLBT GrubTech Plugin,25178,Botamba Traditional Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,44912,3288a7e2-cf4d-4674-9ef3-2b1d686f68b1,"Botamba Traditional Kitchen,Madinat Khalifa South",TLBT GrubTech Plugin,25178,Botamba Traditional Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,746347,3526c220-d156-431a-b2ae-121ebc7b516d,Breakfast Circle,TLBT GrubTech Plugin,687056,Breakfast Circle,OWN_DELIVERY,,Qatar
+TB_QA,772844,8c34624e-2cb5-45e2-b158-1dd1c9319a78,"Breakfast Circle, Lusail",TLBT GrubTech Plugin,687056,Breakfast Circle,OWN_DELIVERY,,Qatar
+TB_QA,679969,a8bd636f-b6ac-4259-b017-9fb5172119d3,Breakfast Fix - Muaither,TLBT GrubTech Plugin,649283,Breakfast Fix,OWN_DELIVERY,,Qatar
+TB_QA,735858,e8dc668c-87ce-4d6a-88b0-e15dc98cee91,"Breakfast Rush, Muaither",TLBT GrubTech Plugin,674102,Breakfast Rush,OWN_DELIVERY,,Qatar
+TB_QA,736269,bece5aed-c738-4a86-9a10-7afd11dce57b,"Breakfast Rush, West Bay",TLBT GrubTech Plugin,674102,Breakfast Rush,OWN_DELIVERY,,Qatar
+TB_QA,688122,8da07f73-b7ae-4321-b955-fa38f0071d9c,"Bubble Waffle Shack, Muaither",TLBT GrubTech Plugin,654209,Bubble Waffle Shack,OWN_DELIVERY,,Qatar
+TB_QA,770575,62e055ff-4edf-4f62-9a74-14fa2f570f9f,"Bubble Waffle Shack, Westbay",TLBT GrubTech Plugin,654209,Bubble Waffle Shack,OWN_DELIVERY,,Qatar
+TB_QA,769512,f75cfec1-f360-4bdb-b9e8-72a5428a219e,"Bukhari House, Old Airport",TLBT GrubTech Plugin,701148,Bukhari House,OWN_DELIVERY,,Qatar
+TB_QA,26702,3949c4d4-8f05-46ed-9ce8-e1f562649f9e,"Burger Boutique, Al Gharrafa",TLBT GrubTech Plugin,14951,Burger Boutique,OWN_DELIVERY,,Qatar
+TB_QA,699649,d8fef68b-7f71-4b23-8450-21ec8cb7d0a0,"Burger Boutique, Villagio",TLBT GrubTech Plugin,14951,Burger Boutique,OWN_DELIVERY,,Qatar
+TB_QA,771772,65f6f61c-ae3d-442d-8f1c-80b628dfce9e,"Burgeralia, Lusail",TLBT GrubTech Plugin,683642,Burgeralia,OWN_DELIVERY,,Qatar
+TB_QA,740585,af588659-dccd-4edf-bd42-be436d894e6f,"Burgeralia, Old Airport",TLBT GrubTech Plugin,683642,Burgeralia,OWN_DELIVERY,,Qatar
+TB_QA,752534,607ee367-521c-4484-b913-523d7ee91e66,"Burrito Boys, Abu Hamour ",TLBT GrubTech Plugin,690673,Burrito Boys,OWN_DELIVERY,,Qatar
+TB_QA,753199,46aee6da-aeef-4cd6-89cf-fca5ef5ef7ba,"Burrito Boys, West Bay",TLBT GrubTech Plugin,690673,Burrito Boys,OWN_DELIVERY,,Qatar
+TB_QA,773313,068fce0a-c675-4a9c-ac1f-07f68cdb3fce,"CRUMBL`D, Legtaifiya, Al Qassar",TLBT GrubTech Plugin,701416,CRUMBL`D,OWN_DELIVERY,,Qatar
+TB_QA,769992,39639428-0d32-43a5-951b-f168dc96a024,"CRUMBL`D, Old Airport",TLBT GrubTech Plugin,701416,CRUMBL`D,OWN_DELIVERY,,Qatar
+TB_QA,770624,e47f525d-fada-45ba-b02e-6d2222c878bb,"Calify,Old Airport",TLBT GrubTech Plugin,701783,Calify,OWN_DELIVERY,,Qatar
+TB_QA,758560,89a5740f-e044-4c40-b4e6-7a5cc3dee068,Casa Italiana,TLBT GrubTech Plugin,694104,Casa Italiana,OWN_DELIVERY,,Qatar
+TB_QA,773893,dd073244-6d9b-49dd-8d76-6a40aba49465,"Casa Italiana, Lusail",TLBT GrubTech Plugin,694104,Casa Italiana,OWN_DELIVERY,,Qatar
+TB_QA,773885,9e276ec2-ea11-4680-a1e6-21cf4a055354,"Casa Mexicana, Lusail",TLBT GrubTech Plugin,695939,Casa Mexicana,OWN_DELIVERY,,Qatar
+TB_QA,761494,f97001fb-502d-4d26-ad85-640463db6f9a,"Casa Mexicana,Old Airport",TLBT GrubTech Plugin,695939,Casa Mexicana,OWN_DELIVERY,,Qatar
+TB_QA,724105,d45b25b9-4de2-4987-9ea5-d0a5068e1167,"Cereal Villains Adventure, Muaither",TLBT GrubTech Plugin,674136,Cereal Villains Adventure,OWN_DELIVERY,,Qatar
+TB_QA,724103,b737568c-86a3-4ed6-bf93-5446bb29d9ce,"Cereal Villains Adventure, West Bay",TLBT GrubTech Plugin,674136,Cereal Villains Adventure,OWN_DELIVERY,,Qatar
+TB_QA,709119,8d8f112f-7cb9-494f-aa52-425fb3d459d4,"Chapati Roti, Abu Hamour ",TLBT GrubTech Plugin,665399,Chapati Roti,OWN_DELIVERY,,Qatar
+TB_QA,764085,d9820bd2-f357-4846-8b79-e5da9b163d2a,Chinese Xpress,TLBT GrubTech Plugin,697657,Chinese Xpress,OWN_DELIVERY,,Qatar
+TB_QA,679972,b77f8d29-55b2-445f-bf48-644f2d25ab37,Chubby Balls - Muaither,TLBT GrubTech Plugin,649286,Chubby Balls,OWN_DELIVERY,,Qatar
+TB_QA,686155,291f7de4-e13c-4e2c-8bb5-4409d5892811,"Chubby Balls, West Bay",TLBT GrubTech Plugin,649286,Chubby Balls,OWN_DELIVERY,,Qatar
+TB_QA,724107,777e6bd1-32dc-419e-92f1-fbe3e87832e3,"Chubby Cookies, Abu Hamour",TLBT GrubTech Plugin,674139,Chubby Cookies,OWN_DELIVERY,,Qatar
+TB_QA,679984,cb1ddc99-db30-4ae3-8bac-57383079249a,Chubby Crepes - Muaither,TLBT GrubTech Plugin,649297,Chubby Crepes,OWN_DELIVERY,,Qatar
+TB_QA,686153,b64a5308-f77b-4adc-accc-efe126d28734,"Chubby Crepes, West Bay",TLBT GrubTech Plugin,649297,Chubby Crepes,OWN_DELIVERY,,Qatar
+TB_QA,740541,173bc359-5f0b-4422-add9-964d0c584f0d,"Crepefy Me,",TLBT GrubTech Plugin,683622,Crepefy Me,OWN_DELIVERY,,Qatar
+TB_QA,739142,be9db171-3c62-4659-b65b-f81bfd8d32db,"Crisp N Dip, Al Mirqab",TLBT GrubTech Plugin,682823,Crisp N Dip,OWN_DELIVERY,,Qatar
+TB_QA,771769,8c49f20a-a186-4637-869c-e4d167c8dbc7,"Crisp N dip, Lusail",TLBT GrubTech Plugin,682823,Crisp N Dip,OWN_DELIVERY,,Qatar
+TB_QA,659919,1310e515-f4de-4a90-b95b-360eb9550393,"Crunchy, Madinat Khalifa",TLBT GrubTech Plugin,637256,Crunchy,OWN_DELIVERY,,Qatar
+TB_QA,767268,9502de6f-bfe4-4725-9832-c8625be0ee31,"DODO PIZZA, Salwa Road",TLBT GrubTech Plugin,699667,DODO PIZZA,OWN_DELIVERY,,Qatar
+TB_QA,696320,53004979-56c2-4ef5-8395-d9814cd6e292,"Dave's Hot Chicken, Place Vendome Mall. Lusail",TLBT GrubTech Plugin,658772,Dave's Hot Chicken,OWN_DELIVERY,,Qatar
+TB_QA,714761,728d5e5e-ccd4-4b88-a168-67bb63736b87,"Dave's Hot Chicken, Villaggio Mall",TLBT GrubTech Plugin,658772,Dave's Hot Chicken,OWN_DELIVERY,,Qatar
+TB_QA,773153,aca535ef-8c52-47c7-a3c7-7311940c4f54,"Diet Arabia, Lusail",TLBT GrubTech Plugin,687020,Dietarabia,OWN_DELIVERY,,Qatar
+TB_QA,44734,85cddef2-1f12-4a84-9252-d7f851cecc46,"Diet Delights, Al Hilal",TLBT GrubTech Plugin,1272,Diet Delights,OWN_DELIVERY,,Qatar
+TB_QA,753741,8337adc3-4592-4775-8649-993b5c319a1e,"Diet Express, Abu Hamour",TLBT GrubTech Plugin,691237,Diet Express,OWN_DELIVERY,,Qatar
+TB_QA,754099,ae3c9391-4821-47c0-858f-89886cd110a0,"Diet Express, West Bay",TLBT GrubTech Plugin,691237,Diet Express,OWN_DELIVERY,,Qatar
+TB_QA,746283,b31dfff6-06d9-4184-93ea-486dc503f02c,Dietarabia,TLBT GrubTech Plugin,687020,Dietarabia,OWN_DELIVERY,,Qatar
+TB_QA,772818,3ed2f231-78a1-4d31-9b52-8233f6c45549,"Do Poke, Lusail",TLBT GrubTech Plugin,687632,Do Poke,OWN_DELIVERY,,Qatar
+TB_QA,747308,3e38b1ab-5242-4cee-bc6a-d788ab802ad0,"Do Poke, Old Airport",TLBT GrubTech Plugin,687632,Do Poke,OWN_DELIVERY,,Qatar
+TB_QA,24897,14a92d36-a19b-47dd-ba5e-bf9bf24954da,"Eataly, Al Khessa",TLBT GrubTech Plugin,13453,Eataly,OWN_DELIVERY,,Qatar
+TB_QA,681975,0f42918f-4c37-4c80-aab9-7ec2d20f515c,"Eataly, Lusail",TLBT GrubTech Plugin,13453,Eataly,OWN_DELIVERY,,Qatar
+TB_QA,711223,a531a1f0-109b-446c-8706-b60f6d86b57f,"Eatamo Noodles,Abu Hamour ",TLBT GrubTech Plugin,666515,Eatamo Noodles,OWN_DELIVERY,,Qatar
+TB_QA,724124,40a19468-964d-4582-b320-0ab51055a9bf,"Eatamo Thai, Abu Hamour ",TLBT GrubTech Plugin,674145,Eatamo Thai,OWN_DELIVERY,,Qatar
+TB_QA,688453,6b8a0781-c80d-4104-bc6c-22d456874912,"Egg Sqaured, Muaither",TLBT GrubTech Plugin,654426,Egg Squared,OWN_DELIVERY,,Qatar
+TB_QA,688454,9fa60122-41e6-4072-b28a-b8bab38dc206,"Egg Sqaured, West Bay",TLBT GrubTech Plugin,654426,Egg Squared,OWN_DELIVERY,,Qatar
+TB_QA,679983,074d5160-92a2-44b0-a6c1-59482f92afb0,Eggs & Shine - Muaither,TLBT GrubTech Plugin,649296,Eggs & Shine,OWN_DELIVERY,,Qatar
+TB_QA,686152,b58779f7-e915-42a9-8e49-61b356194036,"Eggs & Shine, West Bay",TLBT GrubTech Plugin,649296,Eggs & Shine,OWN_DELIVERY,,Qatar
+TB_QA,772823,9d0532fe-490c-4a5c-bbd0-b1f3b839a077,"Eggy Bites, Lusail",TLBT GrubTech Plugin,687636,Eggy Bites,OWN_DELIVERY,,Qatar
+TB_QA,747312,025cb055-a4b2-4a98-95a8-949e2e9f0e84,"Eggy Bites, Old Airport",TLBT GrubTech Plugin,687636,Eggy Bites,OWN_DELIVERY,,Qatar
+TB_QA,754104,63d4ee28-764b-449a-bcaf-2363d11872f9,"El Burrito Bowl,  West Bay",TLBT GrubTech Plugin,691243,El Burrito Bowl,OWN_DELIVERY,,Qatar
+TB_QA,753747,0dd12469-9aa5-4adf-896c-780fffd64c9d,"El Burrito Bowl, Abu Hamour ",TLBT GrubTech Plugin,691243,El Burrito Bowl,OWN_DELIVERY,,Qatar
+TB_QA,747914,da63af5d-202b-4bee-8916-a1de0bebc9d7,"Falafelia, Old Airport",TLBT GrubTech Plugin,687966,Falafelia,OWN_DELIVERY,,Qatar
+TB_QA,773856,08e39237-dfe4-406e-bdf4-7d0c89a70844,"Falafeliya, Lusail,",TLBT GrubTech Plugin,687966,Falafelia,OWN_DELIVERY,,Qatar
+TB_QA,719440,97f7884f-509f-4304-af5b-3179d0fb5cf6,"Fino Pizza Restaurant, Al Sadd",TLBT GrubTech Plugin,671350,Fino Pizza Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,747908,793489b8-5412-43bb-b4c9-ed28a3b1b053,"Fit & Fresh, Al Duhail South",TLBT GrubTech Plugin,682371,Fit & Fresh,OWN_DELIVERY,,Qatar
+TB_QA,738436,6a9317df-7b5a-4592-bc85-fec96d5058e6,"Fit and Fresh, Al Duhail North",TLBT GrubTech Plugin,682371,Fit & Fresh,OWN_DELIVERY,,Qatar
+TB_QA,753906,58c511ab-472f-4682-b77f-835919bf44a1,"Flip Mini Pancakes, Abu Hamour ",TLBT GrubTech Plugin,691322,Flip Mini Pancakes,OWN_DELIVERY,,Qatar
+TB_QA,754111,e4253cf7-eabd-4a57-8ca9-451b6a169eda,"Flip Mini Pancakes, West Bay",TLBT GrubTech Plugin,691322,Flip Mini Pancakes,OWN_DELIVERY,,Qatar
+TB_QA,645736,65540ccf-c571-4fbb-83ee-835041e6d6f7,"Float Cafe, Lusail marina, Lusail",TLBT GrubTech Plugin,626768,Float Cafe,OWN_DELIVERY,,Qatar
+TB_QA,642212,25401a75-39dc-486c-b87e-0ca37084ae00,"Float Cafe, Westwalk",TLBT GrubTech Plugin,626768,Float Cafe,OWN_DELIVERY,,Qatar
+TB_QA,724337,3ed51ba6-e1c8-482a-b9ec-8813450fe339,"Fog Tahat Juice, Muaither",TLBT GrubTech Plugin,674258,Fog Tahat Juice,OWN_DELIVERY,,Qatar
+TB_QA,724339,8cd8771b-926a-41cf-b80f-4d3d94d6f53d,"Food Adventure BYO, Abu Hamour",TLBT GrubTech Plugin,674255,Food Adventure BYO,OWN_DELIVERY,,Qatar
+TB_QA,724326,8fe814bc-dd8e-40c5-be06-24a21e409169,"Food Adventure BYO, Muaither",TLBT GrubTech Plugin,674255,Food Adventure BYO,OWN_DELIVERY,,Qatar
+TB_QA,724447,d7d26c19-f8f4-47f1-af74-f5a08de38c79,"Food Adventure BYO, West Bay",TLBT GrubTech Plugin,674255,Food Adventure BYO,OWN_DELIVERY,,Qatar
+TB_QA,762490,54c5715a-f756-4fc5-bcbe-d627eb56d5bb,"Forge, Al Duhail",TLBT GrubTech Plugin,696615,Forge,OWN_DELIVERY,,Qatar
+TB_QA,752366,a7489f79-290b-43bd-b280-5e29b3075e0f,"Frozen Fruits, Al Duhail South",TLBT GrubTech Plugin,690564,Frozen Fruits,OWN_DELIVERY,,Qatar
+TB_QA,752355,f8017cd0-556e-4c95-980e-702aaa5f7352,"Frozen Fruits, Al Thumama",TLBT GrubTech Plugin,690564,Frozen Fruits,OWN_DELIVERY,,Qatar
+TB_QA,752424,4aa1e257-2431-433c-ab50-41dfaedfbf12,"Fruit Lab, Al Duhail South",TLBT GrubTech Plugin,690585,Fruit Lab,OWN_DELIVERY,,Qatar
+TB_QA,752390,db98d392-89c8-472c-9723-e2ea8a7a721a,"Fruit Lab, Al Thumama",TLBT GrubTech Plugin,690585,Fruit Lab,OWN_DELIVERY,,Qatar
+TB_QA,769467,b009aacc-ae61-4a85-80c1-d15afde1fabd,Fukharah,TLBT GrubTech Plugin,701140,Fukharah,OWN_DELIVERY,,Qatar
+TB_QA,688462,9933f3ae-f61b-44f8-a853-d4b55248661e,"Generation Acai, Muaither",TLBT GrubTech Plugin,654431,Generation Acai,OWN_DELIVERY,,Qatar
+TB_QA,688463,7383a4b8-d0d8-4c5a-9ea2-f0ff86f2536a,"Generation Acai, West Bay",TLBT GrubTech Plugin,654431,Generation Acai,OWN_DELIVERY,,Qatar
+TB_QA,724458,1ca7ba32-85a1-4c21-92d6-1e9df2956fa7,"Generation Juice, Muaither",TLBT GrubTech Plugin,674337,Generation Juice,OWN_DELIVERY,,Qatar
+TB_QA,754401,3a828e6e-62de-445f-be1d-65aa99b7a2a8,"Generation Salad, Abu Hamour ",TLBT GrubTech Plugin,691596,Generation Salad,OWN_DELIVERY,,Qatar
+TB_QA,754420,135d2b40-0079-48c2-ac0d-0f0ca7ff01cf,"Generation Salad, West Bay",TLBT GrubTech Plugin,691596,Generation Salad,OWN_DELIVERY,,Qatar
+TB_QA,764123,347b3392-03bc-4e2b-92f0-69131ea08fc9,"Golden Dragon Wok, Old Airport",TLBT GrubTech Plugin,697683,Golden Dragon wok,OWN_DELIVERY,,Qatar
+TB_QA,735015,0478ad84-9b7d-4219-88da-917b7f2e715d,"Good Pasta, Abu Hamour",TLBT GrubTech Plugin,679873,Good Pasta,OWN_DELIVERY,,Qatar
+TB_QA,734081,d4d53ecc-982b-4bc9-9bc8-2bea50f35fba,"Good Pasta, West Bay",TLBT GrubTech Plugin,679873,Good Pasta,OWN_DELIVERY,,Qatar
+TB_QA,754406,0adb2a66-d01c-468f-a600-0a645ffbe99e,"Good Tacos, Abu Hamour ",TLBT GrubTech Plugin,691599,Good Tacos,OWN_DELIVERY,,Qatar
+TB_QA,754421,0208c2b8-636b-4dce-bbc6-26e03f519140,"Good Tacos, West Bay",TLBT GrubTech Plugin,691599,Good Tacos,OWN_DELIVERY,,Qatar
+TB_QA,43954,a2ab50ae-e8d1-406f-a83d-a65b1eb475f1,"HAL Al Dar restaurant, Al Kharaitiyat",TLBT GrubTech Plugin,24677,Hl Al Dar restaurant,OWN_DELIVERY,,Qatar
+TB_QA,773797,0a3d9cb2-05c2-44ef-89e6-d83b6d9313a7,"HOLA MEXI GRILL, Legtaifiya - West Bay Lagoon",TLBT GrubTech Plugin,694936,HOLA MEXI GRILL,OWN_DELIVERY,,Qatar
+TB_QA,759932,6fbae5af-735a-4e07-9c21-16ef14d67f7d,"HOLA MEXI GRILL, Old Airport",TLBT GrubTech Plugin,694936,HOLA MEXI GRILL,OWN_DELIVERY,,Qatar
+TB_QA,679982,3285879a-1477-4793-9269-71d0230654f9,"Hatch Chicken, Muaither",TLBT GrubTech Plugin,649295,Hatch Chicken,OWN_DELIVERY,,Qatar
+TB_QA,684554,caf3bdf1-f10f-4dfb-be34-9e0f3d4a44b5,"Hatch Chicken, West Bay",TLBT GrubTech Plugin,649295,Hatch Chicken,OWN_DELIVERY,,Qatar
+TB_QA,772790,6a8cabb6-6f77-4ea9-8428-f4683cf9b13d,"Healthy Hues, Lusail",TLBT GrubTech Plugin,687639,Healthy Hues,OWN_DELIVERY,,Qatar
+TB_QA,747318,197857d4-623e-46f7-8b16-380cad52e304,"Healthy Hues, Old Airport",TLBT GrubTech Plugin,687639,Healthy Hues,OWN_DELIVERY,,Qatar
+TB_QA,755760,1dffaae2-c1ef-4e0d-8d32-51c4b225d456,"Healthy Yu, Abu Hamour",TLBT GrubTech Plugin,692429,Healthy Yu,OWN_DELIVERY,,Qatar
+TB_QA,755786,ae3bd053-e338-4471-91d0-f638f7b4db81,"Healthy Yu, West Bay",TLBT GrubTech Plugin,692429,Healthy Yu,OWN_DELIVERY,,Qatar
+TB_QA,756900,dfdae99c-b150-4150-9d23-817ba55a880c,"House Of Cake,  Al Duhail",TLBT GrubTech Plugin,693129,House Of Cake,OWN_DELIVERY,,Qatar
+TB_QA,679989,fe6b9c46-9f72-4803-9416-6cf44deceddd,Humble Burgers - Muaither,TLBT GrubTech Plugin,649302,Humble Burgers,OWN_DELIVERY,,Qatar
+TB_QA,684725,24211eeb-8353-4d56-9b15-f72f2189fd42,"Humble Burgers, West Bay",TLBT GrubTech Plugin,649302,Humble Burgers,OWN_DELIVERY,,Qatar
+TB_QA,719262,87d3e2fe-072e-4e06-a61c-411ea54a4be8,"Hungry Human Restaurant, Al Nasr ",TLBT GrubTech Plugin,671227,Hungry Human Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,726789,30f9f113-3e4a-41a9-8768-5eb928ca2b90,"Italiane Food Concept, Old Airport",TLBT GrubTech Plugin,675697,Italiane Food Concept,OWN_DELIVERY,,Qatar
+TB_QA,679990,b7b9b188-592e-4945-8330-2bce43abb8d5,"Junkyard, Muaither",TLBT GrubTech Plugin,649303,Junkyard,OWN_DELIVERY,,Qatar
+TB_QA,684757,6a5f43c7-ddc4-4cbb-a203-c3d994133a35,"Junkyard, West Bay",TLBT GrubTech Plugin,649303,Junkyard,OWN_DELIVERY,,Qatar
+TB_QA,761888,6d50ea13-2426-456b-a6fa-9774482438be,"KOOBIDEH Restaurant, Lusail",TLBT GrubTech Plugin,671197,Koobideh Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,708843,f15803b9-3cbc-4715-b4c2-1b168b861493,"Karak Al Messila, Abu Hamour",TLBT GrubTech Plugin,665238,Karak Al Messila,OWN_DELIVERY,,Qatar
+TB_QA,770527,cd386dc6-332b-42aa-9199-eed9288cd894,"Karak Al Messila, Westbay,West Bay",TLBT GrubTech Plugin,665238,Karak Al Messila,OWN_DELIVERY,,Qatar
+TB_QA,764282,bacdb752-1109-4274-bad9-e44e28d1de24,"Katsu Kan, Old Airport",TLBT GrubTech Plugin,697796,Katsu Kan,OWN_DELIVERY,,Qatar
+TB_QA,773861,91b87425-8df4-416a-8f02-575d2ae423ad,"Khubzino, Lusail,",TLBT GrubTech Plugin,687728,Khubzino,OWN_DELIVERY,,Qatar
+TB_QA,747481,3b84bc3d-0d49-4f0a-b081-d059d469fcd9,"Khubzino, Old Airport",TLBT GrubTech Plugin,687728,Khubzino,OWN_DELIVERY,,Qatar
+TB_QA,733136,3d948179-6bcf-4d64-aafd-4248bf333b86,"Koobideh Restaurant, Al Wukair",TLBT GrubTech Plugin,671197,Koobideh Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,719225,53f63fae-159d-49fa-8d8f-90101a3b7c6b,"Koobideh Restaurant, Madinat Khalifa South",TLBT GrubTech Plugin,671197,Koobideh Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,746284,b9ef9a19-4fe1-4f1d-abbd-6909293d1012,Krave Acai,TLBT GrubTech Plugin,687021,Krave Acai,OWN_DELIVERY,,Qatar
+TB_QA,773140,dcf1fc3d-51e8-43c9-9c23-60970bf120f0,"Krave Acai, Lusail",TLBT GrubTech Plugin,687021,Krave Acai,OWN_DELIVERY,,Qatar
+TB_QA,753033,91df7b60-ee1f-4b63-9df6-274e28f69869,"LET'S MEZZA, Abu Hamour ",TLBT GrubTech Plugin,690879,LET`S MEZZA,OWN_DELIVERY,,Qatar
+TB_QA,758537,548c59cf-cb57-4edd-8be8-eb89e7fff7c4,"Le Fruit, Al Duhail",TLBT GrubTech Plugin,694083,Le Fruit,OWN_DELIVERY,,Qatar
+TB_QA,758542,4d647140-bed4-4f06-959a-af187338b05d,"Le Fruit, Al Thumama",TLBT GrubTech Plugin,694083,Le Fruit,OWN_DELIVERY,,Qatar
+TB_QA,735080,370790a3-1653-4caa-a7bd-579f23910c2d,"Let`s Taco, Abu Hamour",TLBT GrubTech Plugin,679864,Let`s Taco,OWN_DELIVERY,,Qatar
+TB_QA,734072,133701eb-3705-48e4-8625-f75c0068057d,"Let`s Taco, West Bay",TLBT GrubTech Plugin,679864,Let`s Taco,OWN_DELIVERY,,Qatar
+TB_QA,742667,4ad46d35-4338-4ac7-95c4-938fe53faa20,"Lush, Old Airport",TLBT GrubTech Plugin,684886,Lush,OWN_DELIVERY,,Qatar
+TB_QA,738121,46b554bc-ab73-4234-92aa-c3f1539a9c10,"Manaeesh, Al Hilal West",TLBT GrubTech Plugin,682166,Manaeesh,OWN_DELIVERY,,Qatar
+TB_QA,771760,13b30916-75f2-4f65-a0e7-c1b197eb1155,"Manaeesh, Lusail",TLBT GrubTech Plugin,682166,Manaeesh,OWN_DELIVERY,,Qatar
+TB_QA,733066,8dc5ef55-21fb-4815-9b35-77f89ed126b4,"Maui Pops, AL Thumama",TLBT GrubTech Plugin,679312,Maui Pops,OWN_DELIVERY,,Qatar
+TB_QA,747910,6858d3f1-d6f1-444b-866d-08d069667df3,"Maui Pops, Al Duhail South",TLBT GrubTech Plugin,679312,Maui Pops,OWN_DELIVERY,,Qatar
+TB_QA,760013,67dd8af0-2ad3-4590-b926-ac905696c24b,"Mediterranean Twist, Old Airport",TLBT GrubTech Plugin,694974,Mediterranean Twist,OWN_DELIVERY,,Qatar
+TB_QA,755765,ee2a4b14-4700-45ea-8b35-aa6aaff7c6eb,"Mexicano Canteen, Abu Hamour",TLBT GrubTech Plugin,692433,Mexicano Canteen,OWN_DELIVERY,,Qatar
+TB_QA,755789,8b7f54fb-8b21-4228-a53b-604afeb48301,"Mexicano Canteen, West Bay",TLBT GrubTech Plugin,692433,Mexicano Canteen,OWN_DELIVERY,,Qatar
+TB_QA,771775,3f5d8fa9-28c6-485d-a25a-88bcefdfec4d,"Mezze Express, Lusail",TLBT GrubTech Plugin,687755,Mezze Express,OWN_DELIVERY,,Qatar
+TB_QA,747542,cc845f40-c140-40a7-9312-eb17b7f89e0e,"Mezze Express, Old Airport",TLBT GrubTech Plugin,687755,Mezze Express,OWN_DELIVERY,,Qatar
+TB_QA,719478,bc42ebef-76c0-4f56-838f-48ceb529a4c7,"Milk Bun, Al Duhail",TLBT GrubTech Plugin,661690,Milk Bun,OWN_DELIVERY,,Qatar
+TB_QA,702224,521755ae-187b-4c11-ac16-2956863be949,"Milk Bun, Lusail",TLBT GrubTech Plugin,661690,Milk Bun,OWN_DELIVERY,,Qatar
+TB_QA,719464,89316b15-f5d2-4c90-a5aa-fa4953c44690,"Milk Bun, Villaggio Mall",TLBT GrubTech Plugin,661690,Milk Bun,OWN_DELIVERY,,Qatar
+TB_QA,679991,af0af910-b6ed-457e-b9b9-e5418dc1b2fb,"MiniMe Pancakes, Muaither",TLBT GrubTech Plugin,649304,MiniMe Pancakes,OWN_DELIVERY,,Qatar
+TB_QA,686200,91b20d66-1c49-41bc-8760-b0bf63062520,"MiniMe Pancakes, West Bay",TLBT GrubTech Plugin,649304,MiniMe Pancakes,OWN_DELIVERY,,Qatar
+TB_QA,688456,caff3331-686a-4daa-8841-00cda94b65dc,Minime Waffles - Muaither,TLBT GrubTech Plugin,654428,Minime Waffles,OWN_DELIVERY,,Qatar
+TB_QA,688459,88a76568-ef41-4a12-9579-b66b573b5b1b,Minime Waffles - West Bay,TLBT GrubTech Plugin,654428,Minime Waffles,OWN_DELIVERY,,Qatar
+TB_QA,689995,fca36ba3-31be-4abf-873f-5b7e211920cc,"Mission Katsu Curry, Abu Hamour",TLBT GrubTech Plugin,655168,Mission Katsu Curry,OWN_DELIVERY,,Qatar
+TB_QA,698511,db5d9a4e-5300-4b77-a413-329349b30ed6,"Mission Katsu Curry, West Bay",TLBT GrubTech Plugin,655168,Mission Katsu Curry,OWN_DELIVERY,,Qatar
+TB_QA,711225,f0d7e924-5461-4e66-b5bc-75785602f9a3,"Mission Noodles, Abu Hamour ",TLBT GrubTech Plugin,666517,Mission Noodles,OWN_DELIVERY,,Qatar
+TB_QA,770336,940e9673-8043-44e5-a51a-3124806b0a0c,"Mission Noodles, West Bay",TLBT GrubTech Plugin,666517,Mission Noodles,OWN_DELIVERY,,Qatar
+TB_QA,715427,c60149ab-624b-4641-82bd-064c6c62ef83,"Mission Poke Bowl, Abu Hamour ",TLBT GrubTech Plugin,668888,Mission Poke Bowl,OWN_DELIVERY,,Qatar
+TB_QA,770737,49d50e58-b923-4992-b074-c8b29ff19e98,"Mission Poke Bowl, West Bay",TLBT GrubTech Plugin,668888,Mission Poke Bowl,OWN_DELIVERY,,Qatar
+TB_QA,715524,7854ee71-adfb-4afd-97bc-917ec490c86f,"Mission Sushi, Abu Hamour",TLBT GrubTech Plugin,668944,Mission Sushi,OWN_DELIVERY,,Qatar
+TB_QA,715430,9bf16106-caef-4f61-8373-eb031eb99cc3,"Nabynaki Sushi, Abu Hamour",TLBT GrubTech Plugin,668891,Nabynaki Sushi,OWN_DELIVERY,,Qatar
+TB_QA,760141,a0b51361-12a2-43a4-8dc5-e95498d63556,Naco Tacos,TLBT GrubTech Plugin,695058,Naco Tacos,OWN_DELIVERY,,Qatar
+TB_QA,773799,5ac73192-6a9d-4955-8725-51211fe4a549,"Naco Tacos, Legtaifiya, - West Bay Lagoon",TLBT GrubTech Plugin,695058,Naco Tacos,OWN_DELIVERY,,Qatar
+TB_QA,16008,8ebba559-ccbd-4428-a6c0-23c15ccdcd30,Nando's - Doha Festival City,TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,1545,a60c3299-3ee6-4946-b44e-f85eac0b594a,"Nando's, Al Aziziyah (Hyatt Plaza)",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,1544,e9e0266b-4ab4-4f94-bc9b-9a15c1288d96,"Nando's, Al Hilal",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,683825,800d9de2-0bcf-4412-9bb9-670424017fe6,"Nando's, Al Wakrah",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,724774,79c8f9f0-374f-4c52-a1e3-c83d23c39a19,"Nando's, Avenue Mall, Najma",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,1461,e81f386f-cf4e-4a5b-895f-69870c673f5f,"Nando's, Bin Omran",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,687538,46addec2-00e2-4ae6-a7e6-16f8a2f5757c,"Nando's, Lusail",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,1587,89f6a110-6741-4cf4-9ae1-587da4b8ffe8,"Nando's, Salwa Road",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,2790,3cb1d11a-9048-4de7-a630-6faf1c700122,"Nando's, The Pearl",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,1543,1a1e0178-e59f-43a0-8e0b-c9d964474318,"Nando's, West Bay (City Center)",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,724773,5a3b4baf-ef50-48f7-9d71-228fc726ffea,"Nando`s, Tawar Mall, Al Markhiya",TLBT GrubTech Plugin,996,Nando's,VENDOR_DELIVERY,,Qatar
+TB_QA,690905,d75c510a-5499-462a-ae37-51909a630882,"New Shanghai, Lusail",TLBT GrubTech Plugin,655707,New Shanghai,OWN_DELIVERY,,Qatar
+TB_QA,679992,122abd68-65af-4425-a14f-e506e92a9907,Noble Burgers - Muaither,TLBT GrubTech Plugin,649305,Noble Burgers,OWN_DELIVERY,,Qatar
+TB_QA,684754,f1b2f903-9cc8-406a-95ee-0c9c0b9535e5,"Noble Burgers, West Bay",TLBT GrubTech Plugin,649305,Noble Burgers,OWN_DELIVERY,,Qatar
+TB_QA,679995,2f638b25-3780-4269-ab13-62d63d1c606d,Noble Chicken - Muaither,TLBT GrubTech Plugin,649308,Noble Chicken,OWN_DELIVERY,,Qatar
+TB_QA,685214,dd5483c8-5ea9-46e5-8ae8-677c0e62487d,"Noble Chicken, West Bay",TLBT GrubTech Plugin,649308,Noble Chicken,OWN_DELIVERY,,Qatar
+TB_QA,758565,36465477-41d4-4e41-ba83-cd12a8369153,Nobody's Burger,TLBT GrubTech Plugin,694108,Nobody's Burger,OWN_DELIVERY,,Qatar
+TB_QA,771768,1ce81203-6984-432e-9d7a-1a4b4d97df6e,"Nobody`s Burger, Lusail",TLBT GrubTech Plugin,694108,Nobody's Burger,OWN_DELIVERY,,Qatar
+TB_QA,758563,db33f24e-7dc8-49dd-9a95-8f49ed54328c,"Nobody`s Kitchen, Old Airport",TLBT GrubTech Plugin,694107,Nobody`s Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,772762,6f2d8308-0412-4f5e-8e52-4f1263239ffc,"Nobody`s Pasta, Lusail",TLBT GrubTech Plugin,682164,Nobody’s Pasta,OWN_DELIVERY,,Qatar
+TB_QA,771751,9933e012-0fa6-4a55-b8bf-946e9e26b43b,"Nobody`s Pizza, Lusail",TLBT GrubTech Plugin,682203,Nobody's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,738188,186b87d9-bd1d-46eb-9226-57e2cff49c20,"Nobody`s Pizza, Old Airport Zone",TLBT GrubTech Plugin,682203,Nobody's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,769683,88b1580f-80b5-4aa4-87ea-4bc3306fd9ba,"Nobody`s SUSHI,  Old Airport",TLBT GrubTech Plugin,701232,Nobody`s SUSHI,OWN_DELIVERY,,Qatar
+TB_QA,738119,c8aeca91-a8da-4293-96ae-e154cf322082,"Nobody’s Pasta, Al Hilal West",TLBT GrubTech Plugin,682164,Nobody’s Pasta,OWN_DELIVERY,,Qatar
+TB_QA,702497,6e01e201-2db2-41e4-8ca1-6b06a32a8166,"Novo Cinemas, Lusail",TLBT GrubTech Plugin,624401,Novo Cinemas,OWN_DELIVERY,,Qatar
+TB_QA,639195,1e2b8200-4707-41db-8784-c9df2eb63bc0,"Novo Cinemas, Mall of Qatar",TLBT GrubTech Plugin,624401,Novo Cinemas,OWN_DELIVERY,,Qatar
+TB_QA,747922,4cef6379-58fa-41d8-b3d1-487cd7a97053,"Oasis, Al Duhail South",TLBT GrubTech Plugin,678706,Oasis,OWN_DELIVERY,,Qatar
+TB_QA,731993,b049c43b-2a30-4de2-8d75-421ccf60a401,"Oasis, Al Thumama",TLBT GrubTech Plugin,678706,Oasis,OWN_DELIVERY,,Qatar
+TB_QA,688460,9e13178d-3d7c-44b1-9908-5867f7e5ad12,"Oh La la Creperie, Muaither",TLBT GrubTech Plugin,654430,Oh La la Creperie,OWN_DELIVERY,,Qatar
+TB_QA,688487,a1800866-5a0a-45f8-bb7c-ddafe3ee684a,"Oh La la Creperie, West Bay",TLBT GrubTech Plugin,654430,Oh La la Creperie,OWN_DELIVERY,,Qatar
+TB_QA,680075,a75d9d7a-bd5c-40d0-882b-ccc6bc830b9d,Ole Ole Burrito - Abu hamour,TLBT GrubTech Plugin,649360,Ole Ole Burrito,OWN_DELIVERY,,Qatar
+TB_QA,705923,5c667226-dcfb-4a60-8cc6-dff5625c8b94,"Ole Ole Burrito, West Bay",TLBT GrubTech Plugin,649360,Ole Ole Burrito,OWN_DELIVERY,,Qatar
+TB_QA,708840,eb3b46e4-3674-4188-a14f-6164a20b69c9,"One Butter Chicken, Abu Hamour",TLBT GrubTech Plugin,665235,One Butter Chicken,OWN_DELIVERY,,Qatar
+TB_QA,723994,2091efb3-1b6a-493d-b31a-59a037b3a43d,"One Eatery, Abu Hamour",TLBT GrubTech Plugin,650685,One Eatery,OWN_DELIVERY,,Qatar
+TB_QA,682267,47f9a80b-c5e0-49ae-a399-c060d4665bd8,"One Eatery, Muaither",TLBT GrubTech Plugin,650685,One Eatery,OWN_DELIVERY,,Qatar
+TB_QA,684901,1f49fd8a-eaed-42a2-bd3c-7e944e5d4140,"One Eatery, West Bay",TLBT GrubTech Plugin,650685,One Eatery,OWN_DELIVERY,,Qatar
+TB_QA,696691,148fed7a-f191-4811-8767-a0a867e56a1d,"One More Taco, Abu Hamour",TLBT GrubTech Plugin,658931,One More Taco,OWN_DELIVERY,,Qatar
+TB_QA,705978,c0e39c99-d1d1-4541-bfe8-20975a3fad1c,"One More Taco, West Bay",TLBT GrubTech Plugin,658931,One More Taco,OWN_DELIVERY,,Qatar
+TB_QA,702496,24ab1fdf-3ca4-435a-bd55-68f9f5e7435a,"PAUL, Lusail",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,688287,457afbc9-e7a9-402a-af9d-d11cf4984ed1,"Pancake Rush, Muaither",TLBT GrubTech Plugin,654306,Pancake Rush,OWN_DELIVERY,,Qatar
+TB_QA,688288,12ea6659-00fc-4c81-afbd-f9b252b23baf,"Pancake Rush, West Bay",TLBT GrubTech Plugin,654306,Pancake Rush,OWN_DELIVERY,,Qatar
+TB_QA,758566,fdd6c127-94d1-4624-8e31-e72a8957a782,"Papa Enzo's Pizza, Old Airport",TLBT GrubTech Plugin,694109,Papa Enzo's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,773883,82b0f732-3e48-4c5e-8ad9-7ac6d95afad5,"Papa Enzo`s Pizza, Lusail,",TLBT GrubTech Plugin,694109,Papa Enzo's Pizza,OWN_DELIVERY,,Qatar
+TB_QA,687648,4d601d88-b9f1-49fa-8bc0-e86fef37fc19,Pasta Di Rissoto - Abu Hamour,TLBT GrubTech Plugin,653950,Pasta Di Rissoto,OWN_DELIVERY,,Qatar
+TB_QA,698504,3dd955d0-3088-41b9-8169-dc449199e9e8,"Pasta Di Rissoto, West Bay",TLBT GrubTech Plugin,653950,Pasta Di Rissoto,OWN_DELIVERY,,Qatar
+TB_QA,687647,3c6bd6b0-3367-46c5-b737-7988867193fe,Pasta Foundry - Abu Hamour,TLBT GrubTech Plugin,653949,Pasta Foundry,OWN_DELIVERY,,Qatar
+TB_QA,698505,2d303fcd-55ef-4ad5-8754-e40d939907dc,"Pasta Foundry, West Bay",TLBT GrubTech Plugin,653949,Pasta Foundry,OWN_DELIVERY,,Qatar
+TB_QA,735022,e1ca6dc6-d208-4731-ab91-4016efa934f8,"Pasta Stop, Abu Hamour ",TLBT GrubTech Plugin,679866,Pasta Stop,OWN_DELIVERY,,Qatar
+TB_QA,734074,7278b74b-f91b-49b9-952e-53ba59dd03eb,"Pasta Stop, West Bay",TLBT GrubTech Plugin,679866,Pasta Stop,OWN_DELIVERY,,Qatar
+TB_QA,723591,a48c97b0-0ed0-4366-b1b9-cbcca4fa001a,"Pasta Vito, Abu Hamour",TLBT GrubTech Plugin,672611,Pasta Vito,OWN_DELIVERY,,Qatar
+TB_QA,721514,6eccd21c-590d-42dc-8cf0-dea7b80df5a1,"Pasta Vito, West Bay",TLBT GrubTech Plugin,672611,Pasta Vito,OWN_DELIVERY,,Qatar
+TB_QA,738107,753c9be4-c976-4524-8cb4-a7691f4f84fb,"Pastarizzi, Al Hilal East",TLBT GrubTech Plugin,682157,Pastarizzi,OWN_DELIVERY,,Qatar
+TB_QA,772765,8f7bee97-1624-45bf-8e0e-8b63828fc0b3,"Pastarizzi, Lusail ",TLBT GrubTech Plugin,682157,Pastarizzi,OWN_DELIVERY,,Qatar
+TB_QA,20202,729999f9-e174-4d4a-960a-ebcde1323bf8,"Paul Cafe, Villaggio Mall",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,20006,0869e82f-6649-4183-924c-9e9f591b4c4f,"Paul, Al Markhiya",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,20553,83c8e602-7646-4583-a3e0-ecec70e5297e,"Paul, Al Mirqab Mall",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,17471,09fb0348-cd27-469a-b6a1-a7c24a06268d,"Paul, Legtaifiya - West Bay Lagoon",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,17470,7f175280-0aa7-4a78-91ee-7ea70dcdf69a,"Paul, Pearl Qatar",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,19599,a6ec0d35-d9a7-4018-9bc7-07894474cfd7,"Paul, Umm Salal Mohammed",TLBT GrubTech Plugin,9143,PAUL,OWN_DELIVERY,,Qatar
+TB_QA,773843,80a754a8-4e6f-4100-9a9e-e614d0b16e17,"Pica Burritos, Lusail,",TLBT GrubTech Plugin,694984,Pica Burritos,OWN_DELIVERY,,Qatar
+TB_QA,760024,5563bfd3-bca6-454f-b956-9911a5c82a43,"Pica Burritos, Old Airport",TLBT GrubTech Plugin,694984,Pica Burritos,OWN_DELIVERY,,Qatar
+TB_QA,771765,bc44df27-9478-4d20-b369-2998120d2383,"Pizzarado, Lusail",TLBT GrubTech Plugin,682144,Pizzarado,OWN_DELIVERY,,Qatar
+TB_QA,738090,cd06f13a-e282-4cfc-80c2-df5317c4b018,"Pizzarado, Old Airport",TLBT GrubTech Plugin,682144,Pizzarado,OWN_DELIVERY,,Qatar
+TB_QA,740500,88c1bcb0-cdba-4d87-b342-1df29f1d0ccc,Pop Me Mini Pancakes,TLBT GrubTech Plugin,683602,Pop Me Mini Pancakes,OWN_DELIVERY,,Qatar
+TB_QA,752352,aeb272c6-ff7a-4168-98dd-c6dd4729b86d,"Popcorn District, Al Thumama",TLBT GrubTech Plugin,690562,Popcorn District,OWN_DELIVERY,,Qatar
+TB_QA,752365,3fa5f0dc-8f31-427a-be70-7cbe9bfbf2a5,"Popcorn Districtl, Al Duhail South",TLBT GrubTech Plugin,690562,Popcorn District,OWN_DELIVERY,,Qatar
+TB_QA,711239,1a65ba89-2284-475a-bfcc-6c97f6415f31,"Project Bao, Abu Hamour",TLBT GrubTech Plugin,666529,Project Bao,OWN_DELIVERY,,Qatar
+TB_QA,711240,58dade90-c42c-42c3-ab3e-fb58aa5e96d1,"Project Chinese Eatery, Abu Hamour ",TLBT GrubTech Plugin,666530,Project Chinese Eatery,OWN_DELIVERY,,Qatar
+TB_QA,770346,49494615-5912-4e62-8689-262779f3c974,"Project Chinese Eatery, West Bay",TLBT GrubTech Plugin,666530,Project Chinese Eatery,OWN_DELIVERY,,Qatar
+TB_QA,696701,86979530-9037-4164-b294-d0d7f5d2085c,"Project Healthy Bowls, Abu Hamour ",TLBT GrubTech Plugin,658935,Project Healthy Bowls,OWN_DELIVERY,,Qatar
+TB_QA,705992,380df78c-9bc3-4e7c-8890-5fa8fb476e9a,"Project Healthy Bowls, West Bay",TLBT GrubTech Plugin,658935,Project Healthy Bowls,OWN_DELIVERY,,Qatar
+TB_QA,688449,24820643-4229-4f29-a0f2-52293055b426,Project HotDogs - Muaither,TLBT GrubTech Plugin,654422,Project Hot Dogs,OWN_DELIVERY,,Qatar
+TB_QA,688541,d57ba3ec-eb5d-4afe-aa27-b2da19088fcf,"Project Hotdogs, West Bay",TLBT GrubTech Plugin,654422,Project Hot Dogs,OWN_DELIVERY,,Qatar
+TB_QA,689990,7f980297-3d48-4d6a-bfd5-97cc01b8c9d5,Project Katsu Bowl - Abu Hamour,TLBT GrubTech Plugin,655165,Project Katsu Bowl,OWN_DELIVERY,,Qatar
+TB_QA,698507,89f68d6a-d6c5-4465-9643-22219ce6b094,"Project Katsu Bowl, West Bay",TLBT GrubTech Plugin,655165,Project Katsu Bowl,OWN_DELIVERY,,Qatar
+TB_QA,711236,7691d6de-5a7b-40ab-aa44-c1b3f4e3c7ed,"Project Mongolian Beef, Abu Hamour",TLBT GrubTech Plugin,666526,Project Mongolian Beef,OWN_DELIVERY,,Qatar
+TB_QA,770345,c86037a7-9d42-4c37-bb96-b9fb4fcbe327,"Project Mongolian Beef, West Bay,West Bay",TLBT GrubTech Plugin,666526,Project Mongolian Beef,OWN_DELIVERY,,Qatar
+TB_QA,711238,eab6fde6-b8b8-44d7-97f0-a67088d9c076,"Project Noodles, Abu Hamour ",TLBT GrubTech Plugin,666528,Project Noodles,OWN_DELIVERY,,Qatar
+TB_QA,687596,b160076f-3049-4308-add5-f0c37460e5cb,Project Pasta - Abu Hamour,TLBT GrubTech Plugin,653915,Project Pasta,OWN_DELIVERY,,Qatar
+TB_QA,680088,0e57b05b-17a6-4faa-b58f-b2f6c0ff32a8,Project Pizza - Muaither,TLBT GrubTech Plugin,649372,Project Pizza,OWN_DELIVERY,,Qatar
+TB_QA,708842,0affcb1b-7ca6-4dd4-b293-408649113502,"Project Tikka Masala, Abu Hamour",TLBT GrubTech Plugin,665237,Project tikka masala,OWN_DELIVERY,,Qatar
+TB_QA,735020,725e6882-b46a-4657-9a8a-f9a69fafc8d8,"Project Wings, Abu Hamour Area 56",TLBT GrubTech Plugin,679862,Project Wings,OWN_DELIVERY,,Qatar
+TB_QA,734070,f74acdc6-cc38-4c78-b732-2655469eadf6,"Project Wings, West Bay",TLBT GrubTech Plugin,679862,Project Wings,OWN_DELIVERY,,Qatar
+TB_QA,680066,8eff4f75-9d5c-472e-8a58-a70c5c3e5de3,"Proper Sliders, Muaither",TLBT GrubTech Plugin,649352,Proper Sliders,OWN_DELIVERY,,Qatar
+TB_QA,684755,a1d82597-a224-4430-8f7f-86f3445f04e6,"Proper Sliders, West Bay",TLBT GrubTech Plugin,649352,Proper Sliders,OWN_DELIVERY,,Qatar
+TB_QA,688244,ea71f8af-1cc6-48e6-8d57-d2567272d4e1,"Proper Steak Sandwiches , West Bay",TLBT GrubTech Plugin,654268,Proper Steak Sandwiches,OWN_DELIVERY,,Qatar
+TB_QA,688258,2643d735-d8de-4d82-8057-816043feab01,Proper Steak Sandwiches - Muaither,TLBT GrubTech Plugin,654268,Proper Steak Sandwiches,OWN_DELIVERY,,Qatar
+TB_QA,755821,f5c2b1bc-2e32-4f5c-84fe-c0235d2ad513,"Quesadilla Shack, Abu Hamour",TLBT GrubTech Plugin,692470,Quesadilla Shack,OWN_DELIVERY,,Qatar
+TB_QA,755998,30ca8f09-e13d-4492-8939-9be7863af800,"Quesadilla Shack, West Bay",TLBT GrubTech Plugin,692470,Quesadilla Shack,OWN_DELIVERY,,Qatar
+TB_QA,747911,6190ec84-b1cb-4797-bbc6-c78e2576a488,"Refresh, Al Duhail South",TLBT GrubTech Plugin,679828,Refresh,OWN_DELIVERY,,Qatar
+TB_QA,734007,3217d9f6-65b2-4a73-9138-e6a4ecbc31ce,"Refresh, Al Thumama",TLBT GrubTech Plugin,679828,Refresh,OWN_DELIVERY,,Qatar
+TB_QA,773115,75a9e33f-f46a-424a-b27f-a2eef4b75949,"Salad Sense, Lusail",TLBT GrubTech Plugin,686485,Salad Sense,OWN_DELIVERY,,Qatar
+TB_QA,745390,00bc21f0-a5a9-4321-8399-4ba3f2eca572,"Salad Sense, Old Airport",TLBT GrubTech Plugin,686485,Salad Sense,OWN_DELIVERY,,Qatar
+TB_QA,764139,36245eb5-5f36-452c-ba9b-7a1d4565bc5d,"Shanghai WOK, Old Airport",TLBT GrubTech Plugin,697697,Shanghai WOK,OWN_DELIVERY,,Qatar
+TB_QA,737806,20c487b8-61ea-4005-aacd-b2ffd7045b02,"Shaw Chicken, Al Duhail",TLBT GrubTech Plugin,681971,Shaw Chicken,OWN_DELIVERY,,Qatar
+TB_QA,698614,f57401e9-248e-47b4-afac-eeed7061c6c4,"Shawarma Villains Adventure, Abu Hamour ",TLBT GrubTech Plugin,659914,Shawarma Villains Adventure,OWN_DELIVERY,,Qatar
+TB_QA,698613,4d11a312-d629-4ceb-9125-e9c1d9b00f3e,"Shawarma Workshop, Abu Hamour ",TLBT GrubTech Plugin,659913,Shawarma Workshop,OWN_DELIVERY,,Qatar
+TB_QA,698616,368e82aa-09a1-4f49-828e-03e1a831a6a1,"Sheesh Ibn Tawook, Abu Hamour ",TLBT GrubTech Plugin,659915,Sheesh Ibn Tawook,OWN_DELIVERY,,Qatar
+TB_QA,764136,4697b165-1bf1-4233-8610-6cc5e80b4100,"Shin Sen, Old Airport",TLBT GrubTech Plugin,697695,Shin Sen,OWN_DELIVERY,,Qatar
+TB_QA,764119,824fd757-f086-4a71-93c3-02dc5d6e2590,"Siam Thai, Old Airport",TLBT GrubTech Plugin,697680,Siam Thai,OWN_DELIVERY,,Qatar
+TB_QA,735337,748c0f7f-449c-4314-9a95-a5d2b1e46aac,"Slider Mania, Al Mirqab Al Jadeed",TLBT GrubTech Plugin,680565,Slider Mania,OWN_DELIVERY,,Qatar
+TB_QA,771698,b1db699f-561e-475a-85b2-e763cfe230d7,"Slider Mania, Lusail",TLBT GrubTech Plugin,680565,Slider Mania,OWN_DELIVERY,,Qatar
+TB_QA,739313,66668188-d8ad-4b37-83e7-604f487bcd42,"Snack Cups, Al Duhail North",TLBT GrubTech Plugin,682919,Snack Cups,OWN_DELIVERY,,Qatar
+TB_QA,747909,a1034938-cb81-4c30-bd82-d75d4cfba9a5,"Snack Cups, Al Duhail South",TLBT GrubTech Plugin,682919,Snack Cups,OWN_DELIVERY,,Qatar
+TB_QA,687588,cf994f0f-6aa0-4c00-b4c3-e15b7e7bcfdf,Something Healthy - Abu Hamour,TLBT GrubTech Plugin,653911,Something Healthy,OWN_DELIVERY,,Qatar
+TB_QA,705965,0885cf36-db4d-4dd9-9390-f2df8452e75d,"Something Healthy, West Bay",TLBT GrubTech Plugin,653911,Something Healthy,OWN_DELIVERY,,Qatar
+TB_QA,687597,f42d1035-4da5-4f2a-9f29-97decc251e80,Something Italian - Abu Hamour,TLBT GrubTech Plugin,653917,Something Italian,OWN_DELIVERY,,Qatar
+TB_QA,698509,66688bc9-5a7f-4b3e-a256-8de199ede345,"Something Italian, West Bay",TLBT GrubTech Plugin,653917,Something Italian,OWN_DELIVERY,,Qatar
+TB_QA,687920,309a527a-0727-4e2d-a6fd-57edfde5d827,Something Mexican - Abu Hamour,TLBT GrubTech Plugin,649223,Something Mexican,OWN_DELIVERY,,Qatar
+TB_QA,691977,93d5317e-5c8a-4af5-9423-9d057f2e0cad,"Something Mexican, West Bay",TLBT GrubTech Plugin,649223,Something Mexican,OWN_DELIVERY,,Qatar
+TB_QA,696546,2bff81df-6227-40aa-ad25-287e6eacd9ed,"Soupa Salad, Abu Hamour ",TLBT GrubTech Plugin,658846,Soupa Salad,OWN_DELIVERY,,Qatar
+TB_QA,705967,7dfca511-85b5-4105-8ef4-fb135a2df00b,"Soupa Salad, West Bay",TLBT GrubTech Plugin,658846,Soupa Salad,OWN_DELIVERY,,Qatar
+TB_QA,771707,79d2fc6c-3df4-49f6-996c-40eafb8a256d,"Sub Wich, Lusail",TLBT GrubTech Plugin,680549,Sub Wich,OWN_DELIVERY,,Qatar
+TB_QA,735314,12fa1dbe-3d76-434e-8297-c07ffb8eb97d,"Sub Wich, Old Airport",TLBT GrubTech Plugin,680549,Sub Wich,OWN_DELIVERY,,Qatar
+TB_QA,773145,edbcabe7-4859-425e-a4aa-73c007bafa7d,"Sultan Shawarma, Lusail",TLBT GrubTech Plugin,687943,Sultan Shawarma,OWN_DELIVERY,,Qatar
+TB_QA,747879,9ad13457-a91e-4c0e-a39f-2cb10c4e8417,"Sultan Shawarma, Old Airport",TLBT GrubTech Plugin,687943,Sultan Shawarma,OWN_DELIVERY,,Qatar
+TB_QA,772825,6c927bc7-9063-49e5-b9ab-2da766b55e94,"Sunny SideUp, Lusail",TLBT GrubTech Plugin,687638,Sunny Sideup,OWN_DELIVERY,,Qatar
+TB_QA,747316,ffcdf9c8-f8e7-4888-b02d-ee3905918630,"Sunny Sideup, Old Airport",TLBT GrubTech Plugin,687638,Sunny Sideup,OWN_DELIVERY,,Qatar
+TB_QA,680067,b5de01d1-e70a-4f14-95fd-73ef6adb56ec,Sunrise Pizza Boulevard - Muaither,TLBT GrubTech Plugin,649353,Sunrise Pizza Boulevard,OWN_DELIVERY,,Qatar
+TB_QA,715426,3bc37a92-8aaf-4c5e-82ff-42ede92b18c3,"Sushi Workshop, Abu Hamour",TLBT GrubTech Plugin,668887,Sushi Workshop,OWN_DELIVERY,,Qatar
+TB_QA,764276,44aacf02-d1c3-4d3a-85db-ae30b786b444,"THE NOODLE BOWL, Old Airport ",TLBT GrubTech Plugin,697790,THE NOODLE BOWL,OWN_DELIVERY,,Qatar
+TB_QA,715600,5bdb4164-67ef-4a7f-be1d-2c8137f445b7,"Tabytaki Teriyaki, Abu Hamour",TLBT GrubTech Plugin,668989,Tabytaki Teriyaki,OWN_DELIVERY,,Qatar
+TB_QA,680068,c17f086c-5944-4724-a418-baddbbd764e4,Taco Eataco - Abu Hamour,TLBT GrubTech Plugin,649354,Taco Eataco,OWN_DELIVERY,,Qatar
+TB_QA,691978,a4dc903a-1ce1-4f6f-98d6-d4a9c13fe922,"Taco Eataco, West Bay",TLBT GrubTech Plugin,649354,Taco Eataco,OWN_DELIVERY,,Qatar
+TB_QA,687921,e6026838-eba4-419d-8574-198af9f424d1,Taco Mercado - Abu Hamour,TLBT GrubTech Plugin,649361,Taco Mercado,OWN_DELIVERY,,Qatar
+TB_QA,691996,8c002836-a702-4e00-8720-1cee4b6a82d8,"Taco Mercado, West Bay",TLBT GrubTech Plugin,649361,Taco Mercado,OWN_DELIVERY,,Qatar
+TB_QA,773865,15ff6b3d-6444-403e-bcbb-55ab4f5d4764,"Taco Topia, Lusail",TLBT GrubTech Plugin,695680,Taco Topia,OWN_DELIVERY,,Qatar
+TB_QA,761091,e57f61f4-c40d-4e3d-9dd8-47a6a8450da7,"Taco Topia, Old Airport",TLBT GrubTech Plugin,695680,Taco Topia,OWN_DELIVERY,,Qatar
+TB_QA,715523,536abdf2-c2a0-42f3-af06-a2409ce6615c,"Taro Sushi, Abu Hamour",TLBT GrubTech Plugin,668943,Taro Sushi,OWN_DELIVERY,,Qatar
+TB_QA,719584,48d28465-dbe4-477c-9196-d67390fc16cd,"Tawlet Beirut Restaurant, Al Markhiya",TLBT GrubTech Plugin,671434,Tawlet Beirut Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,698591,33477216-1d31-4a40-8a4d-85bd2f0d73d3,"Tawook Workshop, Abu Hamour ",TLBT GrubTech Plugin,659899,Tawook Workshop,OWN_DELIVERY,,Qatar
+TB_QA,724551,3b389528-97b9-4d9f-86ca-78123856a533,"Thai Eathai, Abu Hamour",TLBT GrubTech Plugin,674395,Thai Eathai,OWN_DELIVERY,,Qatar
+TB_QA,760235,162830fe-a12f-464d-8a3b-1dc62d2fe0cb,"The Barn, Al Duhail",TLBT GrubTech Plugin,695118,The Barn,OWN_DELIVERY,,Qatar
+TB_QA,688275,07285379-6fc6-41fb-b621-e81afae9e324,"The Brave Egg, Muaither",TLBT GrubTech Plugin,654296,The Brave Egg,OWN_DELIVERY,,Qatar
+TB_QA,688285,fd2a9fb9-2e38-4332-9c35-ea9ba6d10af6,"The Brave Egg, West Bay",TLBT GrubTech Plugin,654296,The Brave Egg,OWN_DELIVERY,,Qatar
+TB_QA,735289,3735fd90-c38f-4f7e-af61-296816003def,"The Burger Nation, DD Kitchen, Old Airport",TLBT GrubTech Plugin,680537,The Burger Nation,OWN_DELIVERY,,Qatar
+TB_QA,772984,6c58c43d-c115-4868-9b68-012a3318f780,"The Burger Nation, Lusail",TLBT GrubTech Plugin,680537,The Burger Nation,OWN_DELIVERY,,Qatar
+TB_QA,760767,3fa061aa-315e-4a30-b717-a8e8d00402cd,"The Butcher Shop & Grill - Retail, Lusail",TLBT GrubTech Plugin,601507,The Butcher Shop & Grill - Retail,OWN_DELIVERY,,Qatar
+TB_QA,763530,3fa061aa-315e-4a30-b717-a8e8d00402cd,"The Butcher Shop & Grill, Lusail",TLBT GrubTech Plugin,15764,The Butcher Shop and Grill,OWN_DELIVERY,,Qatar
+TB_QA,27963,78dd1345-55a6-44a8-b8e1-cae35141e395,"The Butcher Shop and Grill, Villaggio Mall",TLBT GrubTech Plugin,15764,The Butcher Shop and Grill,OWN_DELIVERY,,Qatar
+TB_QA,739024,886b6a3e-b0a4-4197-84b1-ffaf2707dcca,"The Fry Factory, Old Airport",TLBT GrubTech Plugin,682745,The Fry Factory,OWN_DELIVERY,,Qatar
+TB_QA,753070,58e511e4-ca79-4750-aadf-12e9f2aa3f96,"The Health Express, Abu Hamour ",TLBT GrubTech Plugin,690901,The Health Express,OWN_DELIVERY,,Qatar
+TB_QA,755735,7f639d1b-68ef-4421-b1ed-ff99ab4748a8,"The Health Express, West Bay",TLBT GrubTech Plugin,690901,The Health Express,OWN_DELIVERY,,Qatar
+TB_QA,735017,a72c3929-495a-4efa-9cb3-b9695c722268,"The Healthy Way, Abu Hamour,Abu Hamour ",TLBT GrubTech Plugin,679863,The Healthy Way,OWN_DELIVERY,,Qatar
+TB_QA,734071,1d6c350f-227f-40fa-84ba-9e35f23c2f55,"The Healthy Way, West Bay",TLBT GrubTech Plugin,679863,The Healthy Way,OWN_DELIVERY,,Qatar
+TB_QA,743044,0f95633e-1d0b-4697-948e-9fa92d5caf8e,"The Ka`ak Factory, Shuwaikh",TLBT GrubTech Plugin,685109,The Ka`ak Factory,OWN_DELIVERY,,Qatar
+TB_QA,687577,44947cff-1eee-4be6-bebe-3e15e5fb3f84,The Kitchen - Abu Hamour,TLBT GrubTech Plugin,653904,The Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,698533,8c794058-8fb3-4b7d-8f90-51a658bde7a6,"The Kitchen, West Bay",TLBT GrubTech Plugin,653904,The Kitchen,OWN_DELIVERY,,Qatar
+TB_QA,680079,d3ab4f8d-4e0c-40a1-8dfa-8ad5d347cf9b,The Last Pizza - Muaither,TLBT GrubTech Plugin,649363,The Last Pizza,OWN_DELIVERY,,Qatar
+TB_QA,735867,aa976fa9-3d4f-4fa3-b09b-40a8f7f85ad2,"The OG Fried Chicken, Old Airport",TLBT GrubTech Plugin,680877,The OG Fried Chicken,OWN_DELIVERY,,Qatar
+TB_QA,772767,43f4bde8-0f78-403b-8b52-97eb4f0b2d9e,"The OG Hotdog, Lusail",TLBT GrubTech Plugin,680800,The OG Hotdog,OWN_DELIVERY,,Qatar
+TB_QA,735744,70503758-e386-4bf2-a5e8-c18bad557041,"The OG Hotdog, Old Airport ",TLBT GrubTech Plugin,680800,The OG Hotdog,OWN_DELIVERY,,Qatar
+TB_QA,740551,5d0c3f05-55ee-47d2-9750-d305539759ad,The OG Sliders,TLBT GrubTech Plugin,683626,The OG Sliders,OWN_DELIVERY,,Qatar
+TB_QA,771776,3596563e-ffcb-4b80-8836-6621baaf8921,"The OG Sliders, Lusail",TLBT GrubTech Plugin,683626,The OG Sliders,OWN_DELIVERY,,Qatar
+TB_QA,772846,ad8ed945-cf61-4dcd-b69f-24a954d50606,"The OG Wraps, Lusail",TLBT GrubTech Plugin,682827,The OG Wraps,OWN_DELIVERY,,Qatar
+TB_QA,739146,1423587b-1c69-4be3-b082-1bc5f3dec9ed,"The OG Wraps, Old Airport",TLBT GrubTech Plugin,682827,The OG Wraps,OWN_DELIVERY,,Qatar
+TB_QA,736098,896ad4e2-7416-4a98-b2b9-92f13226424a,The OG ZingWing,TLBT GrubTech Plugin,680999,The OG ZingWing,OWN_DELIVERY,,Qatar
+TB_QA,771719,61a346ab-8514-4add-bf9b-49fe93660b78,"The OG ZingWing, Lusail",TLBT GrubTech Plugin,680999,The OG ZingWing,OWN_DELIVERY,,Qatar
+TB_QA,740546,6a3d6f9c-55d5-4171-91cd-5aaddc950c57,The Pancake Nation,TLBT GrubTech Plugin,683624,The Pancake Nation,OWN_DELIVERY,,Qatar
+TB_QA,771755,df19f3af-a227-4c90-86e1-53408b71e99e,"The Pide House, Lusail",TLBT GrubTech Plugin,685113,The Pide House,OWN_DELIVERY,,Qatar
+TB_QA,743051,f1ab97fa-d387-4d8d-958c-31ac9fa9811a,"The Pide House, Old Airport",TLBT GrubTech Plugin,685113,The Pide House,OWN_DELIVERY,,Qatar
+TB_QA,771716,1e177d6b-143c-41ae-a21c-e2c03ab180dd,"The Smoking Patty, Lusail,",TLBT GrubTech Plugin,680562,The Smoking Patty,OWN_DELIVERY,,Qatar
+TB_QA,735332,a981b6ce-e019-4ab8-a540-760eeece2d79,"The Smoking Patty, Old Airport",TLBT GrubTech Plugin,680562,The Smoking Patty,OWN_DELIVERY,,Qatar
+TB_QA,745665,146e35f2-be7e-4cc1-826a-14ecdb754199,The Wholesome Bowl,TLBT GrubTech Plugin,686658,The Wholesome Bowl,OWN_DELIVERY,,Qatar
+TB_QA,773121,60758c58-3c79-45eb-afd2-21a8385dadc8,"The Wholesome Bowl, Lusail",TLBT GrubTech Plugin,686658,The Wholesome Bowl,OWN_DELIVERY,,Qatar
+TB_QA,722776,b3e63172-e42c-4c34-b402-f86c5f2efb9f,"Thirty Burger, Duhail",TLBT GrubTech Plugin,673350,Thirty Burger,OWN_DELIVERY,,Qatar
+TB_QA,705962,bb7a0136-5a0c-4e50-9e2c-54bc7577e88b,"Thrive Salad, West Bay",TLBT GrubTech Plugin,653928,Thrive Salads,OWN_DELIVERY,,Qatar
+TB_QA,687609,4fa27834-143e-4b43-8e83-8cb2cc11d917,Thrive Salads - Abu Hamour,TLBT GrubTech Plugin,653928,Thrive Salads,OWN_DELIVERY,,Qatar
+TB_QA,688273,3cbee622-27af-44f5-9bff-8fa3d29febe9,"Thunder Shrimp, Muaither",TLBT GrubTech Plugin,654294,Thunder Shrimp,OWN_DELIVERY,,Qatar
+TB_QA,688289,a2e37756-cf3a-48c3-9f16-3bc32244287c,"Thunder Shrimp, West Bay",TLBT GrubTech Plugin,654294,Thunder Shrimp,OWN_DELIVERY,,Qatar
+TB_QA,682270,5436e3d4-1be6-44d3-8b91-703e6c736b1e,"Thunder Wings, Muaither",TLBT GrubTech Plugin,650688,Thunder Wings,OWN_DELIVERY,,Qatar
+TB_QA,686082,e5c2c894-4a18-4acb-9865-f609a41bbe76,"Thunder Wings, West Bay",TLBT GrubTech Plugin,650688,Thunder Wings,OWN_DELIVERY,,Qatar
+TB_QA,687611,f1c3645e-7dbb-4372-8b68-1ed5416b9d46,Top Salad - Abu Hamour,TLBT GrubTech Plugin,653930,Top Salad,OWN_DELIVERY,,Qatar
+TB_QA,705976,734ddc8f-7a3d-43b0-bf98-a6deeb8ea126,"Top Salad, West Bay",TLBT GrubTech Plugin,653930,Top Salad,OWN_DELIVERY,,Qatar
+TB_QA,747912,a6cb4e94-1544-483d-a4dc-149fa7960c78,"Trays, Al Duhail South",TLBT GrubTech Plugin,682007,Trays,OWN_DELIVERY,,Qatar
+TB_QA,737853,96ae9d77-ef3a-447c-8cf3-5803d37ad5c3,"Trays, Al Thumama",TLBT GrubTech Plugin,682007,Trays,OWN_DELIVERY,,Qatar
+TB_QA,724465,b358abce-40fc-4222-9558-b907e24ead49,Tule Bakery,TLBT GrubTech Plugin,674343,Tule Bakery,OWN_DELIVERY,,Qatar
+TB_QA,728634,2f90f753-1759-485a-8be3-eb98aa258147,"Tule Bakery, West Bay",TLBT GrubTech Plugin,674343,Tule Bakery,OWN_DELIVERY,,Qatar
+TB_QA,680137,1561fa2a-35de-4e8c-9b5e-714256fa92a4,Twins Smashed Patties - Muaither,TLBT GrubTech Plugin,649403,Twins Smashed Patties,OWN_DELIVERY,,Qatar
+TB_QA,684760,3c62a24e-e813-429d-9c35-5cfb2e32bc9e,"Twins Smashed Patties, West Bay",TLBT GrubTech Plugin,649403,Twins Smashed Patties,OWN_DELIVERY,,Qatar
+TB_QA,738074,7d121ac0-33c2-4a14-8045-df7ddcf0d157,Valentino`s,TLBT GrubTech Plugin,682133,Valentino`s,OWN_DELIVERY,,Qatar
+TB_QA,772768,ee10d0c9-f549-4b22-9bae-5ec124721154,"Valentino`s, Lusail",TLBT GrubTech Plugin,682133,Valentino`s,OWN_DELIVERY,,Qatar
+TB_QA,689311,026a7c74-f2d0-45ab-9cdb-f3af8afcb8b9,"Waffle Rush, Muaither",TLBT GrubTech Plugin,654876,Waffle Rush,OWN_DELIVERY,,Qatar
+TB_QA,689319,6018612f-8244-4393-a0d9-33150594f560,"Waffle Rush, West Bay",TLBT GrubTech Plugin,654876,Waffle Rush,OWN_DELIVERY,,Qatar
+TB_QA,764087,0948503c-6364-4b1d-bfa4-b4c7822a8b03,Wasabi,TLBT GrubTech Plugin,697659,Wasabi,OWN_DELIVERY,,Qatar
+TB_QA,762497,e6f29fc9-0e82-4e90-8f75-dc93e0754f95,"Wild Wings, Al Duhail",TLBT GrubTech Plugin,696617,Wild Wings,OWN_DELIVERY,,Qatar
+TB_QA,764086,7c9f0180-6737-49da-b34a-485159940fd7,"Wok Thai, Old Airport",TLBT GrubTech Plugin,697658,Wok Thai,OWN_DELIVERY,,Qatar
+TB_QA,764088,37004f89-33d6-4dee-983c-dd73217f6146,"Wokette, Old Airport",TLBT GrubTech Plugin,697660,Wokette,OWN_DELIVERY,,Qatar
+TB_QA,688207,4fb26f02-6557-4a2b-84fa-ba14feb8adb8,Wondas Waffle Park - Muaither,TLBT GrubTech Plugin,654230,Wondas Waffle Park,OWN_DELIVERY,,Qatar
+TB_QA,688201,349f45a5-14df-4272-a74b-ed57891a055e,"Wondas Waffle Park, West Bay",TLBT GrubTech Plugin,654230,Wondas Waffle Park,OWN_DELIVERY,,Qatar
+TB_QA,760010,796ac953-cff2-4bed-a802-b2eb023141b7,"Wrap Arabia,",TLBT GrubTech Plugin,694972,Wrap Arabia,OWN_DELIVERY,,Qatar
+TB_QA,772769,0ee9111a-af43-4278-b6f5-ecc0ff1e1b3e,"Wrap Arabia, Lusail",TLBT GrubTech Plugin,694972,Wrap Arabia,OWN_DELIVERY,,Qatar
+TB_QA,735418,b9d19392-8a76-4a2c-93fa-ed1cf732f22e,"Wrapelicious, Al Mirqab Al Jadeed",TLBT GrubTech Plugin,680608,Wrapelicious ,OWN_DELIVERY,,Qatar
+TB_QA,772983,812d2552-21d3-4d63-a16f-c770b867fb11,"Wrapelicious, Lusail",TLBT GrubTech Plugin,680608,Wrapelicious ,OWN_DELIVERY,,Qatar
+TB_QA,680087,a23f7700-4791-443d-a81b-34f0d16b0eab,"Xsliders, Muaither",TLBT GrubTech Plugin,649371,Xsliders,OWN_DELIVERY,,Qatar
+TB_QA,684759,3cf718c9-1549-42a6-bf70-8a0fe73b7b61,"Xsliders, West Bay",TLBT GrubTech Plugin,649371,Xsliders,OWN_DELIVERY,,Qatar
+TB_QA,761349,8ea65262-f02e-4a88-97a7-708672872e52,"YUMMI, Old Airport",TLBT GrubTech Plugin,695842,YUMMI,OWN_DELIVERY,,Qatar
+TB_QA,751675,2af888f8-cf2d-4b5b-bff0-38d6222946eb,"Yum Yum, Al Duhail South",TLBT GrubTech Plugin,690140,Yum Yums,OWN_DELIVERY,,Qatar
+TB_QA,751671,aebc53fb-ebd2-4f85-89a4-2744f9db627f,"Yum Yum, Al Nuaija",TLBT GrubTech Plugin,690140,Yum Yums,OWN_DELIVERY,,Qatar
+TB_QA,773632,5d9b192d-caf3-48ab-9fb2-f9e0a5c4851b,"Yummi, Legtaifiya - West Bay Lagoon",TLBT GrubTech Plugin,695842,YUMMI,OWN_DELIVERY,,Qatar
+TB_QA,698508,c2554262-031b-4248-87f9-77231bb8b842,"project pasta, West Bay",TLBT GrubTech Plugin,653915,Project Pasta,OWN_DELIVERY,,Qatar

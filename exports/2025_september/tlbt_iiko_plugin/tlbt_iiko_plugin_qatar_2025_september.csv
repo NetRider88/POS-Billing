@@ -1,0 +1,45 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,3748,TGO-5fa2d919-1375-4b36-933e-911ef98de7ef,"Papa John's, Abu Hamour",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,680268,TGO-5e294882-4d6f-45a2-af23-c8f3385cc722,"Papa John's, Abu Sidra",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3750,TGO-599c93d0-11f8-4683-bada-5deb31c04d5d,"Papa John's, Ain Khaled",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3868,TGO-b9e4df62-96ff-4099-aa69-26d1061a3cb4,"Papa John's, Airport Area",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3744,TGO-38e1f8b4-2d3b-4924-a145-908166e6d0e7,"Papa John's, Al Aziziya",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3751,TGO-3187a2de-00f0-4ff7-9f9c-e914107d879d,"Papa John's, Al Duhail",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,719901,TGO-74f6b4d3-7f70-461b-9f64-4ae150fb5abc,"Papa John's, Al Hilal East",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3756,TGO-d65954fa-5d75-418f-93b5-d0303bef65f1,"Papa John's, Al Muntazah",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,736528,TGO-3b16b35b-61a6-492c-a3d4-bdbe6d0b4b62,"Papa John's, Al Nasr",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3746,TGO-5a8ab356-89df-4904-98e7-2c180f0bf106,"Papa John's, Al Wakrah",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,610417,TGO-6595940a-a2b0-448f-8e80-95d45f42059e,"Papa John's, Bani Hajar",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,7807,TGO-77a1636a-68f6-433f-902c-ec4855f80b2b,"Papa John's, Barwa City",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3749,TGO-feddf43f-cc9f-4347-81ef-24309bfeeefa,"Papa John's, Bin Omran",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3755,TGO-70d57816-b31e-47f5-bf75-0e4f767cbd48,"Papa John's, Emadi",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3747,TGO-921bbe9c-9f08-4c3f-a3e7-213d209d5571,"Papa John's, Ezdan tower",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,623016,TGO-ec87e117-db49-4a8f-b1b4-3d9f3f654e00,"Papa John's, Lagoona Mall, West bay lagoon",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,692471,TGO-9f25a3c8-b60a-4582-8180-4dca8195381f,"Papa John's, Mansoura Somerset Hotel",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,661431,TGO-ff4b47c6-fd00-44d8-ba5a-1dec928b2682,"Papa John's, Mesaieed",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3754,TGO-28fd230e-f237-4030-9d8f-25fe83f8aad1,"Papa John's, New Al Rayyan",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3752,TGO-c0353ead-c4e4-4b78-9c0c-3c8f51bfd3f7,"Papa John's, New Salata",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3743,TGO-4f6878ef-f305-4fdc-be04-b4097e1d1fa8,"Papa John's, Old Airport",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,3745,TGO-0d8724a5-e75f-4408-858e-354d665771e1,"Papa John's, Onaiza",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,721195,TGO-7d7e6351-3df7-4764-8465-0c0e085132f7,"Papa John's, West walk",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,31347,TGO-11759b2e-7d50-4b1c-92b1-7fb9c31b2c7a,"Papa John`s , Muaither",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,35433,TGO-6c071d0c-6c20-498e-a2ed-5a451f81d108,"Papa John`s, Abu Sidra",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,654364,TGO-30db3d43-7be4-4b19-9cef-767656d72fb2,"Papa John`s, Al Asmakh Mall, Al Sadd",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,28913,TGO-8dc8a18a-cd04-4f55-b4fe-347768445bd7,"Papa John`s, Al Ebaib, Al Ebaib",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,707509,TGO-905e0f11-a7b7-4a17-b6ed-6a1f49416ae4,"Papa John`s, Al Janoub Square",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,624279,TGO-bd5d555e-7412-4c66-b5d2-48a2dd50a075,"Papa John`s, Al Khor",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,712373,TGO-64edd6b9-5763-4dcb-bbcf-36b823a38cb3,"Papa John`s, Al thumama mall, Al Thumama ",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,750697,TGO-aa7d090a-00e9-49b0-ba9e-7728a34f3025,"Papa John`s, Baaya",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,693227,TGO-98683b95-0be9-4736-9123-ded099f3f429,"Papa John`s, Barwa Madinathna",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,636220,TGO-b33601ea-b416-451e-a9e9-8182c6a4060b,"Papa John`s, Barwa The Commercial Ave",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,694595,TGO-d3924b0c-e674-4332-ad86-fc75d1552638,"Papa John`s, Golf Course Waqood Petrol Station,Education City - Qatar Foundation",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,602183,TGO-03bf3f3c-abd2-4a8e-8e36-d2f7f91f3b66,"Papa John`s, Gulf Mall, Ground Floor, Al Gharaffa",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,54225,TGO-f1a535bc-d932-407c-9794-e0dde190a905,"Papa John`s, Lulu Oasis",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,687211,TGO-6dd2779e-5925-4a3e-8c38-667b52fb8677,"Papa John`s, Lusail",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,694729,TGO-2d646f8f-304c-47d1-a051-90cfb0a012b4,"Papa John`s, Ras Abu Abboud",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,609440,TGO-e685bbe9-20c4-4c1b-9da5-da93f85627eb,"Papa John`s, Sheehaniya",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,730868,TGO-97b3b7d3-e603-4045-8526-6aa938844b12,"Papa John`s, Tawar Mall, Al Markhiya",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,678589,TGO-cff794c6-edf1-4209-bc4c-a98596e2ce93,"Papa John`s, Umm Garn",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,35381,TGO-bd55f405-8d4d-4e78-a4ce-b90828b12ef5,"Papa John`s, Umm Salal Ali",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,637879,TGO-83901390-2be8-46f9-abd5-6f23a4f3f7c4,"Papa John`s, Umm Salal Mohammed",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar
+TB_QA,712372,TGO-56dbd821-4c5b-4948-99cd-d4e7bc1d860a,"Papa John`s, lzghawa",TLBT iiko Plugin,2290,Papa John's,OWN_DELIVERY,,Qatar

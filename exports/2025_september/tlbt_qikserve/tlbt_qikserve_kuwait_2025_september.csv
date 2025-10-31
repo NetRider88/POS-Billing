@@ -1,0 +1,90 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,676520,53308,Starbucks (Ashbeliah),TLBT-Qikserve,647252,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676480,53247,Starbucks Ahmadi Park KOC,TLBT-Qikserve,647213,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676481,3956,Starbucks Al Bairaq Mall 1,TLBT-Qikserve,647214,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676483,17205,Starbucks Aswaq Al Qurain 1,TLBT-Qikserve,647216,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676485,51051,Starbucks Aswaq Al Qurain Drive,TLBT-Qikserve,647217,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,742199,62988,Starbucks Benaid Al Gar DT,TLBT-Qikserve,684630,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676491,48036,Starbucks Fintas Park,TLBT-Qikserve,647223,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,679039,55802,Starbucks Kipco Tower,TLBT-Qikserve,648703,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676503,31983,Starbucks Mahboula Alia Ghalia Towers,TLBT-Qikserve,647235,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676479,48230,Starbucks Sama Mall - Egaila,TLBT-Qikserve,647212,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676532,52500,Starbucks Sama Mall- Sulaibikhat,TLBT-Qikserve,647264,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676478,61987,Starbucks Test TMP,TLBT-Qikserve,647211,Starbucks Test Kuwait,VENDOR_DELIVERY,,Kuwait
+TB_KW,676508,65609,Starbucks The Lake Mall DT,TLBT-Qikserve,647240,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676498,50354,Starbucks Trolley Fintas,TLBT-Qikserve,647230,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676497,48380,Starbucks Trolley Masael,TLBT-Qikserve,647229,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676537,54848,"Starbucks, AL-RUMAITHIYA PARK",TLBT-Qikserve,647270,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676500,5126,"Starbucks, Abdullah Al-Mubarak Co-Op",TLBT-Qikserve,647232,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676531,34258,"Starbucks, Adeliya Co-Op",TLBT-Qikserve,647263,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,691673,71018,"Starbucks, Al Ahmad Coop 3",TLBT-Qikserve,656131,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676486,63403,"Starbucks, Al Ahmadi Coop",TLBT-Qikserve,647218,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676558,79978,"Starbucks, Al Andalous Mall- Hawally",TLBT-Qikserve,647290,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,722616,61941,"Starbucks, Al Arjan, Sabah Al-Salem",TLBT-Qikserve,673256,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676499,30870,"Starbucks, Al Bidaa",TLBT-Qikserve,647231,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676487,34327,"Starbucks, Al Kout",TLBT-Qikserve,647219,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676489,31716,"Starbucks, Al Messilla Khalifa Resort",TLBT-Qikserve,647221,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,692480,65452,"Starbucks, Al Nasser Sporting Club,Ardhiya",TLBT-Qikserve,656573,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,689969,4171,"Starbucks, Al Omooma, Reggai",TLBT-Qikserve,655163,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676557,34208,"Starbucks, Al Plaza",TLBT-Qikserve,647289,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676496,65268,"Starbucks, Al-Surra - Rai",TLBT-Qikserve,647228,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676510,19782,"Starbucks, Andalous Co-operative",TLBT-Qikserve,647242,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676513,47977,"Starbucks, Automall",TLBT-Qikserve,647245,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676548,31382,"Starbucks, Awtad Mall Jahra",TLBT-Qikserve,647281,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676488,32475,"Starbucks, Baitak Tower",TLBT-Qikserve,647220,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,716153,69335,"Starbucks, Corniche Club Kiosk",TLBT-Qikserve,669291,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676511,31194,"Starbucks, Daiya Cooperative",TLBT-Qikserve,647243,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676515,32051,"Starbucks, Dar Al Awadi",TLBT-Qikserve,647247,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676512,66107,"Starbucks, Dasmah Coop",TLBT-Qikserve,647244,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,744514,80562,"Starbucks, Dhaher",TLBT-Qikserve,685981,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676514,58144,"Starbucks, Dhajeej DT",TLBT-Qikserve,647246,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,711820,78539,"Starbucks, Dhaman Hospital",TLBT-Qikserve,666895,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676490,19446,"Starbucks, Divonne - Abu Hasaniya",TLBT-Qikserve,647222,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676519,49890,"Starbucks, Fahaheel Trolley",TLBT-Qikserve,647251,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676518,51745,"Starbucks, Farwaniya Complex",TLBT-Qikserve,647250,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676516,57955,"Starbucks, Farwaniya Coop",TLBT-Qikserve,647248,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676521,63251,"Starbucks, International Hospital Salmiya GF",TLBT-Qikserve,647253,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676517,32237,"Starbucks, Jabriya 1",TLBT-Qikserve,647249,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676559,52795,"Starbucks, Jahra Gate",TLBT-Qikserve,647291,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676534,67868,"Starbucks, Kaifan Co-op",TLBT-Qikserve,647267,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676526,28066,"Starbucks, Karizma Villa",TLBT-Qikserve,647258,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676527,27581,"Starbucks, Khaldiya Coop",TLBT-Qikserve,647259,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676494,24508,"Starbucks, Mahboula Land (Sidra)",TLBT-Qikserve,647226,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676504,65856,"Starbucks, Mangaf Coop",TLBT-Qikserve,647236,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676529,28172,"Starbucks, Marouj Sahara ",TLBT-Qikserve,647261,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676522,34229,"Starbucks, Mishref Co-Op",TLBT-Qikserve,647254,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,729086,75070,"Starbucks, Mishrif Park",TLBT-Qikserve,676986,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676561,52292,"Starbucks, Mubarakiya",TLBT-Qikserve,647293,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676528,54844,"Starbucks, National Guard",TLBT-Qikserve,647260,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676564,54348,"Starbucks, Norma Complex - Ground Floor",TLBT-Qikserve,647296,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676523,53517,"Starbucks, North Salmiya",TLBT-Qikserve,647255,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676543,85569,"Starbucks, North West Sulaibikhat Coop",TLBT-Qikserve,647277,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,694184,71464,"Starbucks, Qadsiya Co-op",TLBT-Qikserve,657625,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,767980,85788,"Starbucks, Qairawan Park",TLBT-Qikserve,700138,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676536,59834,"Starbucks, Rehab Co-Op",TLBT-Qikserve,647269,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676506,48781,"Starbucks, Riqqa Park",TLBT-Qikserve,647238,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676530,67867,"Starbucks, Rumaithiya Coop",TLBT-Qikserve,647262,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676539,65607,"Starbucks, STA Kuwait Hospital",TLBT-Qikserve,647272,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676493,56381,"Starbucks, Sabah Al Ahmad City",TLBT-Qikserve,647225,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,710474,81078,"Starbucks, Sabah Al Ahmad Hospital Urology ",TLBT-Qikserve,666118,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676538,34334,"Starbucks, Salwa Coop",TLBT-Qikserve,647271,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676525,34306,"Starbucks, Shamiya Co-Operative",TLBT-Qikserve,647257,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676541,34298,"Starbucks, Sheikha Complex",TLBT-Qikserve,647274,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676533,24601,"Starbucks, Shuhada Co-Op",TLBT-Qikserve,647265,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676550,53721,"Starbucks, Siddiq",TLBT-Qikserve,647282,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676535,66517,"Starbucks, Slayil Mall",TLBT-Qikserve,647268,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676482,26148,"Starbucks, Starbucks Arabia Mall",TLBT-Qikserve,647215,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,736871,68660,"Starbucks, The Platform Drive-thru, Ardhiya",TLBT-Qikserve,681437,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676509,48229,"Starbucks, The Venue",TLBT-Qikserve,647241,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676542,53739,"Starbucks, Trolley Al Reggi Oula",TLBT-Qikserve,647276,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,722614,53736,"Starbucks, Trolley Doha KNPC- Jahra Area",TLBT-Qikserve,673254,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676546,50356,"Starbucks, Trolley Mansoriya",TLBT-Qikserve,647279,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676502,50353,"Starbucks, Trolley Salmiya",TLBT-Qikserve,647234,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676551,48444,"Starbucks, Trolley Shuhada",TLBT-Qikserve,647283,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676547,53727,"Starbucks, Trolley Waha Jahra",TLBT-Qikserve,647280,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676553,53738,"Starbucks, Trolley- Ghazali Store",TLBT-Qikserve,647285,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676560,59375,"Starbucks, Waterfront - Unit 14",TLBT-Qikserve,647292,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,765639,77784,"Starbucks, Yarmouk Coop",TLBT-Qikserve,698669,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676563,1385,"Starbucks, Zahra Co-operative",TLBT-Qikserve,647295,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676556,29386,"Starbucks,Sama Mall-Khaitan",TLBT-Qikserve,647288,Starbucks,OWN_DELIVERY,,Kuwait
+TB_KW,676552,63299,"Starbucks,Twin Tower",TLBT-Qikserve,647284,Starbucks,OWN_DELIVERY,,Kuwait

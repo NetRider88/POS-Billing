@@ -1,0 +1,7 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,681358,530aa2ed-0511-4f87-ba1f-14d79abcfe95,"Five Guys, Al-Bedae ",Tlbt-Lineten,650102,Five Guys,OWN_DELIVERY,,Kuwait
+TB_KW,681359,631205d0-5eee-4195-b552-c8e854b269a7,"Five Guys, Fahaheel",Tlbt-Lineten,650102,Five Guys,OWN_DELIVERY,,Kuwait
+TB_KW,681360,8bbd84d4-7f8d-4999-9712-ae0f95dcdf37,"Five Guys, Mahboula",Tlbt-Lineten,650102,Five Guys,OWN_DELIVERY,,Kuwait
+TB_KW,681357,efc099d0-08f4-4481-a188-da100c9c805e,"Five Guys, Salmiya",Tlbt-Lineten,650102,Five Guys,OWN_DELIVERY,,Kuwait
+TB_KW,681356,05bfb20b-d108-428a-8a04-573d61c59f0e,"Five Guys, Shuwaikh",Tlbt-Lineten,650102,Five Guys,OWN_DELIVERY,,Kuwait
+TB_KW,681292,9f656d06-ed68-40bc-9b2f-c31dc6d66fe6,"Five Guys, Tijaria, Mirqab",Tlbt-Lineten,650102,Five Guys,OWN_DELIVERY,,Kuwait

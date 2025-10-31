@@ -1,0 +1,274 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,699833,6281fea2286accd6d90046cc,"71 FARM STATION RESTAURANT, Al Rowdah",TLBT Dimension Plugin,660568,71 FARM STATION RESTAURANT,OWN_DELIVERY,,UAE
+TB_AE,720862,63da22f20f6f49c81f00242f,"Abu Shakra, Al Barsha 3",TLBT Dimension Plugin,651009,Abu Shakra,OWN_DELIVERY,,UAE
+TB_AE,682814,61e7a2d71beb433b4b7d6394,"Abu Shakra, Al Rigga",TLBT Dimension Plugin,651009,Abu Shakra,OWN_DELIVERY,,UAE
+TB_AE,670945,61d55045779bd36f810d6c28,"Akher Lahza, Academic City",TLBT Dimension Plugin,644019,Akher Lahza,OWN_DELIVERY,,UAE
+TB_AE,609795,60a8e2ef88386f4c0c75a58a,"Al Farooj Fresh, Abu Hail",TLBT Dimension Plugin,6640,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,617694,60d824097c85f717826beddc,"Al Farooj Fresh, Al Barsha Mall",TLBT Dimension Plugin,6640,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,617695,60dafa4e7705a663ef4f5268,"Al Farooj Fresh, Al Muwaiji",TLBT Dimension Plugin,6640,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,618665,60d824a78c164f16d826d169,"Al Farooj Fresh, King Faisal",TLBT Dimension Plugin,6640,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,12979,60d824097c85f717826beddc-1,"Al Farooj Fresh, Mirdif Way",TLBT Dimension Plugin,6640,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,703352,61a33bf4733ee01e5033a796,"Al Farooj Fresh,Al Jurf 2,(DH Kitchen)",TLBT Dimension Plugin,662303,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,617696,60db06852498467f361de7c7,"Al Farooj Freshh, Tawam",TLBT Dimension Plugin,6640,Al Farooj Fresh,OWN_DELIVERY,,UAE
+TB_AE,604544,,"Al Safeer Restaurant, Ajman City Center,Al Jurf 1",TLBT Dimension Plugin,7988,Al Safeer Restaurant,OWN_DELIVERY,,UAE
+TB_AE,37112,,"Al Safeer Restaurant, Ibn Batutta Mall",TLBT Dimension Plugin,7988,Al Safeer Restaurant,OWN_DELIVERY,,UAE
+TB_AE,712021,64c753747762afa856066467,"All Coco Restaurant,",TLBT Dimension Plugin,666997,ALLCOCO,OWN_DELIVERY,,UAE
+TB_AE,629801,63d67c57c2d6552f350e5487,"Almurooth Alshaabi Popular Cuisine, Zakher",TLBT Dimension Plugin,618829,Almurooth Alshaabi Popular Cuisine,OWN_DELIVERY,,UAE
+TB_AE,661822,6061897c1e9b6853567702c7,"Bil Khams Restaurant And Cuisines, ICAD",TLBT Dimension Plugin,638469,Bil Khams Restaurant And Cuisines,OWN_DELIVERY,,UAE
+TB_AE,689116,61920ae2af245f743d5c3eb4,Blaban Diary - Al Rashidiya 1,TLBT Dimension Plugin,654781,Blaban Dairy,OWN_DELIVERY,,UAE
+TB_AE,634065,5ed612da3eb8f75172356fa3,"Breakfast by BPP, Al Khalidiyah",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634067,5edb1bd0c83bda717f4e8352-8,"Breakfast by BPP, Al Nahyan",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,655006,5edf2c70b5f786316a2fff92-8,"Breakfast by BPP, Al Rawda 2",TLBT Dimension Plugin,634108,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,686241,5edc7b618db2da64414d4b42-8,"Breakfast by BPP, Al Samha 2",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634342,5edbcb985d7a7565e07d4711-8,"Breakfast by BPP, Al Shawamekh",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634064,5ee45650ec42a070fc2e4552-8,"Breakfast by BPP, Al Taawun",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634313,5eddfe18c3284531fa078fd9,"Breakfast by BPP, DIFC",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634063,5edd717838cc9c7be7516af2,"Breakfast by BPP, Jumeirah Lakes Towers",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634396,5eeb9a158d5bc03d5e43d29e,"Breakfast by BPP, Madinat Khalifa - A",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634066,5edb3ef8fee9fb7de1368ba2-8,"Breakfast by BPP, Mussafah",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634071,5edbeec02c13e44ac86ed0e2-8,"Breakfast by BPP, Shakhbout City",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634069,5ed85de6c9c18d6a6e18b662-8,"Breakfast by BPP, Yas Island",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,634350,5ee7f6708b83eb55315eb20a,"Breakfast by BPP,Nad Al Sheba 4",TLBT Dimension Plugin,621683,Breakfast by BPP,OWN_DELIVERY,,UAE
+TB_AE,24483,5ee45650ec42a070fc2e4552,"Broccoli Pizza & Pasta , Al Taawun",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,655167,5edf2c70b5f786316a2fff92,"Broccoli Pizza & Pasta, Ajman",TLBT Dimension Plugin,9686,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,618722,5ee49ca12ba9eb29d764cc32-1,"Broccoli Pizza & Pasta, Al Ain",TLBT Dimension Plugin,9872,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,44657,5edfb91189a24e7972090cf8,"Broccoli Pizza & Pasta, Al Dhait North",TLBT Dimension Plugin,12327,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,23352,5ee50618884a4213371566a1,"Broccoli Pizza & Pasta, Al Jurf 1",TLBT Dimension Plugin,12327,Broccoli Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,42635,5ee50618884a4213371566a1-1,"Broccoli Pizza & Pasta, Al Jurf 1",TLBT Dimension Plugin,12327,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,650695,6106476d5b180e5cbb6585cf,"Broccoli Pizza & Pasta, Al Kalba",TLBT Dimension Plugin,9694,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,40814,5ed612da3eb8f75172356fa3,"Broccoli Pizza & Pasta, Al Khalidiya",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,3361,5edb1bd0c83bda717f4e8352,"Broccoli Pizza & Pasta, Al Muroor",TLBT Dimension Plugin,1892,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,19738,5edc58381364667e074f3612,"Broccoli Pizza & Pasta, Al Rahba",TLBT Dimension Plugin,9875,Broccoli Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,604937,5ee4cdd8ff18ac7ac46c9c5c,"Broccoli Pizza & Pasta, Al Salamah",TLBT Dimension Plugin,12362,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,660422,5edc7b618db2da64414d4b42,"Broccoli Pizza & Pasta, Al Samha",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,16916,5edce4d95784e4622902481b,"Broccoli Pizza & Pasta, Al Twar 2",TLBT Dimension Plugin,8760,Broccoli Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,46401,5edce4d95784e4622902481b-1,"Broccoli Pizza & Pasta, Al Twar 2",TLBT Dimension Plugin,8760,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,16517,5edc11e85b4136364945b562,"Broccoli Pizza & Pasta, Bani Yas",TLBT Dimension Plugin,8555,Broccoli Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,45769,5edc11e85b4136364945b562-1,"Broccoli Pizza & Pasta, Bani Yas East",TLBT Dimension Plugin,8555,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,48392,5edc9e88dd2f8e45831d12d2,"Broccoli Pizza & Pasta, Barsha Heights - TECOM",TLBT Dimension Plugin,27057,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,21482,5eddfe18c3284531fa078fd9,"Broccoli Pizza & Pasta, DIFC",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,661121,61a4b29b9285e72598175b87,"Broccoli Pizza & Pasta, Dibba ",TLBT Dimension Plugin,638035,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,625612,5edff85805fb840fe77458a1-1,"Broccoli Pizza & Pasta, Fujairah Port",TLBT Dimension Plugin,9694,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,25753,5edd717838cc9c7be7516af2,"Broccoli Pizza & Pasta, JLT",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,703402,643c429f1a8acdb93e0fd28b,"Broccoli Pizza & Pasta, MBZ, Shabiya 10",TLBT Dimension Plugin,662315,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,37741,5eeb9a158d5bc03d5e43d29e,"Broccoli Pizza & Pasta, Madinat Khalifa - A",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,19564,5ee410003f42cf5c6374ccca,"Broccoli Pizza & Pasta, Mohammed Bin Zayed City",TLBT Dimension Plugin,9770,Broccoli Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,45884,5ee410003f42cf5c6374ccca-1,"Broccoli Pizza & Pasta, Mohammed Bin Zayed City",TLBT Dimension Plugin,9770,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,44072,5edbcb985d7a7565e07d4711,"Broccoli Pizza & Pasta, Motor World",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,45508,5ee0a81f335fe701360be564-1,"Broccoli Pizza & Pasta, Muwaileh commercial",TLBT Dimension Plugin,6544,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,44075,5edbeec02c13e44ac86ed0e2,"Broccoli Pizza & Pasta, Shakhbout",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,44598,5ed85de6c9c18d6a6e18b662,"Broccoli Pizza & Pasta, Yas Island",TLBT Dimension Plugin,11015,Broccoli Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,676854,61471bb67934b1220c2f72e8,"Call Cafe, Al Dhait South",TLBT Dimension Plugin,647441,Call Cafe,OWN_DELIVERY,,UAE
+TB_AE,654963,5eddfe18c3284531fa078fd9,"Chick Snacks, DIFC",TLBT Dimension Plugin,634092,Chick Snacks,OWN_DELIVERY,,UAE
+TB_AE,677,624a8dc5c7ce240e240c17b2,"China Garden, Al Barsha 1",TLBT Dimension Plugin,492,China Garden,OWN_DELIVERY,,UAE
+TB_AE,46936,626ad2401f58c1fb290078d5,"China Garden, Al Karama",TLBT Dimension Plugin,492,China Garden,OWN_DELIVERY,,UAE
+TB_AE,47532,626ad3426dabdc8d3405ece2,"China Garden, Al Wasl",TLBT Dimension Plugin,492,China Garden,OWN_DELIVERY,,UAE
+TB_AE,686992,63105389a6b334bd0a05751f,"Crepe World Cafe, Dubai Outlet Mall",TLBT Dimension Plugin,653539,Crepe world cafeteria,OWN_DELIVERY,,UAE
+TB_AE,687135,5edf2c70b5f786316a2fff92-11,"Crunch N Thin Pizza by BPP, Al Rawda 2",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687137,5ee45650ec42a070fc2e4552-11,"Crunch N Thin Pizza by BPP, Al Taawun",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687129,5eddfe18c3284531fa078fd9,"Crunch N Thin Pizza by BPP, DIFC",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686797,5edd717838cc9c7be7516af2,"Crunch N Thin Pizza by BPP, Jumeirah Lakes Towers",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687132,5ed612da3eb8f75172356fa3,"Crunch N Thin Pizza by BPP, Khalidiya",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687133,5edbeec02c13e44ac86ed0e2-11,"Crunch N Thin Pizza by BPP, Khalifa B, Shakbout City",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687140,5eeb9a158d5bc03d5e43d29e,"Crunch N Thin Pizza by BPP, Khalifa City A",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687134,5edbcb985d7a7565e07d4711-11,"Crunch N Thin Pizza by BPP, Motorworld",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687127,5edb1bd0c83bda717f4e8352-11,"Crunch N Thin Pizza by BPP, Muroor",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687131,5edb3ef8fee9fb7de1368ba2-11,"Crunch N Thin Pizza by BPP, Mussafah",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687136,5edc7b618db2da64414d4b42-11,"Crunch N Thin Pizza by BPP, Samha 2",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,687130,5ed85de6c9c18d6a6e18b662-11,"Crunch N Thin Pizza by BPP, Yas Island",TLBT Dimension Plugin,653431,Crunch N Thin Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,40850,6061897c1e9b6853567702c7-1,"Donerci, Mohamed Bin Zayed City",TLBT Dimension Plugin,22203,Donerci,OWN_DELIVERY,,UAE
+TB_AE,708095,60b87fca3b34de7db204add8-1,"ETCH CAFE, Khor Fakkan",TLBT Dimension Plugin,664018,Etch Cafe,OWN_DELIVERY,,UAE
+TB_AE,655892,60b1e3667e5d7c019316a6c1,"ETCH Cafe, Al Dhait South",TLBT Dimension Plugin,634740,ETCH Cafe,OWN_DELIVERY,,UAE
+TB_AE,655980,60b1f2bb91ccf132801338c6,"ETCH Cafe, Muwaileh Commercial",TLBT Dimension Plugin,634740,ETCH Cafe,OWN_DELIVERY,,UAE
+TB_AE,37116,61531a12df22f4312324f4e1,"El Chico, Mussafah Industrial City",TLBT Dimension Plugin,10985,El Chico,OWN_DELIVERY,,UAE
+TB_AE,706706,61d556774f1c86221268df6f-1,"Etch Cafe, Merashid",TLBT Dimension Plugin,664018,Etch Cafe,OWN_DELIVERY,,UAE
+TB_AE,36862,5d7ba15a6af4b7111d29acb2,"FREEZ, Al Dhait North",TLBT Dimension Plugin,11981,Freez,OWN_DELIVERY,,UAE
+TB_AE,41353,5d7ba46ec6aee427481be6d2,"FREEZ, New Shahama",TLBT Dimension Plugin,23271,Freez,OWN_DELIVERY,,UAE
+TB_AE,686151,61501254a4aa6e72cd267ec9,"Farghaly fruits, Muwailih Commercial",TLBT Dimension Plugin,12643,Farghly Fruits,OWN_DELIVERY,,UAE
+TB_AE,23795,61593aab1be25925d7198c63,"Farghly Fruits , Al Dafrah",TLBT Dimension Plugin,12643,Farghly Fruits,OWN_DELIVERY,,UAE
+TB_AE,22549,5dda1848de5ee9663176cdb5,"Fatayer Ala Keefak, Al Quoz 1",TLBT Dimension Plugin,11763,Fatayer Ala Keefak,OWN_DELIVERY,,UAE
+TB_AE,48687,5f97c70059598e6f8e2d99b1-2,"Fereej Al Ain, Al Barsha 1",TLBT Dimension Plugin,15117,Fereej Al Ain,OWN_DELIVERY,,UAE
+TB_AE,26912,5f97c70059598e6f8e2d99b1-1,"Fereej Al Ain,Al Barsha 1",TLBT Dimension Plugin,15117,Fereej Al Ain,VENDOR_DELIVERY,,UAE
+TB_AE,37107,,"Fish & Co, Time Square Center ",TLBT Dimension Plugin,8295,Fish & Co.,OWN_DELIVERY,,UAE
+TB_AE,37111,61531be31d95fa3c3d53d736,"Fish & Co., Al Muraqqabat",TLBT Dimension Plugin,8295,Fish & Co.,OWN_DELIVERY,,UAE
+TB_AE,686710,5edf2c70b5f786316a2fff92-12,"Fourn Al Reef Al Lobnani by BPP, Al Rawda 2",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686724,5ee45650ec42a070fc2e4552-12,"Fourn Al Reef Al Lobnani by BPP, Al Taawun",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686714,5eddfe18c3284531fa078fd9,"Fourn Al Reef Al Lobnani by BPP, DIFC",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686571,5edd717838cc9c7be7516af2,"Fourn Al Reef Al Lobnani by BPP, Jumeirah Lakes Towers",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686718,5ed612da3eb8f75172356fa3,"Fourn Al Reef Al Lobnani by BPP, Khalidiya",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686711,5edbeec02c13e44ac86ed0e2-12,"Fourn Al Reef Al Lobnani by BPP, Khalifa B, Shakbout City",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686720,5eeb9a158d5bc03d5e43d29e,"Fourn Al Reef Al Lobnani by BPP, Khalifa City A",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686712,5edbcb985d7a7565e07d4711-12,"Fourn Al Reef Al Lobnani by BPP, Motorworld",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686716,5edb1bd0c83bda717f4e8352-12,"Fourn Al Reef Al Lobnani by BPP, Muroor",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686715,5edb3ef8fee9fb7de1368ba2-12,"Fourn Al Reef Al Lobnani by BPP, Mussafah",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686723,5edc7b618db2da64414d4b42-12,"Fourn Al Reef Al Lobnani by BPP, Samha 2",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,686717,5ed85de6c9c18d6a6e18b662-12,"Fourn Al Reef Al Lobnani by BPP, Yas Island",TLBT Dimension Plugin,653330,Fourn Al Reef Al Lobnani by BPP,OWN_DELIVERY,,UAE
+TB_AE,613537,5f7ecf74fa7f7c38c90d8e0c,"Freez - Crepes & Waffles, Madinat Khalifa - A (DH Kitchens)",TLBT Dimension Plugin,607677,Freez,OWN_DELIVERY,,UAE
+TB_AE,45355,5d7b9b1cc6aee4270469b582,"Freez,  Al Jaddaf",TLBT Dimension Plugin,18508,Freez,OWN_DELIVERY,,UAE
+TB_AE,660437,61852b9307f78348353063e6,"Freez, AIN AL FAIDAH",TLBT Dimension Plugin,613138,Freez,OWN_DELIVERY,,UAE
+TB_AE,20843,5d7b977c6af4b710ed7f37d2,"Freez, Al Barsha 2",TLBT Dimension Plugin,10636,Freez,OWN_DELIVERY,,UAE
+TB_AE,667786,62078c47fba7d551f777975c,"Freez, Al Dhahir",TLBT Dimension Plugin,613138,Freez,OWN_DELIVERY,,UAE
+TB_AE,663640,614f0879d1deea6563729ec3,"Freez, Al Hili",TLBT Dimension Plugin,639590,Freez,OWN_DELIVERY,,UAE
+TB_AE,20842,5d7b9a476af4b710f6522fb2,"Freez, Al Karama",TLBT Dimension Plugin,10635,Freez,OWN_DELIVERY,,UAE
+TB_AE,32201,5d7b9dffc6aee4272634e8f2,"Freez, Al Khawaneej 2",TLBT Dimension Plugin,18303,Freez,OWN_DELIVERY,,UAE
+TB_AE,21666,5d7ba0406af4b7111959fa52,"Freez, Al Muroor",TLBT Dimension Plugin,11146,Freez,OWN_DELIVERY,,UAE
+TB_AE,38300,5da8b582fcb6c315252d83e3,"Freez, Al Mwaihat 1",TLBT Dimension Plugin,10636,Freez,OWN_DELIVERY,,UAE
+TB_AE,49050,5d7ba3156af4b7111e3c46b2-1,"Freez, Al Qasimia",TLBT Dimension Plugin,27398,Freez,OWN_DELIVERY,,UAE
+TB_AE,22851,5d7b9961c6aee426f86aea92,"Freez, Al Quoz 1",TLBT Dimension Plugin,11981,Freez,OWN_DELIVERY,,UAE
+TB_AE,46569,5d7b98ac6af4b710f14cdff2,"Freez, Al Quoz 2",TLBT Dimension Plugin,10633,Freez,OWN_DELIVERY,,UAE
+TB_AE,697725,639b4fca327a09e22e0b9e9a,"Freez, Al Warqah",TLBT Dimension Plugin,18303,Freez,OWN_DELIVERY,,UAE
+TB_AE,660109,61841ddeb16d44237f2cf8e2,"Freez, Arjan",TLBT Dimension Plugin,27413,Freez,OWN_DELIVERY,,UAE
+TB_AE,639337,600d3d2d87bd8a7cbc0d10a5,"Freez, Mussafah",TLBT Dimension Plugin,625064,Freez,OWN_DELIVERY,,UAE
+TB_AE,49074,5d7b9ee7c6aee4272e482f23,"Freez, Nadd Al Hamar",TLBT Dimension Plugin,27413,Freez,OWN_DELIVERY,,UAE
+TB_AE,663740,61b640d27915455dfe3104c0,"Freez, Warsan, Warsan",TLBT Dimension Plugin,10635,Freez,OWN_DELIVERY,,UAE
+TB_AE,604516,tgo-109381,"Hatam - TGO, Deerfields Shahama,Shahama",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,16463,3999e4c4-fc0c-4a44-a0d4-e74c7d3b777d,Hatam Restaurant - Al Shamkha,TLBT Dimension Plugin,6865,Hatam Restaurant,VENDOR_DELIVERY,,UAE
+TB_AE,31871,9e558702-7a75-4b01-84cd-49902b740344,"Hatam Restaurant, Al Barsha 1",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,24299,6153151ce91ec00287028860,"Hatam Restaurant, Al Darari",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,13445,5c20c696-7084-4847-ae54-628aa601341a,"Hatam Restaurant, Deira",TLBT Dimension Plugin,6865,Hatam Restaurant,VENDOR_DELIVERY,,UAE
+TB_AE,13447,615310fd3592d8439219296f-1,"Hatam Restaurant, Ibn Batutta Mall",TLBT Dimension Plugin,6865,Hatam Restaurant,VENDOR_DELIVERY,,UAE
+TB_AE,31857,6152ff67f0eb0c72481511cc,"Hatam Restaurant, Masdar City",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,31865,b2c4bab4-2a76-46b7-9451-ecd8cfcefaf1,"Hatam Restaurant, Mirdif",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,31866,c12d418e-3b9e-4d8c-90b7-b624f25a8763,"Hatam Resturant, Tourist Club Area",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,31862,615303bb4f0a0f65dd214402,"Hatam, Al Khalidiyah Mall",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,31863,61530c50309cf275e5405e79,"Hatam, WTC,Al Markaziyah",TLBT Dimension Plugin,10510,Hatam Restaurant,OWN_DELIVERY,,UAE
+TB_AE,605488,61c163a4c9304d59ba5d2a1e,"Jamaica Blue ,Jebel Ali 1",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,692044,632c1c2f2ca5bcc10a093587,"Jamaica Blue, Al Ain Mall, Al Kuwaitat",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,702704,62552a6afab11ddae506eafb-1,"Jamaica Blue, Al Mizhar 1",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,702705,61c1665c67ed0c1ab1641483-1,"Jamaica Blue, Al Nahda",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,605101,61c164b9e9218817236d96a3,"Jamaica Blue, Al Safa",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,702959,61c165408a7ce257a1482ec5-1,"Jamaica Blue, Dubai Festival Plaza",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,702706,61c165c6a00457670a263848-1,"Jamaica Blue, Jumeirah Village Circle - JVC",TLBT Dimension Plugin,24064,Jamaica Blue,OWN_DELIVERY,,UAE
+TB_AE,13733,60a3c976e299c3778735a149,"Juice Palace Refreshments, Tawam",TLBT Dimension Plugin,7039,Juice Palace,OWN_DELIVERY,,UAE
+TB_AE,671755,61dd4d298bcfbd2181444146,"Keto Brothers, Al Khalidiyah",TLBT Dimension Plugin,644497,Keto Brothers,OWN_DELIVERY,,UAE
+TB_AE,680589,6230b40e613020111161252d,Kilo 9 - Dibba,TLBT Dimension Plugin,649687,Kilo 9,OWN_DELIVERY,,UAE
+TB_AE,689861,5eddfe18c3284531fa078fd9,"Lasagna & More, DIFC",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689865,5ee45650ec42a070fc2e4552-13,"Lasagna And More, Al Taawun",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689605,5edd717838cc9c7be7516af2,"Lasagna And More, Jumeirah Lakes Towers - JLT",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689858,5edb1bd0c83bda717f4e8352-13,"Lasagna and More, Al Etihad",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689856,5ed612da3eb8f75172356fa3,"Lasagna and More, Al Khalidiyah",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689864,5edc7b618db2da64414d4b42-13,"Lasagna and More, Al Samha 2",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689862,5edbcb985d7a7565e07d4711-13,"Lasagna and More, Al Shamkha",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689859,5edb3ef8fee9fb7de1368ba2-13,"Lasagna and More, ICAD",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689868,5eeb9a158d5bc03d5e43d29e,"Lasagna and More, Madinat Khalifa - A",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689869,5edbeec02c13e44ac86ed0e2-13,"Lasagna and More, Shakhbout City",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,689857,5ed85de6c9c18d6a6e18b662-13,"Lasagna and More, Yas Island",TLBT Dimension Plugin,655023,Lasagna And More,OWN_DELIVERY,,UAE
+TB_AE,674887,65979a27d9342ed30a0e31ac,"Mamas Grill Restaurant and Cafe, Tourist Club Area (Al Zahiya)",TLBT Dimension Plugin,646310,Mamas Grill Restaurant and Cafe,OWN_DELIVERY,,UAE
+TB_AE,693191,625b3f388e5f8be14506e763,"Meat Max Restaurant, Al Nahyan",TLBT Dimension Plugin,657056,Meat Max Restaurant,OWN_DELIVERY,,UAE
+TB_AE,22495,63b3c8e7944c58b80709bbfe,"Mughal E Azam , Dubai Media City",TLBT Dimension Plugin,11719,Mughal E Azam,OWN_DELIVERY,,UAE
+TB_AE,646545,60be27a079a60e3ee56f2b5e,"Pasta 2 Go, Mirdif",TLBT Dimension Plugin,22797,Pasta 2 Go,OWN_DELIVERY,,UAE
+TB_AE,686557,5edf2c70b5f786316a2fff92-4,"Perfect Pizza by BPP, Al Rawda 2",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686563,5ee45650ec42a070fc2e4552-4,"Perfect Pizza by BPP, Al Taawun",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686559,5eddfe18c3284531fa078fd9,"Perfect Pizza by BPP, DIFC",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,685862,5edd717838cc9c7be7516af2,"Perfect Pizza by BPP, Jumeirah Lakes Towers",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686552,5ed612da3eb8f75172356fa3,"Perfect Pizza by BPP, Khalidiya",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686564,5eeb9a158d5bc03d5e43d29e,"Perfect Pizza by BPP, Khalifa City A",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686555,5edbcb985d7a7565e07d4711-4,"Perfect Pizza by BPP, Motorworld",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686553,5edb1bd0c83bda717f4e8352-4,"Perfect Pizza by BPP, Muroor",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686551,5edb3ef8fee9fb7de1368ba2-4,"Perfect Pizza by BPP, Mussafah",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686554,5edc7b618db2da64414d4b42-4,"Perfect Pizza by BPP, Samha 2",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,686558,5ed85de6c9c18d6a6e18b662-4,"Perfect Pizza by BPP, Yas Island",TLBT Dimension Plugin,652922,Perfect Pizza by BPP,OWN_DELIVERY,,UAE
+TB_AE,689253,5edb1bd0c83bda717f4e8352-14,"Pizza Mania, Al Etihad",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689254,5ed612da3eb8f75172356fa3,"Pizza Mania, Al Khalidiyah",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689256,5edf2c70b5f786316a2fff92-14,"Pizza Mania, Al Rawda 2 Al Zahraa",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689257,5edbcb985d7a7565e07d4711-14,"Pizza Mania, Al Shamkha",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689262,5ee45650ec42a070fc2e4552-14,"Pizza Mania, Al Taawun",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689260,5eddfe18c3284531fa078fd9,"Pizza Mania, DIFC",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689255,5edb3ef8fee9fb7de1368ba2-14,"Pizza Mania, ICAD",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689141,5edd717838cc9c7be7516af2,"Pizza Mania, Jumeirah Lakes Towers",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689265,5eeb9a158d5bc03d5e43d29e,"Pizza Mania, Madinat Khalifa - A",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689259,5edbeec02c13e44ac86ed0e2-14,"Pizza Mania, Shakhbout City",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,689252,5ed85de6c9c18d6a6e18b662-14,"Pizza Mania, Yas Island",TLBT Dimension Plugin,654794,Pizza Mania,OWN_DELIVERY,,UAE
+TB_AE,686396,5edf2c70b5f786316a2fff92-2,"Public Calzone by BPP, Al Rawda 2",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686398,5ee45650ec42a070fc2e4552-2,"Public Calzone by BPP, Al Taawun",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686392,5eddfe18c3284531fa078fd9,"Public Calzone by BPP, DIFC",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,685201,5edd717838cc9c7be7516af2,"Public Calzone by BPP, Jumeirah Lakes Towers - JLT",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686388,5ed612da3eb8f75172356fa3,"Public Calzone by BPP, Khalidiya",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686395,5edbeec02c13e44ac86ed0e2-2,"Public Calzone by BPP, Khalifa B, Shakbout City",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686401,5eeb9a158d5bc03d5e43d29e,"Public Calzone by BPP, Khalifa City A",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686394,5edbcb985d7a7565e07d4711-2,"Public Calzone by BPP, Motorworld",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686390,5edb1bd0c83bda717f4e8352-2,"Public Calzone by BPP, Muroor",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686402,5edb3ef8fee9fb7de1368ba2-2,"Public Calzone by BPP, Mussafah",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686397,5edc7b618db2da64414d4b42-2,"Public Calzone by BPP, Samha 2",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,686389,5ed85de6c9c18d6a6e18b662-2,"Public Calzone by BPP, Yas Island",TLBT Dimension Plugin,652513,Public Calzone by BPP,OWN_DELIVERY,,UAE
+TB_AE,649263,6304b363e4b694142b03ee52,"Rolled Leaves Mahashi, Al Dafrah",TLBT Dimension Plugin,630584,ROLLED LEAVES MAHASHI,OWN_DELIVERY,,UAE
+TB_AE,711890,64ddd9d5ec2a3bee0b039816,"Sahtain Restaurant, Al Warqa 1",TLBT Dimension Plugin,666935,Sahtain Restaurant,OWN_DELIVERY,,UAE
+TB_AE,687665,5edf2c70b5f786316a2fff92-3,"Salads Festival by BPP, Al Rawda 2",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687667,5ee45650ec42a070fc2e4552-3,"Salads Festival by BPP, Al Taawun",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687661,5eddfe18c3284531fa078fd9,"Salads Festival by BPP, DIFC",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,685627,5edd717838cc9c7be7516af2,"Salads Festival by BPP, Jumeirah Lakes Towers",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687656,5ed612da3eb8f75172356fa3,"Salads Festival by BPP, Khalidiya",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687664,5edbeec02c13e44ac86ed0e2-3,"Salads Festival by BPP, Khalifa B, Shakbout City",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687670,5eeb9a158d5bc03d5e43d29e,"Salads Festival by BPP, Khalifa City A",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687662,5edbcb985d7a7565e07d4711-3,"Salads Festival by BPP, Motorworld",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687657,5edb1bd0c83bda717f4e8352-3,"Salads Festival by BPP, Muroor",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687658,5edb3ef8fee9fb7de1368ba2-3,"Salads Festival by BPP, Mussafah",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687666,5edc7b618db2da64414d4b42-3,"Salads Festival by BPP, Samha 2",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687659,5ed85de6c9c18d6a6e18b662-3,"Salads Festival by BPP, Yas Island",TLBT Dimension Plugin,652790,Salads Festival by BPP,OWN_DELIVERY,,UAE
+TB_AE,687896,5edb1bd0c83bda717f4e8352-10,"Sesame Pizza, Al Etihad",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687894,5ed612da3eb8f75172356fa3,"Sesame Pizza, Al Khalidiyah",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687908,5edf2c70b5f786316a2fff92-10,"Sesame Pizza, Al Rawda 2 Al Zahraa",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687903,5edc7b618db2da64414d4b42-10,"Sesame Pizza, Al Samha",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687901,5edbcb985d7a7565e07d4711-10,"Sesame Pizza, Al Shamkha",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687904,5ee45650ec42a070fc2e4552-10,"Sesame Pizza, Al Taawun",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687899,5eddfe18c3284531fa078fd9,"Sesame Pizza, DIFC",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687897,5edb3ef8fee9fb7de1368ba2-10,"Sesame Pizza, ICAD",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687841,5edd717838cc9c7be7516af2,"Sesame Pizza, Jumeirah Lakes Towers - JLT",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687907,5eeb9a158d5bc03d5e43d29e,"Sesame Pizza, Madinat Khalifa - A",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687902,5edbeec02c13e44ac86ed0e2-10,"Sesame Pizza, Shakhbout City",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,687895,5ed85de6c9c18d6a6e18b662-10,"Sesame Pizza, Yas Island",TLBT Dimension Plugin,654054,Sesame Pizza,OWN_DELIVERY,,UAE
+TB_AE,684153,60d824a78c164f16d826d169-2,"Shawayet Al Farooj, Al Majaz 1",TLBT Dimension Plugin,651859,Shawayet Al Farooj,OWN_DELIVERY,,UAE
+TB_AE,689655,60a8e2ef88386f4c0c75a58a-2,"Shawayet Al Farooj, Hor Al Anz",TLBT Dimension Plugin,651859,Shawayet Al Farooj,OWN_DELIVERY,,UAE
+TB_AE,689653,60dafa4e7705a663ef4f5268-2,"Shawayet Al Farooj, Manasir, Al Muwaiji",TLBT Dimension Plugin,651859,Shawayet Al Farooj,OWN_DELIVERY,,UAE
+TB_AE,689646,60db06852498467f361de7c7-2,"Shawayet Al Farooj, Tawam",TLBT Dimension Plugin,651859,Shawayet Al Farooj,OWN_DELIVERY,,UAE
+TB_AE,25931,62a0466d0f81d2d6870b9b52-1,"Shrimp Box, Al Zahra",TLBT Dimension Plugin,14319,Shrimp Box,OWN_DELIVERY,,UAE
+TB_AE,34682,60e43f3abe8deb472d5fce8c,"Skeek Restaurant, Sidroh",TLBT Dimension Plugin,19688,Skeek Restaurant,OWN_DELIVERY,,UAE
+TB_AE,634394,5edbcb985d7a7565e07d4711-6,"Society Lasagna Italy by BPP , Al Shawamekh",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634023,5ee45650ec42a070fc2e4552-6,"Society Lasagna Italy by BPP , Al Taawun",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634226,5eddfe18c3284531fa078fd9,"Society Lasagna Italy by BPP , DIFC",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634021,5eeb9a158d5bc03d5e43d29e,"Society Lasagna Italy by BPP , Madinat Khalifa - A",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634191,5edb3ef8fee9fb7de1368ba2-6,"Society Lasagna Italy by BPP , Mussafah",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634024,5ed85de6c9c18d6a6e18b662-6,"Society Lasagna Italy by BPP , Yas Island",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634015,5ed612da3eb8f75172356fa3,"Society Lasagna Italy by BPP ,Al Khalidiyah",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634190,5edb1bd0c83bda717f4e8352-6,"Society Lasagna Italy by BPP ,Al Mushrif",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634018,5edd717838cc9c7be7516af2,"Society Lasagna Italy by BPP ,Jumeirah Lakes Towers - JLT",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634025,5edf2c70b5f786316a2fff92-6,"Society Lasagna Italy by BPP, Al Rawda Ajman",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,634026,5ee7f6708b83eb55315eb20a,"Society Lasagna Italy by BPP, Nad Al Sheba 4",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,686242,5edc7b618db2da64414d4b42-6,"Society Lasagna Italy by BPP, Samha 2",TLBT Dimension Plugin,621642,Society Lasagna Italy by BPP,OWN_DELIVERY,,UAE
+TB_AE,685711,5ee45650ec42a070fc2e4552-5,"Stuffed Quesadilla by BPP, Al Taawun",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685721,5eddfe18c3284531fa078fd9,"Stuffed Quesadilla by BPP, DIFC",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685013,5edd717838cc9c7be7516af2,"Stuffed Quesadilla by BPP, Jumeirah Lakes Towers",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685712,5ed612da3eb8f75172356fa3,"Stuffed Quesadilla by BPP, Khalidiya",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685709,5edbeec02c13e44ac86ed0e2-5,"Stuffed Quesadilla by BPP, Khalifa B, Shakbout City",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685710,5eeb9a158d5bc03d5e43d29e,"Stuffed Quesadilla by BPP, Khalifa City A",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685706,5edbcb985d7a7565e07d4711-5,"Stuffed Quesadilla by BPP, Motorworld",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685714,5edb1bd0c83bda717f4e8352-5,"Stuffed Quesadilla by BPP, Muroor",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685715,5edb3ef8fee9fb7de1368ba2-5,"Stuffed Quesadilla by BPP, Mussafah",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685719,5edc7b618db2da64414d4b42-5,"Stuffed Quesadilla by BPP, Samha",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,685713,5ed85de6c9c18d6a6e18b662-5,"Stuffed Quesadilla by BPP, Yas Island",TLBT Dimension Plugin,652417,Stuffed Quesadilla by BPP,OWN_DELIVERY,,UAE
+TB_AE,709334,6435a237f0f4e7b8210f0574,"Sushi Box, Al Dhait South",TLBT Dimension Plugin,665532,Sushi Box ,OWN_DELIVERY,,UAE
+TB_AE,33913,6034a45f13f140427a636ed3,"Sushi Box, Al Shahba",TLBT Dimension Plugin,17912,Sushi Box,OWN_DELIVERY,,UAE
+TB_AE,54205,60aa5049cad5215a2b1c9a48,"Sushi Box, Khor Fakkan",TLBT Dimension Plugin,29280,Sushi Box,OWN_DELIVERY,,UAE
+TB_AE,649811,62090e9151804b667d76bcb4,"TROPICANO Cafe, Bani Yas East",TLBT Dimension Plugin,630942,TROPICANO Cafe,OWN_DELIVERY,,UAE
+TB_AE,681717,617665322c2e8e4a5379a3f4,"Tesela Honey, The Galleria Mall, Al Maryah Island",TLBT Dimension Plugin,650351,Tesela Honey,OWN_DELIVERY,,UAE
+TB_AE,708605,638d9e956950d0cbf20dbf6b,"Texas Fire Grill, Al Mizhar 1",TLBT Dimension Plugin,665096,Texas Fire Grill,OWN_DELIVERY,,UAE
+TB_AE,4589,61516baa1886a9751b07b538,"The Pizza Company , International City",TLBT Dimension Plugin,2576,The Pizza Company,VENDOR_DELIVERY,,UAE
+TB_AE,24314,61516ec2c7f5f268bc4b2a84,The Pizza Company - Al Darari,TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,31540,61516ac1f094a767e85507fe,"The Pizza Company, Al Barsha 2",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,4588,615168fbe4024974316189fa-1,"The Pizza Company, Al Khalidiyah",TLBT Dimension Plugin,2576,The Pizza Company,VENDOR_DELIVERY,,UAE
+TB_AE,31539,,"The Pizza Company, Al Khalidiyah",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,31542,615169917fa0eb11d5433264,"The Pizza Company, Al Mushrif",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,39178,,"The Pizza Company, Al Nasserya",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,31536,61516c91e30fe411812a6d32,"The Pizza Company, Al Rigga",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,20756,,"The Pizza Company, DWTC",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,31534,,"The Pizza Company, International City",TLBT Dimension Plugin,10583,The Pizza Company,OWN_DELIVERY,,UAE
+TB_AE,759916,638d9e956950d0cbf20dbf6b,"Tony Roma`s, Al Mizhar 1",TLBT Dimension Plugin,1404,Tony Romas,OWN_DELIVERY,,UAE
+TB_AE,643981,625e6759a4489ce8d10b5bad,"Tony Romas, Muwaileh Commercial",TLBT Dimension Plugin,16014,Tony Romas,OWN_DELIVERY,,UAE
+TB_AE,28391,625d225de76d968c81083563,"Tony Romas,Dubai Marina",TLBT Dimension Plugin,16014,Tony Romas,OWN_DELIVERY,,UAE
+TB_AE,600796,6107bca77413a2532457f185,"Urban Wok, The Galleria Mall, Al Maryah Island",TLBT Dimension Plugin,600391,Urban Wok Restaurant,OWN_DELIVERY,,UAE
+TB_AE,695417,642fcce66529479399085b35,"Villa Beirut, Al Ain Mall",TLBT Dimension Plugin,11458,Villa Beirut,OWN_DELIVERY,,UAE
+TB_AE,22113,642fcdb0e68d99e21501058c,"Villa Beirut, BreakWater",TLBT Dimension Plugin,11458,Villa Beirut,OWN_DELIVERY,,UAE
+TB_AE,608711,,"Villa Beirut, Mussafah",TLBT Dimension Plugin,11458,Villa Beirut,OWN_DELIVERY,,UAE
+TB_AE,628221,620e339f488860339c322b3a,"Yummy Burger, Al Jurf 2",TLBT Dimension Plugin,617761,Yummy Burger,OWN_DELIVERY,,UAE
+TB_AE,695954,61531eae450a07143468aef8,"Zaki Chan Restaurant, Al Quoz 1",TLBT Dimension Plugin,658574,Zaki Chan Restaurant,OWN_DELIVERY,,UAE
+TB_AE,621800,5f66e94eb368de4aad4c8659,"freez,Asharej",TLBT Dimension Plugin,613138,Freez,OWN_DELIVERY,,UAE

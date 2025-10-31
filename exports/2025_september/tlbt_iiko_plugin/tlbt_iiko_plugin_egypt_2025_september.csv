@@ -1,0 +1,6 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+HF_EG,697397,TMP-3f55752a-d8dd-46c4-9070-f89f6fab7685,Pizza Station-Fuel Up,TLBT iiko Plugin,625875,Pizza Station,VENDOR_DELIVERY,,Egypt
+HF_EG,503503,TGO-6455ecf2-51a3-4246-af10-9d82a2879c07,Vinny's Pizza - Maadi,TLBT iiko Plugin,502434,Vinny's Pizza,VENDOR_DELIVERY,,Egypt
+HF_EG,503502,TGO-ae84fbee-518a-4a14-aa22-89ea2982a062,Vinny's Pizza - Zamalek,TLBT iiko Plugin,502434,Vinny's Pizza,VENDOR_DELIVERY,,Egypt
+HF_EG,716032,TGO-2883c978-fac7-44cd-a7f3-ab16f0d55062,"Vinny's Pizza, Heliopolis - Heliopolis Square",TLBT iiko Plugin,502434,Vinny's Pizza,VENDOR_DELIVERY,,Egypt
+HF_EG,716031,TGO-a6ae1db1-1999-417c-9c94-615aefecc147,"Vinny's Pizza, Tagammoa 5 - Banafseg 5,6,7,8",TLBT iiko Plugin,502434,Vinny's Pizza,VENDOR_DELIVERY,,Egypt

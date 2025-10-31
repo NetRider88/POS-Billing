@@ -1,0 +1,5 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,774022,68933849326d261acd536130,"Joe And The Juice, Al Waab",TLBT Deliverect Plugin,697822,Joe & the Juice,OWN_DELIVERY,,Qatar
+TB_QA,764445,6825b3241e9b77e02287c7b4,"Joe and the Juice, Gharafa, Al Markhiya",TLBT Deliverect Plugin,697822,Joe & the Juice,OWN_DELIVERY,,Qatar
+TB_QA,764321,6825b34a7f255e9a803a2bfd,"Joe and the Juice, Lusail",TLBT Deliverect Plugin,697822,Joe & the Juice,OWN_DELIVERY,,Qatar
+TB_QA,764443,6825b37864ed153e0d1f90ab,"Joe and the Juice, Mathaf, Qatar Foundation",TLBT Deliverect Plugin,697822,Joe & the Juice,OWN_DELIVERY,,Qatar

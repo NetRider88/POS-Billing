@@ -1,0 +1,22 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,727349,46d4eb3b-451a-4f23-a710-dcc48c24e31d,"B LABAN, Al Zarqa",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,732430,31e16bed-8d18-48c8-b56e-1cec2bf974d9,"B LABAN, Tabarbour",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,727348,3f579213-c323-4d58-986a-0d308da37901,"B.LABAN, Al Madina St",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,751514,016a5311-1b67-4a31-bf04-2ead8e7b8ebb,"B.LABAN, Aqaba",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,727345,fe111fcf-c35c-40e8-9390-e77d70d7a143,"B.LABAN, Downtown",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,727347,aa16074c-1113-4916-a2f0-8f89ec6c77c3,"B.LABAN, Irbid",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,727346,77a646e7-ccb8-4812-8fbc-98c94ca0cdef,"B.LABAN, Radio and Television ",TLBT UrbanPiper Plugin,676012,B LABAN,OWN_DELIVERY,,Jordan
+TB_JO,748855,tgo-130296,"Bash Burger, Abdoun",TLBT UrbanPiper Plugin,688548,Bash Burger,OWN_DELIVERY,,Jordan
+TB_JO,717292,tgo-93002,"Bash Burger, Abdoun ",TLBT UrbanPiper Plugin,670014,Bash Burger,OWN_DELIVERY,,Jordan
+TB_JO,26653,tmp-84331,"Fame Restaurant, Abdoun",TLBT UrbanPiper Plugin,14904,Fame Restaurant,VENDOR_DELIVERY,,Jordan
+TB_JO,53946,tgo-83932,"Fame, Abdoun",TLBT UrbanPiper Plugin,14904,Fame Restaurant,OWN_DELIVERY,,Jordan
+TB_JO,630170,tgo-132376,"The Big Slice, Abdoun Al Shamali",TLBT UrbanPiper Plugin,6001,The Big Slice,OWN_DELIVERY,,Jordan
+TB_JO,703969,tgo-110063,"Trasimeno Coffee House ,Jubaiha",TLBT UrbanPiper Plugin,623342,Trasimeno Coffee House,OWN_DELIVERY,,Jordan
+TB_JO,764943,tgo-110064,"Trasimeno Coffee House, Al Rawabi",TLBT UrbanPiper Plugin,623342,Trasimeno Coffee House,OWN_DELIVERY,,Jordan
+TB_JO,727164,tgo-110065,"Trasimeno Coffee House, Eidoon",TLBT UrbanPiper Plugin,623342,Trasimeno Coffee House,OWN_DELIVERY,,Jordan
+TB_JO,636834,tgo-110066,"Trasimeno Coffee House, Mecca Street",TLBT UrbanPiper Plugin,623342,Trasimeno Coffee House,OWN_DELIVERY,,Jordan
+TB_JO,759100,tgo-135590,"Trasimeno Coffee House, Tla' Ali ",TLBT UrbanPiper Plugin,623342,Trasimeno Coffee House,OWN_DELIVERY,,Jordan
+TB_JO,738449,5e51f0bb-0bdb-4dc2-97b4-d617c82d18bd,"Wahmy, Al Muqabalain",TLBT UrbanPiper Plugin,682380,Wahmy,OWN_DELIVERY,,Jordan
+TB_JO,738450,c4c28b67-86f5-4521-b38c-efc0122eaa34,"Wahmy, Downtown",TLBT UrbanPiper Plugin,682380,Wahmy,OWN_DELIVERY,,Jordan
+TB_JO,738447,13a68744-e3a1-4692-acc2-21ceb32d3eb3,"Wahmy, Madina Street",TLBT UrbanPiper Plugin,682380,Wahmy,OWN_DELIVERY,,Jordan
+TB_JO,738448,ace7dfb9-b85f-44d8-962c-43768556768f,"Wahmy, Tabarbour",TLBT UrbanPiper Plugin,682380,Wahmy,OWN_DELIVERY,,Jordan

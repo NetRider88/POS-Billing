@@ -1,0 +1,16 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_BH,657451,41e64061-6cd8-4eb6-a218-f3684a75e1eb,"Asha's, Avenues Mall",Wi-Q,635686,Asha's,OWN_DELIVERY,,Bahrain
+TB_BH,658260,98130065-528f-4f36-9439-62cd7b15e923,"Asha's, City Center Seef",Wi-Q,636230,Asha's,OWN_DELIVERY,,Bahrain
+TB_BH,694586,1ebfff9d-5767-4f7a-8998-fc2c2992b938,"P.F. Chang's, City Center ,Seef",Wi-Q,657813,P.F. Chang's,OWN_DELIVERY,,Bahrain
+TB_BH,694585,e964d242-8195-4da6-9013-bf3f27ab389c,"PF Chang's, Avenues Mall, Bahrain Bay",Wi-Q,657812,P.F. Chang's,OWN_DELIVERY,,Bahrain
+TB_BH,689220,ed077999-c062-41fd-9fc2-1628355e9ea2,Pinkberry Avenues Mall Bahrain Bay,Wi-Q,654841,Pinkberry,OWN_DELIVERY,,Bahrain
+TB_BH,689298,dc42df81-46d2-457f-a200-41d9544b508a,Pinkberry City Center,Wi-Q,654872,Pinkberry,OWN_DELIVERY,,Bahrain
+TB_BH,689391,98783c38-69a9-4c93-b84f-a316f36e25a7,Pinkberry Seef Mall,Wi-Q,654910,Pinkberry,OWN_DELIVERY,,Bahrain
+TB_BH,724358,699ff316-5f34-4a9c-b909-393ac44f7880,"Pinkberry, Marassi, Diyar Al Muharraq",Wi-Q,654841,Pinkberry,OWN_DELIVERY,,Bahrain
+TB_BH,718993,70d38144-e7a2-4c3c-8646-b3166df2fa7e,"Raising Cane's, Al Janabiyah",Wi-Q,634352,Raising Cane's,OWN_DELIVERY,,Bahrain
+TB_BH,655371,29196c43-efb9-403c-98b4-0fd71991da4e,"Raising Cane's, Bahrain Bay, Seef",Wi-Q,634352,Raising Cane's,OWN_DELIVERY,,Bahrain
+TB_BH,655505,1e67fe02-d1c3-4423-8dfb-e16c8c7c4fad,"Raising Cane's, Bahrain Bay, The Avenues Mall",Wi-Q,634465,Raising Cane's,OWN_DELIVERY,,Bahrain
+TB_BH,654416,558d2043-932d-4aa1-b044-22b19ee8c8fd,"Shake Shack, Avenues Mall",Wi-Q,633730,Shake Shack,OWN_DELIVERY,,Bahrain
+TB_BH,654419,227058b0-1cb7-49b7-9dac-a7224e33950d,"Shake Shack, City Center",Wi-Q,633733,Shake Shack,OWN_DELIVERY,,Bahrain
+TB_BH,726567,0e19441e-02dc-41d7-b503-ee5c8aea19b9,"Shake Shack, Marassi Galleria Mall",Wi-Q,675573,Shake Shack,OWN_DELIVERY,,Bahrain
+TB_BH,705129,c3ccd4e9-b2ba-4ad5-866a-6a92a00ba166,"The Cheesecake Factory, Bahrain Bay",Wi-Q,663163,The Cheesecake Factory,OWN_DELIVERY,,Bahrain

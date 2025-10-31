@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block title %}Processing Results{% endblock %}
+
+{% block content %}
+  <h1 class="mt-5">Processing Summary</h1>
+  <div class="mt-4">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          {% for header in summary.columns %}
+          <th>{{ header }}</th>
+          {% endfor %}
+          <th>Download</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for index, row in summary.iterrows() %}
+        <tr>
+          {% for cell in row %}
+          <td>{{ cell }}</td>
+          {% endfor %}
+          <td><a href="{{ url_for('download_file', filename=row['CSV']) }}" class="btn btn-success">Download</a></td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+  <a href="{{ url_for('upload_file') }}" class="btn btn-primary mt-5">Upload another file</a>
+{% endblock %}

@@ -1,0 +1,369 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,775390,410@7_16,"Applebee`s, Abu Ftaira ",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772635,410@7_1,"Applebee`s, Abu Hasaniya",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772634,410@7_4,"Applebee`s, Al Qusour",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772636,410@7_5,"Applebee`s, Al-Qurain",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,747216,410@1346,"Applebee`s, Andalous TMP, Andalous",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,770204,410@1346_2,"Applebee`s, Ardhiya",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772639,410@7_2,"Applebee`s, Egaila",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775399,410@7_8,"Applebee`s, Fahad Al Ahmad",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775397,410@7_7,"Applebee`s, Fahaheel",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,770199,410@1346_5,"Applebee`s, Ferdous",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775394,410@7_9,"Applebee`s, Fintas",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,770196,410@1346_6,"Applebee`s, Ghornata ",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775395,410@7_10,"Applebee`s, Hadiya",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775396,410@7_11,"Applebee`s, Jaber Al Ali",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,747219,410@1372,"Applebee`s, Khairan TMP, Khairan",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775387,410@7_12,"Applebee`s, Mangaf",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,747217,410@1360,"Applebee`s, Mansouriya TMP, Mansouriya",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775392,410@7_13,"Applebee`s, Mubarak Al-Kabir",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,770202,410@1346_8,"Applebee`s, Nahda",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,770198,410@1346_10,"Applebee`s, Rabia",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772622,410@1346_11,"Applebee`s, Rehab",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775393,410@7_14,"Applebee`s, Riqqa",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772640,410@1346_13,"Applebee`s, Sabah Al-Nasser",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,775398,410@7_15,"Applebee`s, Sabahiya",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,772625,410@1346_14,"Applebee`s, Sulaibikhat",TLBT-KFG-SelfIntegration,410,Applebee's,VENDOR_DELIVERY,,Kuwait
+TB_KW,703466,630498@34_1,Burger King Sabah Industrial,TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,708582,630498@48_1,"Burger King, Al-Bedae",TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,710117,630498@49_1,"Burger King, Amgarah Industrial",TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,707873,630498@24_1,"Burger King, Dhajeej",TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,670810,630498@32,"Burger King, Julia",TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,708579,630498@43_1,"Burger King, Mansouriya",TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,670776,630498@217,"Burger King, Messila",TLBT-KFG-SelfIntegration,630498,Burger King,VENDOR_DELIVERY,,Kuwait
+TB_KW,750014,619189@1324_1,"Fley Fley,  Abdullah Al-Mubarak TMP, West Abdullah Al Mubarak",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750008,619189@1178_1,"Fley Fley,  North West Sulaibikhat TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750005,619189@1178_2,"Fley Fley,  Qairawan TMP, Jahra Qairawan - South Doha",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755259,619189@1311_7,"Fley Fley, Abu Ftaira TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637085,619189@66_1,"Fley Fley, Abu Halifa",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710626,619189@65_999,"Fley Fley, Adailiya ",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,755258,619189@1311_5,"Fley Fley, Adan TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710241,619189@1324,"Fley Fley, Andalous",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,752633,619189@1178_24,"Fley Fley, Andalous",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750006,619189@1178_5,"Fley Fley, Ashbeliah",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710628,619189@66_999,"Fley Fley, CRE Mall, Mahboula",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,755248,619189@69_2,"Fley Fley, Dasma TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752645,619189@66_10,"Fley Fley, Dhaher TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752634,619189@66_2,"Fley Fley, Egaila TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752637,619189@66_9,"Fley Fley, Fahad Al Ahmed TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750009,619189@1153_2,"Fley Fley, Faiha TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752636,619189@66_3,"Fley Fley, Fintas TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637086,1311_6,"Fley Fley, Fnaitess",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752644,619189@66_4,"Fley Fley, Hadiya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710627,619189@67_999,"Fley Fley, Hawally",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,716974,619189@1340,"Fley Fley, Jaber Al Ahmed",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,752649,619189@1340,"Fley Fley, Jaber Al Ahmed TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752642,619189@66_5,"Fley Fley, Jaber Al Ali TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755250,619189@71_2,"Fley Fley, Jabriya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710242,619189@68_999,"Fley Fley, Jahra (Kout) Complex",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,637087,619189@68_1,"Fley Fley, Jahra - Jahra Area",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752651,619189@1180_24,"Fley Fley, Jahra - Qasr",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750013,619189@1153_3,"Fley Fley, Kaifan TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710629,619189@697_999,"Fley Fley, Khairan",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,750000,619189@1153_1,"Fley Fley, Khaldiya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752639,619189@66_6,"Fley Fley, Mahboula TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752643,619189@66_7,"Fley Fley, Mangaf TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637091,1287_3,"Fley Fley, Mishrif",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750007,619189@1178_3,"Fley Fley, Nahda TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752641,619189@68_2,"Fley Fley, Nasseem TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752647,619189@68_3,"Fley Fley, Oyoun TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710625,619189@69_999,"Fley Fley, Qadisya,",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,750011,619189@1153_4,"Fley Fley, Qortuba TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750018,619189@1153_6,"Fley Fley, Rawda TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750017,619189@1178_4,"Fley Fley, Reggai",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752640,619189@66_8,"Fley Fley, Riqqa TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,752650,619189@1340_1,"Fley Fley, Saad Al Abdullah TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710631,619189@1311_999,"Fley Fley, Sabah Al Salem",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,752646,619189@66_11,"Fley Fley, Sabahiya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710630,619189@1287_999,"Fley Fley, Salwa",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,755249,69_12,"Fley Fley, Shamiya TMP,Shamiya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750002,619189@1153_7,"Fley Fley, Shuwaikh TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,710632,619189@71_999,"Fley Fley, Surra",TLBT-KFG-SelfIntegration,619189,FleyFley,OWN_DELIVERY,,Kuwait
+TB_KW,755265,1306 _5,"Fley Fley, Wafra farms TMP,Wafra farms",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754215,619189@68_4,"Fley Fley, Waha TMP, Jahra - Waha",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,750004,619189@1153_5,"Fley Fley, Yarmouk TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754224,619189@69_5,"FleyFley, Abdullah Al-Salem TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,630336,619189@65_1,"FleyFley, Adailiya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755238,619189@1311_8,"FleyFley, Al Masayel TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755253,619189@1311_1,"FleyFley, Al-Qurain TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755255,619189@1311_2,"FleyFley, Al-Qusour TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751186,619189@1178_11,"FleyFley, Ardhiya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755240,619189@1287_2,"FleyFley, Bayan TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754209,619189@69_4,"FleyFley, Bneid Al Qar TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754223,619189@69_3,"FleyFley, Daiya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751201,619189@1178_9,"FleyFley, Doha",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751196,619189@1186,"FleyFley, Fahaheel",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751180,619189@1178_15,"FleyFley, Ferdous",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751184,619189@1178_10,"FleyFley, Ghornata",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637082,619189@67_1,"FleyFley, Hawally",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754219,619189@67_2,"FleyFley, Hawally TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755263,1171_9,"FleyFley, Hitteen TMP,Hitteen",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751190,619189@1178_12,"FleyFley, Jahra - Sulaibiya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637089,619189@697_1,"FleyFley, Khairan",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751193,619189@1178_17,"FleyFley, Khaitan",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754217,619189@69_6,"FleyFley, Mansouriya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755251,619189@1287_1,"FleyFley, Mubarak Al-Abdullah - West Mishref TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755242,619189@1311_4,"FleyFley, Mubarak Al-Kabir TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754212,619189@68_6,"FleyFley, Nasseem TMP, Jahra - Nasseem",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754222,619189@69_8,"FleyFley, Nuzha TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751194,619189@1178_18,"FleyFley, Omariya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637080,619189@69_1,"FleyFley, Qadisya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754214,619189@69_10,"FleyFley, Qibla TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751195,619189@1178_19,"FleyFley, Rabiya",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751181,619189@1178_13,"FleyFley, Rai",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751198,619189@1178_6,"FleyFley, Rehab",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755246,619189@1287_4,"FleyFley, Rumaithiya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754226,619189@1311,"FleyFley, Sabah Al Salem TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751185,619189@1178_16,"FleyFley, Sabah Al-Nasser",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755244,619189@71_4,"FleyFley, Salam TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754218,619189@67_5,"FleyFley, Salmiya TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755245,619189@1287,"FleyFley, Salwa TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754210,619189@69_7,"FleyFley, Shaab TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754225,619189@69_9,"FleyFley, Sharq TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755264,619189@71_5,"FleyFley, Shuhada TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755262,619189@71_3,"FleyFley, Siddiq TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,751182,619189@1178_8,"FleyFley, Sulaibikhat",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,637084,619189@71_1,"FleyFley, Surra",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,754213,619189@68_5,"FleyFley, Taima TMP, Jahra - Taima",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,755266,619189@71_6,"FleyFley, Zahra TMP",TLBT-KFG-SelfIntegration,619189,FleyFley,VENDOR_DELIVERY,,Kuwait
+TB_KW,773197,672106@7_18,"IHOP, Abu Al Hasaniya",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,773196,672106@7_5,"IHOP, Al-Qurain",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,747198,672106@1346_1,"IHOP, Andalous tmp",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,770358,672106@1346_2,"IHOP, Ardhiya",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776261,672106@7_6,"IHOP, Dhaher",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,773198,672106@7_2,"IHOP, Egaila",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776256,672106@7_8,"IHOP, Fahad Al Ahmad",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776258,672106@7_7,"IHOP, Fahaheel",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,770360,672106@1346_5,"IHOP, Ferdous",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776253,672106@7_9,"IHOP, Fintas",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,770361,672106@1346_6,"IHOP, Ghornata",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776259,672106@7_10,"IHOP, Hadiya",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776262,672106@7_11,"IHOP, Jaber Al Ali",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,747194,672106@8_1,"IHOP, Jahra tmp, Jahra - Jahra Area",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,747199,672106@1372_1,"IHOP, Khairan tmp",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776257,672106@7_13,"IHOP, Mubarak Al-Kabir",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,770362,672106@1346_8,"IHOP, Nahda",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,770364,672106@1346_10,"IHOP, Rabia, Qibla",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,773185,672106@1346_11,"IHOP, Rehab",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776260,672106@7_14,"IHOP, Riqqa",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,773187,672106@1346_13,"IHOP, Sabah Al-Nasser",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,776254,672106@7_15,"IHOP, Sabahiya",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,773195,672106@1346_14,"IHOP, Sulaibikhat",TLBT-KFG-SelfIntegration,672106,IHOP,VENDOR_DELIVERY,,Kuwait
+TB_KW,749892,12@1324_2,"Kababji, Abdullah Al-Mubarak, West Abdullah Al Mubarak",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753864,12@69_5,"Kababji, Abdullah Al-Salem, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,5908,12@66,"Kababji, Abu Halifa",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710509,12@65_999,"Kababji, Adailiya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,753868,12@1311_1,"Kababji, Al-Qurain, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710240,12@1324,"Kababji, Andalous",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,5910,12@5910_1,"Kababji, Ardiya Industrial",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749894,12@1324_7,"Kababji, Ashbeliah",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753872,12@69_4,"Kababji, Bneid Al Qar, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710511,12@66_999,"Kababji, CRE MALL,Mahboula",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,753871,12@69_2,"Kababji, Dasma, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752509,12@66_10,"Kababji, Dhaher TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750727,12@1324_17,"Kababji, Doha",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750730,12@66_2,"Kababji, Egaila",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752519,12@66_9,"Kababji, Fahad Al Ahmed TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750713,12@66_1,"Kababji, Fahaheel",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749891,12@65_2,"Kababji, Faiha",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750719,12@1324_15,"Kababji, Farwaniya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750722,12@1324_9,"Kababji, Ferdous",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752505,12@66_3,"Kababji, Fintas TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750733,12@1324_18,"Kababji, Ghornata",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752500,12@66_4,"Kababji, Hadiya TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710513,12@67_999,"Kababji, Hawally",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,716142,12@1340,"Kababji, Jaber Al Ahmed",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,752508,12@66_5,"Kababji, Jaber Al Ali TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752522,12@68_2,"Kababji, Jahra - Nasseem TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752520,12@68_3,"Kababji, Jahra - Oyoun TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752504,12@68_1,"Kababji, Jahra - Qasr TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750726,12@1324_19,"Kababji, Jahra - Sulaibiya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750715,12@1324_8,"Kababji, Jeleeb Al-Shuyoukh",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749886,12@65_3,"Kababji, Kaifan",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,17139,12@697,"Kababji, Khairan",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710510,12@697_999,"Kababji, Khairan",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,750714,12@1324_11,"Kababji, Khaitan",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749893,12@65_1,"Kababji, Khaldiya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753873,12@69_6,"Kababji, Mansouriya, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,754513,12@1287_1,"Kababji, Mubarak Al-Abdullah TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749897,12@1324_5,"Kababji, Nahda",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753866,12@68_6,"Kababji, Nasseem, Jahra, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749889,12@1324_3,"Kababji, North West Sulaibikhat",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753870,12@69_8,"Kababji, Nuzha, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750724,12@1324_12,"Kababji, Omariya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710506,12@69_999,"Kababji, Qadsiya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,749896,12@1324_4,"Kababji, Qairawan, Jahra Qairawan - South Doha",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753874,12@69_10,"Kababji, Qibla, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750732,12@1324_13,"Kababji, Rabiya",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750723,12@1324_20,"Kababji, Rai",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749885,12@1324_6,"Kababji, Reggai",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750712,12@1324_14,"Kababji, Rehab",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,752506,12@66_8,"Kababji, Riqqa TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710508,12@1311_999,"Kababji, Sabah Al Salem",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,750725,12@1324_10,"Kababji, Sabah Al-Nasser",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710512,12@1287_999,"Kababji, Salwa",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,753861,12@69_7,"Kababji, Shaab, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753855,12@69_1,"Kababji, Shamiya, Shamiya, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753875,12@69_9,"Kababji, Sharq, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,749895,12@65_7,"Kababji, Shuwaikh",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,754508,12@71_3,"Kababji, Siddiq TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,750717,12@1324_16,"Kababji, Sulaibikhat",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710507,12@71_999,"Kababji, Surra",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,752514,12@68_5,"Kababji, Taima TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,754517,1306_3,"Kababji, Wafra Residential",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,747793,12@1306_1,"Kababji, Wafra TMP, Jahra Area",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,715463,12@1306,"Kababji, Wafra, Jahra",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,752521,12@68_4,"Kababji, Waha",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,753858,12@1311_3,"Kababji, West Abu Fetera, West Abu Fetera Small Indust, TMP",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,VENDOR_DELIVERY,,Kuwait
+TB_KW,710239,12@68_999,"Kababji,Jahra (Kout) Complex",TLBT-KFG-SelfIntegration,12,Kababji Lebanon,OWN_DELIVERY,,Kuwait
+TB_KW,670851,630500@91,"Pizza Hut,  Jeleeb Al-Shuyoukh,Jeleeb Al-Shuyoukh",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,708697,630500@107_1,"Pizza Hut, Al-Bedae",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,708689,630500@108_1,"Pizza Hut, Amgarah Industrial ",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,703485,630500@97_1,"Pizza Hut, Dhajeej",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,670840,630500@92,"Pizza Hut, Julia",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,708693,630500@109_1,"Pizza Hut, Messila",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,707157,630500@1165_2,"Pizza Hut, Shuwaikh Residential",TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,707164,630500@1165_3,Pizza Hut. Rai,TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,707165,630500@93_2,Pizza Hut. Sabhan Industrial,TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,670829,630500@78,Pizza hut - Aswaq Al Qurain,TLBT-KFG-SelfIntegration,630500,Pizza hut,VENDOR_DELIVERY,,Kuwait
+TB_KW,747957,643990@1307_1,"Subway Wafra TMP, Jahra - Jahra Area",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,695994,643990@1268,"Subway, Al Masayel",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,696247,643990@1272,"Subway, Al Sadiq",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,670748,643990@1219,"Subway, Al-Qurain ",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,685889,643990@1247,"Subway, Andalous",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685890,643990@1211,"Subway, Ardiya Dark Kitchen ,Ardiya Small Industrial",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,709613,643990@1322,"Subway, Baghdad St, Salmiya",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,693357,643990@1260,"Subway, Bayan Garden",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,699933,643990@1286,"Subway, CRE Mall - Mahboula",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,749851,643990@1246_2,"Subway, Dhajeej",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,685891,643990@1207,"Subway, Fahaheel 1 Dark Kitchen, Fahaheel",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,670750,643990@1246,"Subway, Farwaniya",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,685906,643990@1246,"Subway, Farwaniya",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685907,643990@1210,"Subway, Hawally",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,698713,643990@1283,"Subway, Hawally 2 Nugra Comple",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685894,643990@1238,"Subway, Jaber Al Ahmed",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685895,643990@1212,"Subway, Jabriya Dark Kitchen, Jabriya",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,736206,643990@1385_1,"Subway, Jahra - Taima",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685896,643990@1213,"Subway, Jahra Dark Kitchen, Jahra - Jahra Area",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685908,643990@1215,"Subway, Jeleeb Al-Shuyoukh",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685897,643990@1214,"Subway, Khairan Dark Kitchen, Sabah Al Ahmad Marine City",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685145,643990@1217,"Subway, Kuwait city-Dark Kitchen, Qibla",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,693359,643990@1261,"Subway, Mangaf",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685905,643990@1250,"Subway, Mishrif",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685899,643990@1218,"Subway, Omariya",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,718135,643990@1344,"Subway, Qadisiya",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,697523,643990@1278,"Subway, Qatar street, Salmiya",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,719207,643990@1351,"Subway, Qortuba",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685900,643990@1219,"Subway, Qurain Dark Kitchen, West Abu Fetera Small Indust",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,692481,643990@1256,"Subway, Rawda",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,693361,643990@1262,"Subway, Sabah Al Ahmad 1",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,705301,643990@1309,"Subway, Sabah Al Salem 2",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,749858,643990@1211_3,"Subway, Sabah Al-Nasser",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,685904,643990@1220,"Subway, Sabah Al-Salem",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,670754,643990@1222,"Subway, Salmiya 2 DK",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,693360,643990@1263,"Subway, Salwa Garden",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,690411,643990@1255,"Subway, Shaab",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,750563,643990@1217_2,"Subway, Shamiya TMP",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,696248,643990@1271,"Subway, Shuhada",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,689902,643990@1224,"Subway, Sulaibikhat",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,711909,643990@ 1331,"Subway, Um Al Hayman",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,753079,643990@753079,"Subway, Wafra Residential",TLBT-KFG-SelfIntegration,643990,Subway,VENDOR_DELIVERY,,Kuwait
+TB_KW,715468,643990@1307,"Subway, Wafra, Jahra Area",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,685893,643990@1209,"Subway,(DH Kitchen),Fnaitess",TLBT-KFG-SelfIntegration,643990,Subway,OWN_DELIVERY,,Kuwait
+TB_KW,752133,630497@122_10,"Taco Bell, Abdulla Al Salem TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753680,630497@991_5,"Taco Bell, Abu Fetera Small Indust, West Abu Fetera Small Indust, TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,662505,630497@120,"Taco Bell, Abu Halifa",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752122,630497@122_5,"Taco Bell, Adailiya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,749877,630497@120_2,"Taco Bell, Al-Ahmadi",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710443,630497@1095_999,"Taco Bell, Ardhiya",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,752127,630497@122_2,"Taco Bell, Benid Al Qar TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710442,630497@120_999,"Taco Bell, CRE MALL",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,752124,630497@122_4,"Taco Bell, Daiya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752125,630497@122_3,"Taco Bell, Dasma TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,749872,630497@120_5,"Taco Bell, Dhaher",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,749881,630497@120_6,"Taco Bell, Fahaheel",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752120,630497@122_8,"Taco Bell, Faiha TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753002,630497@458_5,"Taco Bell, Farwaniya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,649128,630497@991,"Taco Bell, Fnaitess",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710448,630497@991_999,"Taco Bell, Fnaitess",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,753686,630497@1254_1,"Taco Bell, Ghornata TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710440,630497@121_999,"Taco Bell, Hitteen",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,710447,630497@1163_999,"Taco Bell, Jabriya",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,662503,630497@1103,"Taco Bell, Jahra",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710238,630497@1103_999,"Taco Bell, Jahra (Kout) Complex",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,751294,630497@1103_2,"Taco Bell, Jahra - Nasseem",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,751295,630497@1103_1,"Taco Bell, Jahra - Qasr",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,749869,630497@1095_7,"Taco Bell, Jleeb Al Shoukh",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710446,630497@122_999,"Taco Bell, Kaifan",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,717064,630497@1347,"Taco Bell, Khairan",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,747783,630497@1347_1,"Taco Bell, Khairan TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752117,630497@122_6,"Taco Bell, Khaldiya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753684,630497@123_3,"Taco Bell, Maidan Hawally TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752131,630497@122_1,"Taco Bell, Mansouriya tmp",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753689,630497@991_1,"Taco Bell, Messila TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710445,630497@1253_999,"Taco Bell, Mishref",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,752986,630497@1253_1,"Taco Bell, Mubarak Al Abdullah TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753681,630497@1254_7,"Taco Bell, Nahda TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752118,630497@122_9,"Taco Bell, Nuzha",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710444,630497@458_999,"Taco Bell, Omariya",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,752119,630497@1103_3,"Taco Bell, Oyoun TMP, Jahra - Oyoun",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,751297,630497@1163_1,"Taco Bell, Qadsiya",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752996,630497@122_14,"Taco Bell, Qibla TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752995,630497@458_1,"Taco Bell, Rabiya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753003,630497@458_2,"Taco Bell, Rehab TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,749880,630497@1095_1,"Taco Bell, Riggai",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,710237,630497@1254_999,"Taco Bell, SULAIBIKHAT SPORTS CLUB",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,710236,630497@123_999,"Taco Bell, Salmiya",TLBT-KFG-SelfIntegration,630497,Taco Bell,OWN_DELIVERY,,Kuwait
+TB_KW,662495,630497@459,"Taco Bell, Salwa",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752994,630497@123_1,"Taco Bell, Shaab TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753000,630497@122_12,"Taco Bell, Shamiya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752990,630497@122_13,"Taco Bell, Sharq TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752992,630497@122_15,"Taco Bell, Shuwaikh TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,753678,630497@1254_6,"Taco Bell, Sulaibiya TMP",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,752129,630497@1103_6,"Taco Bell, Taima TMP, Jahra - Taima",TLBT-KFG-SelfIntegration,630497,Taco Bell,VENDOR_DELIVERY,,Kuwait
+TB_KW,660156,637178@73,"Wingstreet, Abdullah Al-Mubarak - West Jeleeb",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660158,637178@82,"Wingstreet, Abu Halifa, Mahboula",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660209,637178@74,"Wingstreet, Adailiya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660224,637178@76,"Wingstreet, Al-Qurain",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660181,637178@77,"Wingstreet, Andalous",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660194,637178@135,"Wingstreet, Ashbeliah",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660176,637178@78,"Wingstreet, Aswaq Al QURAIN",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660219,637178@79,"Wingstreet, Baghdad",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660162,637178@80,"Wingstreet, Bayan",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660168,637178@83,"Wingstreet, Dhaher",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,659781,637178@84,"Wingstreet, Fahaheel",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660172,637178@85,"Wingstreet, Faiha",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660179,637178@97,"Wingstreet, Farwaniya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660161,637178@86,"Wingstreet, Ferdous",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660218,637178@945,"Wingstreet, Fnaitess",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660197,637178@87,"Wingstreet, Hadiya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660222,637178@88,"Wingstreet, Hitteen",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660211,637178@89,"Wingstreet, Jaber Al Ali",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660205,637178@90,"Wingstreet, Jabriya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660192,637178@104,"Wingstreet, Jahar - Oyoun",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660193,637178@75,"Wingstreet, Jahra - Jahra Area",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660198,637178@102,"Wingstreet, Jahra - Nasseem",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660171,637178@108,"Wingstreet, Jahra - Saad Al Abdullah",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660170,637178@648,"Wingstreet, Jahra - Sulaibiya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660180,637178@91,"Wingstreet, Jeleeb Al-Shuyoukh",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660174,637178@1165,"Wingstreet, Kaifan",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660200,637178@1041,"Wingstreet, Khairan",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660167,637178@93,"Wingstreet, Khaitan",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660215,637178@95,"Wingstreet, Kuwait City",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660178,637178@98,"Wingstreet, Mahboula",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660213,637178@99,"Wingstreet, Mangaf",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660225,637178@100,"Wingstreet, Mansouriya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660190,637178@101,"Wingstreet, Mishrif",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660159,637178@103,"Wingstreet, Omariya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660188,637178@974,"Wingstreet, Qatar Street, Hawally",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660196,637178@1033,"Wingstreet, Reggai",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660160,637178@107,"Wingstreet, Rumaithiya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660206,637178@868,"Wingstreet, Sabah AL Ahmad Residential, Sabah Al Ahmad 1",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660223,637178@109,"Wingstreet, Sabah Al-Salem",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660191,637178@110,"Wingstreet, Sabahiya",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660169,637178@534,"Wingstreet, Salwa Co-op, Salwa",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,730610,637178@73_2,"Wingstreet, South Abdulla Al Mubarak",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660166,637178@115,"Wingstreet, Sulaibikhat",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660221,637178@116,"Wingstreet, Surra",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660204,637178@117,"Wingstreet, Tunis Street, Hawally",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait
+TB_KW,660189,637178@118,"Wingstreet, Umm Al Hayman",TLBT-KFG-SelfIntegration,637178,Wingstreet,VENDOR_DELIVERY,,Kuwait

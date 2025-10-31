@@ -1,0 +1,27 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,6086,9825,"Capri Italian Grill Restaurant, Sheikh Zayed Road 1",TLBT Sapaad Plugin,3216,Capri Italian Grill Restaurant,OWN_DELIVERY,,UAE
+TB_AE,672781,13996,"Chiki, Al Faseel",TLBT Sapaad Plugin,645076,Chiki,OWN_DELIVERY,,UAE
+TB_AE,660434,13266,"Chiki, Dibba",TLBT Sapaad Plugin,637575,Chiki,OWN_DELIVERY,,UAE
+TB_AE,680671,15313,"El Cocina, Business Bay",TLBT Sapaad Plugin,649734,El Cocina,OWN_DELIVERY,,UAE
+TB_AE,27673,2280,"Foo Man Choo, Al Wahdah,Al Wahdah TGO",TLBT Sapaad Plugin,10519,Foomanchoo,OWN_DELIVERY,,UAE
+TB_AE,719829,13515,"Gasheed And Maleh, Al Masoudi",TLBT Sapaad Plugin,13997,Gasheed And Maleh,OWN_DELIVERY,,UAE
+TB_AE,25545,9741,"Gasheed And Maleh, Al Yahar",TLBT Sapaad Plugin,13997,Gasheed And Maleh,OWN_DELIVERY,,UAE
+TB_AE,711616,12071,"High Wings, Jumeirah 1",TLBT Sapaad Plugin,666759,High Wings,OWN_DELIVERY,,UAE
+TB_AE,34712,8104,"Hot N Spicy, Business Bay",TLBT Sapaad Plugin,1192,Hot N Spicy,OWN_DELIVERY,,UAE
+TB_AE,1804,97,"Hot'n Spicy Restaurant, TECOM",TLBT Sapaad Plugin,1192,Hot N Spicy,OWN_DELIVERY,,UAE
+TB_AE,661706,15428,"Hyderabad House Restaurant, Al Rawda 2 Al Zahraa",TLBT Sapaad Plugin,638397,Hyderabad House Restaurant,OWN_DELIVERY,,UAE
+TB_AE,25003,6852,"Krave, Barsha Height - TECOM",TLBT Sapaad Plugin,13526,Krave,OWN_DELIVERY,,UAE
+TB_AE,24927,6851,"Krave, DIFC",TLBT Sapaad Plugin,13480,Krave,OWN_DELIVERY,,UAE
+TB_AE,688826,16055,"Krave, Deira, Dubai Chambers",TLBT Sapaad Plugin,13480,Krave,OWN_DELIVERY,,UAE
+TB_AE,29057,6273,"Krave, Dubai Motor City",TLBT Sapaad Plugin,16406,Krave,OWN_DELIVERY,,UAE
+TB_AE,642977,14761,"NYC Pizza, Jumeirah Lakes Towers - JLT",TLBT Sapaad Plugin,627198,NYC Pizza,OWN_DELIVERY,,UAE
+TB_AE,15064,2280,"Ortego's Deli, Al Wahdah",TLBT Sapaad Plugin,2386,Ortego's Deli,OWN_DELIVERY,,UAE
+TB_AE,39241,8461,"Shami Gourmet, Dubai Marina",TLBT Sapaad Plugin,2870,Shami Gourmet,OWN_DELIVERY,,UAE
+TB_AE,678517,15289,"Shami Gourmet, Dubai Production City",TLBT Sapaad Plugin,2870,Shami Gourmet,OWN_DELIVERY,,UAE
+TB_AE,621981,2280,"Sicilian Pizza, Al Dafrah",TLBT Sapaad Plugin,613275,Sicilian Pizza,OWN_DELIVERY,,UAE
+TB_AE,657062,11817,"Silk Restaurant, Al Shahba",TLBT Sapaad Plugin,635412,Silk Restaurant,OWN_DELIVERY,,UAE
+TB_AE,722840,11294,"Test - POS_Dummy_Store 3 - TGO, Jumeirah 3",TLBT Sapaad Plugin,673397,Test 3,OWN_DELIVERY,,UAE
+TB_AE,722844,10796,"Test - POS_Dummy_Store 4 - TMP, Jumeirah 3",TLBT Sapaad Plugin,673397,Test 3,OWN_DELIVERY,,UAE
+TB_AE,680212,7125,"This Is Hot Dog, Jumeirah Beach Residence ",TLBT Sapaad Plugin,649455,This Is Hot Dog,OWN_DELIVERY,,UAE
+TB_AE,637889,14349,"Yuki No Hana, Al Khawaneej 1",TLBT Sapaad Plugin,624046,Yuki No Hana,OWN_DELIVERY,,UAE
+TB_AE,649622,14624,"Yuki No Hana, Muwaileh Commercial",TLBT Sapaad Plugin,624046,Yuki No Hana,OWN_DELIVERY,,UAE

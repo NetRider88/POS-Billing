@@ -1,0 +1,59 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,665408,5baeacb7-2ccf-4c7b-8a57-445328356f57,Al Balad,TLBT GrubTech Plugin,640684,Al Balad,OWN_DELIVERY,,Jordan
+TB_JO,695868,4ae6effe-8e37-4623-98c2-b49fd084cc4a,AlMat3am,TLBT GrubTech Plugin,658520,AlMat3am,OWN_DELIVERY,,Jordan
+TB_JO,740122,958db17b-a4ac-4a07-999b-d5f0eaf31547,"Bas Burger, Al Rawabi",TLBT GrubTech Plugin,683373,Bas Burger,OWN_DELIVERY,,Jordan
+TB_JO,717353,7f2b9840-1bc6-4f8e-b25a-29dd4bea6759,"Chicken District, Abdoun",TLBT GrubTech Plugin,670054,Chicken District,OWN_DELIVERY,,Jordan
+TB_JO,743927,df29e891-a253-4c26-97f4-14fb4a7d8806,"Dilly Dally, Abdali",TLBT GrubTech Plugin,685626,Dilly Dally,OWN_DELIVERY,,Jordan
+TB_JO,751170,b58ce923-a721-4385-8622-790518547c04,"Eat Joy, Tla' Ali",TLBT GrubTech Plugin,689860,EatJoy,OWN_DELIVERY,,Jordan
+TB_JO,690623,dd13be7f-1ca5-4804-8b5d-73f843cb87d9,"Gold Burgers, Abdoun Al Shamali",TLBT GrubTech Plugin,655552,Gold Burgers,OWN_DELIVERY,,Jordan
+TB_JO,736837,9453c49d-52b3-472e-9d51-ef9b4a2f263e,Mix & Match by Casual Concepts,TLBT GrubTech Plugin,681416,Mix & Match by Casual Concepts,OWN_DELIVERY,,Jordan
+TB_JO,742993,615f6d11-b4cd-414b-af3e-106b8cf47227,"Mix & Match, Wadi El Seer",TLBT GrubTech Plugin,685078,Mix & Match,OWN_DELIVERY,,Jordan
+TB_JO,709629,c595f3d9-7bc9-4227-bef9-0cb6a2567bf4,"Nashmi, Al Muqabalain",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,709625,362db357-eddb-4769-8139-ebe4c89c89e4,"Nashmi, Al Sahel",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,736503,3d146e69-6d1c-4fea-88dd-46ff81c22967,"Nashmi, Dabouq",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,736393,e454622c-68fe-43b9-9bd9-f511c55e8a76,"Nashmi, Jubaiha",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,727414,eb614d3b-1273-4db3-ae9b-67cec467270e,"Nashmi, Marj Al-Hamam",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,727415,2ad8425c-bdbe-4166-87a8-c8c917a053fd,"Nashmi, Medina Street",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,709627,5243b10f-5cd1-4244-976e-9fe0441c1474,"Nashmi, Tabarbour",TLBT GrubTech Plugin,665669,Nashmi,OWN_DELIVERY,,Jordan
+TB_JO,653304,4e27c9a3-7767-49e4-89c2-f73bf4d3cf1b,"Nidal Al Kalha , Uni Street",TLBT GrubTech Plugin,633055,Nidal Al Kalha,OWN_DELIVERY,,Jordan
+TB_JO,40030,61fe5760-72c9-493f-9bac-6006185b025b,"Nidal AlKalha, Abu Nseir",TLBT GrubTech Plugin,20744,Nidal AlKalha,OWN_DELIVERY,,Jordan
+TB_JO,36543,8d5697ba-f3b7-4c82-ad70-ceb534c20b53,"Nidal AlKalha, Al Sahel",TLBT GrubTech Plugin,20744,Nidal AlKalha,OWN_DELIVERY,,Jordan
+TB_JO,36686,76a41e05-be55-45d1-9b1d-28c3ea5dd90a,"Nidal AlKalha, Jubaiha",TLBT GrubTech Plugin,20744,Nidal AlKalha,OWN_DELIVERY,,Jordan
+TB_JO,36542,6d3cf92d-e510-4046-911a-f116c56c0fa7,"Nidal AlKalha, Khalda",TLBT GrubTech Plugin,20744,Nidal AlKalha,OWN_DELIVERY,,Jordan
+TB_JO,40029,cad40a56-0b43-403b-b60b-088c0663502e,"Nidal AlKalha, Swelieh",TLBT GrubTech Plugin,20744,Nidal AlKalha,OWN_DELIVERY,,Jordan
+TB_JO,687332,f36bc687-d52c-4a92-9101-dee8718e4b98,"Nidal Alkalha, Al Dababneh",TLBT GrubTech Plugin,624750,Nidal Alkalha,OWN_DELIVERY,,Jordan
+TB_JO,638872,2c1f18ba-29b5-434a-b973-55acfa0de176,"Nidal Alkalha, Al Yasmeen",TLBT GrubTech Plugin,624750,Nidal Alkalha,OWN_DELIVERY,,Jordan
+TB_JO,714195,27bb83b3-6988-4d0f-bcf5-d6da29932a05,"Nidal Alkalha, Tabarbour ",TLBT GrubTech Plugin,624750,Nidal Alkalha,OWN_DELIVERY,,Jordan
+TB_JO,686351,204c095f-71c9-4ee8-8317-b166304d6fb3,"Nidal Alkalha, Um El Summaq",TLBT GrubTech Plugin,624750,Nidal Alkalha,OWN_DELIVERY,,Jordan
+TB_JO,751362,38816602-7309-46f7-b4b5-67cde868bbf4,"OAKBERRY Acai, Al Swaifyeh",TLBT GrubTech Plugin,689946,OAKBERRY Acai,OWN_DELIVERY,,Jordan
+TB_JO,765865,24ea693c-6668-4c12-b13f-44933b74a5a5,"OAKBERRY Acai, Dabouq",TLBT GrubTech Plugin,689946,OAKBERRY Acai,OWN_DELIVERY,,Jordan
+TB_JO,626304,1c23b7e0-c4fa-4893-97f2-7a08488642be,"Original Bowl, Al Swaifyeh ",TLBT GrubTech Plugin,600969,Original Bowl,VENDOR_DELIVERY,,Jordan
+TB_JO,718255,859f0f80-fa09-4bd3-abd4-c5fa791a3679,"Qahwa BLK, 5B Mall",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,700720,b1978316-023d-42a7-ad8d-0bd91555543f,"Qahwa BLK, 7th Circle",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,648300,4277da78-4be0-4e6d-bf53-3b72523f8e59,"Qahwa BLK, Abdali",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,638332,5b65f8e0-327e-42b5-8b9a-acd861206f99,"Qahwa BLK, Abdoun",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,741477,6dee1b84-db16-4668-933f-11b7da338532,"Qahwa BLK, Abdoun Circle",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,757956,1e77685e-ec59-4314-804b-a28ce1623f55,"Qahwa BLK, Airport Road - Madaba Bridge",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,751122,3af66167-ecbf-4089-ad17-eee8fd5157b3,"Qahwa BLK, Al Bayader",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,757960,91fc96d3-e898-4c37-9b1a-42517724e9b0,"Qahwa BLK, Al Hurriyah",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,741478,ec76782e-aa09-43a5-b7ab-a0ec2dca52ab,"Qahwa BLK, Al Swaifyeh",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,694337,a587c672-6004-4f0e-8830-2f68e4db7635,"Qahwa BLK, Al Zarqa Al Jadeedeh",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,659773,fd3b2e3b-610a-45f2-929b-335d045dd477,"Qahwa BLK, Fuhais",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,708303,985fd05c-d16c-4a89-8f11-abbd7c3fb9f3,"Qahwa BLK, Khalda",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,681022,f19fb541-1069-4859-8ddb-393500b23bc1,"Qahwa BLK, Kia Showroom",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,728568,f83cac7f-58cf-4465-8596-511d8141a28d,"Qahwa BLK, Madinat Al Hussein",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,676764,804fde4c-548d-4e89-857d-dac4dec66f92,"Qahwa BLK, Sports City",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,741480,8561e83d-c69e-4e6e-a74a-ab8b002a560f,"Qahwa BLK, University Street",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,747051,9a4a9b68-d092-4a91-ba1f-4687192756fb,"Qahwa BLK, University Street 2",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,751167,c84ed78e-d9f9-40a6-becc-f9ab54c55c4a,"Qahwa BLK, Wadi Saqra HQ",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,766377,df7f779c-7039-11f0-bddd-325096b39f47,"Qahwa BLK, Wadi Saqra Total",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,726819,f5b4dabe-9447-455b-9668-bc5e4e9831b4,"Qahwa BLK, Zarqa Autostrad",TLBT GrubTech Plugin,624381,Qahwa BLK,OWN_DELIVERY,,Jordan
+TB_JO,742974,18e51f1a-14cd-464d-99ec-31b4e3cf103a,"Raw, Al Sina'a",TLBT GrubTech Plugin,685061,Raw,OWN_DELIVERY,,Jordan
+TB_JO,747340,d15884bd-b083-4fe3-a3a3-385c95acf796,"Saj Basha, Jabal Amman",TLBT GrubTech Plugin,687646,Saj Basha,OWN_DELIVERY,,Jordan
+TB_JO,705591,e5296326-3589-4528-8d5e-5b44d12479a5,"Steak One & Co,Abdoun",TLBT GrubTech Plugin,663406,Steak One & Co,OWN_DELIVERY,,Jordan
+TB_JO,708253,9745bbd1-2d30-47ac-83cd-5cc584a443f4,"The OB Breakfast,Abdoun",TLBT GrubTech Plugin,664878,The OB Breakfast,OWN_DELIVERY,,Jordan
+TB_JO,702198,9ce0b0e6-f77d-4a51-8c17-f2bbe8d4743d,"The Original Burger, Abdoun",TLBT GrubTech Plugin,661670,The Original Burger,OWN_DELIVERY,,Jordan
+TB_JO,718307,e52f2458-1f04-4704-ad59-7c229dd5d2fa,"The Salad Studio, Abdoun ",TLBT GrubTech Plugin,670647,The Salad Studio,OWN_DELIVERY,,Jordan
+TB_JO,650600,8d3a944b-d533-4ffb-8cfa-5782cf3bab31,"Tiny Box, Abdoun",TLBT GrubTech Plugin,631468,Tiny Box,OWN_DELIVERY,,Jordan
+TB_JO,760724,4a560a62-e82f-4315-8080-839b18b6b327,"Urban Shawerma, Abdoun Al Shamali",TLBT GrubTech Plugin,695452,Urban Shawerma,OWN_DELIVERY,,Jordan
+TB_JO,739983,7d957e48-b433-4e34-858b-d7e8bc1f9068,"WRAP IT, Al Rawabi",TLBT GrubTech Plugin,683289,WRAP IT,OWN_DELIVERY,,Jordan

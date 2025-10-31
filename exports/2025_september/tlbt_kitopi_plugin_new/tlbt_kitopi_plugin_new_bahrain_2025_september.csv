@@ -1,0 +1,65 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_BH,764565,1809d8a4-19a5-41e8-b6ae-9110df9ccb0a,"Awani, Diyar Al Muharraq",TLBT Kitopi Plugin -New,697983,Awani,OWN_DELIVERY,,Bahrain
+TB_BH,759548,3ef89613-0181-450f-8658-41dcedcaa2ad,"BUNDAY - Breakfast Buns & Toasties, Adliya,Adliya",TLBT Kitopi Plugin -New,694712,BUNDAY - Breakfast Buns & Toasties,OWN_DELIVERY,,Bahrain
+TB_BH,770055,8243863c-c323-47f8-b994-36fe51b680e3,"BUNDAY - Breakfast Buns & Toasties, Zayed town",TLBT Kitopi Plugin -New,694712,BUNDAY - Breakfast Buns & Toasties,OWN_DELIVERY,,Bahrain
+TB_BH,739059,608702a6-31f3-4e06-b28a-bfbfb4c0ac40,"Batch Cookies, Adliya",TLBT Kitopi Plugin -New,682733,Batch Cookies,OWN_DELIVERY,,Bahrain
+TB_BH,739008,14cbc7dd-6410-4b32-a363-1b91cb1784b5,"Batch Cookies, Zayed Town",TLBT Kitopi Plugin -New,682733,Batch Cookies,OWN_DELIVERY,,Bahrain
+TB_BH,735789,0e21de86-dfbe-4446-8926-0ce838b327b2,"Biryani Pot, Adliya",TLBT Kitopi Plugin -New,680829,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,Bahrain
+TB_BH,735784,a5f22648-e37b-4186-95bd-cc52ea14cfb2,"Biryani Pot, Zayed Town",TLBT Kitopi Plugin -New,680829,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,Bahrain
+TB_BH,15904,97fc3288-5ff0-46f1-ac94-f31f2132d466,Box It - Adliya,TLBT Kitopi Plugin -New,1945,Box It,OWN_DELIVERY,,Bahrain
+TB_BH,17680,a19b61a8-9ced-4756-ae38-849588c84816,Box It - Zayed Town,TLBT Kitopi Plugin -New,1945,Box It,OWN_DELIVERY,,Bahrain
+TB_BH,43213,db8672e7-d15b-4a08-9616-54c4f8df6eae,"Box It, Saar",TLBT Kitopi Plugin -New,1945,Box It,OWN_DELIVERY,,Bahrain
+TB_BH,605147,dd4590f8-7690-40cb-94f5-1dfd73d18cb7,"Eet Fresh, Adliya",TLBT Kitopi Plugin -New,25101,Eet Fresh,OWN_DELIVERY,,Bahrain
+TB_BH,44765,d76ff5b2-20f5-452d-8541-9009b2145854,"Eet Fresh, Saar",TLBT Kitopi Plugin -New,25101,Eet Fresh,OWN_DELIVERY,,Bahrain
+TB_BH,50224,b33e41e1-1ecc-4221-a06e-36c8def79d24,"Eet Fresh, Zayed Town",TLBT Kitopi Plugin -New,25101,Eet Fresh,OWN_DELIVERY,,Bahrain
+TB_BH,741634,c9cd69bc-24d0-4bdc-8cca-7f0b63188a2b,"Go! Pasta, Adliya",TLBT Kitopi Plugin -New,684296,Go! Pasta,OWN_DELIVERY,,Bahrain
+TB_BH,741767,a86efe01-3de8-445a-b45f-8e7c05d0b8cc,"Go! Pasta, Zayed Town",TLBT Kitopi Plugin -New,684296,Go! Pasta,OWN_DELIVERY,,Bahrain
+TB_BH,723384,2d31e0bf-02e3-4794-8fee-974e9f6edeb3,"Hot Bun Sliders, Adliya",TLBT Kitopi Plugin -New,673749,Hot Bun Sliders,OWN_DELIVERY,,Bahrain
+TB_BH,723381,ca7a3067-e269-4a0b-a009-bb72b7b31590,"Hot Bun Sliders, Zayed Town",TLBT Kitopi Plugin -New,673749,Hot Bun Sliders,OWN_DELIVERY,,Bahrain
+TB_BH,672522,0b831bd8-5ef4-4a1e-882f-8c26f5379d1b,"IHOP, Adliya",TLBT Kitopi Plugin -New,644940,IHOP,OWN_DELIVERY,,Bahrain
+TB_BH,678293,f4b5679f-c9dd-4bfd-812d-34a09f9459a1,"IHOP, Zayed Town",TLBT Kitopi Plugin -New,644940,IHOP,OWN_DELIVERY,,Bahrain
+TB_BH,678833,08b87f3a-aa55-4034-9ab1-cd30d28f59f0,"Ichiban Sushi, Adliya",TLBT Kitopi Plugin -New,648596,Ichiban Sushi,OWN_DELIVERY,,Bahrain
+TB_BH,721942,ea7f7bf5-9070-4e0c-af6a-c844de8f871e,"Ichiban Sushi, Zayed Town",TLBT Kitopi Plugin -New,648596,Ichiban Sushi,OWN_DELIVERY,,Bahrain
+TB_BH,669622,82ad297a-df0f-4f0f-a842-2a98018f2bcf,"Japang, Adliya",TLBT Kitopi Plugin -New,643281,Japang,OWN_DELIVERY,,Bahrain
+TB_BH,673321,e8baf846-874e-46b3-9c6b-ca26bfa4aca6,"Japang, Zayed Town",TLBT Kitopi Plugin -New,643281,Japang,OWN_DELIVERY,,Bahrain
+TB_BH,741116,7742a7b0-ae60-42fd-97af-5de810df62b7,"Lotsa! Lazy Cake, Adliya",TLBT Kitopi Plugin -New,640749,Lotsa! Lazy Cake,OWN_DELIVERY,,Bahrain
+TB_BH,741117,d0aa05f8-b84b-4d98-9be3-9b18bbd77156,"Lotsa! Lazy Cake, Zayed Town",TLBT Kitopi Plugin -New,640749,Lotsa! Lazy Cake,OWN_DELIVERY,,Bahrain
+TB_BH,746631,586cbf68-1a23-4c9b-a71c-ef6352757bb9,"Luca's Panouzzo, Adliya",TLBT Kitopi Plugin -New,687255,Luca's Panouzzo - Italian Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,746633,c13d37b0-bbf4-4971-bf90-e3a4c2c1ca0e,"Luca's Panouzzo, Zayed Town",TLBT Kitopi Plugin -New,687255,Luca's Panouzzo - Italian Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,669624,17e683e4-7f4e-4209-b5a1-88f58da97bfc,"Luca, Adliya",TLBT Kitopi Plugin -New,643284,Luca - Italian Pizza & Pasta,OWN_DELIVERY,,Bahrain
+TB_BH,688681,e755ed08-e1c5-4c80-8664-91227244fe7c,"Luca, Zayed Town",TLBT Kitopi Plugin -New,643284,Luca - Italian Pizza & Pasta,OWN_DELIVERY,,Bahrain
+TB_BH,710902,bdc431ea-89e0-49e9-8501-4307c933677e,Mr Beast Burger,TLBT Kitopi Plugin -New,666313,Mr Beast Burger,OWN_DELIVERY,,Bahrain
+TB_BH,712050,56b50489-d3d2-46ab-a48d-8de5a4054ae4,"Mr Beast Burger, Adliya",TLBT Kitopi Plugin -New,666313,Mr Beast Burger,OWN_DELIVERY,,Bahrain
+TB_BH,34738,d3d4d2d5-f1b6-4bd2-be40-8e037b58bd17,"PREPT RESTAURANT, Adliya",TLBT Kitopi Plugin -New,16266,Prept Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,30399,3f569484-e041-4f8c-9933-8a194173d100,"PREPT RESTAURANT, Saar",TLBT Kitopi Plugin -New,16266,Prept Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,29745,59f40c6f-ffbc-4766-b8f4-e7745b214ec0,"PREPT RESTAURANT, Zayed Town",TLBT Kitopi Plugin -New,16266,Prept Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,736594,704a2352-0195-4281-aaba-a2cb7d7712f8,"Pizzaro, Adliya",TLBT Kitopi Plugin -New,681289,Pizzaro,OWN_DELIVERY,,Bahrain
+TB_BH,736596,d8968936-17d0-473e-bd89-dac4430ee892,"Pizzaro, Zayed Town",TLBT Kitopi Plugin -New,681289,Pizzaro,OWN_DELIVERY,,Bahrain
+TB_BH,759557,9393e2b3-11e1-409e-92d9-a091446cc0b2,"Poke Poke, Adliya",TLBT Kitopi Plugin -New,694714,Poke Poke,OWN_DELIVERY,,Bahrain
+TB_BH,672451,687bb554-797b-4e9a-9f93-90df86b550a9,"Right Bite, Adliya",TLBT Kitopi Plugin -New,644904,Right Bite,OWN_DELIVERY,,Bahrain
+TB_BH,672450,4dc050d8-bb16-47e7-8ae4-25711da340ba,"Right Bite, Zayed Town",TLBT Kitopi Plugin -New,644904,Right Bite,OWN_DELIVERY,,Bahrain
+TB_BH,739292,536c61fb-dae6-47bc-b114-436b85d7ca89,"Spiros, Adliya",TLBT Kitopi Plugin -New,682900,Spiro's - Greek Bowls andPitas,OWN_DELIVERY,,Bahrain
+TB_BH,739293,7f15f120-d435-4d2b-92f5-148576e09a20,"Spiros, Zayed Town",TLBT Kitopi Plugin -New,682900,Spiro's - Greek Bowls andPitas,OWN_DELIVERY,,Bahrain
+TB_BH,718040,ffcedf2a-184c-4428-a601-425e680b989b,"Sushi Counter, Adliya",TLBT Kitopi Plugin -New,670498,Sushi Counter,OWN_DELIVERY,,Bahrain
+TB_BH,721988,efefd9e7-f53d-4f37-966a-5f6cb3e2aece,"Sushi Counter, Zayed Town",TLBT Kitopi Plugin -New,670498,Sushi Counter,OWN_DELIVERY,,Bahrain
+TB_BH,50215,2f9f0dc1-df95-46e9-bdf6-cbbdbc061e83,"Tacos & Burritos, Zayed Town",TLBT Kitopi Plugin -New,24800,Tacos And Burritos,OWN_DELIVERY,,Bahrain
+TB_BH,604565,795141cd-aae6-4f86-827b-f242ebabdb20,"Tacos And Burritos, Adliya",TLBT Kitopi Plugin -New,24800,Tacos And Burritos,OWN_DELIVERY,,Bahrain
+TB_BH,47492,b2977579-7709-4129-80d6-1300fc0860cb,"Tacos And Burritos, Saar",TLBT Kitopi Plugin -New,24800,Tacos And Burritos,OWN_DELIVERY,,Bahrain
+TB_BH,672442,0cbd2cac-a14f-40ff-9bb3-3b4310f3b484,"Tarator, Juffair",TLBT Kitopi Plugin -New,644898,Tarator,OWN_DELIVERY,,Bahrain
+TB_BH,669626,e2eb3ecd-8e79-430d-b3cf-f80c276e2075,"Tawook Nation, Juffair",TLBT Kitopi Plugin -New,643280,Tawook Nation,OWN_DELIVERY,,Bahrain
+TB_BH,669580,1eced182-f963-461a-903b-349a5970b39f,"Tawook Nation, Marassi, Galleria Mall",TLBT Kitopi Plugin -New,643280,Tawook Nation,OWN_DELIVERY,,Bahrain
+TB_BH,752967,54ccafc2-f470-48dc-a698-b03b9de54ad8,"The Breakfast Shop, Adliya",TLBT Kitopi Plugin -New,690717,The Breakfast Shop,OWN_DELIVERY,,Bahrain
+TB_BH,752591,15c51e90-39fd-4b3d-b36b-fca855ab6e12,"The Breakfast Shop, Zayed Town",TLBT Kitopi Plugin -New,690717,The Breakfast Shop,OWN_DELIVERY,,Bahrain
+TB_BH,683166,829b373f-b458-48ee-be9d-91314d1d7632,"Under 3BD, Adliya",TLBT Kitopi Plugin -New,651255,Under 3BD,OWN_DELIVERY,,Bahrain
+TB_BH,683169,6ef1b630-300e-4b86-85ce-ad5a3ae6ca2d,"Under 3BD, Zayed Town",TLBT Kitopi Plugin -New,651256,Under 3BD,OWN_DELIVERY,,Bahrain
+TB_BH,610857,da4e761b-f28f-4538-9f0b-a1c25505444e,"Urban Slice Pizza, Adliya",TLBT Kitopi Plugin -New,3078,Urban Slice Pizza,OWN_DELIVERY,,Bahrain
+TB_BH,610856,fb385382-c41e-4a0d-87d2-b4e8f2971d0b,"Urban Slice, Zayed Town",TLBT Kitopi Plugin -New,3078,Urban Slice Pizza,OWN_DELIVERY,,Bahrain
+TB_BH,643137,e4358cb5-6a49-49af-a282-ab852e24898f,"What Noodles, Adliya",TLBT Kitopi Plugin -New,617381,What Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,632345,e1d947c3-6880-4f5b-8463-5a0eff5f530e,"What Noodles, Saar,Saar",TLBT Kitopi Plugin -New,617381,What Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,632346,69646e19-c953-440e-9cb3-fea34014ef26,"What Noodles, Zayed Town",TLBT Kitopi Plugin -New,617381,What Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,746634,1789e8f6-0a1e-4670-b468-94c44cdb304a,"Wise Spice by Right Bite, Adliya",TLBT Kitopi Plugin -New,687257,Wise Spice by Right Bite,OWN_DELIVERY,,Bahrain
+TB_BH,746635,779be7da-0854-49d0-b6ea-2db4fcdbbd6e,"Wise Spice by Right Bite, Zayed Town",TLBT Kitopi Plugin -New,687257,Wise Spice by Right Bite,OWN_DELIVERY,,Bahrain
+TB_BH,729095,d9115b62-2f48-45d8-94a3-921d0cd3acfd,"Wokkong - Chinese Noodles & Fried Rice, Zayed Town",TLBT Kitopi Plugin -New,676989,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,Bahrain
+TB_BH,729094,5ee4fc83-0bec-42ea-a60d-deb361f9ed06,"Wokkong - Chinese Noodles & Fried Rice,Adliya",TLBT Kitopi Plugin -New,676989,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,Bahrain
+TB_BH,672440,e5725fa2-d13d-4a88-88e2-53147a1bfe23,"Zaroob, Juffair",TLBT Kitopi Plugin -New,644897,Zaroob,OWN_DELIVERY,,Bahrain
+TB_BH,683572,8ffa53f3-8050-4d0a-a6ef-874ecee71192,"Zaroob, Marassi Galleria Mall",TLBT Kitopi Plugin -New,644897,Zaroob,OWN_DELIVERY,,Bahrain

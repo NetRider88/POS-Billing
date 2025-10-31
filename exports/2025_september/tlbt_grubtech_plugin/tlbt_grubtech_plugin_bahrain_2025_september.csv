@@ -1,0 +1,309 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_BH,767095,97b579da-4b50-424a-8de0-d82018c64586,Acai Rush,TLBT GrubTech Plugin,699557,Acai Rush,OWN_DELIVERY,,Bahrain
+TB_BH,49073,6e36d982-5462-4624-b2e8-8cee9e1c457f,"Arabica, Bahrain Bay",TLBT GrubTech Plugin,27411,Arabica,OWN_DELIVERY,,Bahrain
+TB_BH,658459,6ca4a0e4-5a4c-4dee-9883-cc4a20990cb1,"Arabica, Riffa Alshamali North Riffa",TLBT GrubTech Plugin,27411,Arabica,OWN_DELIVERY,,Bahrain
+TB_BH,49071,38b101dc-c33a-466a-8121-ea5b852c9a06,"Arabica, Seef",TLBT GrubTech Plugin,27411,Arabica,OWN_DELIVERY,,Bahrain
+TB_BH,737312,7c12d6c3-50f5-40df-aad7-edf73b7e48b3,"Bacon Smash Burgers, Arad",TLBT GrubTech Plugin,681728,Bacon Smash Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737317,4b3d72a4-e66a-459d-b7eb-3f5b95f56703,"Bacon Smash Burgers, Bahrain City Center, Sea Front City Center",TLBT GrubTech Plugin,681728,Bacon Smash Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737316,21eab706-241f-43d4-85a9-684c2efb67ca,"Bacon Smash Burgers, Jid Ali",TLBT GrubTech Plugin,681728,Bacon Smash Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737320,d4057c18-3857-4b9e-a281-de042762c917,"Bacon Smash Burgers, Juffair",TLBT GrubTech Plugin,681728,Bacon Smash Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737319,5a3cf09b-fba0-44f2-b674-515f7140c2d7,"Bacon Smash Burgers, Riffa Alshamali",TLBT GrubTech Plugin,681728,Bacon Smash Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737318,81d6d273-2a93-4a1c-89c3-d5628b21e094,"Bacon Smash Burgers, Saar",TLBT GrubTech Plugin,681728,Bacon Smash Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,695510,87210daa-934e-42ea-a7c3-341e34bf07d1,"Blaze Restaurant, Adhari",TLBT GrubTech Plugin,15720,Blaze Burger,OWN_DELIVERY,,Bahrain
+TB_BH,605939,07e66b9d-788d-491c-a14e-0fc29dde5345,"Blaze Restaurant, Aljanabiyah",TLBT GrubTech Plugin,15720,Blaze Burger,OWN_DELIVERY,,Bahrain
+TB_BH,40799,ef86235c-63c6-4855-a3c9-1e63c2d672f3,"Blaze, Diyar Almuharraq",TLBT GrubTech Plugin,15720,Blaze Burger,OWN_DELIVERY,,Bahrain
+TB_BH,773763,676e632f-d068-4d66-9554-95635f2abfd3,"Breakfast Tacos & Burritos, Malkiya",TLBT GrubTech Plugin,703601,Breakfast Tacos & Burritos,OWN_DELIVERY,,Bahrain
+TB_BH,33254,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Buchos Restauratnt, Juffair",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,33252,,"Buchos Restauratnt, Riffa, West Riffa",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,33253,f8613e13-358b-45fc-92eb-caa0871c2275,"Buchos Restauratnt, Saar",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,630300,,"Buchos, Arad",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,773259,,"Buchos, Bahrain City Center,Manama Center",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,708743,57427e00-5bf7-4135-83a7-7a9f23721112,"Buchos, Isa Town",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,743298,f97309de-ca2d-468b-b63a-ccbb597dc2f9,"Buchos, Madinat Hamad Hamad Town",TLBT GrubTech Plugin,18922,Buchos,OWN_DELIVERY,,Bahrain
+TB_BH,722766,,"BurgerStop, Arad",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,722767,,"BurgerStop, Bahrain City Center, Sea Front City Center",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,743225,e0fae6ea-431a-4305-8e2f-7f5eb4c3534f,"BurgerStop, Hamad Town",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,722768,f3557c07-4602-4fa9-b7ba-5eaf7327cc20,"BurgerStop, Jid Ali",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,722747,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"BurgerStop, Juffair",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,722764,,"BurgerStop, Riffa, Riffa Views",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,722765,74c4e012-4afd-4868-889a-02d1280cc2b1,"BurgerStop, Saar",TLBT GrubTech Plugin,673340,Burger Stop,OWN_DELIVERY,,Bahrain
+TB_BH,773750,e4016556-44d3-419d-b4d8-d9e2b1e7c3a7,"Burrito Boys, Malkiya",TLBT GrubTech Plugin,703589,Burrito Boys,OWN_DELIVERY,,Bahrain
+TB_BH,769034,1de4b86c-5add-474f-a947-d12ee16a33bf,"By Kojo, AlJuffair",TLBT GrubTech Plugin,698000,By Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,769033,cf383f61-9bc3-4c3e-9245-66e5973e6a13,"By Kojo, Amwaj",TLBT GrubTech Plugin,698000,By Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,769035,36e175b5-8470-4bce-b71a-782af9e3bb4f,"By Kojo, Saar",TLBT GrubTech Plugin,698000,By Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,769032,bbfab335-8fdf-4a0d-acd0-a58af1f38f9b,"By Kojo, Zallaq",TLBT GrubTech Plugin,698000,By Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,764585,d9e56766-09da-4e8c-a56a-52ab8b78bb83,"By Kojo, Zayed Town",TLBT GrubTech Plugin,698000,By Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,660884,34671341-0570-4a9d-8800-443c6f869df2,"Charleys, Al Sayh",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,649251,0922a1bd-df11-4fc3-95c7-54a32fb220ad,"Charleys, Alreem centre",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,703457,,"Charleys, Busaiteen1-",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,34343,174efc66-2301-4f0d-980d-0543d99fd6d2,"Charleys, Dragon City Bahrain",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,698154,dc569d9b-265b-46c4-9f4f-5e74f46a46fb,"Charleys, North Riffa",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,34344,e81c9853-b2f8-4939-ac07-4b1d1b7b4519,"Charleys, Saar",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,34345,8d7e00a5-bcf5-4af1-9d63-1c714724bccf,"Charleys, Sea Front, City Center",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,672098,619ee5ea-3acd-4e0e-b5d3-90743f4ed5a5,"Charleys, Zallaq",TLBT GrubTech Plugin,1183,Charleys,OWN_DELIVERY,,Bahrain
+TB_BH,715636,,"Chicken FilYay, Arad",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,743304,71d4d20a-985e-4691-8dfa-f23e25cba487,"Chicken FilYay, Hamad Town, Madinat Hamad Hamad Town",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,715635,c0b93f16-6178-491f-9647-7448a081110a,"Chicken FilYay, Jid Ali",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,715556,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Chicken FilYay, Juffair",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,715634,,"Chicken FilYay, Riffa, East Riffa",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,715637,f6fa1320-d84c-4f1e-925f-baa4d5f4a356,"Chicken FilYay, Saar",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,720114,,"Chicken FilYay, Sea Front City Center",TLBT GrubTech Plugin,668962,Chicken FilYay,OWN_DELIVERY,,Bahrain
+TB_BH,717130,c61f8c86-e243-421d-8420-191cee716178,"Chicket, Al Sayh",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,746381,6a230ac6-d90f-4106-85d7-d2a52bd84162,"Chicket, AlJuffair",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,602964,ee872fec-0f9a-4fbe-988c-bec9e69e8af8,"Chicket, Alhajiyat",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,720376,a54553d3-0743-414c-b962-5c8abc884ac1,"Chicket, Arad",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,775926,b93b54d5-e4a4-484b-9656-2411f910bafc,"Chicket, East Riffa",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,648512,da191eaf-3185-4632-90d5-ee7f429efbc4,"Chicket, Galaly",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,19112,9a83d0ed-fcea-41c5-9f45-a96a82e45afe,"Chicket, Hamad Town",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,699467,d84b76fc-d597-48ac-b095-b3185e5ad626,"Chicket, Hidd",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,706402,33d92b1c-45f1-4226-bc89-fa483e4e3604,"Chicket, Isa Town",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,666120,b83098a1-3064-4a16-b71a-2e36a8c3f37e,"Chicket, Jannusan",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,694999,dd0d1d32-4591-453a-8575-ff86aa3e4fe9,"Chicket, Malkiya",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,35199,6ecd864e-19d8-4c7f-a347-c94ca67e510f,"Chicket, Manama Center",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,657030,457c7732-8c5a-4769-b8b5-eec6e4e2b842,"Chicket, Muharraq",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,652098,c3100bf2-9659-40b9-a4b6-394c01418828,"Chicket, Sitra Al Kharijiya",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,713579,b7d0e9df-acae-43ad-b732-92ed4f1733ac,"Chicket, Tubli",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,47994,4875d693-cf55-43ef-a25b-2e2cbdba5998,"Chicket,Jidhafs",TLBT GrubTech Plugin,9531,Chicket,OWN_DELIVERY,,Bahrain
+TB_BH,704928,,"Chickeys, Al Sayh",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,660906,83956aec-6352-4aa7-8c1d-86019e289166,"Chickeys, Al Sayh 1",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,703179,,"Chickeys, Al Sayh3",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,34007,8727b1f2-ae4a-46e4-b3d1-ca3a3b9d5ec9,"Chickeys, Alsayh2",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,34006,3a6ba7f0-03b5-412b-8b9e-1fcb4c5269d4,"Chickeys, Dragon City Bahrain",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,704923,e8d01c5b-c8b6-4705-8d10-dcec15f40396,"Chickeys, Jannusan",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,697980,b53e8e02-5612-4d5c-b8b8-bb72f147976e,"Chickeys, North Riffa",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,38128,3820eea8-07ae-43ae-97f5-2e5bd2069965,"Chickeys, Saar",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,682999,45274273-1aae-4524-b6ec-c04e31e8fb5f,"Chickeys, Zallaq",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,34008,793e0b2d-227a-41c2-819e-df0b63410d07,"Chickeys, al reem centre",TLBT GrubTech Plugin,1130,Chickeys,OWN_DELIVERY,,Bahrain
+TB_BH,737315,ec8f0c6c-5004-453a-af8e-854bc42194aa,"Deboned, Busaiteen",TLBT GrubTech Plugin,681731,Deboned,OWN_DELIVERY,,Bahrain
+TB_BH,746750,8ed1a934-d67a-4c87-9550-161a7a13bd5e,"Deboned, Janabiya, Saar",TLBT GrubTech Plugin,681731,Deboned,OWN_DELIVERY,,Bahrain
+TB_BH,738666,41492109-5c60-4a6f-81c5-e7b3b09a2921,"Deboned, Riffa",TLBT GrubTech Plugin,681731,Deboned,OWN_DELIVERY,,Bahrain
+TB_BH,771057,679e3fce-40f8-48e7-b092-9b61ab1560c3,"Deboned, Umm Al Hassam",TLBT GrubTech Plugin,681731,Deboned,OWN_DELIVERY,,Bahrain
+TB_BH,771188,08a49cde-0138-4c66-87a0-37e95c83882e,"Diet & Training Club, Malkiya",TLBT GrubTech Plugin,702103,Diet & Training Club,OWN_DELIVERY,,Bahrain
+TB_BH,771193,75d62469-9fa3-46ce-80c4-4817a660cd57,"Diet Express, Malkiya",TLBT GrubTech Plugin,702108,Diet Express,OWN_DELIVERY,,Bahrain
+TB_BH,715641,,"Drip Burger, Arad",TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,715640,,"Drip Burger, East Riffa",TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,743297,dd4352ef-45ed-4df0-8c0d-7f9a4ba47cb1,"Drip Burger, Hamad Town",TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,715639,b7c6d27c-2951-4236-97e2-f2e8f8f4487d,"Drip Burger, Jid Ali",TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,715558,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Drip Burger, Juffair",TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,720115,,"Drip Burger, Sea Front City Center",TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,715642,855dcaaf-e28f-493d-a335-4916fc9f8960,Drip Burger. Saar,TLBT GrubTech Plugin,668963,Drip Burger,OWN_DELIVERY,,Bahrain
+TB_BH,773764,5eefde66-c977-490a-a898-383186442e38,"El Burrito Bowl, Malkiya",TLBT GrubTech Plugin,703602,El Burrito Bowl,OWN_DELIVERY,,Bahrain
+TB_BH,745129,096c37d9-8cf0-4cd0-a3da-a0e6637fb457,"Farouj Abu Alabd, AlJuffair",TLBT GrubTech Plugin,686310,Farouj Abu Alabd,OWN_DELIVERY,,Bahrain
+TB_BH,745130,a493657e-38eb-4aeb-a5cd-c0da818999c8,"Farouj Abu Alabd, Madinat Hamad Hamad Town",TLBT GrubTech Plugin,686310,Farouj Abu Alabd,OWN_DELIVERY,,Bahrain
+TB_BH,745131,00469dc9-3baf-4c5d-980a-9fbebc5925ca,"Farouj Abu Alabd, Saar",TLBT GrubTech Plugin,686310,Farouj Abu Alabd,OWN_DELIVERY,,Bahrain
+TB_BH,745125,2823fa80-536d-454d-80c6-175db4e8776d,"Farouj Abu Alabd, Sanad",TLBT GrubTech Plugin,686310,Farouj Abu Alabd,OWN_DELIVERY,,Bahrain
+TB_BH,704932,de87ceae-fc6e-49a8-9fe7-c47ef6fa1bb5,"Flame Burger, Al Sayh",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,703265,de87ceae-fc6e-49a8-9fe7-c47ef6fa1bb5,"Flame Burger, Al Sayh 2",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,660907,9c06f5f2-e6cf-4ff6-b300-be3e9723ff9f,"Flame Burger, Al Sayh1",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,672101,,"Flame Burger, Busaiteen1",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,691496,f9d8b7fc-82c2-4ee7-8e39-8263f04a78bc,"Flame Burger, Diyar Al Muharraq",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,698200,76a207dd-279e-48e5-9212-adfcafbbbd83,"Flame Burger, North Riffa",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,611978,9516d5f1-1c33-4e36-b820-f27fedb208ae,"Flame Burger, Saar",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,683262,,"Flame Burger, Zallaq",TLBT GrubTech Plugin,606683,Flame Burger,OWN_DELIVERY,,Bahrain
+TB_BH,630334,,"Flamethrower Shawarma, Arad",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,708744,8401dd53-f693-452e-9c0e-2da7db53faad,"Flamethrower Shawarma, Isa Town",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,773268,,"Flamethrower Shawarma, Manama Center",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,743938,985b91a7-47cd-4625-902e-60508ee0f947,"Flamethrower Shawarma, Sadad",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,612670,,"Flamethrower Shawarma, West Riffa",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,605464,bc96bbf3-140b-49ae-9aa5-3c4340bca304,"Flamethrower Shawarma, saar",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,40263,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Flamethrower Shawarma,Al Juffair",TLBT GrubTech Plugin,22676,Flamethrower Shawarma,OWN_DELIVERY,,Bahrain
+TB_BH,771182,63730ecf-1892-4b27-890f-7390b9518322,"GENERATION ACAI, Malkiya",TLBT GrubTech Plugin,702100,GENERATION ACAI,OWN_DELIVERY,,Bahrain
+TB_BH,771187,81c8a09d-b6df-408b-9d80-4994e7d0d18c,"GENERATION SALAD, Malkiya",TLBT GrubTech Plugin,702102,GENERATION SALAD,OWN_DELIVERY,,Bahrain
+TB_BH,33239,,"Gold Label Burgers Restaurant, West Riffa",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,33241,1690dfdb-1d91-4f55-8d6e-21abae24ba33,"Gold Label Burgers Restaurant, saar",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,630338,,"Gold Label Burgers, Arad",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,743257,4e9cbcbb-b9ae-45f7-8094-c9228a6e6c9d,"Gold Label Burgers, Hamad Town",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,708753,1b111244-20d2-44c6-8a56-fbd99baaf669,"Gold Label Burgers, Isa Town",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,33240,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Gold Label Burgers, Juffair",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,715360,,"Gold Label Burgers, Manama Center",TLBT GrubTech Plugin,18912,Gold Label Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,770106,42dc5de2-5d85-47ce-a7e8-cf75f1797498,"Good Pasta, Malkiya",TLBT GrubTech Plugin,701484,Good Pasta,OWN_DELIVERY,,Bahrain
+TB_BH,773751,9b3a6832-adbc-4089-ac61-204418122a15,"Good Tacos, Malkiya",TLBT GrubTech Plugin,703590,Good Tacos,OWN_DELIVERY,,Bahrain
+TB_BH,776914,37d03cf5-b4f1-4d02-a0a1-a4243ce1ace9,"HATCH CHICKEN, Malkiya",TLBT GrubTech Plugin,705559,HATCH CHICKEN,OWN_DELIVERY,,Bahrain
+TB_BH,771177,f10f30b8-a005-456b-84e6-f5f778c21885,"HEALTHY YU, Malkiya",TLBT GrubTech Plugin,702097,HEALTHY YU,OWN_DELIVERY,,Bahrain
+TB_BH,776906,365aed02-f43d-44cd-ad46-a02e23a91378,"HUMBLE BURGERS, Malkiya",TLBT GrubTech Plugin,705552,HUMBLE BURGERS,OWN_DELIVERY,,Bahrain
+TB_BH,776911,3a38c221-70c6-487d-8ee5-b68dae43d158,"Habanero`s Tex – Mex – Grill, Malkiya ",TLBT GrubTech Plugin,705556,Habanero`s Tex – Mex – Grill,OWN_DELIVERY,,Bahrain
+TB_BH,732455,454c96e9-0735-4afc-9990-4f3394d9e1c8,Hamandi Mandi by Pastries on the Fly,TLBT GrubTech Plugin,642642,Hamandi Mandi by Pastries on the Fly,OWN_DELIVERY,,Bahrain
+TB_BH,776908,216be444-4055-4f1c-b4e7-0b662bea1e28,"JUNKYARD, Malkiya ",TLBT GrubTech Plugin,705553,JUNKYARD,OWN_DELIVERY,,Bahrain
+TB_BH,730389,4cd663d2-6e64-4a1a-9779-ae1633a4c450,"Jasmi's, Al Dair",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,728444,3fa15caf-2a96-42e8-8b7b-fa12ea1d096e,"Jasmi's, Al Janabiya",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,49890,66561275-5a7d-4dab-8d5e-ac0076669e88,"Jasmi's, Al Najmah",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,728445,7fb350f6-d6e3-4249-a77d-0933abda3918,"Jasmi's, Alsalmaniya",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,756981,8b33fb0d-ff06-41b2-a9ee-ac19e0b8fa06,"Jasmi's, Dana Mall, Sanabis",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703382,48c45881-744a-4c40-b8af-4af8524ed0a3,"Jasmi's, Diyar Al Muharraq",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703413,b714f1db-89e9-40a6-b2c6-edabe1ac8879,"Jasmi's, Hamala",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703403,b2a5f712-2f60-4065-b8e3-c0f9d572fd89,"Jasmi's, Hidd",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,678548,7ea98bb0-e204-43e5-81fb-5d8c4d281f36,"Jasmi's, Jid Ali ",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,758862,c5e57706-9dbc-4997-a529-66a3925bae42,"Jasmi's, Manama Car Park",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703459,a8b642bd-68da-4a70-a36d-f8000b457b72,"Jasmi's, Ramez Alhajiyat",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,772438,91f1e70a-007b-43d5-894b-261978d3db6a,"Jasmi`s , Muharraq",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,50740,bd4d17c9-eb28-4715-b44c-d3d47bb35fc6,"Jasmi`s, AMA Square Plaza",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703400,55c039eb-944e-44d6-b8de-9698952aabdd,"Jasmi`s, Al Sayh",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,49889,46be5d7e-4257-409d-98b7-f8d980c78aac,"Jasmi`s, Arad 1",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,756978,fa4b9b6c-9a3a-41ef-96fd-1a11cba6ccda,"Jasmi`s, Askar,Askar",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703385,88c21d8a-e541-4069-8db4-8ae3b0a963a9,"Jasmi`s, Awali",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,764857,97c05211-1edc-4692-b15d-fcfbe5eee401,"Jasmi`s, Bu Quwah",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,764656,4767bbbb-9253-454b-9109-1b497b761d52,"Jasmi`s, Diplomat,Manama Center",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,764649,7b8ced2f-e94e-425c-9224-6ddf844ff101,"Jasmi`s, District,Al Janabiyah",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,49823,f5b1cc16-0faa-4f3e-b424-00cce9fe2350,"Jasmi`s, Exhibition Road",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,50976,5cd73d05-7332-44a8-ba9a-77cb13c50a6a,"Jasmi`s, Saar",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,51943,ba622861-37e0-4127-8fcf-dd8bb2cebdb3,"Jasmi`s, Saar Plaza",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,703404,c450fb76-bb94-436d-91ab-61cc0f85becd,"Jasmi`s, Salman City",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,50743,db4e81d4-4b77-4c8a-b9cd-9aa999b85820,"Jasmi`s, Tubli",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,769933,4dd16a77-fa35-4d9e-bc94-f138bce16095,"Jasmi`s, West Riffa 2,Riffa Alshamali North Riffa",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,49891,91193f19-6d31-422e-8052-1ed95637d8c0,"Jasmi`s, Zallaq",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,51947,296120f5-9e41-41b3-be31-33aa2ec2dddf,"Jasmis, Seef mall",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,5447,65da39f4-e446-4224-93bc-a6b1d25e4585,"Jasmis, Zinj",TLBT GrubTech Plugin,2872,Jasmi's,OWN_DELIVERY,,Bahrain
+TB_BH,648873,1582c3fd-6613-4bb1-b3bc-93497f2955df,"Juice Time, Al Juffiar",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,625988,fff13198-70b7-4f3a-89a6-eb27a88f282e,"Juice Time, Arad",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,43630,376420b3-db5c-48e8-b4e4-da927f712d03,"Juice Time, Budaiya",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,648183,5595648c-c2bf-4378-8fcf-e386ea1c9724,"Juice Time, Jidhafs",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,606186,26b9bc06-2341-40f4-a729-14cc83a1fd92,"Juice Time, Madinat Hamad / Hamad Town",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,28882,7c0bce1d-03f9-4ebb-9adf-82f757457e6a,"Juice Time, Muharaq",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,32145,d1b10e02-69cd-4c9e-9895-8c4e49314c99,"Juice Time, Riffa Alshamali / North Riffa",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,25290,ffaf0710-1d01-41a6-8691-747be01746f0,"Juice Time, Tubli",TLBT GrubTech Plugin,13768,Juice Time,OWN_DELIVERY,,Bahrain
+TB_BH,773755,e6d9fbc5-1375-4c14-999e-d9eb5bf0afaf,"Let`s Taco, Malkiya",TLBT GrubTech Plugin,703593,Let`s Taco,OWN_DELIVERY,,Bahrain
+TB_BH,691343,63938ea0-c3b8-478f-89c5-3adc0b9ee0ba,"Lets Wok S.P.C, Diyar Al Muharraq",TLBT GrubTech Plugin,25788,Lets Wok S.P.C,OWN_DELIVERY,,Bahrain
+TB_BH,698134,90ff02fc-36be-4c87-bd1e-5ef1a9c4400b,"Lets Wok S.P.C, Lulu Riffa",TLBT GrubTech Plugin,25788,Lets Wok S.P.C,OWN_DELIVERY,,Bahrain
+TB_BH,612756,0ec9ab3b-6fe7-445d-bf15-49d8b731d2a4,"Lets Wok, Saar",TLBT GrubTech Plugin,25788,Lets Wok S.P.C,OWN_DELIVERY,,Bahrain
+TB_BH,773759,050deef1-de7d-401d-bf0b-814d35f81f22,"Let’s Mezza, Malkiya",TLBT GrubTech Plugin,703597,Let’s Mezza,OWN_DELIVERY,,Bahrain
+TB_BH,773758,3e247608-50e9-49bf-bb37-977c395c5964,"Lime Tacos & Burritos, Malkiya",TLBT GrubTech Plugin,703596,Lime Tacos & Burritos,OWN_DELIVERY,,Bahrain
+TB_BH,772793,35c10075-4530-45c0-a99b-46f05fb4b8da,"Macaron Cafe, Alreem Centre, East Riffa",TLBT GrubTech Plugin,23260,Macaron Cafe,OWN_DELIVERY,,Bahrain
+TB_BH,759741,3a8b5a2e-7ee0-4491-8d56-001dcaa6093a,"Macaron Cafe, Busaiteen",TLBT GrubTech Plugin,23260,Macaron Cafe,OWN_DELIVERY,,Bahrain
+TB_BH,612938,dc22c8d9-6c17-451d-bb11-72844fd0a66a,"Macaron Cafe, Saar",TLBT GrubTech Plugin,23260,Macaron Cafe,OWN_DELIVERY,,Bahrain
+TB_BH,638795,4a5a8508-29f6-4598-8ccd-70f1f68dc42a,"Maki Bowls by Kojo, Saar",TLBT GrubTech Plugin,26558,Maki Bowls by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,714241,a669c26b-5484-4c0b-a5d1-e96c8082a4fc,"Maki Bowl’s by Kojo, Amwaj",TLBT GrubTech Plugin,26558,Maki Bowls by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,48405,2999eb07-2a7d-436b-98fb-818e49ea5b80,"Maki Bowl’s by Kojo, Juffair",TLBT GrubTech Plugin,26558,Maki Bowls by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,678457,6dd59b68-b918-4530-97fc-4b7176761faa,"Maki Bowl’s by Kojo, Zallaq",TLBT GrubTech Plugin,26558,Maki Bowls by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,47365,ab83190c-ae76-458b-9d6f-7bcc30b26633,"Maki Bowl’s by Kojo, Zayed Town",TLBT GrubTech Plugin,26558,Maki Bowls by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,638103,57cf69e6-f9ff-4c98-8d54-ca32bf9fd5be,"Mama Joz Pizza,  North Riffa",TLBT GrubTech Plugin,2327,Mama Joz Pizza,OWN_DELIVERY,,Bahrain
+TB_BH,712608,a9761b44-9cfe-4635-bfcd-21b368db25f2,"Mama Joz Pizza, A'ali",TLBT GrubTech Plugin,2327,Mama Joz Pizza,OWN_DELIVERY,,Bahrain
+TB_BH,639380,8286fbfe-e068-4c01-b0e7-92a842441354,"Mama Joz Pizza, AlJuffair",TLBT GrubTech Plugin,2327,Mama Joz Pizza,OWN_DELIVERY,,Bahrain
+TB_BH,639328,c3d95120-78e9-42a1-bd4f-ed85fabedc58,"Mama Joz Pizza, Muharraq",TLBT GrubTech Plugin,2327,Mama Joz Pizza,OWN_DELIVERY,,Bahrain
+TB_BH,773754,bd449e91-930d-4295-b245-5ad85f60d884,"Mexicano Canteen, Malkiya",TLBT GrubTech Plugin,703592,Mexicano Canteen,OWN_DELIVERY,,Bahrain
+TB_BH,613156,ea4f9e39-ea8b-4e29-b161-3d0d404bddf9,"Mezza House Cafe, Saar",TLBT GrubTech Plugin,23196,Mezza House Cafe,OWN_DELIVERY,,Bahrain
+TB_BH,722069,cb1a5d64-ca82-437d-a33a-3abe38cc0d88,"Munich Restaurant, Al Janabiyah",TLBT GrubTech Plugin,17045,Munich Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,693000,6df15fbf-bbf9-4825-81da-8e8b2c6e9525,"Munich Restaurant, Diyar Almuharraq",TLBT GrubTech Plugin,17045,Munich Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,776909,79213ca0-adf6-4927-8d31-682d87521406,"NOBLE BURGERS, Malkiya",TLBT GrubTech Plugin,705554,NOBLE BURGERS,OWN_DELIVERY,,Bahrain
+TB_BH,776913,d102436f-93b8-44eb-b958-49391c2d3a4a,"NOBLE CHICKEN, Malkiya",TLBT GrubTech Plugin,705558,NOBLE CHICKEN,OWN_DELIVERY,,Bahrain
+TB_BH,711564,5a978b75-fdb2-4d8c-94ab-e0be08c9aa58,"Nando's, East Riffa",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,696402,c0a4bad8-ee3c-49a3-967a-1a02ef41146e,"Nando`s, Al Sayh",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,34004,08e7c5fc-f541-48e1-bcd5-c32466c4e802,"Nando`s, Amwaj",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,34002,ff36198c-1eed-46dc-98a3-a624756dd272,"Nando`s, Juffair",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,753836,0e8fe7ec-d2d1-443e-92ce-b56555afaf53,"Nando`s, Marasi,Diyar Al Muharraq",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,38109,efae98b1-dd0b-4ab9-a9fa-6687d8b67d4d,"Nando`s, Saar",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,34003,06b10d2a-47e8-4121-ba77-02ebc2c91aae,"Nando`s, Seef",TLBT GrubTech Plugin,1176,Nando's,OWN_DELIVERY,,Bahrain
+TB_BH,714240,ce41383d-4838-4d49-a30e-55b65c694370,"Oishi Japanese Fushion Restaurant, Al Sayh",TLBT GrubTech Plugin,637394,Oishi Japanese Fushion Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,772796,5ab64733-2cc5-43f5-96fd-0deeb9a43078,"Oishi Japanese Fushion Restaurant, Alreem Centre, East Riffa",TLBT GrubTech Plugin,637394,Oishi Japanese Fushion Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,660133,933c62fc-b720-4197-8b82-f72cb755354f,"Oishi Japanese Fushion Restaurant, Bahrain Bay",TLBT GrubTech Plugin,637394,Oishi Japanese Fushion Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,718741,370d657e-3565-430e-afec-fd7789afbdbf,"Oishi Japanese Fushion Restaurant, Saar",TLBT GrubTech Plugin,637394,Oishi Japanese Fushion Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,661581,e73cabb2-9562-42bf-92bd-1b6c3cee9389,"Oishi Japanese Fushion Restaurant, Seef",TLBT GrubTech Plugin,637394,Oishi Japanese Fushion Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,773760,3a5dea09-babc-452e-9084-b7ff7c9acca9,"Ole Ole Burrito, Malkiya",TLBT GrubTech Plugin,703598,Ole Ole Burrito,OWN_DELIVERY,,Bahrain
+TB_BH,773756,d775b83e-0138-4463-828e-54d8c5ead8b1,"One More Taco, Malkiya",TLBT GrubTech Plugin,703594,One More Taco,OWN_DELIVERY,,Bahrain
+TB_BH,776918,d7fb72f8-8c00-48f6-8a52-f6d263334fbf,"PROPER SLIDERS, Malkiya ",TLBT GrubTech Plugin,705563,PROPER SLIDERS,OWN_DELIVERY,,Bahrain
+TB_BH,44217,97d2df30-45d5-47e3-b6e3-95fd3f719691,"Papa Kanafa, Al Juffair",TLBT GrubTech Plugin,13815,Papa Kanafa,OWN_DELIVERY,,Bahrain
+TB_BH,611304,328864ad-8ff0-43d3-8ee4-43b7c3df7f4c,"Papa Kanafa, Hamad Town",TLBT GrubTech Plugin,13815,Papa Kanafa,OWN_DELIVERY,,Bahrain
+TB_BH,648180,c2dba502-a61b-441e-a30e-96706e428bbd,"Papa Kanafa, Jidhafs",TLBT GrubTech Plugin,13815,Papa Kanafa,OWN_DELIVERY,,Bahrain
+TB_BH,32643,b375c16b-1278-49d3-9759-f99adde341f1,"Papa Kanafa,Riffa Alshamali / North Riffa",TLBT GrubTech Plugin,13815,Papa Kanafa,OWN_DELIVERY,,Bahrain
+TB_BH,25343,612769e2-b980-4286-b14b-42f17b57176e,"Papa Kanafa,Tubli",TLBT GrubTech Plugin,13815,Papa Kanafa,OWN_DELIVERY,,Bahrain
+TB_BH,770114,6d4a5615-9f4d-4021-b34e-c4a1de778ae7,"Pasta Di Risotto Italia, Malkiya",TLBT GrubTech Plugin,701492,PASTA DI RISOTTO ITALIA,OWN_DELIVERY,,Bahrain
+TB_BH,770111,09365451-3e73-489d-bc21-714f55e0b3d0,"Pasta Foundry, Malkiya",TLBT GrubTech Plugin,701489,PASTA FOUNDRY,OWN_DELIVERY,,Bahrain
+TB_BH,770112,3745ee8c-412c-4108-901d-c3041c49b664,"Pasta Stop, Malkiya",TLBT GrubTech Plugin,701490,PASTA STOP,OWN_DELIVERY,,Bahrain
+TB_BH,770109,f4c17fd0-c40e-4666-9d06-134a597fe99a,"Pasta Vito, Malkiya",TLBT GrubTech Plugin,701487,PASTA VITO,OWN_DELIVERY,,Bahrain
+TB_BH,737082,117a0d69-5f29-4356-90d0-8bf0f1c7b1aa,"Pastarito, Al Sayh",TLBT GrubTech Plugin,1187,Pastarito,OWN_DELIVERY,,Bahrain
+TB_BH,34228,83eaf984-7005-43ba-9932-0a2067b6db3c,"Pastarito, Seef mall",TLBT GrubTech Plugin,1187,Pastarito,OWN_DELIVERY,,Bahrain
+TB_BH,747399,b4b6e9c7-fd31-4a48-8e41-8f7ffd300d6a,"Pastries on the Fly, Alfateh",TLBT GrubTech Plugin,19605,Pastries On The Fly,OWN_DELIVERY,,Bahrain
+TB_BH,635621,b7ef25ac-f5e9-4b3d-84b0-085d4ddbade5,"Pastries on the Fly, Budaiya",TLBT GrubTech Plugin,19605,Pastries On The Fly,OWN_DELIVERY,,Bahrain
+TB_BH,48292,454c96e9-0735-4afc-9990-4f3394d9e1c8,"Pastries on the Fly, Muharraq",TLBT GrubTech Plugin,19605,Pastries On The Fly,OWN_DELIVERY,,Bahrain
+TB_BH,695486,331e3f6e-8f82-4747-9812-76f2352caf6b,"Pastries on the Fly, Riffa Alshamali",TLBT GrubTech Plugin,19605,Pastries On The Fly,OWN_DELIVERY,,Bahrain
+TB_BH,712112,26c5b502-f659-4b1f-8a39-a7ac66440d62,"Pickl, Juffair",TLBT GrubTech Plugin,663682,Pickl,OWN_DELIVERY,,Bahrain
+TB_BH,706086,af3f9dd4-9505-40df-8f47-5d143335130d,"Pickl, Seef",TLBT GrubTech Plugin,663682,Pickl,OWN_DELIVERY,,Bahrain
+TB_BH,758201,7ac7e16f-4df9-48ee-a855-a8bfe2b26d84,"Popeyes, Riffa,Riffa Alshamali North Riffa",TLBT GrubTech Plugin,693849,Popeyes,OWN_DELIVERY,,Bahrain
+TB_BH,769958,464d757b-a2b4-4b3f-909a-37810157ee37,"Popeyes, Zallaq",TLBT GrubTech Plugin,693849,Popeyes,OWN_DELIVERY,,Bahrain
+TB_BH,758170,06a0e94e-ff04-484c-9187-76a383717c83,"Popeyes,City Center",TLBT GrubTech Plugin,693849,Popeyes,OWN_DELIVERY,,Bahrain
+TB_BH,715651,,"Pro Noodles, Arad",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,773644,,"Pro Noodles, Bahrain City Center, Sea Front City Center",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,743299,4317f6ae-2626-4b99-9f48-7bbb857bc97f,"Pro Noodles, Hamad Town, Madinat Hamad Hamad Town",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,715648,8b82b7c6-d97c-4a3a-9dc2-9dbd4f456ba9,"Pro Noodles, Jid Ali",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,715608,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Pro Noodles, Juffair",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,715650,,"Pro Noodles, Riffa, West Riffa",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,715649,6de0dc74-d7fe-4e2c-b4a3-201f7b577c72,"Pro Noodles, Saar",TLBT GrubTech Plugin,668993,Pro Noodles,OWN_DELIVERY,,Bahrain
+TB_BH,771694,08f3fe93-1828-4fb7-b58f-9e86e911dca2,"Project Healthy Bowls, Malkiya",TLBT GrubTech Plugin,702401,PROJECT HEALTHY BOWLS,OWN_DELIVERY,,Bahrain
+TB_BH,770108,d1e5704c-854b-4dce-a8bf-d4001da49678,"Project Pasta, Malkiya",TLBT GrubTech Plugin,701486,PROJECT PASTA,OWN_DELIVERY,,Bahrain
+TB_BH,722756,,"Quarter Pounder Burgers, Arad",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,722760,,"Quarter Pounder Burgers, Bahrain City Center,Sea Front City Center",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,743311,692805a7-e65f-44bf-9c9f-cfb8d88d9035,"Quarter Pounder Burgers, Hamad Town, Sadad",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,722758,579b8ee8-e501-43ea-bba2-dfebdaf9c3cc,"Quarter Pounder Burgers, Jid Ali",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,722743,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Quarter Pounder Burgers, Juffair",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,722759,,"Quarter Pounder Burgers, Riffa, Riffa Views",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,722757,aade1206-6633-4942-b144-e956a44f8047,"Quarter Pounder Burgers, Saar",TLBT GrubTech Plugin,673336,Quarter Pounder Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,776403,b3224e33-89ac-4f4f-bc7b-a3477e50b750,"Quesadilla Shack, Malkiya",TLBT GrubTech Plugin,705244,Quesadilla Shack,OWN_DELIVERY,,Bahrain
+TB_BH,698031,6c43b974-a3f0-40ca-8429-df0d5bcc10f2,"Rackets Pizza & Pasta Restaurant , Northa Riffa",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,660882,c7ed568d-8079-4198-876a-3ef6c1d9c514,"Rackets Pizza & Pasta Restaurant, Al Sayh",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,612854,ded3e5e6-19d1-45e1-9f45-40454b9635bf,"Rackets Pizza & Pasta Restaurant, Al Sayh 1",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,703217,,"Rackets Pizza & Pasta Restaurant, Al Sayh2",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,691498,9fc5bfa3-6543-4a43-a434-f1cbf2e9637e,"Rackets Pizza & Pasta Restaurant, Diyar Al Muharraq",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,612851,75d0c8fd-5326-4657-8d5f-f56c2c1d49f8,"Rackets Pizza & Pasta Restaurant, Saar TGO",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,672092,35687b8f-81f4-42b6-949f-aa2024b3ef8a,"Rackets Pizza & Pasta Restaurant, Zallaq",TLBT GrubTech Plugin,25028,Rockets Pizza & Pasta Restaurant,OWN_DELIVERY,,Bahrain
+TB_BH,737267,ee0d19ef-ed83-41b0-8570-a170a3d11243,"Rock Star Burgers, Arad",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737276,10957f63-db8f-4dd4-b737-af18e386b72c,"Rock Star Burgers, Bahrain City Center, Sea Front City Center",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,743228,5587158c-6f2f-4f98-999f-31fd6af0689f,"Rock Star Burgers, Hamad Town, Sadad",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737275,2a19a2e0-48dd-4d35-aba4-3829f499314b,"Rock Star Burgers, Jid Ali",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737272,f75d312b-9952-42ff-ab2d-889caf8fc0ca,"Rock Star Burgers, Juffair",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737274,a0ced5d6-6714-4be0-97ca-8d62b633ad9a,"Rock Star Burgers, Riffa Alshamali",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,737273,2b14c3c4-ac3c-482d-8a2f-34b13b7b138e,"Rock Star Burgers, Saar",TLBT GrubTech Plugin,681701,Rock Star Burgers,OWN_DELIVERY,,Bahrain
+TB_BH,771192,6a3e8b5b-65cd-4a6c-98c0-ba9c30e9bfaf,"SOMETHING HEALTHY, Malkiya",TLBT GrubTech Plugin,702107,SOMETHING HEALTHY,OWN_DELIVERY,,Bahrain
+TB_BH,771180,74be04e5-fd1b-4caf-9d0f-9979e5bc4e0c,"SOUPA SALAD, Malkiya",TLBT GrubTech Plugin,702099,SOUPA SALAD,OWN_DELIVERY,,Bahrain
+TB_BH,697656,2691037c-b17f-4115-93b4-ada8c5331945,"SUBZ SUBMARINE SANDWICHES, Al Sayh",TLBT GrubTech Plugin,653499,Subz Submarine Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,686918,8bd8da8b-f3a1-4a63-a110-edf4692328b5,"SUBZ SUBMARINE SANDWICHES, Diyar Al Muharraq",TLBT GrubTech Plugin,653499,Subz Submarine Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,697917,eda67822-a7c4-4409-9543-cad4bdea98a2,"SUBZ SUBMARINE SANDWICHES, Riffa",TLBT GrubTech Plugin,653499,Subz Submarine Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,740243,e501b77b-5640-481e-afa9-051d09a95649,"Simple Burger Co, Arad",TLBT GrubTech Plugin,683444,Simple Burger Co,OWN_DELIVERY,,Bahrain
+TB_BH,740251,ef278e4a-7cec-414d-b0c0-11ca80fe3754,"Simple Burger Co, Bahrain City Center, Sea Front City Center",TLBT GrubTech Plugin,683444,Simple Burger Co,OWN_DELIVERY,,Bahrain
+TB_BH,740249,693b99a5-27b0-495e-b70a-c8dcff9db52f,"Simple Burger Co, Jid Ali",TLBT GrubTech Plugin,683444,Simple Burger Co,OWN_DELIVERY,,Bahrain
+TB_BH,740253,2ebe86ad-fabc-4c97-a6a6-4ceebfd3110a,"Simple Burger Co, Juffair",TLBT GrubTech Plugin,683444,Simple Burger Co,OWN_DELIVERY,,Bahrain
+TB_BH,740250,39588896-9457-46ac-9659-79589a3ce27a,"Simple Burger Co, Riffa, Riffa Alshamali North Riffa",TLBT GrubTech Plugin,683444,Simple Burger Co,OWN_DELIVERY,,Bahrain
+TB_BH,740252,62134306-2bbe-4788-a728-d2502888a049,"Simple Burger Co, Saar",TLBT GrubTech Plugin,683444,Simple Burger Co,OWN_DELIVERY,,Bahrain
+TB_BH,770107,35d47922-257d-4762-a8a4-31b1be0fe184,"Something Italian, Malkiya",TLBT GrubTech Plugin,701485,SOMETHING ITALIAN,OWN_DELIVERY,,Bahrain
+TB_BH,773761,1038a902-1669-448b-8ecd-95a14d769a52,"Something Mexican, Malkiya",TLBT GrubTech Plugin,703599,Something Mexican,OWN_DELIVERY,,Bahrain
+TB_BH,718193,52053e27-5aed-41f2-9ef3-ad2208c95334,"Star Shrimp,  Arad ",TLBT GrubTech Plugin,670580,Star Shrimp,OWN_DELIVERY,,Bahrain
+TB_BH,743240,bc6a00b8-98f1-4915-ac4a-171945198f31,"Star Shrimp, Hamad Town",TLBT GrubTech Plugin,670580,Star Shrimp,OWN_DELIVERY,,Bahrain
+TB_BH,718194,e5e8e363-ff85-4db8-b150-352db3bfe066,"Star Shrimp, Jid Ali",TLBT GrubTech Plugin,670580,Star Shrimp,OWN_DELIVERY,,Bahrain
+TB_BH,718191,414733ae-808c-4932-82f5-236bb5e34139,"Star Shrimp, Juffair",TLBT GrubTech Plugin,670580,Star Shrimp,OWN_DELIVERY,,Bahrain
+TB_BH,718196,3d04e432-e182-4e79-8402-ce2031f30617,"Star Shrimp, Saar",TLBT GrubTech Plugin,670580,Star Shrimp,OWN_DELIVERY,,Bahrain
+TB_BH,718195,527cddfb-b699-46ee-b463-673d0fa0e02a,"Star Shrimp, West Riffa",TLBT GrubTech Plugin,670580,Star Shrimp,OWN_DELIVERY,,Bahrain
+TB_BH,697920,cc3ddaa7-18f5-4886-96e0-226b95110533,"Subz Submarine Sandwiches, Al Sayh 1",TLBT GrubTech Plugin,653499,Subz Submarine Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,703508,,"Subz Submarine Sandwiches, Al Sayh2",TLBT GrubTech Plugin,653499,Subz Submarine Sandwiches,OWN_DELIVERY,,Bahrain
+TB_BH,771191,0bffdc03-36ab-4f3d-beae-b9fc6d523db8,"THE HEALTH EXPRESS, Malkiya",TLBT GrubTech Plugin,702106,THE HEALTH EXPRESS,OWN_DELIVERY,,Bahrain
+TB_BH,771190,a34323eb-c4fd-4693-8ca3-1bcd7e19c45b,"TOP SALAD, Malkiya",TLBT GrubTech Plugin,702105,TOP SALAD,OWN_DELIVERY,,Bahrain
+TB_BH,776912,28d96f02-cb97-4452-9862-61649f29f197,"TWINS SMASHED PATTIES, Malkiya",TLBT GrubTech Plugin,705557,TWINS SMASHED PATTIES,OWN_DELIVERY,,Bahrain
+TB_BH,773762,3e99b447-0822-41be-95f8-13282b6e1f2f,"Taco Eataco, Malkiya",TLBT GrubTech Plugin,703600,Taco Eataco,OWN_DELIVERY,,Bahrain
+TB_BH,773752,09fffc9f-7ae4-4de9-b907-1311ad09f9e5,"Taco Mercado, Malkiya",TLBT GrubTech Plugin,703591,Taco Mercado,OWN_DELIVERY,,Bahrain
+TB_BH,771545,ff6327ce-8a10-497f-b63a-1b0c0145fb0c,"The Coffee Bean & Tea Leaf, Al Janabiyah",TLBT GrubTech Plugin,7545,The Coffee Bean & Tea Leaf,OWN_DELIVERY,,Bahrain
+TB_BH,14770,715a5949-b526-4e24-a791-50fc963e43c9,"The Coffee Bean & Tea Leaf, AlJuffair",TLBT GrubTech Plugin,7545,The Coffee Bean & Tea Leaf,OWN_DELIVERY,,Bahrain
+TB_BH,700704,1eb2c924-e31c-410d-b1b9-405b9fc3dd3b,"The Coffee Bean & Tea Leaf, Riffa Alshamali North Riffa",TLBT GrubTech Plugin,7545,The Coffee Bean & Tea Leaf,OWN_DELIVERY,,Bahrain
+TB_BH,728145,08533804-9981-4116-90f8-4664aa3f9be9,"The Coffee Bean & Tea Leaf, Saar",TLBT GrubTech Plugin,7545,The Coffee Bean & Tea Leaf,OWN_DELIVERY,,Bahrain
+TB_BH,671196,7b4354d1-4cc8-4c73-93e6-0b28bcbc92bf,"The Coffee Bean & Tea Leaf, Zallaq",TLBT GrubTech Plugin,7545,The Coffee Bean & Tea Leaf,OWN_DELIVERY,,Bahrain
+TB_BH,50428,7486d420-f5c2-47b1-b04a-e472d3a17ed1,"The Coffee Bean & Tea Leaf, Zayed Town",TLBT GrubTech Plugin,7545,The Coffee Bean & Tea Leaf,OWN_DELIVERY,,Bahrain
+TB_BH,671845,dfb16e52-f3cf-470e-aa28-017d598a0f18,"The Food Hall, Avenues Mal",TLBT GrubTech Plugin,644556,THE FOOD HALL,OWN_DELIVERY,,Bahrain
+TB_BH,771186,eb0c781e-61c2-4e78-8ac2-5d42ce7543f3,"The Healthy Way, Malkiya",TLBT GrubTech Plugin,702101,The Healthy Way,OWN_DELIVERY,,Bahrain
+TB_BH,770113,e30828e1-79d0-41fe-b9f1-426fffbbad00,"The Kitchen Eatery, Malkiya",TLBT GrubTech Plugin,701491,THE KITCHEN EATERY,OWN_DELIVERY,,Bahrain
+TB_BH,648151,049579d8-906b-4509-a856-ae52b91cf601,"The Salad Bar Cafe, Al Bahair",TLBT GrubTech Plugin,629981,The Salad Bar Cafe,OWN_DELIVERY,,Bahrain
+TB_BH,640581,c544cb60-ed55-46d8-8409-1e99fe4fa6b3,"The Yaki Box By Kojo, Saar",TLBT GrubTech Plugin,609030,The Yaki Box by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,678459,6be3d57f-7bbd-4f38-9c8e-6e21371a8ad8,"The Yaki Box By Kojo, Zallaq",TLBT GrubTech Plugin,609030,The Yaki Box by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,615687,94bedf8c-92fe-4a42-9131-4089873bca29,"The Yaki Box By Kojo, Zayed Town",TLBT GrubTech Plugin,609030,The Yaki Box by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,619755,af9be600-c131-4aa4-aa53-0d8b8449c3ab,"The Yaki Box by Kojo, AlJuffair",TLBT GrubTech Plugin,609030,The Yaki Box by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,714250,22f9020e-23f6-451d-bfc7-c13c3430588b,"The Yaki Box by Kojo, Galaly",TLBT GrubTech Plugin,609030,The Yaki Box by Kojo,OWN_DELIVERY,,Bahrain
+TB_BH,771189,4682d3df-7f45-4c1d-8ff5-a8791b12e4ca,"Thrive Salads, Malkiya",TLBT GrubTech Plugin,702104,Thrive Salads,OWN_DELIVERY,,Bahrain
+TB_BH,715652,,"Tikka Box, Arad",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,773255,,"Tikka Box, Bahrain City Cente, Manama Center",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,743256,37959927-8c3e-4025-b38c-b943d794adcc,"Tikka Box, Hamad Town",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,715653,5898af78-7c46-47d4-a3ad-1847314345a9,"Tikka Box, Jid Ali",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,715610,b6216dbd-3b31-43ac-8a98-d386fd31d1a8,"Tikka Box, Juffair",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,715654,,"Tikka Box, Riffa, West Riffa",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,715655,beac5cd1-9195-4642-8329-4625c31c2288,"Tikka Box, Saar",TLBT GrubTech Plugin,668994,Tikka Box,OWN_DELIVERY,,Bahrain
+TB_BH,38062,a38081a0-2b7e-42f3-9b50-d5e1fe111f9f,"Twist Cravings, Al Janabiyah,",TLBT GrubTech Plugin,8312,Twist Cravings,OWN_DELIVERY,,Bahrain
+TB_BH,696337,f632fd6a-dc07-4362-8f4c-76b33af3396f,"Twist Cravings, Al Sayh",TLBT GrubTech Plugin,8312,Twist Cravings,OWN_DELIVERY,,Bahrain
+TB_BH,711407,14933b37-39ac-4900-b2dd-a209ce4f0afb,"Twist Cravings, Marrasi Galleria",TLBT GrubTech Plugin,8312,Twist Cravings,OWN_DELIVERY,,Bahrain
+TB_BH,34097,c15fdbd1-1754-465a-a251-212f66b4feae,"Twist Cravings, Seef",TLBT GrubTech Plugin,8312,Twist Cravings,OWN_DELIVERY,,Bahrain
+TB_BH,654575,7e86bd86-2c1c-4404-8627-92e40e39a538,"Unicorn Noms, Al Janabiyah",TLBT GrubTech Plugin,633834,Unicorn Noms,OWN_DELIVERY,,Bahrain
+TB_BH,776915,a653802a-7b37-42f1-aa91-9f31930c4490,"XSLIDERS, Malkiya",TLBT GrubTech Plugin,705560,XSLIDERS,OWN_DELIVERY,,Bahrain
+TB_BH,34231,3c0dd3bc-6868-43ea-a9bf-944af7f48e82,"Yasmine Restaurant , Seef",TLBT GrubTech Plugin,11962,Yasmine Restaurant,OWN_DELIVERY,,Bahrain

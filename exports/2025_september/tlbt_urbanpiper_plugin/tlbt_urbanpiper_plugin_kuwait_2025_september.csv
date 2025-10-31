@@ -1,0 +1,225 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,605121,tmp-118003," Fluffy Desserts, West Abdullah Al Mubarak-tmp",TLBT UrbanPiper Plugin,20873,Fluffy Desserts,VENDOR_DELIVERY,,Kuwait
+TB_KW,35565,tmp-94612,"89 Sweets, qurain",TLBT UrbanPiper Plugin,20156,89 Sweets,VENDOR_DELIVERY,,Kuwait
+TB_KW,46108,tgo-138325,"Ajeen, faiha",TLBT UrbanPiper Plugin,25897,Ajeen,OWN_DELIVERY,,Kuwait
+TB_KW,15738,tmp-132404,"Al Kabsh, Ardiya Small Industrial",TLBT UrbanPiper Plugin,8125,Al Kabsh,VENDOR_DELIVERY,,Kuwait
+TB_KW,760057,tgo-135569,"Al Zaafranee, Al-Qurain",TLBT UrbanPiper Plugin,13317,Al Zaafranee,OWN_DELIVERY,,Kuwait
+TB_KW,24723,tgo-126808,"Al Zaafrani, Hawally-TGO",TLBT UrbanPiper Plugin,13317,Al Zaafranee,OWN_DELIVERY,,Kuwait
+TB_KW,43186,tmp-126809,"Al Zaafrani, Hawally-TMP",TLBT UrbanPiper Plugin,13317,Al Zaafranee,VENDOR_DELIVERY,,Kuwait
+TB_KW,601027,tgo-94428,"Al tabi, Al Yasmin",TLBT UrbanPiper Plugin,600484,Al tabi Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,37599,tmp-132400,Alghabga Alkuwaitiya,TLBT UrbanPiper Plugin,20230,Alghabga Alkuwaitiya,VENDOR_DELIVERY,,Kuwait
+TB_KW,624723,tmp-132409,"Alruban Alkuwaity, West Abu Fetera Small Indust west abu fatera ",TLBT UrbanPiper Plugin,615202,AlRuban Al Kuwaity,VENDOR_DELIVERY,,Kuwait
+TB_KW,707920,tgo-94429,"Altabi, Qurain,Al-Qurain",TLBT UrbanPiper Plugin,600484,Al tabi Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,748291,tgo-127255,"Bawaabat Alhaumidih, Shuwaikh Industrial 3",TLBT UrbanPiper Plugin,688176,Bawaabat Alhaumidih,OWN_DELIVERY,,Kuwait
+TB_KW,748292,tgo-127256,"Bawaabat Alhaumidih, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,688176,Bawaabat Alhaumidih,OWN_DELIVERY,,Kuwait
+TB_KW,667672,tgo-108441,"Beak, Al Masayel, Al Masayel",TLBT UrbanPiper Plugin,25515,BEAK,OWN_DELIVERY,,Kuwait
+TB_KW,729089,tgo-108442,"Beak, Ardhiya",TLBT UrbanPiper Plugin,25515,BEAK,OWN_DELIVERY,,Kuwait
+TB_KW,45325,tgo-108440,"Beak, Hawally",TLBT UrbanPiper Plugin,25515,BEAK,OWN_DELIVERY,,Kuwait
+TB_KW,4833,tmp-89291,"Beit Dickson, Ardiya Small Industrial",TLBT UrbanPiper Plugin,2724,Beit Dickson,VENDOR_DELIVERY,,Kuwait
+TB_KW,4821,tmp-89292,"Beit Dickson, Mangaf tmp",TLBT UrbanPiper Plugin,2724,Beit Dickson,VENDOR_DELIVERY,,Kuwait
+TB_KW,4822,tmp-89293,"Beit Dickson, Reggai tmp",TLBT UrbanPiper Plugin,2724,Beit Dickson,VENDOR_DELIVERY,,Kuwait
+TB_KW,705002,tgo-81998,"Beit Dickson, Salmiya",TLBT UrbanPiper Plugin,2724,Beit Dickson,OWN_DELIVERY,,Kuwait
+TB_KW,4823,tmp-82453,"Beit Dickson, Salmiya tmp",TLBT UrbanPiper Plugin,2724,Beit Dickson,VENDOR_DELIVERY,,Kuwait
+TB_KW,741999,tgo-119836,"Bite Club, Farwaniya",TLBT UrbanPiper Plugin,670803,Bite Club,OWN_DELIVERY,,Kuwait
+TB_KW,718556,tgo-94762,"Bite Club, Hawally",TLBT UrbanPiper Plugin,670803,Bite Club,OWN_DELIVERY,,Kuwait
+TB_KW,750543,tgo-128098,"Bite Club, Salwa",TLBT UrbanPiper Plugin,670803,Bite Club,OWN_DELIVERY,,Kuwait
+TB_KW,719507,tgo-94414,"Blast From The Past, Hawally",TLBT UrbanPiper Plugin,671395,Blast From The Past,OWN_DELIVERY,,Kuwait
+TB_KW,719569,tgo-94413,"Blast From The Past, Khaitan",TLBT UrbanPiper Plugin,671395,Blast From The Past,OWN_DELIVERY,,Kuwait
+TB_KW,719568,tgo-94415,"Blast From The Past, Salmiya",TLBT UrbanPiper Plugin,671395,Blast From The Past,OWN_DELIVERY,,Kuwait
+TB_KW,615404,tmp-79050,"Bm Sweet, Ardiya Small Industrial",TLBT UrbanPiper Plugin,608853,Bm Sweet,VENDOR_DELIVERY,,Kuwait
+TB_KW,748468,tgo-137937,"Bo Arram, Ardiya Small Industrial",TLBT UrbanPiper Plugin,688099,Bo Arram,OWN_DELIVERY,,Kuwait
+TB_KW,748168,tgo-137939,"Bo Arram, Hawally",TLBT UrbanPiper Plugin,688099,Bo Arram,OWN_DELIVERY,,Kuwait
+TB_KW,762502,tgo-137940,"Bo Arram, Khairan",TLBT UrbanPiper Plugin,688099,Bo Arram,OWN_DELIVERY,,Kuwait
+TB_KW,748469,tgo-137938,"Bo Arram, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,688099,Bo Arram,OWN_DELIVERY,,Kuwait
+TB_KW,4853,tmp-82450,"Bon Sweet, Al-Qusour tmp",TLBT UrbanPiper Plugin,2732,Bon Sweet,VENDOR_DELIVERY,,Kuwait
+TB_KW,667765,tgo-81995,"Bon Sweet, Al-Qusour-tgo",TLBT UrbanPiper Plugin,2732,Bon Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,667767,tgo-81996,"Bon Sweet, Andalous-tgo",TLBT UrbanPiper Plugin,2732,Bon Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,667763,tgo-81997,"Bon Sweet, Ardhiya-tgo",TLBT UrbanPiper Plugin,2732,Bon Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,4850,tmp-82449,"Bon Sweet, Bayan tmp",TLBT UrbanPiper Plugin,2732,Bon Sweet,VENDOR_DELIVERY,,Kuwait
+TB_KW,667764,tgo-81994,"Bon Sweet, Bayan-tgo",TLBT UrbanPiper Plugin,2732,Bon Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,667766,tgo-81993,"Bon Sweet, Riqqa-tgo",TLBT UrbanPiper Plugin,2732,Bon Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,667762,tgo-81992,"Bon Sweet, Sabah Al Salem-tgo",TLBT UrbanPiper Plugin,2732,Bon Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,52009,0a6a087f-690c-4dbe-b4b5-c1cac8b520ed,"Bora Bora, Ardiya Small Industrial",TLBT UrbanPiper Plugin,28738,Bora Bora,OWN_DELIVERY,,Kuwait
+TB_KW,729430,f987e4b6-9dca-4e4a-9376-e8506d2142d7,"Bora Bora, Jahra - Jahra Area",TLBT UrbanPiper Plugin,28738,Bora Bora,OWN_DELIVERY,,Kuwait
+TB_KW,52007,10c38227-27c6-49bb-8366-6adbdd37d8f1,"Bora Bora, Mangaf",TLBT UrbanPiper Plugin,28738,Bora Bora,OWN_DELIVERY,,Kuwait
+TB_KW,749059,ad998fe1-93bd-4eef-8fe8-ce97c7dae902,"Bora Bora, Sabah Al-Salem",TLBT UrbanPiper Plugin,28738,Bora Bora,OWN_DELIVERY,,Kuwait
+TB_KW,52008,e93c2c2b-d370-44af-a58e-83e1c1023259,"Bora Bora, Salmiya",TLBT UrbanPiper Plugin,28738,Bora Bora,OWN_DELIVERY,,Kuwait
+TB_KW,52010,tgo-142847,"Bora Bora, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,28738,Bora Bora,OWN_DELIVERY,,Kuwait
+TB_KW,747421,tgo-127601,"Bread &, Shuwaikh",TLBT UrbanPiper Plugin,679682,Bread &,OWN_DELIVERY,,Kuwait
+TB_KW,47170,tgo-107063,"Chateau De Gateaux, Mangaf",TLBT UrbanPiper Plugin,26464,Chateau De Gateaux,OWN_DELIVERY,,Kuwait
+TB_KW,676841,tgo-107062,"Chateau De Gateaux, Mishref",TLBT UrbanPiper Plugin,26464,Chateau De Gateaux,OWN_DELIVERY,,Kuwait
+TB_KW,738603,tgo-139366,"Chaykhana Cafeteria, Bneid Al Qar",TLBT UrbanPiper Plugin,681859,Chaykhana Cafeteria,OWN_DELIVERY,,Kuwait
+TB_KW,737613,tgo-139368,"Chaykhana Cafeteria, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,681859,Chaykhana Cafeteria,OWN_DELIVERY,,Kuwait
+TB_KW,719158,tgo-104326,"Chippy, Zahra",TLBT UrbanPiper Plugin,665294,Chippy,OWN_DELIVERY,,Kuwait
+TB_KW,31321,tgo-106125,"Choc, Ardiya Small Industrial",TLBT UrbanPiper Plugin,17780,Choc,OWN_DELIVERY,,Kuwait
+TB_KW,46596,tmp-115616,"Choc, Ardiya Small Industrial",TLBT UrbanPiper Plugin,17780,Choc,VENDOR_DELIVERY,,Kuwait
+TB_KW,712811,tgo-105683,"Coctel, Abu Ftaira",TLBT UrbanPiper Plugin,667361,Coctel,OWN_DELIVERY,,Kuwait
+TB_KW,716183,tgo-107104,"DamaRose, Hawally",TLBT UrbanPiper Plugin,669306,DamaRose,OWN_DELIVERY,,Kuwait
+TB_KW,699595,tgo-119250,"Emberech, (DH Kitchen) Ardhiya",TLBT UrbanPiper Plugin,8138,Emberech,OWN_DELIVERY,,Kuwait
+TB_KW,702895,7e05fda0-0384-4e86-9493-8318b146cf02,"Emberech, Al-Qurain",TLBT UrbanPiper Plugin,8138,Emberech,OWN_DELIVERY,,Kuwait
+TB_KW,723385,f22365ac-9c20-4e99-b38e-df4cc30cbddc,"Emberech, Jahra - Jahra Area(DH Kitchen)",TLBT UrbanPiper Plugin,666410,Emberech,OWN_DELIVERY,,Kuwait
+TB_KW,711051,e6efe071-d94c-4f7c-9634-0dca8a4dbe4d,"Emberech,Salmiya,(DH Kitchen)",TLBT UrbanPiper Plugin,666410,Emberech,OWN_DELIVERY,,Kuwait
+TB_KW,32710,tmp-107282,"Empress, Hawally",TLBT UrbanPiper Plugin,18597,Empress,VENDOR_DELIVERY,,Kuwait
+TB_KW,32711,tmp-107283,"Empress, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,18597,Empress,VENDOR_DELIVERY,,Kuwait
+TB_KW,708433,tgo-114811,"Ero, Jahra",TLBT UrbanPiper Plugin,664986,Ero,OWN_DELIVERY,,Kuwait
+TB_KW,755863,tgo-132114,"Ever, Al-Qurain",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,744442,tgo-121650,"Ever, Ardhiya",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,702216,tgo-111307,"Ever, Jabriya",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,755877,tgo-132064,"Ever, Jahra - Jahra Area",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,767170,tgo-132064,"Ever, Jahra,Jahra - Jahra Area",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,45105,tgo-108819,"Ever, Khiran ",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,723659,tgo-108817,"Ever, Kuwait City",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,737860,tgo-108816,"Ever, Qortuba",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,48215,tgo-108818,"Ever, Shareq",TLBT UrbanPiper Plugin,25307,Ever,OWN_DELIVERY,,Kuwait
+TB_KW,713821,tgo-89869,"Fleek, Al-Qurain",TLBT UrbanPiper Plugin,661790,Fleek,OWN_DELIVERY,,Kuwait
+TB_KW,713822,tgo-89871,"Fleek, Andalous",TLBT UrbanPiper Plugin,661790,Fleek,OWN_DELIVERY,,Kuwait
+TB_KW,713820,tgo-89868,"Fleek, Fahaheel",TLBT UrbanPiper Plugin,661790,Fleek,OWN_DELIVERY,,Kuwait
+TB_KW,713819,tgo-89870,"Fleek, Jahra - Jahra Area",TLBT UrbanPiper Plugin,661790,Fleek,OWN_DELIVERY,,Kuwait
+TB_KW,702422,tgo-80998,"Fleek, Siddiq",TLBT UrbanPiper Plugin,661790,Fleek,OWN_DELIVERY,,Kuwait
+TB_KW,744651,tgo-122763,"Flock, Al-Qurain",TLBT UrbanPiper Plugin,669419,Flock,OWN_DELIVERY,,Kuwait
+TB_KW,716367,tgo-103864,"Flock, Hawally",TLBT UrbanPiper Plugin,669419,Flock,OWN_DELIVERY,,Kuwait
+TB_KW,36751,tgo-114742,"Fluffy Desserts, Al-Ahmadi TGO",TLBT UrbanPiper Plugin,20873,Fluffy Desserts,OWN_DELIVERY,,Kuwait
+TB_KW,763500,tgo-137710,"Folds (DH Kitchen), Ardhiya",TLBT UrbanPiper Plugin,696385,Folds,OWN_DELIVERY,,Kuwait
+TB_KW,763561,tgo-146478,"Folds (DH Kitchen), Jahra - Jahra Area",TLBT UrbanPiper Plugin,696385,Folds,OWN_DELIVERY,,Kuwait
+TB_KW,762081,tgo-137709,"Folds (DH Kitchen), Mahboula",TLBT UrbanPiper Plugin,696385,Folds,OWN_DELIVERY,,Kuwait
+TB_KW,755635,tgo-158142,"Folds, Salmiya",TLBT UrbanPiper Plugin,692364,Folds,OWN_DELIVERY,,Kuwait
+TB_KW,2439,00,"Fresh Bites, Ardhiya",TLBT UrbanPiper Plugin,1552,Fresh Bites,VENDOR_DELIVERY,,Kuwait
+TB_KW,649168,tmp-114755,"Fresh Restaurant & Cafe, Salmiya",TLBT UrbanPiper Plugin,630527,Fresh Restaurant & Cafe,VENDOR_DELIVERY,,Kuwait
+TB_KW,4203,tmp-102562,"Fuddruckers, Abdullah Al-Salem",TLBT UrbanPiper Plugin,2280,Fuddruckers,VENDOR_DELIVERY,,Kuwait
+TB_KW,728720,tgo-106875,"Good B, Andalous",TLBT UrbanPiper Plugin,676726,Good B,OWN_DELIVERY,,Kuwait
+TB_KW,728721,tgo-106872,"Good B, Fahaheel",TLBT UrbanPiper Plugin,676726,Good B,OWN_DELIVERY,,Kuwait
+TB_KW,728719,tgo-106780,"Good B, Jahra - Jahra Area",TLBT UrbanPiper Plugin,676726,Good B,OWN_DELIVERY,,Kuwait
+TB_KW,728718,tgo-106873,"Good B, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,676726,Good B,OWN_DELIVERY,,Kuwait
+TB_KW,728666,tgo-106874,"Good B, Yarmouk",TLBT UrbanPiper Plugin,676726,Good B,OWN_DELIVERY,,Kuwait
+TB_KW,675776,tgo-79758,Good Stuff - Jahra TGO,TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,740159,tgo-114274,"Good Stuff, Ardhiya",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,638593,tgo-79754,"Good Stuff, Bneid Al Qar TGO",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,708851,tgo-83824,"Good Stuff, Jabriya",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,668806,tgo-79757,"Good Stuff, Khaitan TGO",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,638592,tgo-79756,"Good Stuff, Mahboula TGO",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,716968,tgo-91059,"Good Stuff, Sabah Al-Salem",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,652312,tgo-79755,"Good Stuff, Salmiya TGO",TLBT UrbanPiper Plugin,18221,Good Stuff,OWN_DELIVERY,,Kuwait
+TB_KW,25744,tmp-136822,"Hail w Darsen, Ardhiya",TLBT UrbanPiper Plugin,14178,Hail w Darsen,VENDOR_DELIVERY,,Kuwait
+TB_KW,724319,tgo-139739,"Hubbis, Jahra - Jahra Area (DH Kitchen)",TLBT UrbanPiper Plugin,666845,Hubbis,OWN_DELIVERY,,Kuwait
+TB_KW,711761,tgo-139740,"Hubbis,Salmiya,(DH Kitchen)",TLBT UrbanPiper Plugin,666845,Hubbis,OWN_DELIVERY,,Kuwait
+TB_KW,1710,tmp-83714,"Istanbuliyah, Kuwait City",TLBT UrbanPiper Plugin,1138,Istanbuliyah,VENDOR_DELIVERY,,Kuwait
+TB_KW,770157,tmp-132413,"Jedty Noura, Ardhiya",TLBT UrbanPiper Plugin,701506,Jedty Noura,VENDOR_DELIVERY,,Kuwait
+TB_KW,18849,tgo-106771,"Kabab Abo Fadel Al Iraqi, Abu Halifa",TLBT UrbanPiper Plugin,9392,Kabab Abo Fadel Al Iraqi,OWN_DELIVERY,,Kuwait
+TB_KW,18847,tgo-106770,"Kabab Abo Fadel Al Iraqi, Ardhiya",TLBT UrbanPiper Plugin,9392,Kabab Abo Fadel Al Iraqi,OWN_DELIVERY,,Kuwait
+TB_KW,18848,tgo-106769,"Kabab Abo Fadel Al Iraqi, Hawally",TLBT UrbanPiper Plugin,9392,Kabab Abo Fadel Al Iraqi,OWN_DELIVERY,,Kuwait
+TB_KW,681589,tgo-106773,"Kabab Abo Fadel Al Iraqi, Jahra - Jahra Area",TLBT UrbanPiper Plugin,9392,Kabab Abo Fadel Al Iraqi,OWN_DELIVERY,,Kuwait
+TB_KW,604458,tgo-106772,"Kabab Abo Fadel Al Iraqi, Shuwaikh Industrial,Al Yasmin",TLBT UrbanPiper Plugin,9392,Kabab Abo Fadel Al Iraqi,OWN_DELIVERY,,Kuwait
+TB_KW,732184,0,"Kabab Shams, (DH Kitchen) Jahra ",TLBT UrbanPiper Plugin,678836,Kabab Shams,OWN_DELIVERY,,Kuwait
+TB_KW,726951,tgo-104843,"Kabab Shams, Abu Hasaniya",TLBT UrbanPiper Plugin,659902,Kabab Shams,OWN_DELIVERY,,Kuwait
+TB_KW,732456,tgo-108298,"Kabab Shams, Farwaniya",TLBT UrbanPiper Plugin,659902,Kabab Shams,OWN_DELIVERY,,Kuwait
+TB_KW,698600,tgo-88063,"Kabab Shams, Jabriya",TLBT UrbanPiper Plugin,659902,Kabab Shams,OWN_DELIVERY,,Kuwait
+TB_KW,766526,tgo-109817,"Kabab Shams, Jahra- Jahra Area",TLBT UrbanPiper Plugin,659902,Kabab Shams,OWN_DELIVERY,,Kuwait
+TB_KW,640915,7ed0aeb9-6d85-4d27-8d1b-d726b3729d67,"Karam Sweet, Ardhiya",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,640917,71865cc2-c653-4eee-9736-2f04b7a61866,"Karam Sweet, Egaila",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,640916,c5e7f861-d4e5-472b-a5a5-d601a22c54b6,"Karam Sweet, Ishbiliya",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,640920,79079ad6-7635-45f3-9338-97d5c1bfd228,"Karam Sweet, Jahra , SAAD ALABDULLAH",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,677549,acdacfb7-b270-4214-bead-410307f34af0,"Karam Sweet, Sabah Al Ahmad 1",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,640919,d480560c-cfe0-4519-b570-a239322150c3,"Karam Sweet, Umm Al Hayman",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,640918,acbfc38a-9318-490f-a2d5-ae5e03cbf58b,"Karam Sweet, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,766616,tgo-142440,"Kotton (DH Kitchen), Mahboula",TLBT UrbanPiper Plugin,699265,Kotton (DH Kitchen),OWN_DELIVERY,,Kuwait
+TB_KW,46701,tmp-156372,"Kotton, Mishrif tmp",TLBT UrbanPiper Plugin,25221,Kotton,VENDOR_DELIVERY,,Kuwait
+TB_KW,734561,tgo-131953,"Layers Master, Kuwait City",TLBT UrbanPiper Plugin,668349,Layers Master,OWN_DELIVERY,,Kuwait
+TB_KW,714508,tgo-131952,"Layers Master, Salmiya ",TLBT UrbanPiper Plugin,668349,Layers Master,OWN_DELIVERY,,Kuwait
+TB_KW,724233,tgo-111323,"Leen Chef, Khaitan",TLBT UrbanPiper Plugin,674204,Leen Chef,OWN_DELIVERY,,Kuwait
+TB_KW,770189,tgo-147119,"Liken chicken, Khaitan",TLBT UrbanPiper Plugin,664839,Liken chicken,OWN_DELIVERY,,Kuwait
+TB_KW,708175,tgo-109658,"Liken chicken, Mubarak Al-kabir",TLBT UrbanPiper Plugin,664839,Liken chicken,OWN_DELIVERY,,Kuwait
+TB_KW,682314,tgo-121117,"Live Life, (DH Kitchen)Jahra - Jahra Area",TLBT UrbanPiper Plugin,19100,Live Life,OWN_DELIVERY,,Kuwait
+TB_KW,42116,tgo-121116,"Live Life, Industrial Ardhiya - TGO",TLBT UrbanPiper Plugin,19100,Live Life,OWN_DELIVERY,,Kuwait
+TB_KW,33530,tgo-121115,"Live Life,Mahboula - TGO",TLBT UrbanPiper Plugin,19100,Live Life,OWN_DELIVERY,,Kuwait
+TB_KW,713609,tgo-121119,"Live Life,Salmiya,(DH Kitchen)",TLBT UrbanPiper Plugin,667814,Live Life,OWN_DELIVERY,,Kuwait
+TB_KW,13418,tgo-82150,"Loqmat Al Afya, Ardhiya",TLBT UrbanPiper Plugin,6876,Loqmat Al Afya,OWN_DELIVERY,,Kuwait
+TB_KW,731329,tgo-107373,"Loqmat Al Afya, Jahra - Saad Al Abdullah",TLBT UrbanPiper Plugin,6876,Loqmat Al Afya,OWN_DELIVERY,,Kuwait
+TB_KW,704010,tgo-87763,"Loqmat Al Afya, Mangaf",TLBT UrbanPiper Plugin,6876,Loqmat Al Afya,OWN_DELIVERY,,Kuwait
+TB_KW,701513,tgo-106460,"Loqmat Al Afya, Sabah Al Ahmad 1",TLBT UrbanPiper Plugin,6876,Loqmat Al Afya,OWN_DELIVERY,,Kuwait
+TB_KW,714499,tgo-105535,"Magic Burger, Ardhiya",TLBT UrbanPiper Plugin,668343,Magic Burger,OWN_DELIVERY,,Kuwait
+TB_KW,714500,tmp-106190,"Magic Burger, Ardhiya TMP",TLBT UrbanPiper Plugin,668343,Magic Burger,VENDOR_DELIVERY,,Kuwait
+TB_KW,731327,tgo-107220,"Magic Burger, Jahra - Jahra Area",TLBT UrbanPiper Plugin,668343,Magic Burger,OWN_DELIVERY,,Kuwait
+TB_KW,714704,tgo-105536,"Magic Burger, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,668343,Magic Burger,OWN_DELIVERY,,Kuwait
+TB_KW,764083,tgo-162651,"Mahashi Station, Ardhiya",TLBT UrbanPiper Plugin,669488,Mahashi Station,OWN_DELIVERY,,Kuwait
+TB_KW,764084,tgo-162653,"Mahashi Station, Fahaheel",TLBT UrbanPiper Plugin,669488,Mahashi Station,OWN_DELIVERY,,Kuwait
+TB_KW,764082,tgo-162655,"Mahashi Station, Hawally",TLBT UrbanPiper Plugin,669488,Mahashi Station,OWN_DELIVERY,,Kuwait
+TB_KW,754613,tgo -162657,"Mahashi Station, Jahra - Jahra Area",TLBT UrbanPiper Plugin,669488,Mahashi Station,OWN_DELIVERY,,Kuwait
+TB_KW,22745,tgo-107369,"Mallah Village Restaurant, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,11906,Mallah Village Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,753096,tgo-162163,"Mama Macs, Hawally",TLBT UrbanPiper Plugin,679646,Mama Macs,OWN_DELIVERY,,Kuwait
+TB_KW,657763,tgo-123352,"Manaiesh al Day3a, Hawally",TLBT UrbanPiper Plugin,635882,Manaiesh Al Day3a,OWN_DELIVERY,,Kuwait
+TB_KW,711672,tgo-87291,"Mess, Khaitan",TLBT UrbanPiper Plugin,666797,Mess,OWN_DELIVERY,,Kuwait
+TB_KW,755369,tgo-131434,"Mhammash Restaurant Co, Ardhiya,Ardhiya",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,708660,tgo-93931,"Mhammash Restaurant Co, Jahra - Jahra Area",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,696695,tmp-85692,"Mhammash Restaurant Co, Sharq-TMP",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,VENDOR_DELIVERY,,Kuwait
+TB_KW,696696,tmp-88355,"Mhammash Restaurant Co, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,VENDOR_DELIVERY,,Kuwait
+TB_KW,47663,tgo-88354,"Mhammash Restaurant Co, West Abu Fetera Small Indust TGG",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,748126,tgo-137876,"Mhammash Restaurant, Hawally ",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,23044,tgo-85664,"Mhammash Restaurant, Sharq",TLBT UrbanPiper Plugin,12132,Mhammash Restaurant,OWN_DELIVERY,,Kuwait
+TB_KW,29115,tgo-95509,"Monkey Cookies, Abu Ftaira TMP",TLBT UrbanPiper Plugin,1422,Monkey Cookies,VENDOR_DELIVERY,,Kuwait
+TB_KW,705149,tgo-81982,"Naz, Sharq",TLBT UrbanPiper Plugin,95,Naz,OWN_DELIVERY,,Kuwait
+TB_KW,41,tmp-82455,"Naz, Sharq tmp",TLBT UrbanPiper Plugin,95,Naz,VENDOR_DELIVERY,,Kuwait
+TB_KW,705148,tgo-81981,"Naz, Zahra",TLBT UrbanPiper Plugin,95,Naz,OWN_DELIVERY,,Kuwait
+TB_KW,150,tmp-82454,"Naz, Zahra tmp",TLBT UrbanPiper Plugin,95,Naz,VENDOR_DELIVERY,,Kuwait
+TB_KW,733027,tgo-109933,"Oslo Coffee, c",TLBT UrbanPiper Plugin,679284,Oslo Coffeec,OWN_DELIVERY,,Kuwait
+TB_KW,746058,tgo-124822,"PRE, Sabah Al-Salem",TLBT UrbanPiper Plugin,686899,PRE,OWN_DELIVERY,,Kuwait
+TB_KW,743402,tgo-120690,"Pixel Burger, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,685301,Pixel Burger,OWN_DELIVERY,,Kuwait
+TB_KW,633488,tgo-110715,"R N D Coffee bar,Sabah Al-Salem",TLBT UrbanPiper Plugin,621258,RND Coffee bar,OWN_DELIVERY,,Kuwait
+TB_KW,741275,tgo-169822,"RND Coffee Bar, Shuwaikh",TLBT UrbanPiper Plugin,621258,RND Coffee bar,OWN_DELIVERY,,Kuwait
+TB_KW,640249,tgo-107156,"RYCH, Hawally",TLBT UrbanPiper Plugin,625640,RYCH,OWN_DELIVERY,,Kuwait
+TB_KW,29961,tgo-121497,"Rice Station, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,16971,Rice Station,OWN_DELIVERY,,Kuwait
+TB_KW,709659,tgo-83703,"Robins Hut,  Bnied Al-Gar",TLBT UrbanPiper Plugin,665689,Robins Hut,OWN_DELIVERY,,Kuwait
+TB_KW,750867,tgo-128055,"Roots Eatery, Aswaq Qurain, Al-Qurain",TLBT UrbanPiper Plugin,17240,Roots,OWN_DELIVERY,,Kuwait
+TB_KW,30415,tgo-103379,"Roots, Shuwaikh",TLBT UrbanPiper Plugin,17240,Roots,OWN_DELIVERY,,Kuwait
+TB_KW,724629,tgo-104101,"Salad Creation, Jahra - Jahra Area(DH Kitchen)",TLBT UrbanPiper Plugin,674437,Salad Creation,OWN_DELIVERY,,Kuwait
+TB_KW,682736,tgo-89314,"Salad Creations, Andalous",TLBT UrbanPiper Plugin,92,Salad Creations,OWN_DELIVERY,,Kuwait
+TB_KW,25,tgo-89316,"Salad Creations, Kipco Tower",TLBT UrbanPiper Plugin,92,Salad Creations,OWN_DELIVERY,,Kuwait
+TB_KW,748091,tgo-128031,"Salad Creations, Mahboula (DH Kitchen)",TLBT UrbanPiper Plugin,674437,Salad Creation,OWN_DELIVERY,,Kuwait
+TB_KW,645449,tgo-89315,"Salad Creations, Salwa",TLBT UrbanPiper Plugin,92,Salad Creations,OWN_DELIVERY,,Kuwait
+TB_KW,678915,tgo-89313,"Salad Creations, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,92,Salad Creations,OWN_DELIVERY,,Kuwait
+TB_KW,30264,tgo-89317,"Salad Creations, Zahra",TLBT UrbanPiper Plugin,92,Salad Creations,OWN_DELIVERY,,Kuwait
+TB_KW,672558,tgo-103716,"Seattle's Best Coffee, Abu Halifa",TLBT UrbanPiper Plugin,644956,Seattle's Best Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,618421,tgo-122353,"Sheikh AlFatayer, Mangaf",TLBT UrbanPiper Plugin,610833,Sheikh AlFatayer,OWN_DELIVERY,,Kuwait
+TB_KW,691083,tgo-111160,"Swaikhat Lab, Jahra",TLBT UrbanPiper Plugin,655831,Swaikhat Lab,OWN_DELIVERY,,Kuwait
+TB_KW,739809,tgo-118850,"Swaikhat Lab, Mangaf",TLBT UrbanPiper Plugin,655831,Swaikhat Lab,OWN_DELIVERY,,Kuwait
+TB_KW,31571,tgo-121903,Test - Pos_Dummy_Store KW_AA - TGO,TLBT UrbanPiper Plugin,17933,Test - pos_dummy_store KW_AA,VENDOR_DELIVERY,,Kuwait
+TB_KW,31568,tmp-49674,Test - Pos_Dummy_Store KW_BB - TMP,TLBT UrbanPiper Plugin,17933,Test - pos_dummy_store KW_AA,VENDOR_DELIVERY,,Kuwait
+TB_KW,769753,tgo-146572,The Coffee Mood,TLBT UrbanPiper Plugin,701279,The Coffee Mood,OWN_DELIVERY,,Kuwait
+TB_KW,739582,tgo-122132,"The Grounded Cow, Andalous",TLBT UrbanPiper Plugin,683069,TGC,OWN_DELIVERY,,Kuwait
+TB_KW,742034,tgo-122128,"The Grounded Cow, Fahaheel",TLBT UrbanPiper Plugin,683069,TGC,OWN_DELIVERY,,Kuwait
+TB_KW,742033,tgo-122129,"The Grounded Cow, Jahra",TLBT UrbanPiper Plugin,683069,TGC,OWN_DELIVERY,,Kuwait
+TB_KW,739675,tgo-122131,"The Grounded Cow, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,683069,TGC,OWN_DELIVERY,,Kuwait
+TB_KW,739570,tgo-122130,"The Grounded Cow, Yarmouk",TLBT UrbanPiper Plugin,683069,TGC,OWN_DELIVERY,,Kuwait
+TB_KW,642385,f3c0f433-c070-4579-ab5e-42a17c2457cb,"Toscana, Farwaniya",TLBT UrbanPiper Plugin,626884,Toscana,OWN_DELIVERY,,Kuwait
+TB_KW,722668,tgo-108914,"U Pizza, Ardiya TGO",TLBT UrbanPiper Plugin,673283,U Pizza,OWN_DELIVERY,,Kuwait
+TB_KW,775602,tgo-162368,"WINGSTOP, Abu Halifa",TLBT UrbanPiper Plugin,699509,Wingstop,OWN_DELIVERY,,Kuwait
+TB_KW,775603,tgo-162367,"WINGSTOP, Egaila",TLBT UrbanPiper Plugin,699509,Wingstop,OWN_DELIVERY,,Kuwait
+TB_KW,770891,tgo-156339,"WINGSTOP, Kuwait City",TLBT UrbanPiper Plugin,699509,Wingstop,OWN_DELIVERY,,Kuwait
+TB_KW,767121,tgo-141931,"WINGSTOP, Salmiya",TLBT UrbanPiper Plugin,699509,Wingstop,OWN_DELIVERY,,Kuwait
+TB_KW,711464,tgo-111388,"Wagta, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,666669,Wagta,OWN_DELIVERY,,Kuwait
+TB_KW,745612,tgo-124562,"Wama (DH Kitchen) , Salmiya",TLBT UrbanPiper Plugin,686628,Wama,OWN_DELIVERY,,Kuwait
+TB_KW,733500,tgo-109319,"Wama, Shuwaikh Industrial 1",TLBT UrbanPiper Plugin,679583,Wama,OWN_DELIVERY,,Kuwait
+TB_KW,30726,tmp-132411,"Weld Al Asayel, Ardiya",TLBT UrbanPiper Plugin,17429,Weld Al Asayel,VENDOR_DELIVERY,,Kuwait
+TB_KW,767030,tgo-141930,"Wingstop, salwa",TLBT UrbanPiper Plugin,699509,Wingstop,OWN_DELIVERY,,Kuwait
+TB_KW,15795,tmp-71186,Zaatar W Zeit - Khairan,TLBT UrbanPiper Plugin,30,Zaatar W Zeit,VENDOR_DELIVERY,,Kuwait
+TB_KW,36766,tmp-71188,"Zaatar W Zeit,  Sharq",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,VENDOR_DELIVERY,,Kuwait
+TB_KW,726795,tgo-103496,"Zaatar W Zeit, (DH Kitchen), Jahra",TLBT UrbanPiper Plugin,675701,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,29136,tgo-71180,"Zaatar W Zeit, Abu Hasaniya, (Vibes) TGO",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,715086,tgo-89960,"Zaatar W Zeit, Ardhiya, (DH Kitchen)",TLBT UrbanPiper Plugin,668725,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,36767,tmp-71177,"Zaatar W Zeit, Fahaheel",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,VENDOR_DELIVERY,,Kuwait
+TB_KW,2793,tmp-71184,"Zaatar W Zeit, Hawally",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,VENDOR_DELIVERY,,Kuwait
+TB_KW,34499,tgo-71183,"Zaatar W Zeit, Hawally TGO",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,637828,tgo-71185,"Zaatar W Zeit, Khairan TGO",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,38167,tmp-71182,"Zaatar W Zeit, Mishrif",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,VENDOR_DELIVERY,,Kuwait
+TB_KW,3505,tgo-71181,"Zaatar W Zeit, Mishrif TGO",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,36866,tgo-71179,"Zaatar W Zeit, Salmiya Marina",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,81,tgo-71178,"Zaatar W Zeit, Shamiya",TLBT UrbanPiper Plugin,30,Zaatar W Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,760686,tgo-135973,"Zaatar w Zeit (DH Kitchen), Mahboula",TLBT UrbanPiper Plugin,695427,Zaatar w Zeit,OWN_DELIVERY,,Kuwait
+TB_KW,618232,tmp-136682,Zaroub tmp,TLBT UrbanPiper Plugin,610682,Zaroub,VENDOR_DELIVERY,,Kuwait
+TB_KW,765469,tmp-136682,"Zaroub, Ardhiya TMP",TLBT UrbanPiper Plugin,698553,Zaroub,VENDOR_DELIVERY,,Kuwait
+TB_KW,687587,tmp-132402,"catering factory Tmp, Ardhiya",TLBT UrbanPiper Plugin,649793,catering factory,VENDOR_DELIVERY,,Kuwait
+TB_KW,698425,tgo-139738,"hubbis (DH Kitchen), Ardhiya Small Industrial",TLBT UrbanPiper Plugin,659821,Hubbis,OWN_DELIVERY,,Kuwait
+TB_KW,698422,tgo-139737,"hubbis, West Abu Fetera Small Indust",TLBT UrbanPiper Plugin,659821,Hubbis,OWN_DELIVERY,,Kuwait
+TB_KW,670022,bd958c9b-1788-4cc5-a182-d1eaa3fb355f,"karam sweet, Hawally,Hawally",TLBT UrbanPiper Plugin,626032,Karam Sweet,OWN_DELIVERY,,Kuwait
+TB_KW,44981,tgo-156371,"kotton, Mishref",TLBT UrbanPiper Plugin,25221,Kotton,OWN_DELIVERY,,Kuwait
+TB_KW,695311,tgo-121118,"live life, Ardhiya 4",TLBT UrbanPiper Plugin,19100,Live Life,OWN_DELIVERY,,Kuwait
+TB_KW,651684,tgo-120435,"live life, Kuwait City",TLBT UrbanPiper Plugin,19100,Live Life,OWN_DELIVERY,,Kuwait

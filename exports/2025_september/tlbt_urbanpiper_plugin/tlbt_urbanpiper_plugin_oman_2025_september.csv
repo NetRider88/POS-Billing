@@ -1,0 +1,158 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,778002,tgo-163567,"Allo Beirut, Ghubrah",TLBT UrbanPiper Plugin,706268,Allo Beirut,OWN_DELIVERY,,Oman
+TB_OM,698002,tgo-93415,"Automatic Old Restaurant, Hail",TLBT UrbanPiper Plugin,659629,Automatic Old Restaurant,OWN_DELIVERY,,Oman
+TB_OM,690370,tgo-72168,BETWEEN THE BUN,TLBT UrbanPiper Plugin,655403,BETWEEN THE BUN,OWN_DELIVERY,,Oman
+TB_OM,690364,tgo-72147,"BIG BAO BUN, The Wave",TLBT UrbanPiper Plugin,655397,Big Bao Bun,OWN_DELIVERY,,Oman
+TB_OM,775802,tgo-162594,"BUILD YOUR OWN BITE, Amerat",TLBT UrbanPiper Plugin,704026,Build Your Own Bite,OWN_DELIVERY,,Oman
+TB_OM,774440,tgo-162596,"BUILD YOUR OWN BITE, Ghala,Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,704026,Build Your Own Bite,OWN_DELIVERY,,Oman
+TB_OM,775801,tgo-162590,"BUILD YOUR OWN BITE, Qurm ",TLBT UrbanPiper Plugin,704026,Build Your Own Bite,OWN_DELIVERY,,Oman
+TB_OM,775800,tgo-162592,"BUILD YOUR OWN BITE, The Wave",TLBT UrbanPiper Plugin,704026,Build Your Own Bite,OWN_DELIVERY,,Oman
+TB_OM,719209,9093989415,"Batch, Al Koudh",TLBT UrbanPiper Plugin,671189,Batch,OWN_DELIVERY,,Oman
+TB_OM,757202,tgo-134600,"Between The Bun, Amerat,Amerat",TLBT UrbanPiper Plugin,655403,BETWEEN THE BUN,OWN_DELIVERY,,Oman
+TB_OM,682224,tgo-79034,"Between The Bun, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,650653,Between The Bun,OWN_DELIVERY,,Oman
+TB_OM,700563,tgo-76205,"Between The Bun, Qurm ",TLBT UrbanPiper Plugin,655403,BETWEEN THE BUN,OWN_DELIVERY,,Oman
+TB_OM,757204,tgo-134601,"Big Bao Bun, Amerat,Amerat",TLBT UrbanPiper Plugin,655397,Big Bao Bun,OWN_DELIVERY,,Oman
+TB_OM,658233,tgo-79035,"Big Bao Bun, Ghala",TLBT UrbanPiper Plugin,636207,Big Bao Bun,OWN_DELIVERY,,Oman
+TB_OM,701282,tgo-77605,"Big Bao Bun, Qurm",TLBT UrbanPiper Plugin,655397,Big Bao Bun,OWN_DELIVERY,,Oman
+TB_OM,710868,tgo-65111,"ChicKing, Al Bahjah",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,710300,tgo-65116,"ChicKing, Al Ghushbah",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,758387,tgo-134984,"ChicKing, Al Khuwayriyyah",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,706756,tgo-65119,"ChicKing, Al Sada North",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,720731,tgo-95475,"ChicKing, Amarat Phase 3",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,714926,tgo-68140,"ChicKing, At Turayf",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,714861,tgo-65121,"ChicKing, Awqad Ash Shamaliyah",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,714916,tgo-65112,"ChicKing, Azaiba ",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,694396,tgo-73033,"ChicKing, Barka Grand Mall",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,714955,tgo-65115,"ChicKing, Bawshar",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,706752,tgo-68143,"ChicKing, Firq",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,763322,tgo-138637,"ChicKing, Halban",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,738861,tgo-114103,"ChicKing, Ibra Municipality Area",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,608236,tgo-68142,"ChicKing, Ibri,Hijjar",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,714914,tgo-65118,"ChicKing, Jabal Al Eid",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,48061,tgo-68141,"ChicKing, Khuwair-Oasis Mall",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,710301,tgo-65114,"ChicKing, Maabela South",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,710870,tgo-65110,"ChicKing, Markaz Al Bahja",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,714918,tgo-65120,"ChicKing, Salalah Wosta",TLBT UrbanPiper Plugin,26887,ChicKing,OWN_DELIVERY,,Oman
+TB_OM,754163,tgo-754163,"Dragon Wok, Al Khuwayr South",TLBT UrbanPiper Plugin,691474,Dragon Wok,OWN_DELIVERY,,Oman
+TB_OM,757215,tgo-134602,"EGGSTRA BITE, Amerat,Amerat",TLBT UrbanPiper Plugin,689545,Eggstra Bite,OWN_DELIVERY,,Oman
+TB_OM,750693,tgo-127679,"EGGSTRA BITE, Ghala, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,689545,Eggstra Bite,OWN_DELIVERY,,Oman
+TB_OM,750682,tgo-127681,"Eggstra Bite, Al Mouj, The Wave",TLBT UrbanPiper Plugin,689545,Eggstra Bite,OWN_DELIVERY,,Oman
+TB_OM,750702,tgo-127680,"Eggstra Bite, Qurum",TLBT UrbanPiper Plugin,689545,Eggstra Bite,OWN_DELIVERY,,Oman
+TB_OM,776922,tgo-162863,"HOUSE OF ACAI, Amerat",TLBT UrbanPiper Plugin,705266,HOUSE OF ACAI,OWN_DELIVERY,,Oman
+TB_OM,776455,tgo-162865,"HOUSE OF ACAI, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,705266,HOUSE OF ACAI,OWN_DELIVERY,,Oman
+TB_OM,776924,tgo-162859,"HOUSE OF ACAI, Qurm",TLBT UrbanPiper Plugin,705266,HOUSE OF ACAI,OWN_DELIVERY,,Oman
+TB_OM,776923,tgo-162861,"HOUSE OF ACAI, The wave",TLBT UrbanPiper Plugin,705266,HOUSE OF ACAI,OWN_DELIVERY,,Oman
+TB_OM,709767,tgo-84585,"Healthy & Co, Al Mawalih North ",TLBT UrbanPiper Plugin,646128,Healthy&co,OWN_DELIVERY,,Oman
+TB_OM,757203,tgo-140266,"Healthy & Co, Amerat, Amerat",TLBT UrbanPiper Plugin,646128,Healthy&co,OWN_DELIVERY,,Oman
+TB_OM,714144,tgo-88897,"Healthy & Co, Qurm,Qurm ",TLBT UrbanPiper Plugin,646128,Healthy&co,OWN_DELIVERY,,Oman
+TB_OM,674606,tgo-79181,"Healthy&co, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,646128,Healthy&co,OWN_DELIVERY,,Oman
+TB_OM,757205,tgo-140265,"House of Poke, Amerat, Amerat",TLBT UrbanPiper Plugin,690145,House of Poke,OWN_DELIVERY,,Oman
+TB_OM,751678,tgo-129320,"House of Poke, Ghala, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,690145,House of Poke,OWN_DELIVERY,,Oman
+TB_OM,751785,tgo-129321,"House of Poke, Qurum,Qurm ",TLBT UrbanPiper Plugin,690145,House of Poke,OWN_DELIVERY,,Oman
+TB_OM,751787,tgo-129322,"House of Poke, The Wave,The Wave",TLBT UrbanPiper Plugin,690145,House of Poke,OWN_DELIVERY,,Oman
+TB_OM,754161,tgo-754161,"Kebab Corner, Al Khuwayr South",TLBT UrbanPiper Plugin,691472,Kebab Corner,OWN_DELIVERY,,Oman
+TB_OM,772746,tgo-158849,"LUCKY EGG, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,703020,LUCKY EGG,OWN_DELIVERY,,Oman
+TB_OM,773191,tgo-158856,"LUCKY EGG, The wave,The Wave",TLBT UrbanPiper Plugin,703020,LUCKY EGG,OWN_DELIVERY,,Oman
+TB_OM,773188,tgo-158858,"LUCKY EGG, amerat,Amerat",TLBT UrbanPiper Plugin,703020,LUCKY EGG,OWN_DELIVERY,,Oman
+TB_OM,773194,tgo-158854,"LUCKY EGG, qurm,Qurm ",TLBT UrbanPiper Plugin,703020,LUCKY EGG,OWN_DELIVERY,,Oman
+TB_OM,743066,tgo-120562,"MAD FOR MEXICAN, Al Mawalih North",TLBT UrbanPiper Plugin,671432,MAD FOR MEXICAN,OWN_DELIVERY,,Oman
+TB_OM,719580,tgo-94824,"MAD FOR MEXICAN, Ghala",TLBT UrbanPiper Plugin,671432,MAD FOR MEXICAN,OWN_DELIVERY,,Oman
+TB_OM,720123,tgo-125196,"MAD FOR MEXICAN, Qurum",TLBT UrbanPiper Plugin,671432,MAD FOR MEXICAN,OWN_DELIVERY,,Oman
+TB_OM,770569,tgo-151389,"MEXIKO, Al Amarat Phase 1",TLBT UrbanPiper Plugin,701367,MEXIKO,OWN_DELIVERY,,Oman
+TB_OM,769918,tgo-151390,"MEXIKO, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,701367,MEXIKO,OWN_DELIVERY,,Oman
+TB_OM,770570,tgo-151387,"MEXIKO, Qurm ",TLBT UrbanPiper Plugin,701367,MEXIKO,OWN_DELIVERY,,Oman
+TB_OM,770571,tgo-151388,"MEXIKO, The Wave",TLBT UrbanPiper Plugin,701367,MEXIKO,OWN_DELIVERY,,Oman
+TB_OM,665148,tgo-79037,MUNCHZILLA,TLBT UrbanPiper Plugin,640521,Munchzilla,OWN_DELIVERY,,Oman
+TB_OM,690365,tgo-72169,MUNCHZILLA,TLBT UrbanPiper Plugin,655398,Munchzilla,OWN_DELIVERY,,Oman
+TB_OM,757206,tgo-134603,"Mad for Mexican, Amerat,Amerat",TLBT UrbanPiper Plugin,671432,MAD FOR MEXICAN,OWN_DELIVERY,,Oman
+TB_OM,696349,tgo-72709,"Mix N` Munch, Al Mawalih North ",TLBT UrbanPiper Plugin,641520,Mix N` Munch,OWN_DELIVERY,,Oman
+TB_OM,757210,tgo-134604,"Mix N` Munch, Amerat, Amerat",TLBT UrbanPiper Plugin,641520,Mix N` Munch,OWN_DELIVERY,,Oman
+TB_OM,704123,tgo-80235,"Mix N` Munch, Qurum",TLBT UrbanPiper Plugin,641520,Mix N` Munch,OWN_DELIVERY,,Oman
+TB_OM,666695,tgo-79185,"Mix N` Munch,Ghala  ",TLBT UrbanPiper Plugin,641520,Mix N` Munch,OWN_DELIVERY,,Oman
+TB_OM,757212,tgo-134605,"Munchzilla, Amerat,Amerat",TLBT UrbanPiper Plugin,640521,Munchzilla,OWN_DELIVERY,,Oman
+TB_OM,700585,tgo-76203,"Munchzilla, Qurm",TLBT UrbanPiper Plugin,655398,Munchzilla,OWN_DELIVERY,,Oman
+TB_OM,727006,tgo-104129,"My Pasta, Al Mouj,The Wave",TLBT UrbanPiper Plugin,642893,My Pasta,OWN_DELIVERY,,Oman
+TB_OM,757233,tgo-134606,"My Pasta, Amerat, Amerat",TLBT UrbanPiper Plugin,642893,My Pasta,OWN_DELIVERY,,Oman
+TB_OM,668944,tgo-84360,"My Pasta, Ghala",TLBT UrbanPiper Plugin,642893,My Pasta,OWN_DELIVERY,,Oman
+TB_OM,709866,tgo-84716,"My Pasta, Qurum",TLBT UrbanPiper Plugin,642893,My Pasta,OWN_DELIVERY,,Oman
+TB_OM,743067,tgo-120559,"Noodle Lab, Al Mawalih North",TLBT UrbanPiper Plugin,648918,Noodle Lab,OWN_DELIVERY,,Oman
+TB_OM,756991,tgo-134607,"Noodle Lab, Amerat",TLBT UrbanPiper Plugin,648918,Noodle Lab,OWN_DELIVERY,,Oman
+TB_OM,710171,tgo-84904,"Noodle Lab, Qurm ",TLBT UrbanPiper Plugin,648918,Noodle Lab,OWN_DELIVERY,,Oman
+TB_OM,679394,tgo-79183,"Noodle Lab,Al Ghubra Ash Shamaliyyah ",TLBT UrbanPiper Plugin,648918,Noodle Lab,OWN_DELIVERY,,Oman
+TB_OM,683010,tgo-124916,"On The Wood, Al Mawalih North ",TLBT UrbanPiper Plugin,8653,On The Wood,OWN_DELIVERY,,Oman
+TB_OM,678842,tgo-124917,"On The Wood, Qurm",TLBT UrbanPiper Plugin,8653,On The Wood,OWN_DELIVERY,,Oman
+TB_OM,702822,tgo-79726,"Pizza Out of the oven , Ghala",TLBT UrbanPiper Plugin,661867,Pizza Out of the oven,OWN_DELIVERY,,Oman
+TB_OM,743060,tgo-120557,"Pizza Out of the oven, Al Mawalih North",TLBT UrbanPiper Plugin,661867,Pizza Out of the oven,OWN_DELIVERY,,Oman
+TB_OM,756997,tgo-134608,"Pizza Out of the oven, Amerat",TLBT UrbanPiper Plugin,661867,Pizza Out of the oven,OWN_DELIVERY,,Oman
+TB_OM,702588,tgo-78684,"Pizza Out of the oven, Qurm ",TLBT UrbanPiper Plugin,661867,Pizza Out of the oven,OWN_DELIVERY,,Oman
+TB_OM,690366,tgo-72171,RICE & SPICE TO GO,TLBT UrbanPiper Plugin,655399,Rice & Spice To Go,OWN_DELIVERY,,Oman
+TB_OM,702077,tgo-77744,"RICE & SPICE TO GO, Qurm",TLBT UrbanPiper Plugin,655399,Rice & Spice To Go,OWN_DELIVERY,,Oman
+TB_OM,661944,tgo-79038,"Rice & Spice To Go, Al Ghubra Ash Shamaliyyah",TLBT UrbanPiper Plugin,638563,Rice & Spice To Go,OWN_DELIVERY,,Oman
+TB_OM,757208,tgo-134609,"Rice & Spice To Go, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,638563,Rice & Spice To Go,OWN_DELIVERY,,Oman
+TB_OM,643235,tgo-79039,"Rice N Roll, Bawshar",TLBT UrbanPiper Plugin,627322,Rice N Roll,OWN_DELIVERY,,Oman
+TB_OM,700580,tgo-76199,"Rice N Roll, Qurm",TLBT UrbanPiper Plugin,655401,Rice N Roll,OWN_DELIVERY,,Oman
+TB_OM,690368,tgo-72172,"Rice N Roll, The Wave",TLBT UrbanPiper Plugin,655401,Rice N Roll,OWN_DELIVERY,,Oman
+TB_OM,757209,tgo-134610,"Rice N` Roll, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,627322,Rice N Roll,OWN_DELIVERY,,Oman
+TB_OM,771433,tgo-153966,"SHAWARMA FIX, Ghala, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,701298,SHAWARMA FIX,OWN_DELIVERY,,Oman
+TB_OM,771434,tgo-153965,"SHAWARMA FIX, Qurm ",TLBT UrbanPiper Plugin,701298,SHAWARMA FIX,OWN_DELIVERY,,Oman
+TB_OM,770493,tgo-153967,"SHAWARMA FIX, amerat, Amarat Phase 1",TLBT UrbanPiper Plugin,701298,SHAWARMA FIX,OWN_DELIVERY,,Oman
+TB_OM,756127,tgo-133044,"SWAHILI FOOD, Bosher, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,692651,SWAHILI FOOD,OWN_DELIVERY,,Oman
+TB_OM,756864,tgo-140267,"Salad Daze, Amerat, Murtafaat ",TLBT UrbanPiper Plugin,688807,Salad Daze,OWN_DELIVERY,,Oman
+TB_OM,749248,tgo-127197,"Salad Daze, Ghala  ",TLBT UrbanPiper Plugin,688807,Salad Daze,OWN_DELIVERY,,Oman
+TB_OM,749305,tgo-127196,"Salad Daze, Qurm ",TLBT UrbanPiper Plugin,688807,Salad Daze,OWN_DELIVERY,,Oman
+TB_OM,749301,tgo-127195,"Salad Daze, The Wave",TLBT UrbanPiper Plugin,688807,Salad Daze,OWN_DELIVERY,,Oman
+TB_OM,706468,tgo-81931,"Saladicious, Al Mouj,The Wave",TLBT UrbanPiper Plugin,646245,Saladicious,OWN_DELIVERY,,Oman
+TB_OM,757036,tgo-134611,"Saladicious, Amerat",TLBT UrbanPiper Plugin,646245,Saladicious,OWN_DELIVERY,,Oman
+TB_OM,674810,tgo-79178,"Saladicious, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,646245,Saladicious,OWN_DELIVERY,,Oman
+TB_OM,714143,tgo-88896,"Saladicious, Qurm,Qurm ",TLBT UrbanPiper Plugin,646245,Saladicious,OWN_DELIVERY,,Oman
+TB_OM,754177,TGO-754177,"Shahzads, Al Khuwayr South",TLBT UrbanPiper Plugin,691480,Shahzads,OWN_DELIVERY,,Oman
+TB_OM,750794,tgo-127686,"Simply Biryan, Qurum",TLBT UrbanPiper Plugin,689561,SIMPLY BIRYANI,OWN_DELIVERY,,Oman
+TB_OM,750718,tgo-127687,"Simply Biryani, Al Mouj",TLBT UrbanPiper Plugin,689561,SIMPLY BIRYANI,OWN_DELIVERY,,Oman
+TB_OM,757040,tgo-134612,"Simply Biryani, Amerat, Murtafaat Alamerat",TLBT UrbanPiper Plugin,689561,SIMPLY BIRYANI,OWN_DELIVERY,,Oman
+TB_OM,750793,tgo-127685,"Simply Biryani, Ghala,Ghala Industrial Estate",TLBT UrbanPiper Plugin,689561,SIMPLY BIRYANI,OWN_DELIVERY,,Oman
+TB_OM,757037,tgo-134613,"Sliders By Munchzilla, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,644707,Sliders by Munchzilla ,OWN_DELIVERY,,Oman
+TB_OM,700477,tgo-127684,"Sliders by Munchzilla, Al-Hail North",TLBT UrbanPiper Plugin,644707,Sliders by Munchzilla ,OWN_DELIVERY,,Oman
+TB_OM,672090,tgo-127682,"Sliders by Munchzilla, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,644707,Sliders by Munchzilla ,OWN_DELIVERY,,Oman
+TB_OM,704389,tgo-127683,"Sliders by Munchzilla, Qurum",TLBT UrbanPiper Plugin,644707,Sliders by Munchzilla ,OWN_DELIVERY,,Oman
+TB_OM,740273,tgo-116010,"Something Sandwich, Almouj, Al Mawalih North",TLBT UrbanPiper Plugin,675338,Something Sandwich,OWN_DELIVERY,,Oman
+TB_OM,757041,tgo-135077,"Something Sandwich, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,675338,Something Sandwich,OWN_DELIVERY,,Oman
+TB_OM,726133,tgo-103188,"Something Sandwich, Ghala,Ghala  ",TLBT UrbanPiper Plugin,675338,Something Sandwich,OWN_DELIVERY,,Oman
+TB_OM,727566,tgo-104399,"Something Sandwich, Qurum,Qurm ",TLBT UrbanPiper Plugin,675338,Something Sandwich,OWN_DELIVERY,,Oman
+TB_OM,750735,tgo-127673,"TACO SPOT, Al Mouj,The Wave",TLBT UrbanPiper Plugin,689567,TACO SPOT,OWN_DELIVERY,,Oman
+TB_OM,750792,tgo-127672,"TACO SPOT, Qurum,Qurm ",TLBT UrbanPiper Plugin,689567,TACO SPOT,OWN_DELIVERY,,Oman
+TB_OM,750768,tgo-127668,"THE PIZZA SLICE, Ghala, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,689560,The Pizza Slice,OWN_DELIVERY,,Oman
+TB_OM,750772,tgo-127669,"THE PIZZA SLICE, Qurum",TLBT UrbanPiper Plugin,689560,The Pizza Slice,OWN_DELIVERY,,Oman
+TB_OM,757211,tgo-135078,"Taco Spot, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,689567,TACO SPOT,OWN_DELIVERY,,Oman
+TB_OM,750790,tgo-127671,"Taco Spot, Ghala, Ghubrah Janubiyyah	",TLBT UrbanPiper Plugin,689567,TACO SPOT,OWN_DELIVERY,,Oman
+TB_OM,765478,tgo-139742,"Taco Wala, Amerat",TLBT UrbanPiper Plugin,696843,Taco Wala,OWN_DELIVERY,,Oman
+TB_OM,762879,tgo-138103,"Taco Wala, Ghala,Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,696843,Taco Wala,OWN_DELIVERY,,Oman
+TB_OM,762868,tgo-138104,"Taco Wala, Qurum,Qurm ",TLBT UrbanPiper Plugin,696843,Taco Wala,OWN_DELIVERY,,Oman
+TB_OM,743073,tgo-120560,"The Asian Kitchen, Al Mawalih North ",TLBT UrbanPiper Plugin,627189,The Asian Kitchen,OWN_DELIVERY,,Oman
+TB_OM,757042,tgo-135079,"The Asian Kitchen, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,627189,The Asian Kitchen,OWN_DELIVERY,,Oman
+TB_OM,642965,tgo-79118,"The Asian Kitchen, Ghala",TLBT UrbanPiper Plugin,627189,The Asian Kitchen,OWN_DELIVERY,,Oman
+TB_OM,710167,tgo-84906,"The Asian Kitchen, Qurm",TLBT UrbanPiper Plugin,627189,The Asian Kitchen,OWN_DELIVERY,,Oman
+TB_OM,690367,tgo-72174,The Egg Story,TLBT UrbanPiper Plugin,655400,The Egg Story,OWN_DELIVERY,,Oman
+TB_OM,757044,tgo-135080,"The Egg Story, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,638308,The Egg Story,OWN_DELIVERY,,Oman
+TB_OM,661574,tgo-79041,"The Egg Story, Ghubrah",TLBT UrbanPiper Plugin,638308,The Egg Story,OWN_DELIVERY,,Oman
+TB_OM,700574,tgo-76194,"The Egg Story, Qurum",TLBT UrbanPiper Plugin,655400,The Egg Story,OWN_DELIVERY,,Oman
+TB_OM,750721,tgo-127677,"The Juice, Al Mouj, The Wave",TLBT UrbanPiper Plugin,689563,THE JUICE,OWN_DELIVERY,,Oman
+TB_OM,757213,tgo-135081,"The Juice, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,689563,THE JUICE,OWN_DELIVERY,,Oman
+TB_OM,750773,tgo-127675,"The Juice, Ghala, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,689563,THE JUICE,OWN_DELIVERY,,Oman
+TB_OM,750771,tgo-127676,"The Juice, Qurum",TLBT UrbanPiper Plugin,689563,THE JUICE,OWN_DELIVERY,,Oman
+TB_OM,750716,tgo-127670,"The Pizza Slice, Al Mouj, The Wave",TLBT UrbanPiper Plugin,689560,The Pizza Slice,OWN_DELIVERY,,Oman
+TB_OM,757216,tgo-135082,"The Pizza Slice, Amerat, Murtafaat Alamerat",TLBT UrbanPiper Plugin,689560,The Pizza Slice,OWN_DELIVERY,,Oman
+TB_OM,703085,tgo-125307,"Toppi Vappa Biryani Restaurant, Ruwi",TLBT UrbanPiper Plugin,662129,Topi Vappa Biriyani Restaurant,OWN_DELIVERY,,Oman
+TB_OM,693108,tgo-141481,"WING IT, The wave",TLBT UrbanPiper Plugin,628444,Wing It,OWN_DELIVERY,,Oman
+TB_OM,690369,tgo-72175,What A Paratha,TLBT UrbanPiper Plugin,655402,What A Paratha,OWN_DELIVERY,,Oman
+TB_OM,677243,tgo-79043,"What A Paratha!, Al Ghubra Ash Shamaliyyah",TLBT UrbanPiper Plugin,647639,What A Paratha!,OWN_DELIVERY,,Oman
+TB_OM,757043,tgo-135083,"What A Paratha, Amerat,Nahdha",TLBT UrbanPiper Plugin,647639,What A Paratha!,OWN_DELIVERY,,Oman
+TB_OM,720744,tgo-95418,"What A Paratha, Qurm",TLBT UrbanPiper Plugin,647639,What A Paratha!,OWN_DELIVERY,,Oman
+TB_OM,767242,tgo-141531,"Wing It, Amerat",TLBT UrbanPiper Plugin,628444,Wing It,OWN_DELIVERY,,Oman
+TB_OM,645338,tgo-141480,"Wing It, Ghala",TLBT UrbanPiper Plugin,628444,Wing It,OWN_DELIVERY,,Oman
+TB_OM,767147,tgo-141530,"Wing It, Qurm",TLBT UrbanPiper Plugin,628444,Wing It,OWN_DELIVERY,,Oman
+TB_OM,743061,tgo-120558,"Wok Stars, Al Mawalih North",TLBT UrbanPiper Plugin,644718,Wok Stars,OWN_DELIVERY,,Oman
+TB_OM,757048,tgo-135084,"Wok Stars, Amerat,Murtafaat Alamerat",TLBT UrbanPiper Plugin,644718,Wok Stars,OWN_DELIVERY,,Oman
+TB_OM,672104,tgo-79180,"Wok Stars, Ghubrah Janubiyyah",TLBT UrbanPiper Plugin,644718,Wok Stars,OWN_DELIVERY,,Oman
+TB_OM,710176,tgo-84905,"Wok Stars, Qurm ",TLBT UrbanPiper Plugin,644718,Wok Stars,OWN_DELIVERY,,Oman
+TB_OM,724574,tgo-131438,"little snack, Azaiba",TLBT UrbanPiper Plugin,661005,little snack,OWN_DELIVERY,,Oman
+TB_OM,700697,tgo-131439,"little snack,Hail South ",TLBT UrbanPiper Plugin,661005,little snack,OWN_DELIVERY,,Oman

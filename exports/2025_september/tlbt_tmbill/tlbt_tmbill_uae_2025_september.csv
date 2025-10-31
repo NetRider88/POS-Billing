@@ -1,0 +1,3 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,776609,2658337326,"Brew & Bites Cafe, Nad Al Sheba 1",TLBT-TMBill,705369,Brew & Bites Cafe,OWN_DELIVERY,,UAE
+TB_AE,773388,3779318179,TMBill POS Test 6 - TGO ,TLBT-TMBill,703378,POS Test 6,VENDOR_DELIVERY,,UAE

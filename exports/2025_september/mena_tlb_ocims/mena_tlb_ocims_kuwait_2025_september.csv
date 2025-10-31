@@ -1,0 +1,5 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,6348,1085,"Herfy, Abu Hasaniya",MENA-TLB-OCIMS,1195,Herfy,OWN_DELIVERY,,Kuwait
+TB_KW,686530,1117,"Mais Alghanim, Jahra - Jahra Area",MENA-TLB-OCIMS,8,Mais Alghanim,VENDOR_DELIVERY,,Kuwait
+TB_KW,6359,1086,"Mr. Subs & Wraps, Abu Hasaniya",MENA-TLB-OCIMS,1196,Mr Subs and Wraps,OWN_DELIVERY,,Kuwait
+TB_KW,686226,1116,"Shawarma Matic, Jahra - Jahra Area",MENA-TLB-OCIMS,1042,Shawarma Matic,OWN_DELIVERY,,Kuwait

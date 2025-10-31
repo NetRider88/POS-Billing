@@ -1,0 +1,59 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,643225,ce088866-0eff-4986-96dd-515e807123d0,"All Star Chicken, AAQ3 TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,643223,8cb219e0-960f-41a9-a85e-e48f5dca60ed,"All Star Chicken, ARDIYA 3 TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,753637,24e4f411-a24e-40ca-9205-9568285a7043,"All Star Chicken, Assima Mall, Kuwait City",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,643226,bbb12697-1292-4f94-a861-553391f42176,"All Star Chicken, Fintas TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,643233,4383b44b-8094-45ce-b2d6-1b5dd85947c8,"All Star Chicken, Jabriya TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,643227,f37aa435-f08a-4cc0-be07-88c7aa53fd29,"All Star Chicken, Jahra TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,648154,3e8b5e21-e794-4284-a242-716c3d7dac23,"All Star Chicken, Khairan",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,643232,d67a21b1-47ce-4121-8a90-9804a6afea87,"All Star Chicken, Sabah Al Salem TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,643221,906871ca-4b4f-4b79-950c-f7f1874362df,"All Star Chicken, Salmiya TGO",TLBT Kitopi Plugin -New,627320,All Star Chicken,OWN_DELIVERY,,Kuwait
+TB_KW,715320,ff6c10ca-b0fb-4fed-8518-5ff660910e76,"FAT BUN, Ardiya 3",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,770332,47194be2-44b4-4bf8-b547-dab0c3029ada,"FAT BUN, Jahra,Jahra - Jahra Area",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,715380,214db50c-43b0-4581-877e-00aad6a4249f,"Fat Bun, Aswaq Al Qurrain",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,715379,81d562cb-d2b3-4a00-9fd3-4e27f3658cc0,"Fat Bun, Fintas",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,740742,fb679e23-56a3-4a14-8983-8eef350f0d1e,"Fat Bun, Khairan",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,715378,0cdf98b2-f8ae-41ca-b536-80a2a274ef8c,"Fat Bun, Salmiya",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,715381,f4f4febc-ebd9-4d1a-9fee-528a28972d44,"Fat Bun, Sharq",TLBT Kitopi Plugin -New,668841,Fat Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743475,472434c4-8fbe-4782-b0dd-c7cc42a41b07,"Hot Bun,  AAQ3,Al-Qurain",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,754484,873853e1-2382-470e-9cf2-6babcbe3807d,"Hot Bun, Ardhiya",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743477,fbac1e30-be11-4fbb-901b-b649ecf3357f,"Hot Bun, Fintas",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743476,cc283c8c-3698-4f94-a7e7-f9fb59ab4696,"Hot Bun, Jabriya",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743479,bbef1eb3-4df8-48fb-a4e3-002d7d95ec78,"Hot Bun, Jahra Area",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743480,e72f7644-0d02-4824-8685-388e016fa923,"Hot Bun, Khairan",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743478,6a313911-8159-42bc-91e2-b3bdd3720fd6,"Hot Bun, Sabah Al-Salem",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,743454,e178a0eb-4216-409c-9e5b-46a7a0d5e875,"Hot Bun, Salmiya",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,751634,3743acc6-9100-4eee-aa41-387e0c7e9f8a,"Hot Bun, Sharq",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,770337,c94b9e57-15e9-455a-aa14-6d2a5c7a13af,"Hot Bun, Shuhada,Shuhada",TLBT Kitopi Plugin -New,685334,Hot Bun,OWN_DELIVERY,,Kuwait
+TB_KW,771928,5814f9bb-37fe-4cbc-8e63-247d8fceb4b4,"Luca, Ardhiya",TLBT Kitopi Plugin -New,25071,Luca,OWN_DELIVERY,,Kuwait
+TB_KW,740814,08117760-b46f-48aa-b22e-ed517ba892cd,"Luca, Fintas",TLBT Kitopi Plugin -New,25071,Luca,OWN_DELIVERY,,Kuwait
+TB_KW,44705,bc5913c1-d016-493c-a80c-b39d2a3ed58b,"Luca, Jahra",TLBT Kitopi Plugin -New,25071,Luca,OWN_DELIVERY,,Kuwait
+TB_KW,740813,8cee8fce-bbfb-418d-8a81-553e6ffaed8a,"Luca, Sabah Al-Salem",TLBT Kitopi Plugin -New,25071,Luca,OWN_DELIVERY,,Kuwait
+TB_KW,44706,3e2d72e7-7a88-48b4-a995-354001b0e8cd,"Luca, Salmiya",TLBT Kitopi Plugin -New,25071,Luca,OWN_DELIVERY,,Kuwait
+TB_KW,707008,ec9af561-8e86-402c-a63f-e1133f569328,"MrBeast Burger, Ardhiya 4 TGO",TLBT Kitopi Plugin -New,664197,MrBeast Burger,OWN_DELIVERY,,Kuwait
+TB_KW,707171,5fe13e5e-7eb3-4ea0-bdf7-486cb12a7a05,"MrBeast Burger, Jahra - Jahra Area",TLBT Kitopi Plugin -New,664197,MrBeast Burger,OWN_DELIVERY,,Kuwait
+TB_KW,707169,0902e971-89b6-46d7-937c-e5a33963376f,"MrBeast Burger, Salmiya TGO",TLBT Kitopi Plugin -New,664197,MrBeast Burger,OWN_DELIVERY,,Kuwait
+TB_KW,633038,05a466d2-1bb1-406b-ae90-c9187a2eb330,"Mustard Burger, Ardiya TGO",TLBT Kitopi Plugin -New,22996,Mustard Burger,OWN_DELIVERY,,Kuwait
+TB_KW,632716,4bc6d922-bc29-40d9-91db-c047fb5723ad,"Mustard Burger, Ardiya TMP",TLBT Kitopi Plugin -New,22996,Mustard Burger,VENDOR_DELIVERY,,Kuwait
+TB_KW,40876,e3d01ad7-8d35-4775-88ae-48c1e2438d3e,"Mustard Burger, Jahra TGO",TLBT Kitopi Plugin -New,22996,Mustard Burger,OWN_DELIVERY,,Kuwait
+TB_KW,659497,b5d1f033-5e58-4c27-a70a-8147caef43b3,"Mustard Burger, Sabah Al-Salem TGO",TLBT Kitopi Plugin -New,22996,Mustard Burger,OWN_DELIVERY,,Kuwait
+TB_KW,41751,55ecf800-4705-47e4-b354-02b69b986f41,"Mustard Burger, Salmiya TGO",TLBT Kitopi Plugin -New,22996,Mustard Burger,OWN_DELIVERY,,Kuwait
+TB_KW,643280,ef998036-2414-4110-a78f-668d0f2b00ab,"Rock House Sliders, AAQ3 TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643282,1b79e01d-8d93-4fb7-b4e0-62c4c138b506,"Rock House Sliders, ARDIYA 3 TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643284,938390ae-40f5-4ac9-a9e4-3a4ad15f846c,"Rock House Sliders, Fintas TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643285,1fc8fe30-8968-42e8-b148-f34dd40455b8,"Rock House Sliders, Jabriya TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643286,871b2338-4893-4941-bd36-795b4c3262e6,"Rock House Sliders, Jahra TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643303,66ae5422-ce5a-47fd-8b64-21f95f4cf70a,"Rock House Sliders, Jahra TMP",TLBT Kitopi Plugin -New,627341,Rock House Sliders,VENDOR_DELIVERY,,Kuwait
+TB_KW,711816,f5030238-2824-4215-9cf7-1779ed29d9c2,"Rock House Sliders, Khairan",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643287,3f6b57b8-dead-4ac5-aeba-571019092825,"Rock House Sliders, Sabah Al Salem TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643288,8c7d3157-f972-4491-9ef4-f1fde95d62c5,"Rock House Sliders, Salmiya TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643289,ac8d6e02-6519-43f6-8b7f-5ddfe8feb744,"Rock House Sliders, Sharq TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643290,d0dd4d9e-1f14-4005-a31a-40a5009d6988,"Rock House Sliders, Shuhada TGO",TLBT Kitopi Plugin -New,627341,Rock House Sliders,OWN_DELIVERY,,Kuwait
+TB_KW,643655,fbedb0c8-4022-4181-b508-7638901c250e,"Steers, ARDIYA 4 TGO",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,753634,da7ce59c-8a74-484c-b45e-b591e9402e43,"Steers, Assima Mall, Kuwait City",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,726024,c166a84d-cb5a-499c-a55a-7858f4c8f800,"Steers, Fintas",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,643663,c898b7ef-11c7-44b5-8641-c4e7d1f475bd,"Steers, Khairan",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,665859,ec3accf2-3694-4568-8890-47228dbee090,"Steers, Sabah Al Salem TGO",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,643654,77f6dbd5-9a4e-4ddc-88d3-262adafabde1,"Steers, Salmiya TGO",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,643653,36a212e1-7341-456a-b238-5c361a3af469,"Steers,Jahra - Jahra TGO",TLBT Kitopi Plugin -New,627490,Steers,OWN_DELIVERY,,Kuwait
+TB_KW,643652,05523338-397c-43fb-a972-815b69de50a3,"Steers,Jahra - Jahra TMP",TLBT Kitopi Plugin -New,627490,Steers,VENDOR_DELIVERY,,Kuwait

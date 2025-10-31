@@ -1,0 +1,8 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,770426,e1dc140e-703a-11f0-ad87-325096b39f47,"Bonbird, Madinat Al Sultan Qaboos",TLBT GrubTech Plugin,701675,Bonbird,OWN_DELIVERY,,Oman
+TB_OM,33731,42495936-f896-44b4-836a-f513749366be,"Cake Creation Restaurant, Al Koudh",TLBT GrubTech Plugin,19213,Cake Creations,OWN_DELIVERY,,Oman
+TB_OM,642996,d3fea32a-d4b3-4c41-ac12-e8b11693f595,"Cake Creation, Al khuwair",TLBT GrubTech Plugin,19213,Cake Creations,OWN_DELIVERY,,Oman
+TB_OM,46347,83d5ea20-7dd6-43d5-9ca2-95a4e95c89ce,"Cake Creation, Maabela",TLBT GrubTech Plugin,19213,Cake Creations,OWN_DELIVERY,,Oman
+TB_OM,758675,3d4d0dee-bed8-4315-84d7-eac09fc10ec5,"Smoothie Paradise, Al Khuwayr South",TLBT GrubTech Plugin,693600,Smoothie Paradise,OWN_DELIVERY,,Oman
+TB_OM,758676,b9f46181-7aa9-40e2-a87b-fc9d3437377e,"Smoothie Paradise, Khuwair 33",TLBT GrubTech Plugin,693600,Smoothie Paradise,OWN_DELIVERY,,Oman
+TB_OM,742341,66381751-2931-4433-a7a3-39e218cac7aa,"The Ribs, Al Mawalih South ",TLBT GrubTech Plugin,684700,The Ribs,OWN_DELIVERY,,Oman

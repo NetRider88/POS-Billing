@@ -1,0 +1,22 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,687068,tgo-129929,"Azkadenya, New Al Rayyan",TLBT UrbanPiper Plugin,653594,Azkadenya,OWN_DELIVERY,,Qatar
+TB_QA,21902,tgo-162642,"Bharath Vasanta Bhavan, Al Wakrah",TLBT UrbanPiper Plugin,11297,Bharath Vasanta Bhavan,OWN_DELIVERY,,Qatar
+TB_QA,734391,tgo-109964,"Go Crispy Restaurant, Abu Hamour",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,737176,tgo-110861,"Go Crispy Restaurant, Al Duhail",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,652781,tgo-90181,"Go Crispy Restaurant, Al Gharrafa",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,740730,tgo-116091,"Go Crispy Restaurant, Al Hilal West",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,774131,tgo-158670,"Go Crispy Restaurant, Al Khor",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,715372,tgo-92967,"Go Crispy Restaurant, Al Muntazah",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,727740,tgo-104269,"Go Crispy Restaurant, Al Wajba",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,652962,tgo-90183,"Go Crispy Restaurant, Al Wakrah",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,652963,tgo-90184,"Go Crispy Restaurant, DFC",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,759042,tgo-134701,"Go Crispy Restaurant, Muaither",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,652961,tgo-90182,"Go Crispy Restaurant, Umm Al Saneem",TLBT UrbanPiper Plugin,632780,Go Crispy Restaurant,OWN_DELIVERY,,Qatar
+TB_QA,774798,tgo-163703,"HAPPY HOPPER RESTAURANT, Al Mansoura ",TLBT UrbanPiper Plugin,704036,HAPPY HOPPER RESTAURANT,OWN_DELIVERY,,Qatar
+TB_QA,762583,tgo-138703,"Juice Factory (DH Kitchen), Al Gharrafa",TLBT UrbanPiper Plugin,696672,Juice Factory,OWN_DELIVERY,,Qatar
+TB_QA,750456,tq-49674,POS Test Store Qatar,TLBT UrbanPiper Plugin,689421,POS Test Store Qatar,OWN_DELIVERY,,Qatar
+TB_QA,39441,tgo-105363,"Pizza Box, Al Mansoura",TLBT UrbanPiper Plugin,22252,Pizza Box,OWN_DELIVERY,,Qatar
+TB_QA,677145,tgo-103781,"Pizza Box, Baaya",TLBT UrbanPiper Plugin,22252,Pizza Box,OWN_DELIVERY,,Qatar
+TB_QA,672908,tgo-105364,"Pizza Box, City Center, West Bay",TLBT UrbanPiper Plugin,22252,Pizza Box,OWN_DELIVERY,,Qatar
+TB_QA,689324,tgo-103782,"Pizza Box, Lusail",TLBT UrbanPiper Plugin,22252,Pizza Box,OWN_DELIVERY,,Qatar
+TB_QA,687072,tgo-129931,"Texas De Brazil, Mall of Qatar",TLBT UrbanPiper Plugin,653598,Texas De Brazil,OWN_DELIVERY,,Qatar

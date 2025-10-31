@@ -1,0 +1,79 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+HF_EG,626400,610649,Abu Auf Qasr el Nile,Simply Delivery,502519,Abu Auf,OWN_DELIVERY,,Egypt
+HF_EG,762334,912216,"Abu Auf, Shoubra 2",Simply Delivery,502519,Abu Auf,OWN_DELIVERY,,Egypt
+HF_EG,687428,585887,"Abu Auf, Tagammoa 5 - Down town mall",Simply Delivery,502519,Abu Auf,OWN_DELIVERY,,Egypt
+HF_EG,658174,610649,"Abu Auf,Demietta,Cornishe El Nile",Simply Delivery,502519,Abu Auf,OWN_DELIVERY,,Egypt
+HF_EG,628795,855591,"Asal w Tahina, 6th of October - Palm Hills",Simply Delivery,618225,Asal w Tahina,OWN_DELIVERY,,Egypt
+HF_EG,648509,951274,"Bazooka, Faisal - Akher Faisal - TMP",Simply Delivery,506073,Bazooka,VENDOR_DELIVERY,,Egypt
+HF_EG,657873,307479,"Bazooka, Mohandesin - Mit Okba - TMP",Simply Delivery,506073,Bazooka,VENDOR_DELIVERY,,Egypt
+HF_EG,605585,088907,"Bazooka, Mokattam -TMP",Simply Delivery,506073,Bazooka,VENDOR_DELIVERY,,Egypt
+HF_EG,648075,444294,"Bazooka, Shobra - Gesr Shobra - TMP",Simply Delivery,506073,Bazooka,VENDOR_DELIVERY,,Egypt
+HF_EG,518618,839152,"Cha Cha Cha,Montazah",Simply Delivery,512435,Cha Cha Cha,OWN_DELIVERY,,Egypt
+HF_EG,516572,670654,"Circle K, Mehwar 26",Simply Delivery,511210,Circle K,OWN_DELIVERY,,Egypt
+HF_EG,502923,830768,Cook Door - El Hay El Motamyez - Mall of Arabia - TMP,Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,510623,081293,Cook Door - Gam3et el Dewal - TGO,Simply Delivery,502335,Cook Door,OWN_DELIVERY,,Egypt
+HF_EG,510624,731206lkjshdfjkfn,Cook Door - Haram - TGO,Simply Delivery,502335,Cook Door,OWN_DELIVERY,,Egypt
+HF_EG,510628,439368,Cook Door - Point 90 - TGO,Simply Delivery,502335,Cook Door,OWN_DELIVERY,,Egypt
+HF_EG,502957,682925,Cook Door - Shobra - TMP,Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,502943,727378,"Cook Door, 6th of October - 10th District - TMP",Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,510616,416558Zxasadftygkjlngfdsa,"Cook Door, Al Manial - TGO",Simply Delivery,502335,Cook Door,OWN_DELIVERY,,Egypt
+HF_EG,675792,977491,"Cook Door, Chillout 2-Tagammoa 5 - TMP",Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,708004,114465,"Cook Door, Hacienda Red TMP",Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,509951,229567,"Cook Door, Heliopolis - Safeer Square - TGO",Simply Delivery,502335,Cook Door,OWN_DELIVERY,,Egypt
+HF_EG,502919,977196,"Cook Door, Mall of egypt - TMP",Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,510375,397534,"Cook Door, North Coast Rosana - TMP",Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,731467,606468,"Cook Door, Suez, Suez Distract - TGO",Simply Delivery,502335,Cook Door,OWN_DELIVERY,,Egypt
+HF_EG,502941,144137,"Cook Door, Tagammoa 5 - Hay 1 - TMP",Simply Delivery,502335,Cook Door,VENDOR_DELIVERY,,Egypt
+HF_EG,517930,704507,"El Beisy Pharmacy, Semouha - Sidi Gaber Station",Simply Delivery,511984,El Beisy Pharmacy,VENDOR_DELIVERY,,Egypt
+HF_EG,505594,135466,Feteera - Telal El Alamein Village,Simply Delivery,503813,Feteera,VENDOR_DELIVERY,,Egypt
+HF_EG,509773,043850,"Hardee's - North Coast, Marassi",Simply Delivery,506437,Hardee's - North Coast,VENDOR_DELIVERY,,Egypt
+HF_EG,707488,117019,"Hardee's, Amwaj",Simply Delivery,506437,Hardee's - North Coast,VENDOR_DELIVERY,,Egypt
+HF_EG,509772,735516,"Hardee's, Diplomates 3",Simply Delivery,506437,Hardee's - North Coast,VENDOR_DELIVERY,,Egypt
+HF_EG,509771,091620,"Hardee's, Diplomatic village 2",Simply Delivery,506437,Hardee's - North Coast,VENDOR_DELIVERY,,Egypt
+HF_EG,509775,745817,"Hardee's, Marina 4",Simply Delivery,506437,Hardee's - North Coast,VENDOR_DELIVERY,,Egypt
+HF_EG,517247,503299,"Imtenan, Heliopolis - Baron",Simply Delivery,511535,Imtenan,OWN_DELIVERY,,Egypt
+HF_EG,646682,449814,"Imtenan, New Nozha 2",Simply Delivery,511535,Imtenan,OWN_DELIVERY,,Egypt
+HF_EG,517232,113343,"Imtenan, Tagammoa 5 - Cairo Festival City",Simply Delivery,511535,Imtenan,OWN_DELIVERY,,Egypt
+HF_EG,686633,574145,McDonald's - Sodic,Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,665418,140746,"McDonald's, Chillout Dolphin",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,665420,080314,"McDonald's, Dream Land Club",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,687956,015049,"McDonald's, Lebiny",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,687957,594884,"McDonald's, Portsaid 2",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,687962,930477,"McDonald's, Watania Zahraa",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,687765,416041,"McDonald's, Watanya El Rehab",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,708906,553264,"McDonald's, Watanya Waha-",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,665426,651468,"McDonald`s, Chill out Khamail",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,665424,235301,"McDonald`s, Chill out Safwa",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,687754,331913,"McDonald`s, Chillout El Salam",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,686638,612185,"McDonald`s, Helwan",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,708914,801453,"McDonald`s, West bank",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,686649,842513,McDonald’s - Shams,Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,686702,919730,"McDonald’s, Downtown - Tahrir",Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,693464,968473,Mcdonald's Suhag,Simply Delivery,502317,McDonald's,VENDOR_DELIVERY,,Egypt
+HF_EG,506900,00000000000000,"Mori Sushi, Cairo Festival City",Simply Delivery,504868,Mori Sushi,VENDOR_DELIVERY,,Egypt
+HF_EG,509022,00000000000000,"Mori Sushi, El Sheikh Zayed - Capital Business Park",Simply Delivery,504868,Mori Sushi,VENDOR_DELIVERY,,Egypt
+HF_EG,506905,0000000000,"Mori Sushi, Mohandiseen",Simply Delivery,504868,Mori Sushi,VENDOR_DELIVERY,,Egypt
+HF_EG,506901,,"Mori Sushi, Tagammoa 5 - Waterway one",Simply Delivery,504868,Mori Sushi,VENDOR_DELIVERY,,Egypt
+HF_EG,506902,00000000,"Mori Sushi, Tagammoa 5 - point 90 mall",Simply Delivery,504868,Mori Sushi,VENDOR_DELIVERY,,Egypt
+HF_EG,506897,000000000,"Mori, Sheraton ",Simply Delivery,504868,Mori Sushi,VENDOR_DELIVERY,,Egypt
+HF_EG,645356,819822,"Pasta 2 Go, Alex, Mostafa Kamel,Mostafa Kamel",Simply Delivery,503342,Pasta 2 Go,OWN_DELIVERY,,Egypt
+HF_EG,648539,024010,"Pasta 2 Go, Tagammoa 5 - South Investors",Simply Delivery,503342,Pasta 2 Go,OWN_DELIVERY,,Egypt
+HF_EG,618894,269779,"Pasta 2 Go, Zamalek - 26 July",Simply Delivery,503342,Pasta 2 Go,OWN_DELIVERY,,Egypt
+HF_EG,514144,,"Pizza King, Mohandesin - Lebanon Square",Simply Delivery,502326,Pizza King,OWN_DELIVERY,,Egypt
+HF_EG,510134,978464,"Pizza Party, Al aasser",Simply Delivery,506631,Pizza Party,OWN_DELIVERY,,Egypt
+HF_EG,739783,583963,"STACK`D, Madinaty - TMP",Simply Delivery,677575,STACK'D,VENDOR_DELIVERY,,Egypt
+HF_EG,514854,876979,"Shahd El Maleka, Mandara",Simply Delivery,510030,Shahd El Maleka,VENDOR_DELIVERY,,Egypt
+HF_EG,514853,390633,"Shahd El Maleka, Miami - St Mark Church",Simply Delivery,510030,Shahd El Maleka,VENDOR_DELIVERY,,Egypt
+HF_EG,503216,961629,TBS -  Maadi,Simply Delivery,502358,TBS,OWN_DELIVERY,,Egypt
+HF_EG,503215,062876,TBS - El Katameya,Simply Delivery,502358,TBS,OWN_DELIVERY,,Egypt
+HF_EG,503228,0000000,TBS - Green Plaza,Simply Delivery,502358,TBS,OWN_DELIVERY,,Egypt
+HF_EG,510952,916715,"TBS - Smart Village, el sheikh zayed",Simply Delivery,502358,TBS,OWN_DELIVERY,,Egypt
+HF_EG,516130,734538,Tortina - Marina,Simply Delivery,510836,Tortina,VENDOR_DELIVERY,,Egypt
+HF_EG,670702,267731,"WAFFLICIOUS, Assiut - El Galaa - Fryal - TGO",Simply Delivery,502249,WAFFLICIOUS,OWN_DELIVERY,,Egypt
+HF_EG,517614,000000,"Wok and Walk,  El Sheikh Zayed,TGO",Simply Delivery,502432,Wok and Walk,OWN_DELIVERY,,Egypt
+HF_EG,605884,000000,"Wok and Walk,  El Sheikh Zayed,TMP",Simply Delivery,502432,Wok and Walk,VENDOR_DELIVERY,,Egypt
+HF_EG,715323,0000000000,"Wok and Walk, El Rehab City - TMP",Simply Delivery,502432,Wok and Walk,VENDOR_DELIVERY,,Egypt
+HF_EG,656962,0000000000,"Wok and Walk, El Rehab City,TGO",Simply Delivery,502432,Wok and Walk,OWN_DELIVERY,,Egypt
+HF_EG,515623,375271,Zack's - Heliopolis - Roxy,Simply Delivery,501141,Zack's,OWN_DELIVERY,,Egypt
+HF_EG,611989,988053,Zack's - Mohandesin - Tersana Club,Simply Delivery,501141,Zack's,OWN_DELIVERY,,Egypt
+HF_EG,515628,323632,Zack's - New Maadi - Palestine Square,Simply Delivery,501141,Zack's,OWN_DELIVERY,,Egypt

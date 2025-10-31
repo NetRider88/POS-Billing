@@ -1,0 +1,93 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,758715,93778d91-7086-4a20-a3fe-35aeef5d3b71,"Batch Cookies, Lagoona, West Bay Lagoon",TLBT Kitopi Plugin -New,694207,Batch Cookies,OWN_DELIVERY,,Qatar
+TB_QA,710538,15ba9ba8-d77d-492b-8b29-b443612cb935,"Biryani Pot, Al Azizyah, Al Aziziya",TLBT Kitopi Plugin -New,663255,Biryani Pot,OWN_DELIVERY,,Qatar
+TB_QA,752392,4e714c1e-3109-4d79-901a-e1c8335dd100,"Biryani Pot, QNCC, Qatar Foundation",TLBT Kitopi Plugin -New,663255,Biryani Pot,OWN_DELIVERY,,Qatar
+TB_QA,705300,29dd2591-179d-4a43-bfb4-1c6d6fcec5b0,"Biryani Pot, West Bay Lagoon",TLBT Kitopi Plugin -New,663255,Biryani Pot,OWN_DELIVERY,,Qatar
+TB_QA,738069,e4df05ff-c42e-4f05-be69-a1cfa534ce57,"Box it, Abu Hamour",TLBT Kitopi Plugin -New,680921,Box it,OWN_DELIVERY,,Qatar
+TB_QA,735945,7195bd40-2860-4307-97af-fb0001f8d2df,"Box it, Lagoona, Onaiza",TLBT Kitopi Plugin -New,680921,Box it,OWN_DELIVERY,,Qatar
+TB_QA,747919,17e6e698-305c-403a-b3f6-c60794e36ddd,"Boxit, QNCC, Education City - Qatar Foundation",TLBT Kitopi Plugin -New,680921,Box it,OWN_DELIVERY,,Qatar
+TB_QA,714020,7adaddc8-f101-414d-97c3-9b5daf8943f0,"Chin Chin, Abu Hamour",TLBT Kitopi Plugin -New,666472,Chin Chin,OWN_DELIVERY,,Qatar
+TB_QA,711156,9435e622-10d3-4865-b94c-b4c50bece4fa,"Chin Chin, Legtaifiya",TLBT Kitopi Plugin -New,666472,Chin Chin,OWN_DELIVERY,,Qatar
+TB_QA,747920,37179e9f-c940-48fc-b3e5-1dbbe5871277,"Chin Chin, QNCC, Education City - Qatar Foundation",TLBT Kitopi Plugin -New,666472,Chin Chin,OWN_DELIVERY,,Qatar
+TB_QA,17109,4d9b85f1-8b72-4098-b627-16226f230a97,"Diet House, Abu Hamour",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,17107,5586e45e-7c00-4c4c-b977-53e5e518b5b8,"Diet House, Al Aziziya",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,17111,ecafc5d8-aa3c-4d0e-8ed9-a9e798a22ec1,"Diet House, Bin Omran",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,704067,941775e0-2c53-4622-9d0f-4c67e2be36e0,"Diet House, Lagoona Mall, Legtaifiya",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,17110,1439c1af-2c1e-4239-929a-32a33d8a44f6,"Diet House, QNCC",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,45695,8119e82c-6d8e-4aad-b1b5-0af6f7ab8d60,"Diet House, Simisima",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,17108,1aed2727-1975-4086-a42f-57734f588238,"Diet House, Umm Salal Mohammed",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,20670,e1b8bf30-afe6-41cc-99f3-302082e35770,"Diet house, Thumama Mall ",TLBT Kitopi Plugin -New,8883,Diet House,OWN_DELIVERY,,Qatar
+TB_QA,672013,2735a498-47d5-47e6-9f73-5868d3d366bb,"FRYD, Abu Hamour",TLBT Kitopi Plugin -New,644241,FRYD,OWN_DELIVERY,,Qatar
+TB_QA,671347,adb6ce19-b1e2-4a12-983f-1092557e2830,"FRYD, Lagoon Mall, West Bay",TLBT Kitopi Plugin -New,644241,FRYD,OWN_DELIVERY,,Qatar
+TB_QA,755166,222b385c-9163-4b7a-9521-db66fe98325a,"FRYD, Semiasma, Simaisma",TLBT Kitopi Plugin -New,644241,FRYD,OWN_DELIVERY,,Qatar
+TB_QA,733637,b9c0e1c9-f974-406d-abd5-200c2ad6b6e3,"FRYD, Umm Salal ",TLBT Kitopi Plugin -New,644241,FRYD,OWN_DELIVERY,,Qatar
+TB_QA,733495,daf7c899-edc6-43c0-94e0-cae159ebee0a,"Fryd, Al Thumama Mall, ",TLBT Kitopi Plugin -New,644241,FRYD,OWN_DELIVERY,,Qatar
+TB_QA,747917,ade95fda-76fc-454e-a312-c2ad6f6d561b,"Fryd, QNCC, Education City - Qatar Foundation",TLBT Kitopi Plugin -New,644241,FRYD,OWN_DELIVERY,,Qatar
+TB_QA,733416,dc1fb0ea-0e4d-4ccc-8343-433c6acbfab0,"Gym Food, Azizya",TLBT Kitopi Plugin -New,679181,Gym Food,OWN_DELIVERY,,Qatar
+TB_QA,733420,57b895bf-9697-4e24-92dd-cbc2f271dfe6,"Gym Food, Bin Omran",TLBT Kitopi Plugin -New,679181,Gym Food,OWN_DELIVERY,,Qatar
+TB_QA,735282,1fec82a9-df3c-4e8d-ab1d-232f40fa2b2d,"Gym food, Lagoona, West Bay Lagoon",TLBT Kitopi Plugin -New,679181,Gym Food,OWN_DELIVERY,,Qatar
+TB_QA,736522,c53a75a9-25f2-44e3-9ac1-e9a908471b35,"Gym food, Umm Salal Mohammed",TLBT Kitopi Plugin -New,679181,Gym Food,OWN_DELIVERY,,Qatar
+TB_QA,760540,db2096ed-dadf-4927-a6b1-ee9ce2c3cb75,"Hot Buns, Abu Hamour",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,733249,bec448e5-ba56-4974-869a-1b09cea7a0ca,"Hot Buns, Al Azizya",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,733251,37684faa-c515-4ffc-a61b-ee7f3aa62a36,"Hot Buns, Al Thumama Mall ",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,732832,04aece11-6c4b-42f1-8696-35f86c686811,"Hot Buns, Lagoona, Legtaifiya - West Bay Lagoon",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,733250,4bfa62c0-9337-4b75-a9a3-648dea0fa13f,"Hot Buns, QNCC",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,753804,e9bfcc17-a2d9-4a1c-8a7d-03a1e15f3f78,"Hot Buns, Semiasma",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,760560,6c067ee4-6771-42ef-bf42-e4c8cbfb6173,"Hot Buns, Umm Salal, Umm Salal Mohammed",TLBT Kitopi Plugin -New,679174,HotBun,OWN_DELIVERY,,Qatar
+TB_QA,717721,3b3ae3fb-8557-4f94-9ede-6f36f47dc8e7,"Ichiban Express, Abu Hamour",TLBT Kitopi Plugin -New,666644,Ichiban Sushi,OWN_DELIVERY,,Qatar
+TB_QA,714021,f3877ad3-3711-4dee-957a-4d5b4363d307,"Ichiban Express, QNCC, Al Gharrafa",TLBT Kitopi Plugin -New,666644,Ichiban Sushi,OWN_DELIVERY,,Qatar
+TB_QA,711428,879c947d-d972-4741-b7e8-c7e130f2dd3c,"Ichiban Sushi, Onaiza",TLBT Kitopi Plugin -New,666644,Ichiban Sushi,OWN_DELIVERY,,Qatar
+TB_QA,672014,f5f191f5-7ca4-46cc-b3d7-7165b4f60b5a,"Japang, Abu Hamour",TLBT Kitopi Plugin -New,644236,Japang,OWN_DELIVERY,,Qatar
+TB_QA,694799,ab564b4b-295f-4164-ae77-592248e47e6f,"Japang, Al Thumama Mall",TLBT Kitopi Plugin -New,644236,Japang,OWN_DELIVERY,,Qatar
+TB_QA,692616,3ca00fb4-889e-4dce-ace5-a413545475c6,"Japang, Lagoona",TLBT Kitopi Plugin -New,644236,Japang,OWN_DELIVERY,,Qatar
+TB_QA,743801,ae592125-2e97-4ce2-b2a9-9388d97d4aac,"Japang, QNCC, Al Gharrafa",TLBT Kitopi Plugin -New,644236,Japang,OWN_DELIVERY,,Qatar
+TB_QA,755164,696af5d1-d475-4ab5-8885-12b3cd504807,"Japang, Semiasma,Simaisma",TLBT Kitopi Plugin -New,644236,Japang,OWN_DELIVERY,,Qatar
+TB_QA,674615,7b269071-735f-47cb-aff8-919db91ce7d8,"Japang, Umm Salal Mohammed",TLBT Kitopi Plugin -New,644236,Japang,OWN_DELIVERY,,Qatar
+TB_QA,671304,38a72527-eb5f-4916-a7cd-1d5c19297c76,"Luca , Umm Salal Mohammed",TLBT Kitopi Plugin -New,644235,Luca,OWN_DELIVERY,,Qatar
+TB_QA,671305,6aeeae18-0486-4a94-a817-3eb18f0e5a12,"Luca, Al Azizya",TLBT Kitopi Plugin -New,644235,Luca,OWN_DELIVERY,,Qatar
+TB_QA,671311,70b88bdb-abd0-4509-8c67-a18473400ccd,"Luca, Al Thumama",TLBT Kitopi Plugin -New,644235,Luca,OWN_DELIVERY,,Qatar
+TB_QA,747721,bbf8ece9-40b9-4201-8da1-ea9862e10d56,"Luca, Doha, Education City - Qatar Foundation",TLBT Kitopi Plugin -New,644235,Luca,OWN_DELIVERY,,Qatar
+TB_QA,687479,d7698f53-7b60-40d5-97d6-51cc4c0106cd,"Luca, lagoona",TLBT Kitopi Plugin -New,644235,Luca,OWN_DELIVERY,,Qatar
+TB_QA,733471,21613401-429d-408a-9704-188d66d5896e,"Mix & Match, Abu Hamour",TLBT Kitopi Plugin -New,679338,Mix & Match,OWN_DELIVERY,,Qatar
+TB_QA,736567,76530621-c197-42bd-9ed5-629b916f0a2a,"Mix & Match, Al Aziziya",TLBT Kitopi Plugin -New,679338,Mix & Match,OWN_DELIVERY,,Qatar
+TB_QA,733107,d05f329b-af8b-4cf5-a47a-7b58cabd5c32,"Mix & Match, Lagoona, Legtaifiya - West Bay Lagoon",TLBT Kitopi Plugin -New,679338,Mix & Match,OWN_DELIVERY,,Qatar
+TB_QA,736562,f4180d36-5408-450a-9c1c-ba91f9e6c887,"Mix & Match, Umm Salal Mohammed",TLBT Kitopi Plugin -New,679338,Mix & Match,OWN_DELIVERY,,Qatar
+TB_QA,717681,f8de97f2-6678-4ad2-a677-700277cb8c59,"Mr Beast Burger, Abu hamour, Al Aziziya",TLBT Kitopi Plugin -New,669919,Mr Beast,OWN_DELIVERY,,Qatar
+TB_QA,736445,e2299a22-5476-4c2d-96a5-d88b6120ff18,"Mr Beast, Al Thumama",TLBT Kitopi Plugin -New,669919,Mr Beast,OWN_DELIVERY,,Qatar
+TB_QA,732577,2bc4c02c-eefc-4d59-8bb1-bd9ce15c2e5a,"Mr Beast, Smaisma",TLBT Kitopi Plugin -New,669919,Mr Beast,OWN_DELIVERY,,Qatar
+TB_QA,732800,7c33c13c-3d97-498c-b1e6-b60a8600c228,"Mr Beast, Umm salal",TLBT Kitopi Plugin -New,669919,Mr Beast,OWN_DELIVERY,,Qatar
+TB_QA,717153,9a8b7808-584a-45eb-a9e1-454eb8439e5d,"Mr Beast, West Bay Lagoon",TLBT Kitopi Plugin -New,669919,Mr Beast,OWN_DELIVERY,,Qatar
+TB_QA,732835,172e25cc-913d-415b-8106-874f4d342501,"Nice cream, Lagoona, Legtaifiya - West Bay Lagoon",TLBT Kitopi Plugin -New,679176,Nice Cream,OWN_DELIVERY,,Qatar
+TB_QA,693325,115bcabe-b224-4319-807c-828e9098a385,"Paprika, Abu Hamour",TLBT Kitopi Plugin -New,13776,Paprika,OWN_DELIVERY,,Qatar
+TB_QA,619932,574667df-0769-4f48-8c0f-5e8dc1922005,"Paprika, Al Thumama Mall ",TLBT Kitopi Plugin -New,13776,Paprika,OWN_DELIVERY,,Qatar
+TB_QA,27616,175b3dfe-198a-4dd7-8a4b-47e0a7031c7a,"Paprika, Lagoona",TLBT Kitopi Plugin -New,13776,Paprika,OWN_DELIVERY,,Qatar
+TB_QA,728771,51b55aa1-442a-4ec2-a181-fff0a2288ed6,"Paprika, QNCC",TLBT Kitopi Plugin -New,13776,Paprika,OWN_DELIVERY,,Qatar
+TB_QA,668905,ced69641-ddfb-455b-ba2f-b59163595d85,"Paprika, Simsimma",TLBT Kitopi Plugin -New,13776,Paprika,OWN_DELIVERY,,Qatar
+TB_QA,668904,efd63d39-4cb0-44ba-ab54-eadd4a2d538d,"Paprika, Umm Salal Mohammed",TLBT Kitopi Plugin -New,13776,Paprika,OWN_DELIVERY,,Qatar
+TB_QA,760573,b1a27aab-148a-411a-941e-23c264881016,"Pizzaro, Doha, Qatar Foundation",TLBT Kitopi Plugin -New,691185,Pizzaro,OWN_DELIVERY,,Qatar
+TB_QA,753616,bdbab184-b6bf-490e-bcf1-3ada21c571c2,"Pizzaro, Lagoona, Legtaifiya - West Bay Lagoon",TLBT Kitopi Plugin -New,691185,Pizzaro,OWN_DELIVERY,,Qatar
+TB_QA,725164,5b8a0fcb-be6a-458f-a5f0-9612b6ceffb2,"Poke Poke, Abou Hamour",TLBT Kitopi Plugin -New,671481,Poke Poke,OWN_DELIVERY,,Qatar
+TB_QA,747439,a322abbb-28ee-412a-bcf4-cdc4b8ab9322,"Poke Poke, QNCC",TLBT Kitopi Plugin -New,671481,Poke Poke,OWN_DELIVERY,,Qatar
+TB_QA,719654,5cde95b7-5a97-4ef6-b4c1-4621ed4052ea,"Poke Poke, West Bay Lagoon",TLBT Kitopi Plugin -New,671481,Poke Poke,OWN_DELIVERY,,Qatar
+TB_QA,688493,84995bdf-c6fb-4750-b1ac-44f9abdf3050,"Right Bite, Al Azizya",TLBT Kitopi Plugin -New,654450,Right Bite,OWN_DELIVERY,,Qatar
+TB_QA,747918,b352fd42-909e-4269-a91c-c09b544166ff,"Right Bite, QNCC, Education City - Qatar Foundation",TLBT Kitopi Plugin -New,654450,Right Bite,OWN_DELIVERY,,Qatar
+TB_QA,690870,f297a61f-03b5-4a77-abde-74f62637e7cf,"Right Bite, lagoona",TLBT Kitopi Plugin -New,654450,Right Bite,OWN_DELIVERY,,Qatar
+TB_QA,764406,c1481efb-fc50-420d-856b-7a0ada8526b3,"Sushi Counter, Abu Hamour",TLBT Kitopi Plugin -New,696260,Sushi Counter,OWN_DELIVERY,,Qatar
+TB_QA,761902,c828578e-7aaf-417e-99a2-8c1048466656,"Sushi Counter, Lagoona,West Bay Lagoon",TLBT Kitopi Plugin -New,696260,Sushi Counter,OWN_DELIVERY,,Qatar
+TB_QA,770315,26210f69-26bb-4c35-ba64-066e6f200f38,"Sushi Counter, QNCC, Qatar Foundation",TLBT Kitopi Plugin -New,696260,Sushi Counter,OWN_DELIVERY,,Qatar
+TB_QA,671303,6fa183b0-fbc2-4740-8491-a52ef57e1695,"Tawook Nation, Al Azizyah",TLBT Kitopi Plugin -New,644233,Tawook Nation,OWN_DELIVERY,,Qatar
+TB_QA,671296,4921d6d4-1c87-4340-95cc-c5ac4d213b7d,"Tawook Nation, Lagoona",TLBT Kitopi Plugin -New,644233,Tawook Nation,OWN_DELIVERY,,Qatar
+TB_QA,747916,5c7f480d-abb8-46e2-9c3f-9df03d72ded3,"Tawook Nation, QNCC, Education City - Qatar Foundation",TLBT Kitopi Plugin -New,644233,Tawook Nation,OWN_DELIVERY,,Qatar
+TB_QA,771683,9f6247e6-e2ce-4132-9224-69738649b503,"The Breakfast Shop, Abu Hamour",TLBT Kitopi Plugin -New,695167,The Breakfast Shop,OWN_DELIVERY,,Qatar
+TB_QA,760298,96404964-697a-4547-8c27-044b211b56ae,"The Breakfast Shop,West Bay Lagoon",TLBT Kitopi Plugin -New,695167,The Breakfast Shop,OWN_DELIVERY,,Qatar
+TB_QA,688488,43b32c06-5a76-4853-903d-d757d04b01ff,"Under 500, Al Aziziya",TLBT Kitopi Plugin -New,654448,Under 500,OWN_DELIVERY,,Qatar
+TB_QA,688489,72c63841-0433-48ae-8d61-0da5339a191f,"Under 500, Lagoona",TLBT Kitopi Plugin -New,654448,Under 500,OWN_DELIVERY,,Qatar
+TB_QA,747413,4ae95a84-def2-4ed2-a6dc-4a5960811218,"Under500,QNCC",TLBT Kitopi Plugin -New,654448,Under 500,OWN_DELIVERY,,Qatar
+TB_QA,753617,11103c4b-7849-4c1a-8425-aecb00cb2ac2,"Vigilante Mexican kitchen, Legtaifiya - West Bay Lagoon",TLBT Kitopi Plugin -New,691186,Vigilante Mexican kitchen,OWN_DELIVERY,,Qatar
+TB_QA,755988,f60a7d8c-4a38-472f-b007-7b38553eada0,"Vigilante Mexican kitchen, QNCC,Education City - Qatar Foundation",TLBT Kitopi Plugin -New,691186,Vigilante Mexican kitchen,OWN_DELIVERY,,Qatar
+TB_QA,771706,a67f0bcf-4431-49d3-8838-1d46c0182b7f,"Wise Spice by Diet House, Al Aziziya",TLBT Kitopi Plugin -New,695044,Wise Spice by Diet House,OWN_DELIVERY,,Qatar
+TB_QA,760121,5348f62e-08ff-4310-add5-437f30312d81,"Wise Spice by Diet House, Legtaifiya - West Bay Lagoon",TLBT Kitopi Plugin -New,695044,Wise Spice by Diet House,OWN_DELIVERY,,Qatar
+TB_QA,771673,86a574f7-1ee7-45bd-8f47-5f4cabb4a9e7,"Wise Spice, QNCC, Qatar Foundation",TLBT Kitopi Plugin -New,695044,Wise Spice by Diet House,OWN_DELIVERY,,Qatar
+TB_QA,774416,2d7b6662-e60a-48ca-bf78-b4cadf1288fe,"under 500, Bin Omran",TLBT Kitopi Plugin -New,654448,Under 500,OWN_DELIVERY,,Qatar
+TB_QA,774415,06d44866-8ecd-401d-949e-fd1fa1454378,"under 500, thumama mall, Al Thumama ",TLBT Kitopi Plugin -New,654448,Under 500,OWN_DELIVERY,,Qatar
+TB_QA,774417,8c6a7690-b6da-434a-9e2a-5fa3582e3204,"under 500, umm salal, Umm Salal Mohammed",TLBT Kitopi Plugin -New,654448,Under 500,OWN_DELIVERY,,Qatar

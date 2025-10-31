@@ -1,0 +1,69 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,753633,f7693678-ba47-41d1-967a-a5f76897b854," Raising Canes by Snap, Al Barsha 1",Wi-Q,691191, Raising Canes by Snap,OWN_DELIVERY,,UAE
+TB_AE,753635,9e211496-8a80-40de-a97c-76d9710cb2ff," Raising canes by Snap, Dubai Sports City",Wi-Q,691191, Raising Canes by Snap,OWN_DELIVERY,,UAE
+TB_AE,753985,8858d834-6cdf-4f22-a92b-b15c6402ad66," Shake Shack by Snap, Al Barsha 1",Wi-Q,691369, Shake Shack by Snap,OWN_DELIVERY,,UAE
+TB_AE,753646,8dee3008-3da2-4f58-8024-87687f92e5b6," Shake Shack by Snap, Madinat Khalifa - A",Wi-Q,691195, Shake Shack by Snap,OWN_DELIVERY,,UAE
+TB_AE,684419,f1679bd8-2d98-41ff-8e13-926640b89f43,"Asha's, The Galleria Mall, Al Maryah Island",Wi-Q,652042,Asha's,OWN_DELIVERY,,UAE
+TB_AE,684148,30adc645-6ef8-4400-95e4-249d79a0463a,"Asha's, Yas Mall,  Yas Island",Wi-Q,651855,Asha's,OWN_DELIVERY,,UAE
+TB_AE,707753,ba1f9b85-5682-40bb-8108-09167d21de09,"Le Pain Quotidien, Arjan",Wi-Q,664625,Le Pain Quotidien,OWN_DELIVERY,,UAE
+TB_AE,657957,0da4aa54-5b74-4db3-bd9f-4be0714b4ac2,"Le Pain Quotidien, Dubai Mall",Wi-Q,636007,Le Pain Quotidien,OWN_DELIVERY,,UAE
+TB_AE,657958,d302876c-6152-471d-9fcf-fc8821afb837,"Le Pain Quotidien, Marina Mall",Wi-Q,636008,Le Pain Quotidien,OWN_DELIVERY,,UAE
+TB_AE,657959,43a35e84-563c-48f2-b339-016311d806a1,"Le Pain Quotidien, Mirdif",Wi-Q,636009,Le Pain Quotidien,OWN_DELIVERY,,UAE
+TB_AE,657962,201e4ffa-012c-4031-b1de-5fd4f14e7d55,"Le Pain Quotidien, Palm Jumeirah",Wi-Q,636012,Le Pain Quotidien,OWN_DELIVERY,,UAE
+TB_AE,657961,6d447b96-2a7b-4ce2-9803-0877bca0a867,"Le Pain Quotidien, Springs Souk",Wi-Q,636011,Le Pain Quotidien,OWN_DELIVERY,,UAE
+TB_AE,681731,ca287501-bdc9-4747-9c9e-b29596e159d8,"PF Chang's, Abu Dhabi Mall, Tourist Club Area (Al Zahiya)",Wi-Q,650356,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,678646,9500606b-19c2-4eee-86de-9749a1b8f79b,"PF Chang's, Al Barsha 1",Wi-Q,648505,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,678582,05569c1f-633c-4b4c-8d9f-7a8ec3629ac2,"PF Chang's, Dubai Festival City",Wi-Q,648477,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,721773,21f7032f-69c4-489b-b095-3e812d010a52,"PF Chang's, Dubai Mall, Downtown Burj Khalifa",Wi-Q,672740,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,678581,ffdcc049-b668-43ca-81b2-eb440c5d1f85,"PF Chang's, Galleria Mall, Al Maryah Island",Wi-Q,648476,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,678579,12261cb7-64e9-4006-b7a4-7aa1bf26cab2,"PF Chang's, Jumeirah Beach Residence - JBR",Wi-Q,648474,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,678580,7e971ff0-d7fa-4697-a117-9a2726d721bd,"PF Chang's, Yas Mall, Yas Island",Wi-Q,648475,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,678007,dca203f6-98a3-4016-8a09-d93324cf1997,"PF Chang`s, Mirdif",Wi-Q,648114,PF Chang's,OWN_DELIVERY,,UAE
+TB_AE,742132,ddc38b20-d544-4ba8-8915-72814bc77c9e,Pinkberry The Beach JBR,Wi-Q,684595,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662271,f65f8803-44fb-4d0c-9ea6-b3a081f4e5e5,"Pinkberry, Al Ain mall",Wi-Q,638800,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662277,e3102ba6-76d2-4058-abeb-fe8d7b971665,"Pinkberry, Al Wahdah Mall, Al Wahdah",Wi-Q,638806,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,703029,d7c15ae4-7226-4fee-9285-9e90474aa568,"Pinkberry, Avenue Mall, Nad Al Shiba",Wi-Q,662096,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662270,e8247412-98b6-4d3a-9f30-19c0e39fb88f,"Pinkberry, Bawabat Al Sharq Mall",Wi-Q,638799,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,667577,19c14146-6d53-4e65-ad87-aee7777ec863,"Pinkberry, Bawadi mall",Wi-Q,642103,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,759479,9010f947-a3b7-4b8a-a223-561375b1606e,"Pinkberry, DCC,Corniche Deira",Wi-Q,638798,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662268,b0755a47-ab5e-45d3-a126-0817ef88b97e,"Pinkberry, Dalma Mall, Mussafah",Wi-Q,638797,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,702172,1cf2b0ee-d729-498e-9341-f492bc9fb5b7,"Pinkberry, Dubai Festival City",Wi-Q,661655,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,677180,449b0dc0-8882-4032-ab44-04d51e0d770d,"Pinkberry, Dubai Hills",Wi-Q,647606,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662278,529b1814-78dc-4654-aa84-40130a81d318,"Pinkberry, Fujairah City Center",Wi-Q,638807,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662274,580c3c8a-1356-4ca3-a63e-b9c5d7417e4d,"Pinkberry, Galleria Mall",Wi-Q,638803,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662272,0c919f3e-0fa2-4098-b7b2-850da3d23578,"Pinkberry, Grand Mosque",Wi-Q,638801,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662273,3f17b00f-8972-46c8-bc05-7faeaa01c864,"Pinkberry, Mall of The Emirates",Wi-Q,638802,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662279,ded9fbef-a81e-4d98-b106-5997eda33fcf,"Pinkberry, Meadows Souk",Wi-Q,638808,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662275,ab4fdacc-228b-483d-9f8b-814a793995ce,"Pinkberry, Mirdiff City Center",Wi-Q,638804,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662282,013e51ca-03d3-40a7-8b64-acb4bc9d6362,"Pinkberry, Palm Jumeirah",Wi-Q,638810,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,662269,f2e21db9-e7cb-4649-8745-4ad2e798d457,"Pinkberry, Sahara Center",Wi-Q,638798,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,681497,053c837e-8f20-423d-ab31-d05ca4b65556,"Pinkberry, Yas Mall, Yas Island",Wi-Q,650221,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,751054,f7b4e778-2e84-4ce3-878a-0511a2773fd3,"Pinkberry, Zero 6 Mall, Al Juraina",Wi-Q,638798,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,712663,d5065f84-11d4-48b6-be90-8dec45584650,"Pinkberry- Waitrose, Khalifa City",Wi-Q,667275,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,655367,d96482fa-8605-4696-97ea-c209f083b2ac,"Raising Cane's, Galleria Mall, Al Maryah Island",Wi-Q,634349,Raising Cane's,OWN_DELIVERY,,UAE
+TB_AE,720080,644eddc1-fcc0-458f-a8f2-834012b4bd00,"Raising Cane's, JBR",Wi-Q,671770,Raising Cane's,OWN_DELIVERY,,UAE
+TB_AE,746478,d62ce712-90e0-4b38-bf9c-f3aea8cc71c7,"Raising Cane`s, Al Barsha Land, Al Barsha 1",Wi-Q,634349,Raising Cane's,OWN_DELIVERY,,UAE
+TB_AE,775894,552e3006-b238-4214-93c4-ed1796b93900,"Raising Canes, City Walk Mall, Al Wasl",Wi-Q,634349,Raising Cane's,OWN_DELIVERY,,UAE
+TB_AE,758874,aae74d33-18c7-496b-9bc8-7e7f0275425c,"Raising Canes, Mirdif Enoc",Wi-Q,634349,Raising Cane's,OWN_DELIVERY,,UAE
+TB_AE,747641,4c235034-41fd-4e91-abe1-acdb15798e7b,"Raising Canes, Sports City Drive Thru, Dubai Sports City",Wi-Q,634349,Raising Cane's,OWN_DELIVERY,,UAE
+TB_AE,730048,49e3142d-f5f0-4ada-8b4a-96b5469d9266,"Shake Shack , Mirdif City Center",Wi-Q,677601,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,675650,8adf679d-3088-477c-9076-23af343e6e97,Shake Shack - Dubai Hills,Wi-Q,646800,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,706917,1e2e73d9-bd1b-405b-abdd-7229531f4cd6,"Shake Shack, Al Barsha Land ",Wi-Q,664142,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654171,1627de2d-8b66-4432-958c-40554922951d,"Shake Shack, Al Khubeirah",Wi-Q,633575,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654161,dc5f8c79-49cc-4113-9f16-38d61edd93b7,"Shake Shack, Al Maryah Island",Wi-Q,633567,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654160,9596f6f3-26f3-444e-8e48-a354bbfa6e4f,"Shake Shack, Corniche Deira",Wi-Q,633566,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654164,c8b13e50-ac1a-4407-b316-e6d0c2347b1d,"Shake Shack, Downtown Burj Khalifa",Wi-Q,633570,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654158,275e9edb-9716-4d1c-b8fe-4c0b7c9fd516,"Shake Shack, Jumeirah 1",Wi-Q,633564,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654162,2aadec39-058d-45f8-a339-7cf8137629fc,"Shake Shack, Jumeirah Beach Residence - JBR",Wi-Q,633568,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654157,1bb5d39c-81e3-4823-8b68-f1aef0da85bb,"Shake Shack, Motor City",Wi-Q,633563,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,606198,c4c86a6d-8f44-4381-9a9e-cfff8b7bc5a3,"Shake Shack, Mussafah",Wi-Q,11953,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654159,c4c86a6d-8f44-4381-9a9e-cfff8b7bc5a3,"Shake Shack, Mussafah",Wi-Q,633565,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,648664,55673d47-7ba9-4156-bf95-d8dd1015dcb2,"Shake Shack, Palm Jumeirah Mall",Wi-Q,630233,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,654163,55259b04-1793-4515-bf5e-8510a89cf9fd,"Shake Shack, Yas Island",Wi-Q,633569,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,707102,4c3f2844-0523-43bb-b21a-9637e1717bf5,"Shake Shack,Madinat Khalifa,(DH Kitchen)",Wi-Q,664240,Shake Shack,OWN_DELIVERY,,UAE
+TB_AE,699236,3fc2ceba-6f5a-41bf-a355-01763af7850a,"The Cheesecake Factory, Al Maryah Island",Wi-Q,660245,The Cheesecake Factory,OWN_DELIVERY,,UAE
+TB_AE,699239,edf7b596-8632-4f22-9cf5-ef1d1fe7cb6f,"The Cheesecake Factory, Dubai Mall",Wi-Q,660247,The Cheesecake Factory,OWN_DELIVERY,,UAE
+TB_AE,699237,82f34fad-1b50-4e64-80f7-4b1c5acafbb2,"The Cheesecake Factory, Festival City",Wi-Q,660246,The Cheesecake Factory,OWN_DELIVERY,,UAE
+TB_AE,699240,ba76d8e3-9152-4eb2-94d4-4dedf7bed37d,"The Cheesecake Factory, JBR",Wi-Q,660248,The Cheesecake Factory,OWN_DELIVERY,,UAE
+TB_AE,691912,aa8b74fb-0766-4f44-9162-a071d9df6d78,"The Cheesecake Factory, Mall of The Emirates",Wi-Q,656262,The Cheesecake Factory,OWN_DELIVERY,,UAE
+TB_AE,699241,043ddb75-069b-4634-a73e-40477488efc9,"The Cheesecake Factory, Yas Mall",Wi-Q,660249,The Cheesecake Factory,OWN_DELIVERY,,UAE

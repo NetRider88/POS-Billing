@@ -1,0 +1,12 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_OM,29579,11564,"Al Aktham Restaurant, Al Khuwayr North",TLBT Sapaad Plugin,965,Al Aktham Restaurant,OWN_DELIVERY,,Oman
+TB_OM,1422,11564-T,"Al Aktham Restaurant, Khuwair",TLBT Sapaad Plugin,965,Al Aktham Restaurant,VENDOR_DELIVERY,,Oman
+TB_OM,15062,3035-T,Chowking,TLBT Sapaad Plugin,1832,Chowking,VENDOR_DELIVERY,,Oman
+TB_OM,28151,3035,"Chowking, Al Khuwayr North",TLBT Sapaad Plugin,1832,Chowking,OWN_DELIVERY,,Oman
+TB_OM,27890,3034,"Chowking, Al Mawalih South",TLBT Sapaad Plugin,1832,Chowking,OWN_DELIVERY,,Oman
+TB_OM,2953,3034-T,"Chowking, Mawaleh South",TLBT Sapaad Plugin,1832,Chowking,VENDOR_DELIVERY,,Oman
+TB_OM,43590,8183,"Delicato Kitchen, Al Koudh",TLBT Sapaad Plugin,9666,Delicato Kitchen,OWN_DELIVERY,,Oman
+TB_OM,31707,6764,"Doganza , Al Khuwair,Al Khuwayr North",TLBT Sapaad Plugin,6721,Doganza,OWN_DELIVERY,,Oman
+TB_OM,13116,4280,"Doganza, Shatti al Qurm",TLBT Sapaad Plugin,6721,Doganza,OWN_DELIVERY,,Oman
+TB_OM,15471,3063-T,"Jollibee, Khuwair",TLBT Sapaad Plugin,7944,Jollibee,VENDOR_DELIVERY,,Oman
+TB_OM,27889,3063,"Jollibee,Al Khuwayr North",TLBT Sapaad Plugin,7944,Jollibee,OWN_DELIVERY,,Oman

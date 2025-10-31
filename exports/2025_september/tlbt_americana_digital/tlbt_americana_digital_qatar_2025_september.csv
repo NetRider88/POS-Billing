@@ -1,0 +1,65 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_QA,3611,HRD_QAT_70,"Hardee's, Abu Hamour",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,886,HRD_QAT_71,"Hardee's, Airport Road",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3608,HRD_QAT_76,"Hardee's, Al  Wakrah",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,924,HRD_QAT_80,"Hardee's, Al Aziziya",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3612,HRD_QAT_74,"Hardee's, Al Gharrafa",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,714588,HRD_QAT_866,"Hardee's, Al Janoub Square, Al Wukair",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3615,HRD_QAT_72,"Hardee's, Al Kharaitiyat",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3616,HRD_QAT_75,"Hardee's, Al Khor",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3614,HRD_QAT_79,"Hardee's, Al Rayyan",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,606880,HRD_QAT_185,"Hardee's, Barwa Al Wakrah",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3617,HRD_QAT_77,"Hardee's, Duhail",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3609,HRD_QAT_78,"Hardee's, Muaither",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,696759,HRD_QAT_668,"Hardee's, Umm Salal Ali, Umm Salal",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3613,HRD_QAT_81,"Hardee's, West Bay",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,717693,HRD_QAT_926,"Hardee's, Woqod Gharafat, Education City - Qatar Foundation",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,3610,HRD_QAT_73,"Hardee's, souq AL Ali",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,764736,HRD_QAT_72,"Hardee`s, Al Kharaitiyat,Al Kharaitiyat ",Tlbt-Americana-Digital,698088,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,41208,HRD_QAT_149,"Hardee`s, Al Sadd",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,651882,HRD_QAT_286,"Hardee`s,fox hills Lusail",Tlbt-Americana-Digital,639,Hardee's,OWN_DELIVERY,,Qatar
+TB_QA,29545,KFC_QAT_87,"KFC , AL MANA",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,29546,KFC_QAT_137,"KFC , Al Messaile,Al Messila lulu",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,29543,KFC_QAT_91,"KFC , Barwa city,Barwa City - LULU",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,29544,KFC_QAT_119,"KFC , Muraikh,Muraikh",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51265,KFC_QAT_117,KFC Ain Khaled 01 Mall,Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,664307,KFC_QAT_387,KFC Jeryan Junaihat,Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,713222,KFC_QAT_846,"KFC, AL Janoub Square",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3581,KFC_QAT_82,"KFC, Abu Hamour",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,687314,KFC_QAT_526,"KFC, Abu Sidra",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,690841,KFC_QAT_386,"KFC, Abu hamour",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,671593,KFC_QAT_406,"KFC, Ain Khaled 2",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3592,KFC_QAT_83,"KFC, Airport Area",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,692735,KFC_QAT_566,"KFC, Al Aziziya",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3587,KFC_QAT_85,"KFC, Al Gharrafa",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,646101,KFC_QAT_267,"KFC, Al Hilal waqood",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3604,KFC_QAT_97,"KFC, Al Kharaitiyat",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,698804,KFC_QAT_726,"KFC, Al Kheesa",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3601,KFC_QAT_86,"KFC, Al Khor",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3603,KFC_QAT_92,"KFC, Al Muntazah al center",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,623302,KFC_QAT_186,"KFC, Al Nasr",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3598,KFC_QAT_100,"KFC, Al Sadd",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,654710,KFC_QAT_307,"KFC, Al Wajbah",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51272,KFC_QAT_90,"KFC, Al Wakrah",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3576,KFC_QAT_89,"KFC, Al Wukair",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51274,KFC_QAT_161,"KFC, Barwa Village",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3594,KFC_QAT_102,"KFC, Bin Omran T.center",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3607,KFC_QAT_94,"KFC, Duhail",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3605,KFC_QAT_96,"KFC, Industrial Area",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51273,KFC_QAT_166,"KFC, Izghawa",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51269,KFC_QAT_120,"KFC, JERYAIN",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,707362,KFC_QAT_787,"KFC, Legtaifiya - West Bay Lagoon",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51268,KFC_QAT_158,"KFC, Lulu  Al Hilal",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,684987,KFC_QAT_466,"KFC, Lusail",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3602,KFC_QAT_99,"KFC, Mesaieed - Omsaied",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,611807,KFC_QAT_98,"KFC, Muaither",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,51266,KFC_QAT_159,"KFC, New Al Rayyan waqood",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,764808,KFC_QAT_101,"KFC, SALWA,Salwa Road",Tlbt-Americana-Digital,698136,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3578,KFC_QAT_101,"KFC, Salwa Road",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,655364,KFC_QAT_306,"KFC, Shahaniya",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,696754,KFC_QAT_667,"KFC, Umm Salal Mohamed",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,631298,KFC_QAT_188,"KFC, Wadi Al Banat",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3579,KFC_QAT_103,"KFC, West Bay",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,717118,KFC_QAT_906,"KFC, Woqod Gharafat Al Rayan, Education City - Qatar Foundation",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3507,KFC_QAT_93,"KFC, al Doha",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar
+TB_QA,3599,KFC_QAT_84,"KFC, souq al ali",Tlbt-Americana-Digital,2175,KFC,VENDOR_DELIVERY,,Qatar

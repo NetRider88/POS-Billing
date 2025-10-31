@@ -1,0 +1,15 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,726690,53eeb550-5bdb-416b-9bff-019d7b0d3c4f,"Five Guys, Abu Dhabi Marina Mall",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726689,a9ea12a5-5b72-4dbc-8cfe-ff2dfe356fe6,"Five Guys, Al Jada - Sharjah",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726696,98545cd2-57b8-48a6-a551-0703961bb659,"Five Guys, City Center Mirdif",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726545,438604d5-a405-4bfe-bf54-364a07b213fd,"Five Guys, City Walk",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726686,e24709d0-c4a9-4dfc-9231-859f3966d457,"Five Guys, Dubai Festival City",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726688,84d8fb3d-caf1-447e-a6db-a2868c1f432c,"Five Guys, Dubai Hills Mall",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726695,e4e37a9b-58db-4509-8c23-ce284936906f,"Five Guys, Galleria Mall - Abu Dhabi",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726694,0a0bbe35-0d16-4501-8e6a-ee972109b816,"Five Guys, Galleria Mall Al Barsha",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,729795,8f48b9c7-ac22-491c-838d-aef9a2d7756a,"Five Guys, Hamra Mall, Al Jazeerah Al Hamra",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726693,1ff2ade7-175d-4228-95e6-f86118acbbfc,"Five Guys, Jumeirah Beach Residence",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726692,47390b2a-f187-403e-b736-968b9adb926d,"Five Guys, Palm Jumeirah Mall",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726687,c0429769-c741-4fc7-8d93-2e70e1a136e4,"Five Guys, The Dubai Mall",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726697,907bbf81-cb44-442d-bf24-e3c0cab33e87,"Five Guys, Town Square",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE
+TB_AE,726691,53740fcc-a6b4-491e-916e-637a7fd3737c,"Five Guys, Yas Mall - Abu Dhabi",Tlbt-Lineten,675559,Five Guys,OWN_DELIVERY,,UAE

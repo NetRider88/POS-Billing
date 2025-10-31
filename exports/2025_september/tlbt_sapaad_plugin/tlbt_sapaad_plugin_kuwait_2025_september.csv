@@ -1,0 +1,8 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,47794,8257,"5obe, Salmiya",TLBT Sapaad Plugin,6955,5obe,VENDOR_DELIVERY,,Kuwait
+TB_KW,41426,14701,"Chocolait Co, Sharq",TLBT Sapaad Plugin,23317,Chocolait Co,VENDOR_DELIVERY,,Kuwait
+TB_KW,4947,2f057153-97ab-43ec-806d-c07fbd9311fe,"CocoaVia, Ardhiya",TLBT Sapaad Plugin,1444,CocoaVia,VENDOR_DELIVERY,,Kuwait
+TB_KW,21773,3644,"Shawarma Zone, Abu Fatira Industrial TMP",TLBT Sapaad Plugin,11234,Shawarma Zone,VENDOR_DELIVERY,,Kuwait
+TB_KW,692466,8340-T,"Shawarma Zone, Fnaites",TLBT Sapaad Plugin,11234,Shawarma Zone,OWN_DELIVERY,,Kuwait
+TB_KW,617711,10393,"Yabani, Ardhiya",TLBT Sapaad Plugin,604264,Yabani,VENDOR_DELIVERY,,Kuwait
+TB_KW,608486,10392,"Yabani, West Abu Fetera Small Indust",TLBT Sapaad Plugin,604264,Yabani,VENDOR_DELIVERY,,Kuwait

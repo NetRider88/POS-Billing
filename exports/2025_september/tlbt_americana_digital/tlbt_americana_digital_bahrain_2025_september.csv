@@ -1,0 +1,60 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_BH,3532,HRD_BHR_276,"Hardee's, Budaiya",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,3533,HRD_BHR_278,"Hardee's, Hamad Town",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,3534,HRD_BHR_279,"Hardee's, Hoora",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,3535,HRD_BHR_280,"Hardee's, Isa Town",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,3536,HRD_BHR_281,"Hardee's, Juffair",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,755002,HRD_BHR_1436,"Hardee's, Marasi, Diyar Al Muharraq",Tlbt-Americana-Digital,2192,Hardee's,OWN_DELIVERY,,Bahrain
+TB_BH,3537,HRD_BHR_283,"Hardee's, Muharraq City",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,3538,HRD_BHR_285,"Hardee's, Sanad",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,3530,HRD_BHR_274,"Hardee's, Zinj",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,33874,HRD_BHR_284,"Hardee`s ,  A`ali",Tlbt-Americana-Digital,2192,Hardee's,OWN_DELIVERY,,Bahrain
+TB_BH,33875,HRD_BHR_336,"Hardee`s,  Muharraq",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,764537,HRD_BHR_279,"Hardee`s, Al Hoora",Tlbt-Americana-Digital,697949,Hardee`s,VENDOR_DELIVERY,,Bahrain
+TB_BH,33876,HRD_BHR_339,"Hardee`s, Bu Kowarah",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,764520,HRD_BHR_285,"Hardee`s, Nuwaidrat",Tlbt-Americana-Digital,697949,Hardee`s,VENDOR_DELIVERY,,Bahrain
+TB_BH,667447,HRD_BHR_1215,"Hardee`s, Seef Mall,Seef",Tlbt-Americana-Digital,2192,Hardee's,OWN_DELIVERY,,Bahrain
+TB_BH,41178,HRD_BHR_377,"Hardee`s, Zallaq,Zallaq",Tlbt-Americana-Digital,2192,Hardee's,VENDOR_DELIVERY,,Bahrain
+TB_BH,33870,KFC_BHR_335,"KFC, A'ali",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3528,KFC_BHR_1096,"KFC, Adliya",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3539,KFC_BHR_286,"KFC, Arad",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,33955,KFC_BHR_289,"KFC, Bu Kowarah 2, Bu Kowarah",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3540,KFC_BHR_290,"KFC, Budaiya",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3542,KFC_BHR_292,"KFC, Hamad Town",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,29467,KFC_BHR_293,"KFC, Hamala",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,29466,KFC_BHR_1175,"KFC, Hidd",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3543,KFC_BHR_294,"KFC, Hoora",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3544,KFC_BHR_295,"KFC, Isa Town",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3545,KFC_BHR_296,"KFC, Juffair",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,764519,KFC_BHR_297,"KFC, MANAMA, Manama Center",Tlbt-Americana-Digital,697948,KFC ,VENDOR_DELIVERY,,Bahrain
+TB_BH,3546,KFC_BHR_297,"KFC, Manama Center",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,33871,KFC_BHR_299,"KFC, Muharraq",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,764518,KFC_BHR_298,"KFC, Muharraq",Tlbt-Americana-Digital,697948,KFC ,VENDOR_DELIVERY,,Bahrain
+TB_BH,3547,KFC_BHR_298,"KFC, Muharraq City",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3548,KFC_BHR_301,"KFC, Nuwaidrat",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,29470,KFC_BHR_340,"KFC, Saar",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,29465,KFC_BHR_360,"KFC, Sakhir",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,29468,KFC_BHR_366,"KFC, Seef mall",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,3549,KFC_BHR_300,"KFC, Sitra Abu Aish",Tlbt-Americana-Digital,2193,KFC,VENDOR_DELIVERY,,Bahrain
+TB_BH,764516,PHD_BHR_755,"Pizza Hut, Al Najma Plaza, Alfateh",Tlbt-Americana-Digital,697945,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,739151,PHD_BHR_309,"Pizza Hut, AlJufair2, AlJuffair",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,738864,PHD_BHR_755,"Pizza Hut, Alfateh",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,739358,PHD_BHR_715,"Pizza Hut, Alkharj, Al Sayh",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,738899,PHD_BHR_615,"Pizza Hut, Amwaj",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,3558,PHD_BHR_302,"Pizza Hut, Arad",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,666218,PHD_BHR_400,"Pizza Hut, Avenues",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,34057,PHD_BHR_303,"Pizza Hut, Bu Kowarah",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,739217,PHD_BHR_305,"Pizza Hut, City Centre, Manama Center",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,3556,PHD_BHR_306,"Pizza Hut, Hamad Town",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,3552,PHD_BHR_307,"Pizza Hut, Hoora",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,3555,PHD_BHR_308,"Pizza Hut, Isa Town",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,755168,PHD_BHR_1437,"Pizza Hut, Marasi, Diyar Al Muharraq",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,3557,PHD_BHR_311,"Pizza Hut, Riffa",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,673520,PHD_BHR_1355,"Pizza Hut, Seef Mall",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,666217,PHD_BHR_337,"Pizza Hut, Seef Mall Muharraq",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,738908,PHD_BHR_695,"Pizza Hut, The Grove Budayia, Bani Jamra",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,738888,PHD_BHR_1015,"Pizza Hut, Tubli",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,738892,PHD_BHR_401,"Pizza Hut, Zallaq",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,3529,PHD_BHR_312,"Pizza Hut, Zinj",Tlbt-Americana-Digital,2194,Pizza Hut,OWN_DELIVERY,,Bahrain
+TB_BH,39803,HRD_BHR_316,"TGO Hardee's, Arad",Tlbt-Americana-Digital,2192,Hardee's,OWN_DELIVERY,,Bahrain
+TB_BH,39406,HRD_BHR_436,"TGO Hardee's, Avenues",Tlbt-Americana-Digital,2192,Hardee's,OWN_DELIVERY,,Bahrain

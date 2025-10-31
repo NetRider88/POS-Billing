@@ -1,0 +1,133 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,757305,T-e64066a8-9a19-415b-8cc3-294b1cefa352," Papa Johns (DH Kitchen) by Snap, Al Sufouh 2",TLBT iiko Plugin,693356, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,757301,T-9ebf46ff-fb8f-4217-8779-53f1db04c228," Papa Johns (DH Kitchen) by Snap, Shakhbout City",TLBT iiko Plugin,693356, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,759119,T-699001d5-a415-4c66-9ac9-b578aa4c291e," Papa Johns Pizza by Snap, Al Barsha 1",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753370,TS-7399390d-a016-461e-9bd8-82f8d25c8b77," Papa Johns by Snap, Al Falah City",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753371,TS-d99a087b-83cc-4148-bfc4-175d1c32b694," Papa Johns by Snap, Al Khawaneej 1",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753376,TS-b7bce79b-fe81-4470-9b84-b2a7e3fea60e," Papa Johns by Snap, Al Rigga",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753380,TS-0a3ff9c4-fdf0-418e-bd19-f21a2be7bac6," Papa Johns by Snap, Barsha Heights - TECOM",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753373,TS-bd43543a-e2ac-4f77-9971-402fa8a74bea," Papa Johns by Snap, Dubai Hills",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753375,TS-db969c05-fd67-4336-b853-353d509dd53b," Papa Johns by Snap, Dubai Marina",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,752156,TS-3a33c1b7-3eaa-4937-a6e5-149945e00631," Papa Johns by Snap, Jumeirah Village Circle - JVC",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753377,TS-a06be9de-08e3-4582-8b13-c88615816035," Papa Johns by Snap, MBR- Al Merkad",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753374,TS-ba008acf-2d2c-4ce3-b4bd-56e273cc0b63," Papa Johns by Snap, Masdar City",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753372,TS-b04c6280-b1ae-460f-a094-c79608002d1b," Papa Johns by Snap, Nad Al Hamar",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,753378,TS-e7e5e296-1785-429b-869d-57aec84d6690," Papa Johns by Snap, Tourist Club Area (Al Zahiya)",TLBT iiko Plugin,690425, Papa Johns by Snap,OWN_DELIVERY,,UAE
+TB_AE,661662,TGO-a15fb56e-66cb-4e1e-95e6-8414351bcb40,"ARZETNA RESTAURANT, Town Square",TLBT iiko Plugin,638356,ARZETNA RESTAURANT,OWN_DELIVERY,,UAE
+TB_AE,43264,TGO-addd7e9a-0bc4-4664-a65b-60900aee79f6,"Baan Thai, Al Hosn",TLBT iiko Plugin,24305,Baan Thai,OWN_DELIVERY,,UAE
+TB_AE,613411,TGO-dba7d46f-4b48-44e5-ad88-6b3abf27b38e,"Bombay Canteen, Al Raha Mall, Al Rraha",TLBT iiko Plugin,25543,Bombay Canteen,OWN_DELIVERY,,UAE
+TB_AE,45365,TGO-2008ea974d-a82f-4067-ba6c-a7dba58c068c,"Bombay Canteen, Galleria Mall, Al Maryah Island",TLBT iiko Plugin,25543,Bombay Canteen,OWN_DELIVERY,,UAE
+TB_AE,694671,TGO-72212f8a-f154-4b7b-b78c-61b69d1f15af,"Carrefour BIO Café, IMPZ",TLBT iiko Plugin,657855,Carrefour BIO Café,OWN_DELIVERY,,UAE
+TB_AE,694682,TGO-aa338477-2c4d-4e78-97f6-2cc5895ed2ca,"Carrefour Kitchen, Deira City Centre,Port Saeed",TLBT iiko Plugin,657861,"Carrefour Kitchen, Deira City Centre",OWN_DELIVERY,,UAE
+TB_AE,694686,TGO-1c02ee95-2e47-47b4-a1dc-2b0d3e768a58,"Carrefour Kitchen, Dubai Festival City",TLBT iiko Plugin,657865,"Carrefour Kitchen, Dubai Festival City",OWN_DELIVERY,,UAE
+TB_AE,694685,TGO-2c31b91b-cd1f-440a-8906-511d27ddba01,"Carrefour Kitchen, Ibn Battuta Mall,Jebel Ali Gardens",TLBT iiko Plugin,657864,"Carrefour Kitchen, Ibn Battuta Mall",OWN_DELIVERY,,UAE
+TB_AE,694684,TGO-bca8e83e-2587-4c36-9fd1-78ab89b3b205,"Carrefour Kitchen, Mall of the Emirates,Al Barsha 1",TLBT iiko Plugin,657863,"Carrefour Kitchen, Mall of the Emirates",OWN_DELIVERY,,UAE
+TB_AE,694683,TGO-e499edd8-9ec3-4a6e-9613-3150cb1c11cb,"Carrefour Kitchen, Mirdif City Centre,Mirdif",TLBT iiko Plugin,657862,"Carrefour Kitchen, Mirdif City Centre",OWN_DELIVERY,,UAE
+TB_AE,46899,TGO-dba7d46f-4b48-44e5-ad88-6b3abf27b38e,"Kababs & Kurries, Al Raha Mall, Al Raha ",TLBT iiko Plugin,1567,Kababs & Kurries,OWN_DELIVERY,,UAE
+TB_AE,601341,TGO-d89b9f1e-c23b-7d85-016a-cf6c068a00cc,"Khansama Premium Pakistani Cuisine, Al Hosn",TLBT iiko Plugin,600620,Khansama Premium Pakistani Cuisine,OWN_DELIVERY,,UAE
+TB_AE,716387,TGO-e7e5e296-1785-429b-869d-57aec84d6690,"Papa John's Pizza, Abu Dhabi MAll",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,695678,TGO-cfc36816-f418-4251-9652-f2e19221f6b6,"Papa John's Pizza, ENOC 6549 JLT D Cluster, Jumeirah Lakes Towers - JLT",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,8176,ec1e9aa4-3190-4267-a864-a55523f31e45,"Papa John's Pizza, Hilly ( Wahat Hili Mall )",TLBT iiko Plugin,1931,Papa Johns Pizza,VENDOR_DELIVERY,,UAE
+TB_AE,749840,TGO-c6f09a80-47f8-4b53-8658-5ec8c4a6abae,"Papa John's, Al Furjan South Pavilion, Al Furjan",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,774233,TGO-a7ec2cf4-09f2-46ac-8c6b-ce09fc9fb211,"Papa John`s Pizza - TGO, Ajman Corniche, Ajman",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,730962,TGO-24e4df0c-e67f-43bb-bcac-9b3dbe41045c,"Papa John`s Pizza - The One Suyoh, Al Seyouh",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,735559,TGO-f672bb70-9ad4-436a-95ee-01f41b79bea6,"Papa John`s Pizza, Al Rahmania",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,710560,TGO-ba008acf-2d2c-4ce3-b4bd-56e273cc0b63,"Papa John`s Pizza, City Center Masdar, Masdar City",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,703708,TGO-efcfa203-48c0-4e82-a790-f87f3f8c94ce,"Papa John`s Pizza, Deira Enrichment Project, Corniche Deira",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,691558,TGO-4f71fe61-a2b8-4177-9522-84d497b24782,"Papa John`s Pizza, UM AL Quwain -Union coop, Al Salamah - A",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,694301,TGO-1adcb651-5e5d-4fe6-8600-d2509f755c75,"Papa John`s, Makani Zakher Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,701638,TGO-1366e823-3819-4d0c-a30a-f6b9321ae305,"Papa John`s, Matajer Juraina, Al Juraina",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,733484,TGO-fd46de19-d604-4e0b-af4e-da6c70431c29,"Papa Johns (DH Kitchen), Al Jimi",TLBT iiko Plugin,679572,Papa Johns,OWN_DELIVERY,,UAE
+TB_AE,731469,TGO-3ba8822c-6d2c-4f5d-bded-8fd18006ebb6,"Papa Johns (DH Kitchen), Arjan",TLBT iiko Plugin,678417,Papa Johns,OWN_DELIVERY,,UAE
+TB_AE,726799,TGO-3cfcc62a-2ec2-4bee-9118-f8b3997b3177,"Papa Johns (DH Kitchen), al Sufouh 2",TLBT iiko Plugin,667470,Papa Johns,OWN_DELIVERY,,UAE
+TB_AE,719223,TGO-dc039b55-90c8-4094-9605-ebd8a8395209,"Papa Johns DSO Souq Extra, Dubai Silicon Oasis",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632334,TGO-d277cdeb-e6b9-4e06-abda-f502a5ca22ac,"Papa Johns Pizza , Shabhat Plaza",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,673722,TGO-0194d640-1ebe-4d28-9136-f36214b52699,Papa Johns Pizza - Dubai Hills Mall,TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,673723,TGO-eaaae402-5f1b-4820-a49c-aff228e32c9a,Papa Johns Pizza - Jumeirah 1,TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,719696,TGO-7399390d-a016-461e-9bd8-82f8d25c8b77,Papa Johns Pizza Al Falah Central Mall,TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,721471,TGO-7a662c5f-8801-4920-84ad-3c918984df53,"Papa Johns Pizza Midtown, IMPZ	",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,614282,TGO-3d5b6ac2-e637-4163-9c66-45888f6b1661,Papa Johns Pizza Mirdif City Centre,TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,35449,TGO-841b3ce2-3cb5-4374-a13e-4bee799ac98c,"Papa Johns Pizza TGO, Emarat City, Al Mushairef",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,639461,TGO-a25484ec-b6ea-4e17-b5ce-d2b5ccde93d8,"Papa Johns Pizza TGO, Matajer Al Musalla",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,35450,TGO-39594bce-7c14-423b-98e7-b19e244733c5,"Papa Johns Pizza TGO, Rumailah",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632333,TGO-68fba553-2422-4cd5-93e3-7d6aca2fb4d5,"Papa Johns Pizza,  Al Nahda",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,624944,TGO-9b50ab43-87c7-4114-b372-bf57df1c9a86,"Papa Johns Pizza,  Al Quoz 1",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,606881,TGO-ec1e9aa4-3190-4267-a864-a55523f31e45,"Papa Johns Pizza,  Hilly ( Wahat Hili Mall ),Al Hili",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,718084,TGO-7f986f46-3c56-4a7e-b03f-6ea64fc97035,"Papa Johns Pizza, ADNOC 913 Khalidiyah",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632340,TGO-a7e6b07c-7193-47ed-b02c-4f5b87244370,"Papa Johns Pizza, Abu Shagara",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,606935,TGO-d598c17b-4038-4f0e-8d92-ce22bbfa42bb,"Papa Johns Pizza, Al Ain Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24014,TGO-7f08a43a-0e92-4483-af11-d461ce3384c2,"Papa Johns Pizza, Al Bada'a",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,8191,2972f9b1-a768-4903-b943-514be936261d,"Papa Johns Pizza, Al Bahia ( Deerfields Mall )",TLBT iiko Plugin,1931,Papa Johns Pizza,VENDOR_DELIVERY,,UAE
+TB_AE,24006,TGO-fe39532e-f528-449b-a32e-f3ad904b25e7,"Papa Johns Pizza, Al Barsha 1",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,694656,TGO-be26db29-5a33-4fce-9041-ab95eae5baeb,"Papa Johns Pizza, Al Dhait South",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,668462,TGO-41b5a324-1c83-46d6-8b90-82bfb6d92ac0,"Papa Johns Pizza, Al Forsan Mall, Madinat Khalifa- A",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632341,TGO-aa82ac56-6991-4b13-850a-8c55bc09f48a,"Papa Johns Pizza, Al Garhoud",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632324,TGO-ae670b39-8c28-43fb-947d-b61ea41c10f8,"Papa Johns Pizza, Al Ghurair",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632328,TGO-fa38af91-8998-4e99-b94e-4fc0b0dd1520,"Papa Johns Pizza, Al Hamra",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,639436,TGO-7771fd5e-8a37-4321-ab97-57c66b32da49,"Papa Johns Pizza, Al Homaa",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24013,TGO-6cb4584f-38fd-4cfa-a2b8-9c698626f5f8,"Papa Johns Pizza, Al Karama",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24010,TGO-f16018a3-4f25-4fc6-bf58-0d7228ea32ff,"Papa Johns Pizza, Al Khalidiyah Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,669554,TGO-d3fe3663-acca-4af7-b308-e1ec053d4eb7,"Papa Johns Pizza, Al Nuaimia 1",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,617524,TGO-13f24936-c83d-42ba-b203-fcb57eb1f836,"Papa Johns Pizza, Al Qusais 1",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24011,TGO-a6490b8a-b51c-4731-8d96-b0361d17e491,"Papa Johns Pizza, Al Rashidiya",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,639460,TGO-bbd2c842-de97-480a-b9c1-7853cd8e4191,"Papa Johns Pizza, Al Taawun",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,617523,TGO-bdf6e156-5de5-4f17-bd17-2db6230a30e3,"Papa Johns Pizza, Al Twar 1 ",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,20033,2086b39d-df59-4579-8a3f-8d5bffbb3dbd,"Papa Johns Pizza, Al Wahdah ( Al Wahda Mall )",TLBT iiko Plugin,1931,Papa Johns Pizza,VENDOR_DELIVERY,,UAE
+TB_AE,24009,TGO-607feb85-e0a4-4172-a586-ed2b3c463384,"Papa Johns Pizza, Al Warqa",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,636189,TGO-ee4b9bcd-cd6e-4a0d-9c26-4afaa5fcf14c,"Papa Johns Pizza, Al Zahia,Muwaileh Commercial",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,741014,TGO-a06be9de-08e3-4582-8b13-c88615816035,"Papa Johns Pizza, Azizi Riviera, Meydan South",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,608441,TGO-0cef88d0-ea1b-4bf6-898f-597fa0684261,"Papa Johns Pizza, Bawadi Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,609078,TGO-da81dccc-cd47-41f3-919b-6c63bf57967d,"Papa Johns Pizza, Bay Avenue ",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,669393,TGO-6afaaa73-6c96-47bf-9f92-d8bc973942ef,"Papa Johns Pizza, Beirut Street: ENOC 98,Al Qusais 1",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632323,TGO-7c5f1490-227d-4a46-8534-776e14e76d08,"Papa Johns Pizza, Burjuman Center",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632335,TGO-9c930598-e19f-4974-b901-f4d2db7867ce,"Papa Johns Pizza, Dalma Mall, Mussafah",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,712547,TGO-abe168ed-aee8-4928-8a81-16db585323aa,"Papa Johns Pizza, Damac Hills",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632327,TGO-2972f9b1-a768-4903-b943-514be936261d,"Papa Johns Pizza, Deerfields",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,625834,TGO-975d25ca-0a74-4963-8f22-04141705588e,"Papa Johns Pizza, Deira City Center, Corniche Deira",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,636188,TGO-6f2a0d4e-0de1-4a78-aebd-3db147934a8c,"Papa Johns Pizza, Downtown Burj Khalifa,Downtown Burj Khalifa",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,614284,TGO-6d23f7a7-567c-4241-93dd-9f9ff0feaaf1,"Papa Johns Pizza, Dubai Festival City",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,48382,TGO-bd43543a-e2ac-4f77-9971-402fa8a74bea,"Papa Johns Pizza, Dubai Hills ENOC 1076",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24008,TGO-db969c05-fd67-4336-b853-353d509dd53b,"Papa Johns Pizza, Dubai Marina",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,623902,TGO-c8f7c40b-bab4-4a04-9ec1-695982f531fa,"Papa Johns Pizza, EPPCO Ajman 212",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,668449,TGO-75106e6f-1580-422a-9272-cc8d576b3da4,"Papa Johns Pizza, Fujairah: ENOC 1505",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,601809,TGO-6c791c3a-11a9-4e10-99e7-f1ce75d96328,"Papa Johns Pizza, Ibn Batutta Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632336,TGO-8c23611b-00fa-40c7-a07e-9f5cf4252dbf,"Papa Johns Pizza, International City",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,659733,TGO-7d0f2015-2fa7-42a1-b417-d5bb3bad8bf2,"Papa Johns Pizza, J3 Mall,Al Manara",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24019,TGO-3a33c1b7-3eaa-4937-a6e5-149945e00631,"Papa Johns Pizza, Jumeirah Village Circle ENOC 1033",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,669813,d99a087b-83cc-4148-bfc4-175d1c32b694,"Papa Johns Pizza, Khawaneej: ENOC 89,Al Khawaneej 1",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632332,TGO-a65383f5-c93f-4596-9cbd-69d003632bee\,"Papa Johns Pizza, Lulu Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24016,TGO-c8fe1311-01c5-4921-8fac-8adf2e781dce,"Papa Johns Pizza, Madinat Zayed",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632331,8798cc16-1322-4526-a743-16f5f43f2504,"Papa Johns Pizza, Mall of The Emirates",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632337,TGO-8c2e4868-5052-4491-bdc2-a1669f189daa,"Papa Johns Pizza, Mamzar Center",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,624946,TGO-ca767955-3a35-4b03-be45-36f2b7a02efa,"Papa Johns Pizza, Manar Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,609077,TGO-7ab91c6b-b383-40d7-8da1-f8ce36d10ee9,"Papa Johns Pizza, Marina Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632325,TGO-336a2e19-a11e-4d71-8b66-46910293813f,"Papa Johns Pizza, Mazyad Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,669731,TGO-8570afa1-eb8f-4fce-9921-bfb315b7610e,"Papa Johns Pizza, Meadows Village",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,624943,TGO-5fc2957e-218e-49c2-8465-09ba0a3eb19a,"Papa Johns Pizza, Mudon",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,700204,TGO-2ed16dae-ff6b-45f2-982b-8c209b20138d,"Papa Johns Pizza, Mushrif Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,673725,TGO-b04c6280-b1ae-460f-a094-c79608002d1b,"Papa Johns Pizza, Nadd Al Hamar, ENOC 95",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,24007,TGO-d16d0673-1000-4f6f-8629-bd604973f37c,"Papa Johns Pizza, Oud Metha",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,696699,TGO-60463F4B-716b-4f56-83d9-04d13d683c3b,"Papa Johns Pizza, Reem Mall, Reem Island",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,713010,TGO-6f572af2-1245-4e13-a966-9c5558657fec,"Papa Johns Pizza, Shakhbout City, (DH Kitchen)",TLBT iiko Plugin,667470,Papa Johns,OWN_DELIVERY,,UAE
+TB_AE,47038,TGO-db0bd243-c89a-404f-9bee-850de94a4b91,"Papa Johns Pizza, Souq Al Jami Mall, Zayed Sports City",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,671193,TGO-0a3ff9c4-fdf0-418e-bd19-f21a2be7bac6,"Papa Johns Pizza, Tecom ENOC 85, Barsha Heights",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,639824,TGO-a84d4855-96c9-41ba-86a4-993eca44f1a3,"Papa Johns Pizza, The Grand Avenue",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,48092,TGO-2dfb1fd6-b311-44e2-af3c-fe13b7337fcf,"Papa Johns Pizza, The Palm Jumeirah",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632322,TGO-3985b493-1e73-484d-af24-86af1cb6699a,"Papa Johns Pizza, Wafi Mall",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,632326,TGO-2086b39d-df59-4579-8a3f-8d5bffbb3dbd,"Papa Johns Pizza, Wahdah Mall, Al Wahdah",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,747109,TGO-e2794f49-dfb5-4130-8e92-66fe314a6136,"Papa Johns, Khorfakkan Beach, Khor Fakkan",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,695759,TGO-6d440ce9-45a0-4ce8-8ed5-8aa477b62c99,"Papa john's, ENOC 1042 DIP, Dubai Investments Park",TLBT iiko Plugin,12802,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,20690,TGO-9e7ee319-c77b-4d92-8d09-19fd98f7f368,"Parivar Restaurant, Al Hosn",TLBT iiko Plugin,10526,Parivar Restaurant,OWN_DELIVERY,,UAE
+TB_AE,50003,TGO-2b32f518-794e-4002-9d69-99f170d9c446,"Robusta Coffee, Al Khubeirah",TLBT iiko Plugin,27856,Robusta Coffee,OWN_DELIVERY,,UAE
+TB_AE,19906,ffb0cef6-c757-4642-aa24-de394de20a92,"Royal Orchid, Al Dafrah (Al Seef)",TLBT iiko Plugin,9992,Royal Orchid Restaurant,VENDOR_DELIVERY,,UAE
+TB_AE,730495,2c31b91b-cd1f-440a-8906-511d27ddba0c,"SUSHI DAILY, Ibn Batutta Mall",TLBT iiko Plugin,676211,Sushi Daily,OWN_DELIVERY,,UAE
+TB_AE,730932,aa338477-2c4d-4e78-97f6-2cc5895ed2cc,"SUSHI DAILY, dcc,Deira",TLBT iiko Plugin,676211,Sushi Daily,OWN_DELIVERY,,UAE
+TB_AE,36944,TGO-7288881e-18c6-4f91-8663-a1fb18337559,"Shape Restaurant, Al Khabisi",TLBT iiko Plugin,13069,Shape Restaurant,OWN_DELIVERY,,UAE
+TB_AE,2455,20c60a8c-4217-4244-8990-f3c09844fd56,"Soy Express, Al Muntazah",TLBT iiko Plugin,1566,Soy Express,VENDOR_DELIVERY,,UAE
+TB_AE,50641,TGO-20c60a8c-4217-4244-8990-f3c09844fd56,"Soy Express, Madinat Khalifa A",TLBT iiko Plugin,1566,Soy Express,OWN_DELIVERY,,UAE
+TB_AE,736544,TGO-a560a044-a8ba-4b61-9221-eeab35af4e38,"Sushi Daily, Dubai Festival City",TLBT iiko Plugin,676211,Sushi Daily,OWN_DELIVERY,,UAE
+TB_AE,727735,TGO-a9123860-922b-4018-a8fe-6fe42bc228ae,"Sushi Daily, Dubai Marina",TLBT iiko Plugin,676211,Sushi Daily,OWN_DELIVERY,,UAE
+TB_AE,728902,TGO-851ca02d-62a3-4448-8850-0264e12f503e,"Sushi Daily, Marina Mall",TLBT iiko Plugin,676211,Sushi Daily,OWN_DELIVERY,,UAE
+TB_AE,730107,TGO-d01090c0-27d4-449f-aa47-70a5457afbc7,"Sushi Daily, Tilal al ghaf, Dubai Studio City",TLBT iiko Plugin,676211,Sushi Daily,OWN_DELIVERY,,UAE
+TB_AE,746675,TGO-7d47ed30-8500-4789-8cd6-f1e840d5e40e,"The Fat Pizza, Jumeirah Lakes Towers - JLT",TLBT iiko Plugin,687274,The Fat Pizza,OWN_DELIVERY,,UAE
+TB_AE,684717,TGO-5e6f624c-c225-4c62-bc91-e16bfff581ee,"Vera Napoli, DIFC",TLBT iiko Plugin,652224,Vera Napoli,OWN_DELIVERY,,UAE

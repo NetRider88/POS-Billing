@@ -1,0 +1,6 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,624651,6d629e54-14b6-49a2-bcfe-56c93ff6bb5c,"Fakhreldin Restaurant , Jabal Amman",Wi-Q,4907,Fakhreldin Restaurant,OWN_DELIVERY,,Jordan
+TB_JO,615582,0a04b121-f081-4d58-8fda-e5e816ec5cb5,"Kebab Express, Al Swaifyeh",Wi-Q,5027,Kebab Express,OWN_DELIVERY,,Jordan
+TB_JO,615584,fa1e8dda-3afc-48b2-91f1-35aca7eddbbc,"Renchai, Jabal Amman",Wi-Q,5201,REN CHAI,OWN_DELIVERY,,Jordan
+TB_JO,624652,b2b0e44f-b438-4362-ba99-6fe0cb787298,"Vinaigrette, Shmaisani",Wi-Q,5351,Vinaigrette,OWN_DELIVERY,,Jordan
+TB_JO,616436,ef2cfd65-25fc-4a3a-8811-5796a581797a,"Yoshi, Jabal Amman",Wi-Q,5372,Yoshi,OWN_DELIVERY,,Jordan

@@ -1,0 +1,51 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_JO,36931,HRD_JOR_4,"Hardee`s, Abdali mall",Tlbt-Americana-Digital,4967,Hardee's,OWN_DELIVERY,,Jordan
+TB_JO,764789,HRD_JOR_6,"Hardee`s, Jordan Al-Madina,Medina Street",Tlbt-Americana-Digital,698118,Hardee's ,OWN_DELIVERY,,Jordan
+TB_JO,34099,HRD_JOR_7,"Hardee`s, Mecca Mall TGO",Tlbt-Americana-Digital,4967,Hardee's,OWN_DELIVERY,,Jordan
+TB_JO,34102,HRD_JOR_6,"Hardee`s, Medina Street - TGO",Tlbt-Americana-Digital,4967,Hardee's,OWN_DELIVERY,,Jordan
+TB_JO,631589,HRD_JOR_8,"Hardee`s, Shafa Badran",Tlbt-Americana-Digital,4967,Hardee's,OWN_DELIVERY,,Jordan
+TB_JO,714550,KFC_JOR_103,"KFC, AL SALT, Al Saru",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,687468,KFC_JOR_66,"KFC, Abdali",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,666138,KFC_JOR_11,"KFC, Abu Nsair",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,658200,KFC_JOR_13,"KFC, Al Hashmi Al Shamali",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,666154,KFC_JOR_14,"KFC, Al Hurriah Street ",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,666155,KFC_JOR_27,"KFC, Al Swaifyeh ",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,687471,KFC_JOR_65,"KFC, Al Worod",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649660,KFC_JOR_24,"KFC, Al Zarqa Al Jadeedeh,Al Zarqa Al Jadeedeh",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,653211,KFC_JOR_16,"KFC, Aqaba, Al Balad Al Qadeemeh",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,687469,KFC_JOR_67,"KFC, City Mall",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649658,KFC_JOR_15,"KFC, Daheit Al Yasmeen,Daheit Al Yasmeen",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,687473,KFC_JOR_63,"KFC, Galleria Mall",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,47137,KFC_JOR_12,"KFC, Hay Al Rahmanieh",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649656,KFC_JOR_17,"KFC, Irbid",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649653,KFC_JOR_32,"KFC, Jabal Al Zohor, Al Muqabalain",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649659,KFC_JOR_19,"KFC, Khalda,Khalda",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,666137,KFC_JOR_22,"KFC, Marj El Hamam",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,697252,KFC_JOR_20,"KFC, Medina Street",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649657,KFC_JOR_25,"KFC, Safeway,Shmaisani",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649652,KFC_JOR_26,"KFC, Shmaisani,Shmaisani",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649662,KFC_JOR_28,"KFC, Swefieh,Al Swaifyeh",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649655,KFC_JOR_29,"KFC, Tabarboor,Tabarbour",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,687472,KFC_JOR_62,"KFC, Taj Mall",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,676455,KFC_JOR_21,"KFC, Um El Summaq",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,649654,KFC_JOR_18,"KFC, University Street,Tla' Ali",Tlbt-Americana-Digital,5031,KFC,OWN_DELIVERY,,Jordan
+TB_JO,676360,PHD_JOR_39,"Pizza Hut,  Al Balad Al Qadeemeh, Downtown",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676364,PHD_JOR_35,"Pizza Hut, Abu Nsair, Abu Nseir",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676368,PHD_JOR_40,"Pizza Hut, Al Gardens, Gardens Street",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676358,PHD_JOR_43,"Pizza Hut, Al Jama`ah, University Street",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,696399,XXXXXX,"Pizza Hut, Al Muqabalain",Tlbt-Americana-Digital,5169,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,771396,PHD_JOR_84,"Pizza Hut, Al Muqabalain",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,677485,PHD_JOR_41,"Pizza Hut, Al Nuzha",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676365,PHD_JOR_36,"Pizza Hut, Al Rawnaq, Al Rawnaq",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,714541,PHD_JOR_104,"Pizza Hut, Al Saru",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676371,PHD_JOR_49,"Pizza Hut, Al Swefieh, Al Swaifyeh",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676362,PHD_JOR_51,"Pizza Hut, Al Zarqa Al Jadeedeh, Jabal Tareq",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676773,PHD_JOR_38,"Pizza Hut, Al Zohour",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676844,PHD_JOR_42,"Pizza Hut, Irbid, Al Jama'ah",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676768,PHD_JOR_44,"Pizza Hut, Jubaiha",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676770,PHD_JOR_45,"Pizza Hut, Khalda",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676771,PHD_JOR_47,"Pizza Hut, Marj El Hamam",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,702415,PHD_JOR_95,"Pizza Hut, Marka",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,764740,PHD_JOR_40,"Pizza Hut, PH - JO Al Gardens,Gardens Street",Tlbt-Americana-Digital,698091,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676772,PHD_JOR_48,"Pizza Hut, Shmaisani",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan
+TB_JO,676843,PHD_JOR_33,"Pizza Hut, Tabarbour",Tlbt-Americana-Digital,14920,Pizza Hut,OWN_DELIVERY,,Jordan

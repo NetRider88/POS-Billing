@@ -1,0 +1,6 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,714402,b281bcc9-98de-4caf-b0eb-f96ac3152818,"Cali Acai, Al Nahyan - AD8",TLBT Kitopi Plugin,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,714031,afd20fb2-4a79-4a9a-9d92-0297e5874c1e,"Cali Acai, Motor City 3",TLBT Kitopi Plugin,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,737252,fec9bb32-b373-4fae-adc1-cf46af1b78a4,"MiDomie - Indomie Noodles, Barsha Heights - TECOM",TLBT Kitopi Plugin,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,741099,7f382dec-3c6b-4b5b-801d-a4fdfb5483dc,"Puffies - Mini Dutch Pancakes, Business Bay",TLBT Kitopi Plugin,682038,Puffies - Mini Dutch Pancakes,OWN_DELIVERY,,UAE
+TB_AE,721728,c5dafd9e-9628-47ae-821e-15f10c83ac9b,"Taqado Mexican Kitchen - Burritos & Bowls, Marina 3,Dubai Marina",TLBT Kitopi Plugin,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE

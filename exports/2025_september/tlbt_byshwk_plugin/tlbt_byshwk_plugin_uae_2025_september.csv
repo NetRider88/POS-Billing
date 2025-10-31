@@ -1,0 +1,1265 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,762321,762321," Acai & Co by Snap, Business Bay",TLBT-BySHWK-Plugin,696534, Acai & Co by Snap,OWN_DELIVERY,,UAE
+TB_AE,762312,762312," Let`s Acai by Snap, Madinat Khalifa - A",TLBT-BySHWK-Plugin,696530, Let`s Acai by Snap,OWN_DELIVERY,,UAE
+TB_AE,706776,706776,"1762 Deli, DIFC",TLBT-BySHWK-Plugin,664049,1762 Deli,OWN_DELIVERY,,UAE
+TB_AE,706777,706777,"1762 Deli, Dubai Media City",TLBT-BySHWK-Plugin,664049,1762 Deli,OWN_DELIVERY,,UAE
+TB_AE,706771,706771,"1762 Deli, JLT,Jumeirah Lakes Towers",TLBT-BySHWK-Plugin,664049,1762 Deli,OWN_DELIVERY,,UAE
+TB_AE,767109,767109,"1762 Deli, Jebel Ali Freezone",TLBT-BySHWK-Plugin,664049,1762 Deli,OWN_DELIVERY,,UAE
+TB_AE,770299,770299,"Acai & Co,  Saadiyat Island",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,698218,698218,"Acai & Co, Abu Shagara",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,698219,698219,"Acai & Co, Ajman",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,657641,657641,"Acai & Co, Al ASharaj",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,668794,668794,"Acai & Co, Al Barsha 1",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,629922,629922,"Acai & Co, Al Khawaneej",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,41169,41169,"Acai & Co, Arjan",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,717860,717860,"Acai & Co, Arjan - HPK",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,38931,38931,"Acai & Co, Business Bay",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,730271,730271,"Acai & Co, Business Bay - HPK",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,662185,662185,"Acai & Co, Central Park Towers",TLBT-BySHWK-Plugin,638739,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,600935,600935,"Acai & Co, DSO",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,730272,730272,"Acai & Co, Gymnation",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,38485,38485,"Acai & Co, JLT",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,712667,712667,"Acai & Co, JLT HPK",TLBT-BySHWK-Plugin,664949,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,723285,723285,"Acai & Co, Karama - HPK",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,708374,708374,"Acai & Co, Khalifa City",TLBT-BySHWK-Plugin,664949,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,688164,688164,"Acai & Co, Mushrif Mall",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,638085,638085,"Acai & Co, Muwaileh",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,38484,38484,"Acai & Co, Reem Island",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,604043,604043,"Acai & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,611976,611976,"Acai & Co,Yas Plaza",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,727447,727447,"Acai Jamboree, Abu Shagara",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,680397,680397,"Acai Jamboree, Al Barsha 1",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,732431,732431,"Acai Jamboree, Al Jada Sharjah ,Muwaileh Commercial",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,727445,727445,"Acai Jamboree, Al Khawaneej",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,694906,694906,"Acai Jamboree, Al Mushrif ",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,697741,697741,"Acai Jamboree, Arjan",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,729065,729065,"Acai Jamboree, Asharaj Al Ain",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,729069,729069,"Acai Jamboree, Business Bay - SWHK",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,727939,727939,"Acai Jamboree, Dubai Internet City- DIC",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,672294,672294,"Acai Jamboree, Dubai silicon Oasis",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,766811,766811,"Acai Jamboree, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,667921,667921,"Acai Jamboree, JLT",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,672295,672295,"Acai Jamboree, Karama",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,691593,691593,"Acai Jamboree, Madinat Khalifa - A",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,729066,729066,"Acai Jamboree, Motor City",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,729067,729067,"Acai Jamboree, Rashid Body Fitness Building, Ajman",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,691592,691592,"Acai Jamboree, Reem Island",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,677106,677106,"Acai Jamboree, Saadiyat island (south)",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,729064,729064,"Acai Jamboree, Uptown - Mirdif",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,727446,727446,"Acai Jamboree, Yas Plaza",TLBT-BySHWK-Plugin,642316,Acai Jamboree,OWN_DELIVERY,,UAE
+TB_AE,727812,727812,"Acai and Co, Business Central Tower",TLBT-BySHWK-Plugin,21749,Acai & Co,OWN_DELIVERY,,UAE
+TB_AE,727914,727914,"Affordabowls - Rice Bowls & Mashed Potato Bowls  Potato Bowls, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,654524,654524,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Abu Shagara",TLBT-BySHWK-Plugin,633803,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,779253,779253,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Al Asharaj, Bida Bin Ammar",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,36567,36567,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Al Barsha 1",TLBT-BySHWK-Plugin,20762,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,725449,725449,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Al Jurf 2",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,609995,609995,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Al Muteena",TLBT-BySHWK-Plugin,28956,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,646582,646582,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Arjan",TLBT-BySHWK-Plugin,629178,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,717848,717848,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Arjan",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,605083,605083,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Business Bay",TLBT-BySHWK-Plugin,20762,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,727594,727594,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Business Bay",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,619595,619595,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,20762,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,766807,766807,"Affordabowls - Rice Bowls & Mashed Potato Bowls, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,654130,654130,"Affordabowls - Rice Bowls & Mashed Potato Bowls, JLT HPK",TLBT-BySHWK-Plugin,633544,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,650315,650315,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,631270,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,665714,665714,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Khalifa City",TLBT-BySHWK-Plugin,640867,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,725920,725920,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Muwaileh Commercial",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,720301,720301,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Reem Island",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,761938,761938,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Reem Island",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,681790,681790,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Saadiyat island (south)",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,727671,727671,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Uptown - Mirdif",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,727560,727560,"Affordabowls - Rice Bowls & Mashed Potato Bowls, Yas Plaza",TLBT-BySHWK-Plugin,650387,Affordabowls - Rice Bowls & Mashed Potato Bowls,OWN_DELIVERY,,UAE
+TB_AE,36568,36568,Amigovio - Mexican Burritos Al Barsha 1,TLBT-BySHWK-Plugin,20763,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,654527,654527,"Amigovio - Mexican Burritos, Abu Shagara",TLBT-BySHWK-Plugin,633806,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,720286,720286,"Amigovio - Mexican Burritos, Al Markaziyah",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,646583,646583,"Amigovio - Mexican Burritos, Arjan",TLBT-BySHWK-Plugin,629179,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,717844,717844,"Amigovio - Mexican Burritos, Arjan",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,605082,605082,"Amigovio - Mexican Burritos, Business Bay",TLBT-BySHWK-Plugin,20763,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,727593,727593,"Amigovio - Mexican Burritos, Business Bay",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,727918,727918,"Amigovio - Mexican Burritos, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,619636,619636,"Amigovio - Mexican Burritos, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,20763,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,654131,654131,"Amigovio - Mexican Burritos, JLT HPK",TLBT-BySHWK-Plugin,633545,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,650318,650318,"Amigovio - Mexican Burritos, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,631273,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,665715,665715,"Amigovio - Mexican Burritos, Khalifa City",TLBT-BySHWK-Plugin,640868,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,733952,733952,"Amigovio - Mexican Burritos, Muwaileh",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,729872,729872,"Amigovio - Mexican Burritos, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,761937,761937,"Amigovio - Mexican Burritos, Reem Island",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,681791,681791,"Amigovio - Mexican Burritos, Saadiyat island (south)",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,609997,609997,"Amigovio - Mexican Burritos, Uptown - Mirdif",TLBT-BySHWK-Plugin,28949,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,727561,727561,"Amigovio - Mexican Burritos, Yas Plaza",TLBT-BySHWK-Plugin,650388,Amigovio - Mexican Burritos,OWN_DELIVERY,,UAE
+TB_AE,698342,698342,"Avo & Co, Abu Shagara",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,698343,698343,"Avo & Co, Ajman",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,657455,657455,"Avo & Co, Al Asharaj",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,677567,677567,"Avo & Co, Al Barsha 1",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,717858,717858,"Avo & Co, Arjan - HPK",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,46939,46939,"Avo & Co, Business Bay",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,730270,730270,"Avo & Co, Business Bay - HPK",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,662182,662182,"Avo & Co, Central Park Towers",TLBT-BySHWK-Plugin,638736,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,600936,600936,"Avo & Co, DSO",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,604044,604044,"Avo & Co, Deira",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,730268,730268,"Avo & Co, Gymnation",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,46942,46942,"Avo & Co, JLT",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,723290,723290,"Avo & Co, Karama - HPK",TLBT-BySHWK-Plugin,673693,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,688771,688771,"Avo & Co, Mushrif Mall",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,638077,638077,"Avo & Co, Muwaileh",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,46943,46943,"Avo & Co, Reem Island",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,724266,724266,"Avo & Co, Saadiyat Island",TLBT-BySHWK-Plugin,664914,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,630240,630240,"Avo & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,46941,46941,"Avo and Co, Arjan",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,727810,727810,"Avo and Co, Business Central Tower",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,712548,712548,"Avo and Co, JLT HPK ",TLBT-BySHWK-Plugin,664914,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,708319,708319,"Avo and Co, Khalifa City",TLBT-BySHWK-Plugin,664914,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,611903,611903,"Avo and Co, Yas Plaza",TLBT-BySHWK-Plugin,26315,Avo & Co,OWN_DELIVERY,,UAE
+TB_AE,662636,662636,BWL - Saadiyat Island TGO,TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,653288,653288,BWL | Khalifa City,TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,653298,653298,BWL | Yas Island,TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,758473,758473,"BWL, Abu Shagara",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,698049,698049,"BWL, Al Barsha 1",TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,758472,758472,"BWL, Al Karama",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,759640,759640,"BWL, Arjan",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,682094,682094,"BWL, Business Bay",TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,763987,763987,"BWL, Business Central Tower - DIC, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,750409,750409,"BWL, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,748516,748516,"BWL, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,766823,766823,"BWL, Mirdif",TLBT-BySHWK-Plugin,688314,BWL,OWN_DELIVERY,,UAE
+TB_AE,696271,696271,"BWL, Muweilah, Muwaileh Commercial",TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,653241,653241,"BWL, Reem Island",TLBT-BySHWK-Plugin,633025,Bwl,OWN_DELIVERY,,UAE
+TB_AE,730236,730236,"Bagel And Co, Al Mushrif",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,730234,730234,"Bagel And Co, Gymnation Al Ain, Al Murabaa",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,698090,698090,"Bagel and Co, Abu Shagara",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,657450,657450,"Bagel and Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,668799,668799,"Bagel and Co, Al Barsha 1",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,723274,723274,"Bagel and Co, Al Karama",TLBT-BySHWK-Plugin,673680,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,639153,639153,"Bagel and Co, Arjan",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,718024,718024,"Bagel and Co, Arjan",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,636072,636072,"Bagel and Co, Business Bay",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,727709,727709,"Bagel and Co, Business Central Tower,Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665016,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,662181,662181,"Bagel and Co, Central Park Towers",TLBT-BySHWK-Plugin,638735,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,640329,640329,"Bagel and Co, DSO",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,639148,639148,"Bagel and Co, Hor Al Anz",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,639149,639149,"Bagel and Co, JLT",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,712466,712466,"Bagel and Co, JLT HPK",TLBT-BySHWK-Plugin,665016,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,708475,708475,"Bagel and Co, Khalifa City",TLBT-BySHWK-Plugin,665016,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,640336,640336,"Bagel and Co, Muweilah - Sharjah",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,698091,698091,"Bagel and Co, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,639152,639152,"Bagel and Co, Reem Island",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,724276,724276,"Bagel and Co, Reem Island",TLBT-BySHWK-Plugin,665016,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,688773,688773,"Bagel and Co, Saadiyat island (south)",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,639151,639151,"Bagel and Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,639155,639155,"Bagel and Co, Yas Plaza",TLBT-BySHWK-Plugin,622807,Bagel & Co,OWN_DELIVERY,,UAE
+TB_AE,700797,700797,"Bait Lubnan,  Deira",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,767127,767127,"Bait Lubnan, 1762 - Mirdif",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700796,700796,"Bait Lubnan, Al Karama",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700802,700802,"Bait Lubnan, Arjan",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700798,700798,"Bait Lubnan, Barsha 1",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700794,700794,"Bait Lubnan, Business Bay",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,699674,699674,"Bait Lubnan, DIC",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,740748,740748,"Bait Lubnan, DIC, Al Sufouh 2",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700793,700793,"Bait Lubnan, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700801,700801,"Bait Lubnan, Madinat Khalifa - A",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,707640,660517,"Bait Lubnan, Muwaileh Commercial",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700799,700799,"Bait Lubnan, Saadiyat island (south)",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,700795,700795,"Bait Lubnan, The Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,660517,Bait Lubnan,OWN_DELIVERY,,UAE
+TB_AE,681536,681536,"Bangkok to Tokyo, 1762 - Mirdif",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,732998,732998,"Bangkok to Tokyo, Abu Shagara",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,732387,732387,"Bangkok to Tokyo, Abu Shaghara ",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,680440,680440,"Bangkok to Tokyo, Al Barsha 1",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,670576,670576,"Bangkok to Tokyo, Al Karama",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,697742,697742,"Bangkok to Tokyo, Arjan",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,694907,694907,"Bangkok to Tokyo, Business Bay",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,668781,668781,"Bangkok to Tokyo, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,691928,691928,"Bangkok to Tokyo, Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,666532,666532,"Bangkok to Tokyo, JLT",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,691931,691931,"Bangkok to Tokyo, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,677189,677189,"Bangkok to Tokyo, Saadiyat island (south)",TLBT-BySHWK-Plugin,641407,Bangkok to Tokyo,OWN_DELIVERY,,UAE
+TB_AE,725096,725096,Bao & CO JLT,TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,725097,725097,"Bao & CO, Arjan",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,725095,725095,"Bao & CO, Mina",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,727489,727489,"Bao & Co, Al Barsha 1",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,727487,727487,"Bao & Co, Arjan",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,727486,727486,"Bao & Co, Business Bay",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,725098,725098,"Bao & Co, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,727485,727485,"Bao & Co, HPK Business Bay",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,727488,727488,"Bao & Co, JLT HPK",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,725093,725093,"Bao & Co, Khalifa",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,725027,725027,"Bao & Co, Saadiyat island (south)",TLBT-BySHWK-Plugin,674673,Bao & Co,OWN_DELIVERY,,UAE
+TB_AE,681792,681792,"Bravo Avocado - Avocado Toast & Wraps,  Mushrif Mall	",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,654603,654603,"Bravo Avocado - Avocado Toast & Wraps, Abu Shagara",TLBT-BySHWK-Plugin,633853,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,770293,770293,"Bravo Avocado - Avocado Toast & Wraps, Ajman",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,36569,36569,"Bravo Avocado - Avocado Toast & Wraps, Al Barsha 1",TLBT-BySHWK-Plugin,20764,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,646584,646584,"Bravo Avocado - Avocado Toast & Wraps, Arjan",TLBT-BySHWK-Plugin,629180,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,717819,717819,"Bravo Avocado - Avocado Toast & Wraps, Arjan",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,605081,605081,"Bravo Avocado - Avocado Toast & Wraps, Business Bay",TLBT-BySHWK-Plugin,20764,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,727597,727597,"Bravo Avocado - Avocado Toast & Wraps, Business Bay",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,654185,654185,"Bravo Avocado - Avocado Toast & Wraps, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,633583,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,619635,619635,"Bravo Avocado - Avocado Toast & Wraps, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,20764,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,766806,766806,"Bravo Avocado - Avocado Toast & Wraps, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,650378,650378,"Bravo Avocado - Avocado Toast & Wraps, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,631312,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,665716,665716,"Bravo Avocado - Avocado Toast & Wraps, Khalifa City",TLBT-BySHWK-Plugin,640869,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,733953,733953,"Bravo Avocado - Avocado Toast & Wraps, Muwaileh",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,720281,720281,"Bravo Avocado - Avocado Toast & Wraps, Reem Island",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,761941,761941,"Bravo Avocado - Avocado Toast & Wraps, Saadiyat Island",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,610000,610000,"Bravo Avocado - Avocado Toast & Wraps, Uptown - Mirdif",TLBT-BySHWK-Plugin,28955,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,727562,727562,"Bravo Avocado - Avocado Toast & Wraps, Yas Plaza",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,746789,746789,"Bravo Avocado, Asharaj Al Ain, Asharej",TLBT-BySHWK-Plugin,650389,Bravo Avocado - Avocado Toast & Wraps,OWN_DELIVERY,,UAE
+TB_AE,698107,698107,"Brunch And Co, Abu Shagara",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695607,695607,"Brunch And Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,714598,714598,"Brunch And Co, Al Barsha 1",TLBT-BySHWK-Plugin,668419,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695602,695602,"Brunch And Co, Al Khawaneej",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695599,695599,"Brunch And Co, Arjan",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695598,695598,"Brunch And Co, Business Bay",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695601,695601,"Brunch And Co, Central Park Towers",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695603,695603,"Brunch And Co, DSO",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,730247,730247,"Brunch And Co, Gymnation Al Ain, Al Murabaa",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,730244,730244,"Brunch And Co, HPK Business Bay",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695444,695444,"Brunch And Co, JLT",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,708476,708476,"Brunch And Co, Khalifa City",TLBT-BySHWK-Plugin,665017,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,730245,730245,"Brunch And Co, Muwaileh Commercial, Sharjah",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695600,695600,"Brunch And Co, Reem Island",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,696190,696190,"Brunch And Co, Saadiyat island (south)",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695605,695605,"Brunch And Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,695604,695604,"Brunch And Co, Yas Plaza",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,723277,723277,"Brunch and Co, Al Karama",TLBT-BySHWK-Plugin,673683,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,718025,718025,"Brunch and Co, Arjan",TLBT-BySHWK-Plugin,658258,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,712691,712691,"Brunch and Co, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665017,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,724274,724274,"Brunch and Co, Reem Island",TLBT-BySHWK-Plugin,665017,Brunch & Co,OWN_DELIVERY,,UAE
+TB_AE,730243,730243,Burger & Co - Dubai Internet City	,TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,761923,761923,"Burger & Co, Reem Island",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676296,676296,"Burger And Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676294,676294,"Burger And Co, Al Barsha 1",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676301,676301,"Burger And Co, Al Mina, Reem Island",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676297,676297,"Burger And Co, Arjan",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676292,676292,"Burger And Co, Business Bay",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676298,676298,"Burger And Co, DSO",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676300,676300,"Burger And Co, Hor Al Anz",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676293,676293,"Burger And Co, JLT",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676299,676299,"Burger And Co, Muweilah - Sharjah",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676302,676302,"Burger And Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,676295,676295,"Burger And Co, Yas Plaza",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,698336,698336,"Burger and Co, Abu Shagara",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,723276,723276,"Burger and Co, Al Karama",TLBT-BySHWK-Plugin,673682,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,718034,718034,"Burger and Co, Arjan",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,709242,709242,"Burger and Co, Khalifah City",TLBT-BySHWK-Plugin,665470,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,698335,698335,"Burger and Co, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,688983,688983,"Burger and Co, Saadiyat Island",TLBT-BySHWK-Plugin,647108,Burger & Co,OWN_DELIVERY,,UAE
+TB_AE,668431,668431,Buwagyu | Al Barsha 1,TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,649630,649630,Buwagyu | Khalifa City,TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,696267,696267,"Buwagyu, Abu Shagara",TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,770308,770308,"Buwagyu, Ajman,Ajman",TLBT-BySHWK-Plugin,688309,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,685183,685183,"Buwagyu, Al Barsha South",TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,758482,758482,"Buwagyu, Al Karama",TLBT-BySHWK-Plugin,688309,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,671140,671140,"Buwagyu, Business Bay",TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,750405,750405,"Buwagyu, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688309,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,758483,758483,"Buwagyu, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,688309,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,748511,748511,"Buwagyu, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688309,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,766820,766820,"Buwagyu, Mirdif",TLBT-BySHWK-Plugin,688309,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,642876,642876,"Buwagyu, Reem Island",TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,662642,662642,"Buwagyu, Saadiyat Island TGO",TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,646453,646453,"Buwagyu, Yas Island",TLBT-BySHWK-Plugin,627143,Buwagyu,OWN_DELIVERY,,UAE
+TB_AE,698109,698109,"CHICK'N CO, Abu Shagara",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,638070,638070,"CHICK'N CO, Abu Shaghara",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,668792,668792,"CHICK'N CO, Al Barsha 1",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,723286,723286,"CHICK'N CO, Al Karama",TLBT-BySHWK-Plugin,673690,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,606068,606068,"CHICK'N CO, Arjan",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,717866,717866,"CHICK'N CO, Arjan",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,600482,600482,"CHICK'N CO, Business Bay",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,630252,630252,"CHICK'N CO, DSO",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,730267,730267,"CHICK'N CO, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,600485,600485,"CHICK'N CO, Hor Al Anz",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,600486,600486,"CHICK'N CO, JLT",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,712558,712558,"CHICK'N CO, JLT HPK",TLBT-BySHWK-Plugin,665471,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,709243,709243,"CHICK'N CO, Khalifa City",TLBT-BySHWK-Plugin,665471,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,698108,698108,"CHICK'N CO, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,630253,630253,"CHICK'N CO, Reem Island",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,761921,761921,"CHICK'N CO, Reem Island",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,688774,688774,"CHICK'N CO, Saadiyat Building",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,630247,630247,"CHICK'N CO, Uptown - Mirdif",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,611876,611876,"CHICK'N CO, Yas Plaza",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,680365,680365,"CalculEat, Al Barsha 1",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,670620,670620,"CalculEat, Al Karama",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,697745,697745,"CalculEat, Arjan",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,695027,695027,"CalculEat, Business Bay",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,666837,666837,"CalculEat, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,668902,668902,"CalculEat, Dubai silicon Oasis",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,766812,766812,"CalculEat, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,731769,731769,"CalculEat, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,691640,691640,"CalculEat, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,731761,731761,"CalculEat, Rashid Body Fitness Building - Ajman",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,761897,761897,"CalculEat, Reem Island",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,677195,677195,"CalculEat, Saadiyat Island",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,680726,680726,"CalculEat, Uptown - Mirdif",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,688705,688705,"CalculEat, Yas Island",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,732997,732997,"Calculeat, Al Taawun - Abu Shagara",TLBT-BySHWK-Plugin,641623,CalculEat,OWN_DELIVERY,,UAE
+TB_AE,775679,775679,"Cheat Day - Burgers & Salads, Al Barsha 1",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,775677,775677,"Cheat Day - Burgers & Salads, Al Karama",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,717818,717818,"Cheat Day - Burgers & Salads, Arjan",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,727583,727583,"Cheat Day - Burgers & Salads, Business Bay",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,775678,775678,"Cheat Day - Burgers & Salads, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,733954,733954,"Cheat Day - Burgers & Salads, JLT",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,720291,720291,"Cheat Day - Burgers & Salads, Khalifa City",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,776546,776546,"Cheat Day - Burgers & Salads, Mirdif",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,776548,776548,"Cheat Day - Burgers & Salads, Saadiyat Island (South)",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,776547,776547,"Cheat Day - Burgers & Salads, Yas Plaza, Yas Island",TLBT-BySHWK-Plugin,650409,Cheat Day - Burgers & Salads,OWN_DELIVERY,,UAE
+TB_AE,682014,682014,Chic Flic | Al Barsha 1,TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,685182,685182,Chic Flic | Al Barsha South,TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,649788,649788,Chic Flic | Khalifa City,TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,696263,696263,"Chic Flic, Abu Shagara",TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,758484,758484,"Chic Flic, Al Karama",TLBT-BySHWK-Plugin,688310,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,671154,671154,"Chic Flic, Business Bay",TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,750406,750406,"Chic Flic, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688310,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,758485,758485,"Chic Flic, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,688310,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,748512,748512,"Chic Flic, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688310,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,766821,766821,"Chic Flic, Mirdif",TLBT-BySHWK-Plugin,688310,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,643169,643169,"Chic Flic, Reem Island",TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,662634,662634,"Chic Flic, Saadiyat Island TGO",TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,646450,646450,"Chic Flic, Yas Island",TLBT-BySHWK-Plugin,627290,Chic Flic,OWN_DELIVERY,,UAE
+TB_AE,657318,657318,"Chick'N Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,600222,CHICK'N CO,OWN_DELIVERY,,UAE
+TB_AE,729883,729883,"Chicken Strip Joint - Chicken Strips & Sliders , Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650390,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,650380,650380,"Chicken Strip Joint - Chicken Strips & Sliders,  JLT",TLBT-BySHWK-Plugin,631313,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,654596,654596,"Chicken Strip Joint - Chicken Strips & Sliders, Abu Shagara",TLBT-BySHWK-Plugin,633849,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,49507,49507,"Chicken Strip Joint - Chicken Strips & Sliders, Al Barsha 1",TLBT-BySHWK-Plugin,27638,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,733978,733978,"Chicken Strip Joint - Chicken Strips & Sliders, Al Jada",TLBT-BySHWK-Plugin,679816,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,610003,610003,"Chicken Strip Joint - Chicken Strips & Sliders, Al Muteena",TLBT-BySHWK-Plugin,601271,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,646580,646580,"Chicken Strip Joint - Chicken Strips & Sliders, Arjan",TLBT-BySHWK-Plugin,629177,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,746788,746788,"Chicken Strip Joint - Chicken Strips & Sliders, Asharaj Al Ain, Asharej",TLBT-BySHWK-Plugin,650390,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,605061,605061,"Chicken Strip Joint - Chicken Strips & Sliders, Business Bay",TLBT-BySHWK-Plugin,27638,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,727598,727598,"Chicken Strip Joint - Chicken Strips & Sliders, Business Bay",TLBT-BySHWK-Plugin,650390,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,654145,654145,"Chicken Strip Joint - Chicken Strips & Sliders, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,633556,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,619643,619643,"Chicken Strip Joint - Chicken Strips & Sliders, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,27638,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,665717,665717,"Chicken Strip Joint - Chicken Strips & Sliders, Khalifa City",TLBT-BySHWK-Plugin,640870,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,720302,720302,"Chicken Strip Joint - Chicken Strips & Sliders, Reem Island",TLBT-BySHWK-Plugin,650390,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,681793,681793,"Chicken Strip Joint - Chicken Strips & Sliders, Saadiyat Building",TLBT-BySHWK-Plugin,650390,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,727672,727672,"Chicken Strip Joint - Chicken Strips & Sliders, Uptown - Mirdif",TLBT-BySHWK-Plugin,650390,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,761932,761932,"Chicken Strip Joint - Chicken Strips & Sliders, Yas Island",TLBT-BySHWK-Plugin,640870,Chicken Strip Joint - Chicken Strips & Sliders,OWN_DELIVERY,,UAE
+TB_AE,725924,725924,"Danny Dog - Hot Dogs & Mac N Cheese, Muweilah Commercial",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,654612,654612,"Danny Dog - Hot Dogs & Mac n Cheese, Abu Shagara",TLBT-BySHWK-Plugin,633859,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,725446,725446,"Danny Dog - Hot Dogs & Mac n Cheese, Al Jurf 2",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,727673,727673,"Danny Dog - Hot Dogs & Mac n Cheese, Al Khawaneej",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,646914,646914,"Danny Dog - Hot Dogs & Mac n Cheese, Arjan",TLBT-BySHWK-Plugin,629353,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,717847,717847,"Danny Dog - Hot Dogs & Mac n Cheese, Arjan",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,746790,746790,"Danny Dog - Hot Dogs & Mac n Cheese, Asharaj Al Ain, Asharej",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,727600,727600,"Danny Dog - Hot Dogs & Mac n Cheese, Business Bay",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,654148,654148,"Danny Dog - Hot Dogs & Mac n Cheese, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,633557,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,650381,650381,"Danny Dog - Hot Dogs & Mac n Cheese, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,631314,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,665718,665718,"Danny Dog - Hot Dogs & Mac n Cheese, Khalifa City",TLBT-BySHWK-Plugin,640871,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,720280,720280,"Danny Dog - Hot Dogs & Mac n Cheese, Reem Island",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,681794,681794,"Danny Dog - Hot Dogs & Mac n Cheese, Saadiyat Building",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,610009,610009,"Danny Dog - Hot Dogs & Mac n Cheese, Uptown - Mirdif",TLBT-BySHWK-Plugin,28969,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,761946,761946,"Danny Dog - Hot Dogs & Mac n Cheese, Yas Island",TLBT-BySHWK-Plugin,650391,Danny Dog - Hotdogs	,OWN_DELIVERY,,UAE
+TB_AE,36782,36782,"Danny Dog - Hotdogs,  Al Barsha 1",TLBT-BySHWK-Plugin,20889,Danny Dog - Hotdogs,OWN_DELIVERY,,UAE
+TB_AE,605079,605079,"Danny Dog - Hotdogs, Business Bay",TLBT-BySHWK-Plugin,20889,Danny Dog - Hotdogs,OWN_DELIVERY,,UAE
+TB_AE,619632,619632,"Danny Dog - Hotdogs, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,20889,Danny Dog - Hotdogs,OWN_DELIVERY,,UAE
+TB_AE,746850,746850,"Dawgs & Co, Asharej",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,775621,775621,"Dawgs & Co, DSO,Dubai Silicon Oasis",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,761931,761931,"Dawgs & Co, Reem Island",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,730251,730251,"Dawgs And Co, HPK Business Bay",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,730248,730248,"Dawgs And Co, Rashid Body Fitness Building, Ajman",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,730250,730250,"Dawgs and Co, Abu Shagara",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,697117,697117,"Dawgs and Co, Abu Shaghara ",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,714570,714570,"Dawgs and Co, Al Barsha, Al Barsha",TLBT-BySHWK-Plugin,668395,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,723272,723272,"Dawgs and Co, Al Karama",TLBT-BySHWK-Plugin,673678,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,696083,696083,"Dawgs and Co, Arjan",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,718028,718028,"Dawgs and Co, Arjan",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,696084,696084,"Dawgs and Co, Business Bay",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,730249,730249,"Dawgs and Co, Deira",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,695911,695911,"Dawgs and Co, JLT",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,712562,712562,"Dawgs and Co, JLT HPK ",TLBT-BySHWK-Plugin,665527,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,709324,709324,"Dawgs and Co, Khalifah City",TLBT-BySHWK-Plugin,665527,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,696082,696082,"Dawgs and Co, Reem Island",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,698370,698370,"Dawgs and Co, Saadiyat Building",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,696085,696085,"Dawgs and Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,696081,696081,"Dawgs and Co, Yas Plaza",TLBT-BySHWK-Plugin,658546,Dawgs & Co,OWN_DELIVERY,,UAE
+TB_AE,769142,769142,"Deli Bros, 1762 - Mirdif,Mirdif",TLBT-BySHWK-Plugin,700933,Deli Bros,OWN_DELIVERY,,UAE
+TB_AE,723774,723774,"Deli Bros, Saadiyat Island (South)",TLBT-BySHWK-Plugin,673969,Deli Bros,OWN_DELIVERY,,UAE
+TB_AE,724515,724515,"Deli Bros, Yas Island,Yas Island West",TLBT-BySHWK-Plugin,673969,Deli Bros,OWN_DELIVERY,,UAE
+TB_AE,769148,769148,"Dig Inn | Eat Well, Pay Less 	, Al Karama",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,769150,769150,"Dig Inn | Eat Well, Pay Less 	, Arjan",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,769152,769152,"Dig Inn | Eat Well, Pay Less 	, Khalifa City",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,769149,769149,"Dig Inn | Eat Well, Pay Less 	, Reem Island",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,769147,769147,"Dig Inn | Eat Well, Pay Less , DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,769151,769151,"Dig Inn | Eat Well, Pay Less, Business Bay",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,769144,769144,"Dig Inn | Eat Well, Pay Less, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,700935,"Dig Inn | Eat Well, Pay Less 	",OWN_DELIVERY,,UAE
+TB_AE,662638,662638,Dyay - Saadiyat Island TGO,TLBT-BySHWK-Plugin,627288,Dyay,OWN_DELIVERY,,UAE
+TB_AE,685181,685181,Dyay | Al Barsha South,TLBT-BySHWK-Plugin,627288,Dyay,OWN_DELIVERY,,UAE
+TB_AE,649635,649635,Dyay | Khalifa City,TLBT-BySHWK-Plugin,627288,Dyay,OWN_DELIVERY,,UAE
+TB_AE,759004,759004,"Dyay, Abu Shagara",TLBT-BySHWK-Plugin,694325,Dyay,OWN_DELIVERY,,UAE
+TB_AE,702522,702522,"Dyay, Abu Shaghara ",TLBT-BySHWK-Plugin,627288,Dyay,OWN_DELIVERY,,UAE
+TB_AE,759645,759645,"Dyay, Al Barsha, Al Barsha 1",TLBT-BySHWK-Plugin,694325,Dyay,OWN_DELIVERY,,UAE
+TB_AE,758875,758875,"Dyay, Al Karama",TLBT-BySHWK-Plugin,694325,Dyay,OWN_DELIVERY,,UAE
+TB_AE,759646,759646,"Dyay, Business Bay",TLBT-BySHWK-Plugin,694325,Dyay,OWN_DELIVERY,,UAE
+TB_AE,766826,766826,"Dyay, Mirdif",TLBT-BySHWK-Plugin,694325,Dyay,OWN_DELIVERY,,UAE
+TB_AE,643167,643167,"Dyay, Reem Island",TLBT-BySHWK-Plugin,627288,Dyay,OWN_DELIVERY,,UAE
+TB_AE,646459,646459,"Dyay, Yas Island",TLBT-BySHWK-Plugin,627288,Dyay,OWN_DELIVERY,,UAE
+TB_AE,757573,757573,"Eats & Co, Business Central Tower, Dubai Internet City ",TLBT-BySHWK-Plugin,638729,Eats & Co - The Collection By Epik Foods,OWN_DELIVERY,,UAE
+TB_AE,698230,698230,"Eats and Co, Abu Shagara",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,657340,657340,"Eats and Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,668798,668798,"Eats and Co, Al Barsha 1",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,723284,723284,"Eats and Co, Al Karama",TLBT-BySHWK-Plugin,673689,Eats & Co - The Collection By Epik Foods,OWN_DELIVERY,,UAE
+TB_AE,632186,632186,"Eats and Co, Arjan",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,717863,717863,"Eats and Co, Arjan",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,629677,629677,"Eats and Co, Business Bay",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,712563,712563,"Eats and Co, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665497,Eats & Co - The Collection By Epik Foods,OWN_DELIVERY,,UAE
+TB_AE,662173,662173,"Eats and Co, Central Park Towers",TLBT-BySHWK-Plugin,638729,Eats & Co - The Collection By Epik Foods,OWN_DELIVERY,,UAE
+TB_AE,632191,632191,"Eats and Co, DSO",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,730266,730266,"Eats and Co, HPK Business Bay",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,632187,632187,"Eats and Co, Hor Al Anz",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,632184,632184,"Eats and Co, JLT, JLT",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,709275,709275,"Eats and Co, Khalifa City - A",TLBT-BySHWK-Plugin,665497,Eats & Co - The Collection By Epik Foods,OWN_DELIVERY,,UAE
+TB_AE,638076,638076,"Eats and Co, Muweilah - Sharjah",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,698231,698231,"Eats and Co, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,632192,632192,"Eats and Co, Reem Island",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,724268,724268,"Eats and Co, Reem Island",TLBT-BySHWK-Plugin,665497,Eats & Co - The Collection By Epik Foods,OWN_DELIVERY,,UAE
+TB_AE,688776,688776,"Eats and Co, Saadiyat Building",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,632190,632190,"Eats and Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,632185,632185,"Eats and Co, Yas Plaza",TLBT-BySHWK-Plugin,618758,Eats & Co - The Collection By Epik Foods	,OWN_DELIVERY,,UAE
+TB_AE,679369,679369,Egg Bun | Al Barsha 1,TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,685275,685275,Egg Bun | Al Barsha South,TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,649747,649747,Egg Bun | Khalifa City,TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,758474,758474,"Egg Bun, Abu Shagara",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,696261,696261,"Egg Bun, Abu Shaghara ",TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,759024,759024,"Egg Bun, Ajman",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,759025,759025,"Egg Bun, Al Ain Asharij, Asharej",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,758475,758475,"Egg Bun, Al Karama",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,671155,671155,"Egg Bun, Business Bay",TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,764032,764032,"Egg Bun, Business Central Tower, Dubai Internet City",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,750401,750401,"Egg Bun, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,748505,748505,"Egg Bun, JLT",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,766816,766816,"Egg Bun, Mirdif",TLBT-BySHWK-Plugin,688304,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,643756,643756,"Egg Bun, Reem Island",TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,662650,662650,"Egg Bun, Saadiyat Island TGO",TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,646449,646449,"Egg Bun, Yas Island",TLBT-BySHWK-Plugin,627529,Egg Bun,OWN_DELIVERY,,UAE
+TB_AE,698349,698349,"Eggs & Co, Abu Shagara",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,657357,657357,"Eggs & Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,668797,668797,"Eggs & Co, Al Barsha 1",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,627106,627106,"Eggs & Co, Arjan",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,627107,627107,"Eggs & Co, Business Bay",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,662176,662176,"Eggs & Co, Central Park Towers",TLBT-BySHWK-Plugin,638732,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,629917,629917,"Eggs & Co, DSO",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,730263,730263,"Eggs & Co, HPK Business Bay",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,625909,625909,"Eggs & Co, Hor Al Anz",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,627105,627105,"Eggs & Co, JLT",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,638063,638063,"Eggs & Co, Muweilah - Sharjah",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,698348,698348,"Eggs & Co, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,629916,629916,"Eggs & Co, Reem Island",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,761922,761922,"Eggs & Co, Reem Island",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,688777,688777,"Eggs & Co, Saadiyat Building",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,629912,629912,"Eggs & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,627108,627108,"Eggs & Co, Yas Plaza",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,723288,723288,"Eggs and Co, Al Karama",TLBT-BySHWK-Plugin,673691,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,717857,717857,"Eggs and Co, Arjan",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,727808,727808,"Eggs and Co, Business Central Tower",TLBT-BySHWK-Plugin,616063,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,712564,712564,"Eggs and Co, JLT HPK ",TLBT-BySHWK-Plugin,665498,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,709276,709276,"Eggs and Co, Khalifa City",TLBT-BySHWK-Plugin,665498,Eggs & Co,OWN_DELIVERY,,UAE
+TB_AE,650384,650384,"Fries Before Guys – Burgers & Milkshakes, JLT",TLBT-BySHWK-Plugin,631316,Fries Before Guys – Burgers & Milkshakes,OWN_DELIVERY,,UAE
+TB_AE,761952,761952,"GORILLA BURGER, Reem Island",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,742799,742799,"Glow - It's A Feeling, Business Bay",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,742854,742854,"Glow - It`s A Feeling, Abu Shagara",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,742853,742853,"Glow - It`s A Feeling, Al Barsha, Al Barsha 1",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744907,744907,"Glow - It`s A Feeling, Al Jada, Muwaileh Commercial",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744910,744910,"Glow - It`s A Feeling, Al Karama",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744903,744903,"Glow - It`s A Feeling, Al Mina",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,742856,742856,"Glow - It`s A Feeling, Arjan, Arjan",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,742852,742852,"Glow - It`s A Feeling, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744908,744908,"Glow - It`s A Feeling, Jumeirah Lakes Towers",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744904,744904,"Glow - It`s A Feeling, Madinat Khalifa - A",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744909,744909,"Glow - It`s A Feeling, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744906,744906,"Glow - It`s A Feeling, Saadiyat Building",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,744905,744905,"Glow - It`s A Feeling, Uptown - Mirdif",TLBT-BySHWK-Plugin,684967,Glow - It's A Feeling,OWN_DELIVERY,,UAE
+TB_AE,654186,654186,Gorilla Burger - Dubai Internet City,TLBT-BySHWK-Plugin,633584,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,655244,655244,"Gorilla Burger, Abu Shagara",TLBT-BySHWK-Plugin,634263,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,621933,621933,"Gorilla Burger, Al Barsha 1",TLBT-BySHWK-Plugin,613244,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,725450,725450,"Gorilla Burger, Al Jurf 2",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,621937,621937,"Gorilla Burger, Al Karama",TLBT-BySHWK-Plugin,613244,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,621935,621935,"Gorilla Burger, Al Muteena",TLBT-BySHWK-Plugin,613244,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,647089,647089,"Gorilla Burger, Arjan",TLBT-BySHWK-Plugin,629362,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,717845,717845,"Gorilla Burger, Arjan",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,746791,746791,"Gorilla Burger, Asharaj Al Ain, Asharej",TLBT-BySHWK-Plugin,613244,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,621936,621936,"Gorilla Burger, Business Bay",TLBT-BySHWK-Plugin,613244,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,727592,727592,"Gorilla Burger, Business Bay",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,622028,622028,"Gorilla Burger, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,613244,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,650386,650386,"Gorilla Burger, JLT",TLBT-BySHWK-Plugin,631318,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,665721,665721,"Gorilla Burger, Khalifa City",TLBT-BySHWK-Plugin,640874,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,725922,725922,"Gorilla Burger, Muweilah Commercial",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,720295,720295,"Gorilla Burger, Reem Island",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,681795,681795,"Gorilla Burger, Saadiyat Building",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,727677,727677,"Gorilla Burger, Uptown - Mirdif",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,727559,727559,"Gorilla Burger,Yas Plaza",TLBT-BySHWK-Plugin,650392,Gorilla Burger,OWN_DELIVERY,,UAE
+TB_AE,671803,671803,"Guilt Burger - Premium Angus Beef Burgers, Abu Shagara",TLBT-BySHWK-Plugin,644525,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671796,671796,"Guilt Burger - Premium Angus Beef Burgers, Al Barsha 1",TLBT-BySHWK-Plugin,644518,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,733959,733959,"Guilt Burger - Premium Angus Beef Burgers, Al Jada",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671802,671802,"Guilt Burger - Premium Angus Beef Burgers, Al Karama",TLBT-BySHWK-Plugin,644524,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,727678,727678,"Guilt Burger - Premium Angus Beef Burgers, Al Khawaneej",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671810,671810,"Guilt Burger - Premium Angus Beef Burgers, Arjan",TLBT-BySHWK-Plugin,644532,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,717829,717829,"Guilt Burger - Premium Angus Beef Burgers, Arjan",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,746786,746786,"Guilt Burger - Premium Angus Beef Burgers, Asharaj Al Ain, Asharej",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671797,671797,"Guilt Burger - Premium Angus Beef Burgers, Business Bay",TLBT-BySHWK-Plugin,644519,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,727584,727584,"Guilt Burger - Premium Angus Beef Burgers, Business Bay",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671930,671930,"Guilt Burger - Premium Angus Beef Burgers, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,644609,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671799,671799,"Guilt Burger - Premium Angus Beef Burgers, JLT",TLBT-BySHWK-Plugin,644521,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671800,671800,"Guilt Burger - Premium Angus Beef Burgers, JLT HPK",TLBT-BySHWK-Plugin,644522,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671806,671806,"Guilt Burger - Premium Angus Beef Burgers, Madinat Khalifa - A",TLBT-BySHWK-Plugin,644528,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,729880,729880,"Guilt Burger - Premium Angus Beef Burgers, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,720287,720287,"Guilt Burger - Premium Angus Beef Burgers, Reem Island",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,761944,761944,"Guilt Burger - Premium Angus Beef Burgers, Reem Island",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,681787,681787,"Guilt Burger - Premium Angus Beef Burgers, Saadiyat Building",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,671805,671805,"Guilt Burger - Premium Angus Beef Burgers, Uptown - Mirdif",TLBT-BySHWK-Plugin,644527,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,727557,727557,"Guilt Burger - Premium Angus Beef Burgers, Yas Plaza",TLBT-BySHWK-Plugin,650384,Guilt Burger - Premium Angus Beef Burgers,OWN_DELIVERY,,UAE
+TB_AE,695039,695039,"Hala Levant !, Business Bay",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,680715,680715,"Hala Levant !, Deira",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,707642,707642,"Hala Levant !, Muwaileh",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,677237,677237,"Hala Levant !, Saadiyat island (south)",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,670582,670582,Hala Levant! Al Karama,TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,688132,688132,"Hala Levant!, Al Barsha 1",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,666983,666983,"Hala Levant!, DIC",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,740746,740746,"Hala Levant!, DIC, Al Sufouh 2",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,669034,669034,"Hala Levant!, Dubai silicon Oasis",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,688131,688131,"Hala Levant!, Khalifa St.",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,691920,691920,"Hala Levant!, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,697756,697756,"Hala Levant, Arjan",TLBT-BySHWK-Plugin,641738,Hala Levant!,OWN_DELIVERY,,UAE
+TB_AE,751881,751881,"Healthy & Co, Dubai Science Park - Al Barsha South",TLBT-BySHWK-Plugin,690072,Healthy & Co | Macro-counted meals Exclusive,OWN_DELIVERY,,UAE
+TB_AE,751561,751561,"Healthy & Co, Golden Mile",TLBT-BySHWK-Plugin,690072,Healthy & Co | Macro-counted meals Exclusive,OWN_DELIVERY,,UAE
+TB_AE,668795,668795,"Healthy And Co, Al Barsha 1 ",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,723282,723282,"Healthy And Co, Al Karama",TLBT-BySHWK-Plugin,673688,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,717855,717855,"Healthy And Co, Arjan",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,698220,698220,"Healthy and Co, Abu Shagara",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,657848,657848,"Healthy and Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,604975,604975,"Healthy and Co, Arjan",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,727809,727809,"Healthy and Co, Business Central Tower",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,662172,662172,"Healthy and Co, Central Park Towers",TLBT-BySHWK-Plugin,638728,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,630042,630042,"Healthy and Co, DSO",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,638062,638062,"Healthy and Co, Gymnation - Zahia City Center",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,730261,730261,"Healthy and Co, Gymnation Al Ain",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,730260,730260,"Healthy and Co, HPK Business Bay",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,604977,604977,"Healthy and Co, Hor Al Anz",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,603314,603314,"Healthy and Co, JLT",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,712566,712566,"Healthy and Co, JLT HPK",TLBT-BySHWK-Plugin,665473,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,709245,709245,"Healthy and Co, Khalifa City",TLBT-BySHWK-Plugin,665473,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,698221,698221,"Healthy and Co, Rashid Body Fitness Building",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,630043,630043,"Healthy and Co, Reem Island",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,724267,724267,"Healthy and Co, Reem Island",TLBT-BySHWK-Plugin,665473,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,688778,688778,"Healthy and Co, Saadiyat Building",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,630221,630221,"Healthy and Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,611906,611906,"Healthy and Co, Yas Plaza",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,604974,604974,"Healthy and Co,Business Bay",TLBT-BySHWK-Plugin,601508,Healthy & Co | Macro-counted meals,OWN_DELIVERY,,UAE
+TB_AE,758468,758468,"Home Dawg, Abu Shagara",TLBT-BySHWK-Plugin,688867,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701412,701412,"Home Dawg, Abu Shaghara ",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701273,701273,"Home Dawg, Al Barsha 1",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701275,701275,"Home Dawg, Al Barsha South",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,758469,758469,"Home Dawg, Al Karama",TLBT-BySHWK-Plugin,688867,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701274,701274,"Home Dawg, Business Bay",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,750408,750408,"Home Dawg, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688867,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,749335,749335,"Home Dawg, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688867,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701271,701271,"Home Dawg, Khalifa City ",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,766825,766825,"Home Dawg, Mirdif",TLBT-BySHWK-Plugin,688867,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701269,701269,"Home Dawg, Reem Island",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701270,701270,"Home Dawg, Saadiyat Island",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,701256,701256,"Home Dawg, Yas Island",TLBT-BySHWK-Plugin,661171,Home Dawg,OWN_DELIVERY,,UAE
+TB_AE,758470,758470,"J's Wellness Bar, Abu Shagara",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,759641,759641,"J's Wellness Bar, Al Barsha, Al Barsha 1",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,758471,758471,"J's Wellness Bar, Al Karama",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,759643,759643,"J's Wellness Bar, Arjan",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,723628,723628,"J's Wellness Bar, Business Bay",TLBT-BySHWK-Plugin,660576,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,764034,764034,"J's Wellness Bar, Business Central Tower - DIC",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,750410,750410,"J's Wellness Bar, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,748517,748517,"J's Wellness Bar, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,759644,759644,"J's Wellness Bar, Khalifa City,Madinat Khalifa - A",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,766824,766824,"J's Wellness Bar, Mirdif",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,701233,701233,"J's Wellness Bar, Muwaileh Commercial",TLBT-BySHWK-Plugin,660576,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,759642,759642,"J's Wellness Bar, Reem Island",TLBT-BySHWK-Plugin,688315,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,699850,699850,"J's Wellness Bar, Saadiyat Island",TLBT-BySHWK-Plugin,660576,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,702520,702520,"J's Wellness Bar, Yas Island",TLBT-BySHWK-Plugin,660576,J's Wellness Bar,OWN_DELIVERY,,UAE
+TB_AE,727580,727580,"KARMA SHAWARMA, Business Bay",TLBT-BySHWK-Plugin,650394,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,767132,767132,"Karma Shawarma - Beef & Chicken Saj, 1762 - Mirdif",TLBT-BySHWK-Plugin,605973,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,655242,655242,"Karma Shawarma - Beef & Chicken Saj, Abu Shagara",TLBT-BySHWK-Plugin,634261,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,610989,610989,"Karma Shawarma - Beef & Chicken Saj, Al Barsha 1",TLBT-BySHWK-Plugin,605973,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,610988,610988,"Karma Shawarma - Beef & Chicken Saj, Al Muteena",TLBT-BySHWK-Plugin,605973,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,647476,647476,"Karma Shawarma - Beef & Chicken Saj, Arjan",TLBT-BySHWK-Plugin,629595,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,610994,610994,"Karma Shawarma - Beef & Chicken Saj, Business Bay",TLBT-BySHWK-Plugin,605973,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,650393,650393,"Karma Shawarma - Beef & Chicken Saj, DIC",TLBT-BySHWK-Plugin,631325,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,619642,619642,"Karma Shawarma - Beef & Chicken Saj, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,605973,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,665722,665722,"Karma Shawarma - Beef & Chicken Saj, Khalifa City",TLBT-BySHWK-Plugin,640875,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,729874,729874,"Karma Shawarma - Beef & Chicken Saj, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650394,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,720279,720279,"Karma Shawarma - Beef & Chicken Saj, The Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,650394,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,779271,779271,"Karma Shawarma - Beef & Chicken Saj, Yas Plaza, Yas Island",TLBT-BySHWK-Plugin,605973,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,681797,681797,"Karma Shawarma Beef & Chicken Saj, Saadiyat island (south)",TLBT-BySHWK-Plugin,650394,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,744068,744068,"Karma Shawarma, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650394,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,733948,733948,"Karma Shawarma, Muweilah Sharjah",TLBT-BySHWK-Plugin,650394,Karma Shawarma - Beef & Chicken Saj,OWN_DELIVERY,,UAE
+TB_AE,752291,752291,"Kawa Sushi, Dubai Internet City",TLBT-BySHWK-Plugin,690521,Kawa Sushi,OWN_DELIVERY,,UAE
+TB_AE,667376,667376,"Kebda El Falah , Hor Al Anz",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,698095,698095,"Kebda El Falah, Abu Shagara",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667374,667374,"Kebda El Falah, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,679201,679201,"Kebda El Falah, Al Barsha 1",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,723280,723280,"Kebda El Falah, Al Karama",TLBT-BySHWK-Plugin,673686,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667379,667379,"Kebda El Falah, Arjan",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667377,667377,"Kebda El Falah, Business Bay",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667273,667273,"Kebda El Falah, DIC",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667380,667380,"Kebda El Falah, DSO",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,743841,743841,"Kebda El Falah, Dubai Internet City",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,709246,709246,"Kebda El Falah, Khalifa City",TLBT-BySHWK-Plugin,665474,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,694832,694832,"Kebda El Falah, Muweilah - Sharjah",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,698098,698098,"Kebda El Falah, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,688984,688984,"Kebda El Falah, Saadiyat island (south)",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667375,667375,"Kebda El Falah, The Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,667378,667378,"Kebda El Falah, Uptown - Mirdif",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,778607,778607,"Kebda El Falah, Yas Plaza, Yas Island",TLBT-BySHWK-Plugin,641911,Kebda El Falah,OWN_DELIVERY,,UAE
+TB_AE,723289,723289,"Keto And Co, Al Karama",TLBT-BySHWK-Plugin,673692,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,717864,717864,"Keto And Co, Arjan",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,698232,698232,"Keto and Co, Abu Shagara",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,657361,657361,"Keto and Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,668796,668796,"Keto and Co, Al Barsha 1",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,611208,611208,"Keto and Co, Arjan",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,611189,611189,"Keto and Co, Business Bay",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,727807,727807,"Keto and Co, Business Central Tower",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,662180,662180,"Keto and Co, Central Park Towers",TLBT-BySHWK-Plugin,638734,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,629919,629919,"Keto and Co, DSO",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,609384,609384,"Keto and Co, Deira",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,730257,730257,"Keto and Co, Gymnation Al Ain",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,730258,730258,"Keto and Co, HPK Business Bay",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,611190,611190,"Keto and Co, JLT",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,712568,712568,"Keto and Co, JLT HPK",TLBT-BySHWK-Plugin,665740,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,709727,709727,"Keto and Co, Khalifah City",TLBT-BySHWK-Plugin,665740,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,638521,638521,"Keto and Co, Muweilah - Sharjah",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,698233,698233,"Keto and Co, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,629918,629918,"Keto and Co, Reem Island",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,724265,724265,"Keto and Co, Reem Island",TLBT-BySHWK-Plugin,665740,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,688779,688779,"Keto and Co, Saadiyat Building",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,629907,629907,"Keto and Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,611915,611915,"Keto and Co, Yas Plaza",TLBT-BySHWK-Plugin,604882,Keto & Co,OWN_DELIVERY,,UAE
+TB_AE,727591,727591,"LOVABOWLS, Business Bay",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,727911,727911,"LOVABOWLS, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,720288,720288,"LOVABOWLS, Reem Island",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,649637,649637,Laffa - Madinat Khalifa - A,TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,662654,662654,Laffa - Saadiyat Island TGO,TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,679370,679370,Laffa | Al Barsha 1,TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,671156,671156,Laffa | Business Bay,TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,758476,758476,"Laffa, Abu Shagara",TLBT-BySHWK-Plugin,688306,Laffa,OWN_DELIVERY,,UAE
+TB_AE,696262,696262,"Laffa, Abu Shaghara ",TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,685187,685187,"Laffa, Al Barsha South",TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,758477,758477,"Laffa, Al Karama",TLBT-BySHWK-Plugin,688306,Laffa,OWN_DELIVERY,,UAE
+TB_AE,750402,750402,"Laffa, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688306,Laffa,OWN_DELIVERY,,UAE
+TB_AE,645025,645025,"Laffa, Galleria Mall, Al Maryah Island BWL",TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,748508,748508,"Laffa, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688306,Laffa,OWN_DELIVERY,,UAE
+TB_AE,766817,766817,"Laffa, Mirdif",TLBT-BySHWK-Plugin,688306,Laffa,OWN_DELIVERY,,UAE
+TB_AE,646481,646481,"Laffa, Yas Island",TLBT-BySHWK-Plugin,628304,Laffa,OWN_DELIVERY,,UAE
+TB_AE,692330,692330,"Let's Acai!, Central Mall, Madinat Khalifa - A",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,692329,692329,"Let's Acai!, Reem Island",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,727443,727443,"Let's Acai, Abu Shagara",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,680400,680400,"Let's Acai, Al Barsha 1",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,697757,697757,"Let's Acai, Arjan",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,695042,695042,"Let's Acai, Business Bay",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,727936,727936,"Let's Acai, Dubai Internet City- DIC",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,766809,766809,"Let's Acai, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,727442,727442,"Let's Acai, Uptown - Mirdif",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,727444,727444,"Let's Acai, Yas Plaza",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,732996,732996,"Let's Asia!, Abu Shagara",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,680395,680395,"Let's Asia, Al Barsha 1",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,668912,668912,"Let's Asia, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,666930,666930,"Let's Asia, JLT",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,727455,727455,"Let's Avo, Abu Shagara",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,698015,698015,"Let's Avo, Al Barsha 1",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,727456,727456,"Let's Avo, Al Khawaneej",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,766810,766810,"Let's Avo, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,727454,727454,"Let's Avo,Yas Plaza",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,725112,725112,"Let's Poke!, Ajman",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,727451,727451,"Let's Poke, Abu Shagara",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,727940,727940,"Let's Poke, Al Barsha 1",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,727935,727935,"Let's Poke, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,766808,766808,"Let's Poke, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,727450,727450,"Let's Poke, HPK Business Bay",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,691914,691914,"Let's Poke, Madinat Khalifa - A",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,727449,727449,"Let's Poke, Uptown - Mirdif",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,727448,727448,"Let's Poke, Yas Plaza",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,732389,732389,"Let`s Acai!, Muwaileh Commercial, Sharjah",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,729063,729063,"Let`s Acai, Asharaj Al Ain",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,729062,729062,"Let`s Acai, Business Bay",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,729061,729061,"Let`s Acai, Deira",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,729060,729060,"Let`s Acai, Motor City",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,677240,677240,"Let`s Acai, Mushrif Mall	",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,729059,729059,"Let`s Acai, Rashid Body Fitness Building, Ajman",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,761898,761898,"Let`s Acai, Saadiyat Island",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,732386,732386,"Let`s Asia!. Al Jada Sharjah, Muwaileh Commercial",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,697759,697759,"Let`s Asia, 1762 - Mirdif",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,670584,670584,"Let`s Asia, Al Karama",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,688146,688146,"Let`s Asia, Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,691916,691916,"Let`s Asia, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,677242,677242,"Let`s Asia, Saadiyat island (south)",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,695043,695043,"Let`s Asia, business bay",TLBT-BySHWK-Plugin,641693,Let's Asia!,OWN_DELIVERY,,UAE
+TB_AE,732397,732397,Let`s Avo!. Muwaileh Commercial,TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,697761,697761,"Let`s Avo, Arjan",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,729076,729076,"Let`s Avo, Asharaj Al Ain",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,695045,695045,"Let`s Avo, Business Bay",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,729073,729073,"Let`s Avo, Business Bay",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,691926,691926,"Let`s Avo, Madinat Khalifa - A",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,729074,729074,"Let`s Avo, Rashid Body Fitness Building, Ajman",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,688153,688153,"Let`s Avo, Reem Island",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,761903,761903,"Let`s Avo, Saadiyat Island",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,729075,729075,"Let`s Avo, Uptown - Mirdif",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,697763,697763,"Let`s Poke!, Arjan",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,688159,688159,"Let`s Poke!, Reem Island",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,732396,732396,"Let`s Poke!. Muwaileh Commercial, Sharjah",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,670586,670586,"Let`s Poke, Al Karama",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,729072,729072,"Let`s Poke, Asharaj Al Ain",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,695048,695048,"Let`s Poke, Business Bay",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,680710,680710,"Let`s Poke, Deira",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,669040,669040,"Let`s Poke, Dubai silicon Oasis",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,729070,729070,"Let`s Poke, Motor City",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,677214,677214,"Let`s Poke, Mushrif Mall	",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,667894,667894,"Lets Poke, JLT",TLBT-BySHWK-Plugin,642298,Let’s Poke!,OWN_DELIVERY,,UAE
+TB_AE,670583,670583,Let’s Acai! - Al Karama,TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,669038,669038,"Let’s Acai!, Dubai silicon Oasis",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,667886,667886,"Let’s Acai!, JLT",TLBT-BySHWK-Plugin,642290,Let’s Acai!,OWN_DELIVERY,,UAE
+TB_AE,681674,681674,"Let’s Avo!, Al Karama",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,727934,727934,"Let’s Avo!, Dubai Internet City- DIC",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,731762,731762,"Let’s Avo!, Dubai Motor City",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,681673,681673,"Let’s Avo!, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,667940,667940,"Let’s Avo!, JLT",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,677208,677208,"Let’s Avo!, Mushrif Mall	",TLBT-BySHWK-Plugin,642324,Let’s Avo!,OWN_DELIVERY,,UAE
+TB_AE,657217,657217,"Lovabowls - Healthy Meals, Abu Shagara",TLBT-BySHWK-Plugin,635525,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,36562,36562,"Lovabowls - Healthy Meals, Al Barsha 1",TLBT-BySHWK-Plugin,20757,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,654196,654196,"Lovabowls - Healthy Meals, Arjan",TLBT-BySHWK-Plugin,633589,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,717841,717841,"Lovabowls - Healthy Meals, Arjan",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,605071,605071,"Lovabowls - Healthy Meals, Business Bay",TLBT-BySHWK-Plugin,20757,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,629574,629574,"Lovabowls - Healthy Meals, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,618697,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,657206,657206,"Lovabowls - Healthy Meals, JLT HPK",TLBT-BySHWK-Plugin,635519,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,657256,657256,"Lovabowls - Healthy Meals, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,635555,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,665744,665744,"Lovabowls - Healthy Meals, Khalifa City",TLBT-BySHWK-Plugin,640896,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,681807,681807,"Lovabowls - Healthy Meals, Saadiyat Building",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,761942,761942,"Lovabowls - Healthy Meals, Yas Island",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,733949,733949,"Lovabowls, Muwaileh Commercial",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,729867,729867,"Lovabowls, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650404,Lovabowls - Healthy Meals,OWN_DELIVERY,,UAE
+TB_AE,727601,727601,"MAC EDITION - Mac N Cheese, Business Bay",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,733973,733973,"MAC EDITION - Mac N Cheese, Muwaileh Commercial",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,654647,654647,"MAYA BLUE – Mexican Quesadillas, Abu Shagara",TLBT-BySHWK-Plugin,633881,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,727577,727577,"MAYA BLUE – Mexican, Business Bay",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,727912,727912,"MAYA BLUE – Mexican, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,720282,720282,"MAYA BLUE – Mexican, Reem Island",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,654170,654170,Mac Edition - Mac N Cheese - Dubai Internet City,TLBT-BySHWK-Plugin,633574,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,654619,654619,"Mac Edition - Mac N Cheese, Abu Shagara",TLBT-BySHWK-Plugin,633862,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,36768,36768,"Mac Edition - Mac N Cheese, Al Barsha 1",TLBT-BySHWK-Plugin,20880,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,647482,647482,"Mac Edition - Mac N Cheese, Arjan",TLBT-BySHWK-Plugin,629596,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,717840,717840,"Mac Edition - Mac N Cheese, Arjan",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,605069,605069,"Mac Edition - Mac N Cheese, Business Bay",TLBT-BySHWK-Plugin,20880,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,629575,629575,"Mac Edition - Mac N Cheese, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,618698,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,650392,650392,"Mac Edition - Mac N Cheese, Jumeirah Lakes Tower - JLT",TLBT-BySHWK-Plugin,631322,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,665727,665727,"Mac Edition - Mac N Cheese, Khalifa City",TLBT-BySHWK-Plugin,640880,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,729871,729871,"Mac Edition - Mac N Cheese, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,720290,720290,"Mac Edition - Mac N Cheese, Reem Island",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,681789,681789,"Mac Edition - Mac N Cheese, Saadiyat Building",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,610013,610013,"Mac Edition - Mac N Cheese, Uptown - Mirdif",TLBT-BySHWK-Plugin,28968,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,762120,762120,"Mac Edition, Yas Island",TLBT-BySHWK-Plugin,650386,Mac Edition - Mac N Cheese,OWN_DELIVERY,,UAE
+TB_AE,767128,767128,"Mashawi Mashawi, 1762 - Mirdif",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,732999,732999,"Mashawi Mashawi, Abu Shagara",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,688136,688136,"Mashawi Mashawi, Al Barsha 1",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,670588,670588,"Mashawi Mashawi, Al Karama",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,697771,697771,"Mashawi Mashawi, Arjan",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,695053,695053,"Mashawi Mashawi, Business Bay",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,667895,667895,"Mashawi Mashawi, DIC",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,740747,740747,"Mashawi Mashawi, DIC, Al Sufouh 2",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,680758,680758,"Mashawi Mashawi, Deira",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,669037,669037,"Mashawi Mashawi, Dubai silicon Oasis",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,691853,691853,"Mashawi Mashawi, Madinat Khalifa - A",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,677161,677161,"Mashawi Mashawi, Saadiyat Building",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,688137,688137,"Mashawi Mashawi, The Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,732392,732392,"Mashawi Mashawi. Al Jada Sharjah, Muwaileh Commercial",TLBT-BySHWK-Plugin,642299,Mashawi Mashawi,OWN_DELIVERY,,UAE
+TB_AE,717834,717834,"Maya Blue - Quesadillas & Burritos ,Arjan",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,51164,51164,"Maya Blue - Quesadillas & Burritos, Al Barsha 1",TLBT-BySHWK-Plugin,28386,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,647222,647222,"Maya Blue - Quesadillas & Burritos, Arjan",TLBT-BySHWK-Plugin,629451,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,605072,605072,"Maya Blue - Quesadillas & Burritos, Business Bay",TLBT-BySHWK-Plugin,28386,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,629563,629563,"Maya Blue - Quesadillas & Burritos, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,618689,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,654172,654172,"Maya Blue - Quesadillas & Burritos, JLT HPK",TLBT-BySHWK-Plugin,633576,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,650396,650396,"Maya Blue - Quesadillas & Burritos, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,631327,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,665733,665733,"Maya Blue - Quesadillas & Burritos, Khalifa City",TLBT-BySHWK-Plugin,640885,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,729876,729876,"Maya Blue - Quesadillas & Burritos, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,681796,681796,"Maya Blue - Quesadillas & Burritos, Saadiyat Building",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,610014,610014,"Maya Blue - Quesadillas & Burritos, Uptown - Mirdif",TLBT-BySHWK-Plugin,28965,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,761947,761947,"Maya Blue - Quesadillas & Burritos, Yas Island",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,733974,733974,"Maya Blue – Mexican, Muwaileh Commercial",TLBT-BySHWK-Plugin,650393,Maya Blue - Quesadillas & Burritos,OWN_DELIVERY,,UAE
+TB_AE,684020,684020,Meat The Bun - Saadiyat Island,TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,684024,684024,Meat The Bun | Khalifa City,TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,684022,684022,Meat The Bun | Reem Island,TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,758481,758481,Meat The Bun | Smash Burgers - Dubai Internet City	,TLBT-BySHWK-Plugin,688308,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,708552,708552,"Meat The Bun, Abu Shaghara ",TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,684601,684601,"Meat The Bun, Al Barsha 1",TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,681587,681587,"Meat The Bun, Al barsha South",TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,684023,684023,"Meat The Bun, Business Bay",TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,684019,684019,"Meat The Bun, Yas Island",TLBT-BySHWK-Plugin,650268,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,758480,758480,"Meat the Bun, Al Karama",TLBT-BySHWK-Plugin,688308,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,750404,750404,"Meat the Bun, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688308,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,748510,748510,"Meat the Bun, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688308,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,766819,766819,"Meat the Bun, Mirdif",TLBT-BySHWK-Plugin,688308,Meat The Bun,OWN_DELIVERY,,UAE
+TB_AE,718031,718031,"Mini & Co, Arjan",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,695903,695903,"Mini And Co, Abu Shaghara ",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,693996,693996,"Mini And Co, Al Barsha 1",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,698103,698103,"Mini And Co, Al Majaz 1",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,694295,694295,"Mini And Co, Arjan",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,694294,694294,"Mini And Co, Business Bay",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,694296,694296,"Mini And Co, JLT",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,698102,698102,"Mini And Co, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,696159,696159,"Mini And Co, Reem Island",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,694293,694293,"Mini And Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,696160,696160,"Mini And Co, Yas Plaza",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,730140,730140,"Mini and Co, Abu Shagara",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,723278,723278,"Mini and Co, Al Karama",TLBT-BySHWK-Plugin,673684,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,727711,727711,"Mini and Co, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665738,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,730139,730139,"Mini and Co, DSO",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,730138,730138,"Mini and Co, Deira,Al Muteena",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,730136,730136,"Mini and Co, HPK Business Bay",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,712567,712567,"Mini and Co, JLT HPK",TLBT-BySHWK-Plugin,665738,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,730137,730137,"Mini and Co, Mushrif Mall	",TLBT-BySHWK-Plugin,657543,Mini & Co,OWN_DELIVERY,,UAE
+TB_AE,657655,657655,"Mochi and Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,668802,668802,"Mochi and Co, Al Barsha 1",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,723275,723275,"Mochi and Co, Al Karama",TLBT-BySHWK-Plugin,673681,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652770,652770,"Mochi and Co, Al Khawaneej",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652778,652778,"Mochi and Co, Al Mina",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652775,652775,"Mochi and Co, Arjan",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,718030,718030,"Mochi and Co, Arjan",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652774,652774,"Mochi and Co, Business Bay",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,727710,727710,"Mochi and Co, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665741,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,662183,662183,"Mochi and Co, Central Park Towers",TLBT-BySHWK-Plugin,638737,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652773,652773,"Mochi and Co, DSO",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,730127,730127,"Mochi and Co, HPK Business Bay",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652760,652760,"Mochi and Co, JLT",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,712570,712570,"Mochi and Co, JLT HPK",TLBT-BySHWK-Plugin,665741,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,709728,709728,"Mochi and Co, Khalifah City",TLBT-BySHWK-Plugin,665741,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652779,652779,"Mochi and Co, Muwaileh Commercial",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,698345,698345,"Mochi and Co, Rashid Body Fitness Building ",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,724270,724270,"Mochi and Co, Reem Island",TLBT-BySHWK-Plugin,665741,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,688780,688780,"Mochi and Co, Saadiyat Building",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652776,652776,"Mochi and Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,652777,652777,"Mochi and Co, Yas Plaza",TLBT-BySHWK-Plugin,632771,Mochi & Co,OWN_DELIVERY,,UAE
+TB_AE,761905,761905,"My Six Pak - Goals Based Meals, Yas Island",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701061,701061,"My Six Pak,  Al Karama",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701063,701063,"My Six Pak,  Saadiyat Building",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,733001,733001,"My Six Pak, Abu Shagara",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701058,701058,"My Six Pak, Al Barsha 1",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701067,701067,"My Six Pak, Arjan",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,729057,729057,"My Six Pak, Business Bay",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,699663,699663,"My Six Pak, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701060,701060,"My Six Pak, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701059,701059,"My Six Pak, Gymnation Zahia City Center",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,731771,731771,"My Six Pak, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701066,701066,"My Six Pak, Madinat Khalifa - A",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,731764,731764,"My Six Pak, Rashid Body Fitness Building - Ajman",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701064,701064,"My Six Pak, Reem Island",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,701062,701062,"My Six Pak, Uptown - Mirdif",TLBT-BySHWK-Plugin,660509,My Six Pak - Goals Based Meals,OWN_DELIVERY,,UAE
+TB_AE,727579,727579,"NAUGHTY VEGAN, Business Bay",TLBT-BySHWK-Plugin,650408,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660334,660334,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Abu Shagara",TLBT-BySHWK-Plugin,637501,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660346,660346,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Al Barsha 1",TLBT-BySHWK-Plugin,637512, Naughty Vegan | The New Normal,OWN_DELIVERY,,UAE
+TB_AE,660336,660336,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Al Karama",TLBT-BySHWK-Plugin,637503,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660351,660351,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Arjan",TLBT-BySHWK-Plugin,637517,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,717835,717835,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Arjan",TLBT-BySHWK-Plugin,650408,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660347,660347,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Business Bay",TLBT-BySHWK-Plugin,637513,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660349,660349,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,637515,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660352,660352,"Naughty Vegan - Plant-Based Burgers & Sandwiches, JLT",TLBT-BySHWK-Plugin,637518,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660350,660350,"Naughty Vegan - Plant-Based Burgers & Sandwiches, JLT HPK",TLBT-BySHWK-Plugin,637516,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,665748,665748,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Khalifa City",TLBT-BySHWK-Plugin,640900,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,720289,720289,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Reem Island",TLBT-BySHWK-Plugin,650408,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,681811,681811,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Saadiyat Building",TLBT-BySHWK-Plugin,650408,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,660348,660348,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Uptown - Mirdif",TLBT-BySHWK-Plugin,637514,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,761948,761948,"Naughty Vegan - Plant-Based Burgers & Sandwiches, Yas Island",TLBT-BySHWK-Plugin,650408,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,733975,733975,"Naughty Vegan, Al Jada",TLBT-BySHWK-Plugin,650408,Naughty Vegan | The New Normal	,OWN_DELIVERY,,UAE
+TB_AE,668915,668915,"Once Upon A Bite, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,731790,731790,"Once Upon A Bite, Karama",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,691766,691766,"Once Upon A Bite, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,666920,666920,"Once Upon a Bite, JLT",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,767129,767129,"Once upon a bite, 1762 - Mirdif",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,697774,697774,"Once upon a bite, Arjan",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,695056,695056,"Once upon a bite, Business Bay",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,691765,691765,"Once upon a bite, Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,641685,Once Upon A Bite,OWN_DELIVERY,,UAE
+TB_AE,697782,697782,"Oye !, Arjan",TLBT-BySHWK-Plugin,641679,Oye!,OWN_DELIVERY,,UAE
+TB_AE,731777,731777,"Papa Zou - Soulful Asian Flavours, Al Barsha 1",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,731779,731779,"Papa Zou - Soulful Asian Flavours, Al Karama",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,733869,733869,"Papa Zou - Soulful Asian Flavours, Arjan",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,731774,731774,"Papa Zou - Soulful Asian Flavours, Business Bay",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,731775,731775,"Papa Zou - Soulful Asian Flavours, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,754345,754345,"Papa Zou - Soulful Asian Flavours, Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,730726,730726,"Papa Zou - Soulful Asian Flavours, HPK, Jumeirah Lakes Towers ",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,731778,731778,"Papa Zou - Soulful Asian Flavours, Khalifa City Abu Dhabi - A",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,731780,731780,"Papa Zou - Soulful Asian Flavours, Saadiyat island (south)",TLBT-BySHWK-Plugin,677947,Papa Zou - Soulful Asian Flavours,OWN_DELIVERY,,UAE
+TB_AE,767115,767115,"Pasta & Co, 1762 - Mirdif",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,682342,682342,"Pasta & Co, Al Barsha 1",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,771422,771422,"Pasta & Co, Al Karama",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,730134,730134,"Pasta & Co, Business Bay",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,696173,696173,"Pasta & Co, DSO",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,677312,677312,"Pasta & Co, JLT",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,771419,771419,"Pasta & Co, Khalifa City, Madinat Khalifa - A",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,682380,682380,"Pasta & Co, Saadiyat",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,766096,766096,"Pasta and Co,  Arjan,Arjan",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,766097,766097,"Pasta and Co, Yas Plaza, Yas Island",TLBT-BySHWK-Plugin,647671,Pasta & Co,OWN_DELIVERY,,UAE
+TB_AE,753504,753504,"Pita & Co, One Central,Dubai World Trade Center - DWTC",TLBT-BySHWK-Plugin,691118,Pita & Co,OWN_DELIVERY,,UAE
+TB_AE,29449,29449,"Poke & Co , JLT",TLBT-BySHWK-Plugin,12329,Poke & Co,VENDOR_DELIVERY,,UAE
+TB_AE,698088,698088,"Poke & Co, Abu Shagara",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,657317,657317,"Poke & Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,668793,668793,"Poke & Co, Al Barsha 1",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,714723,714723,"Poke & Co, Al Barsha 3",TLBT-BySHWK-Plugin,668497,Poke &  Co,OWN_DELIVERY,,UAE
+TB_AE,723281,723281,"Poke & Co, Al Karama",TLBT-BySHWK-Plugin,673687,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,32932,32932,"Poke & Co, Arjan",TLBT-BySHWK-Plugin,12329,Poke & Co,VENDOR_DELIVERY,,UAE
+TB_AE,35727,35727,"Poke & Co, Arjan",TLBT-BySHWK-Plugin,12329,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,718061,718061,"Poke & Co, Arjan",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,35031,35031,"Poke & Co, Business Bay",TLBT-BySHWK-Plugin,12329,Poke & Co,VENDOR_DELIVERY,,UAE
+TB_AE,36453,36453,"Poke & Co, Business Bay",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,730274,730274,"Poke & Co, Business Bay",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,727811,727811,"Poke & Co, Business Central Tower",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,662174,662174,"Poke & Co, Central Park Towers",TLBT-BySHWK-Plugin,638730,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,600906,600906,"Poke & Co, DSO",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,730276,730276,"Poke & Co, Gymnation Al Ain",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,638074,638074,"Poke & Co, Gymnation Zahia City Centre - Sharjah",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,604042,604042,"Poke & Co, Hor Al Anz East",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,23304,23304,"Poke & Co, JLT",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,712571,712571,"Poke & Co, JLT HPK",TLBT-BySHWK-Plugin,665667,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,709623,709623,"Poke & Co, Khalifah City",TLBT-BySHWK-Plugin,665667,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,688772,688772,"Poke & Co, Mushrif Mall	",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,698089,698089,"Poke & Co, Rashid Body Fitness Building",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,37999,37999,"Poke & Co, Reem Island",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,724263,724263,"Poke & Co, Saadiyat Island	",TLBT-BySHWK-Plugin,665667,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,630231,630231,"Poke & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,611897,611897,"Poke & Co, Yas Plaza",TLBT-BySHWK-Plugin,9205,Poke & Co,OWN_DELIVERY,,UAE
+TB_AE,701050,701050,"Protein Powerhouse,  Uptown - Mirdif",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,733002,733002,"Protein Powerhouse, Abu Shagara",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701051,701051,"Protein Powerhouse, Al Barsha 1",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701055,701055,"Protein Powerhouse, Arjan",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701056,701056,"Protein Powerhouse, Business Bay",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,699646,699646,"Protein Powerhouse, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,731772,731772,"Protein Powerhouse, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701049,701049,"Protein Powerhouse, Karama,",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701057,701057,"Protein Powerhouse, Madinat Khalifa - A",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,732395,732395,"Protein Powerhouse, Muwaileh Commercial",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,731765,731765,"Protein Powerhouse, Rashid Body Fitness Building - Ajman",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701047,701047,"Protein Powerhouse, Reem Island",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,761908,761908,"Protein Powerhouse, Reem Island",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701054,701054,"Protein Powerhouse, Saadiyat Building",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,701048,701048,"Protein Powerhouse, Silicon Oasis,",TLBT-BySHWK-Plugin,660497,Protein Powerhouse,OWN_DELIVERY,,UAE
+TB_AE,733000,733000,"Protein Shakes by CalculEat, Abu Shagara",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,770311,770311,"Protein Shakes by CalculEat, Ajman",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,680407,680407,"Protein Shakes by CalculEat, Al Barsha 1",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,670593,670593,"Protein Shakes by CalculEat, Al Karama",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,697987,697987,"Protein Shakes by CalculEat, Arjan",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,695063,695063,"Protein Shakes by CalculEat, Business Bay",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,667942,667942,"Protein Shakes by CalculEat, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,731763,731763,"Protein Shakes by CalculEat, Dubai Motor City",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,669909,669909,"Protein Shakes by CalculEat, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,731770,731770,"Protein Shakes by CalculEat, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,691783,691783,"Protein Shakes by CalculEat, Madinat Khalifa - A",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,732394,732394,"Protein Shakes by CalculEat, Muwaileh Commercial",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,677176,677176,"Protein Shakes by CalculEat, Saadiyat Building",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,680799,680799,"Protein Shakes by CalculEat, Uptown - Mirdif",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,688155,688155,"Protein Shakes by CalculEat, Yas Island",TLBT-BySHWK-Plugin,642326,Protein Shakes by CalculEat,OWN_DELIVERY,,UAE
+TB_AE,737701,737701,"Rocky Bites, Al Barsha 1",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,737703,737703,"Rocky Bites, Al Majaz (Al Taawun), Al Mamzar",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,737698,737698,"Rocky Bites, Al Mina",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,737689,737689,"Rocky Bites, Arjan",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,738413,738413,"Rocky Bites, Arjan",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,737693,737693,"Rocky Bites, Business Bay",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,737692,737692,"Rocky Bites, Business Central Tower, Dubai Internet City",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,738418,738418,"Rocky Bites, Gymnation",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,738410,738410,"Rocky Bites, HPK Business Bay",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,738417,738417,"Rocky Bites, Jumeirah Lakes Towers ",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,736772,736772,"Rocky Bites, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,738412,738412,"Rocky Bites, Khawaneej",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,738415,738415,"Rocky Bites, Saadiyat Building",TLBT-BySHWK-Plugin,681384,Rocky Bites,OWN_DELIVERY,,UAE
+TB_AE,767130,767130,"Route Beirut, 1762 - Mirdif",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,732994,732994,"Route Beirut, Abu Shagara",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,688166,688166,"Route Beirut, Al Barsha 1",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,670595,670595,"Route Beirut, Al Karama",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,697990,697990,"Route Beirut, Arjan",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,695065,695065,"Route Beirut, Business Bay",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,666984,666984,"Route Beirut, DIC",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,740745,740745,"Route Beirut, DIC, Al Sufouh 2",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,680954,680954,"Route Beirut, Deira",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,669070,669070,"Route Beirut, Dubai silicon Oasis",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,691537,691537,"Route Beirut, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,678084,678084,"Route Beirut, Saadiyat island (south)",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,688168,688168,"Route Beirut, The Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,732391,732391,"Route Beirut. Al Jada Sharjah, Muwaileh Commercial",TLBT-BySHWK-Plugin,641739,Route Beirut,OWN_DELIVERY,,UAE
+TB_AE,720303,720303,"SANDWICH LAB, Reem Island",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,647464,647464,"SOUPERIOR - Hearty Soups, Arjan",TLBT-BySHWK-Plugin,629587,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,727587,727587,"SOUPERIOR - Hearty Soups, Business Bay",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,727916,727916,"SOUPERIOR - Hearty Soups, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,729168,729168,"SOUPERIOR - Soups & Sandwiches, Yas Plaza",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,759707,759707,"Saffron Kitchen - Essence Of India, Arjan",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,752298,752298,"Saffron Kitchen - Essence Of India, Business Bay",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,759710,759710,"Saffron Kitchen - Essence Of India, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,759708,759708,"Saffron Kitchen - Essence Of India, Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,751920,751920,"Saffron Kitchen - Essence Of India, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,759711,759711,"Saffron Kitchen - Essence Of India, Karama, Al Karama",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,759709,759709,"Saffron Kitchen - Essence Of India, Khalifa City - Abu Dhabi, Madinat Khalifa - A",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,767199,767199,"Saffron Kitchen - Essence Of India, Mirdif",TLBT-BySHWK-Plugin,690301,Saffron Kitchen - Essence Of India,OWN_DELIVERY,,UAE
+TB_AE,668549,668549,"Salad & Co , Hor Al Anz",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668551,668551,Salad & Co Business Bay,TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668508,668508,Salad & Co JLT,TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668559,668559,"Salad & Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,723271,723271,"Salad & Co, Al Karama",TLBT-BySHWK-Plugin,673677,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668552,668552,"Salad & Co, Arjan",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,718037,718037,"Salad & Co, Arjan",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,671428,671428,"Salad & Co, Central Park Towers",TLBT-BySHWK-Plugin,644285,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668554,668554,"Salad & Co, DSO",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,730128,730128,"Salad & Co, Gymnation Al Ain,Central District",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,730130,730130,"Salad & Co, HPK Business Bay",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,712599,712599,"Salad & Co, JLT HPK",TLBT-BySHWK-Plugin,665680,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,709645,709645,"Salad & Co, Khalifah City",TLBT-BySHWK-Plugin,665680,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668562,668562,"Salad & Co, Muwaileh Commercial",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668556,668556,"Salad & Co, Reem Island",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,724272,724272,"Salad & Co, Reem Island",TLBT-BySHWK-Plugin,665680,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668553,668553,"Salad & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,668555,668555,"Salad & Co, Yas Plaza",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,727708,727708,"Salad & co, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665680,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,698350,698350,"Salads & Co, Abu Shagara",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,676054,676054,"Salads & Co, Al Barsha 1",TLBT-BySHWK-Plugin,644285,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,698351,698351,"Salads & Co, Rashid Body Fitness Building",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,694645,694645,"Salads & Co, Saadiyat Building",TLBT-BySHWK-Plugin,642640,Salad & Co,OWN_DELIVERY,,UAE
+TB_AE,655025,655025,"Sandwich Lab - Sandwiches & Wraps, Abu Shagara",TLBT-BySHWK-Plugin,634119,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,36468,36468,"Sandwich Lab - Sandwiches & Wraps, Al Barsha 1",TLBT-BySHWK-Plugin,20695,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,647503,647503,"Sandwich Lab - Sandwiches & Wraps, Arjan",TLBT-BySHWK-Plugin,629607,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,717820,717820,"Sandwich Lab - Sandwiches & Wraps, Arjan",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,605075,605075,"Sandwich Lab - Sandwiches & Wraps, Business Bay",TLBT-BySHWK-Plugin,20695,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,629568,629568,"Sandwich Lab - Sandwiches & Wraps, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,618691,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,654229,654229,"Sandwich Lab - Sandwiches & Wraps, JLT HPK",TLBT-BySHWK-Plugin,633608,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,650404,650404,"Sandwich Lab - Sandwiches & Wraps, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,631335,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,665735,665735,"Sandwich Lab - Sandwiches & Wraps, Khalifa City",TLBT-BySHWK-Plugin,640887,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,681802,681802,"Sandwich Lab - Sandwiches & Wraps, Saadiyat Building",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,610038,610038,"Sandwich Lab - Sandwiches & Wraps, Uptown - Mirdif",TLBT-BySHWK-Plugin,28957,Sandwich Lab - Sandwiches & Wraps,OWN_DELIVERY,,UAE
+TB_AE,761950,761950,"Sandwich Lab - Sandwiches & Wraps, Yas Island",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,727586,727586,"Sandwich Lab, Business Bay",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,727915,727915,"Sandwich Lab, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,733982,733982,"Sandwich Lab, Muwaileh Commercial",TLBT-BySHWK-Plugin,650399,Sandwich Lab - Sandwiches & Wraps	,OWN_DELIVERY,,UAE
+TB_AE,770298,770298,"Shawarma & CO, Saadiyat, Saadiyat Island (South)",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,743666,743666,"Shawarma & CO, The Galleria Mall, Maryah Island",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,695743,695743,"Shawarma & Co, Al Barsha 1",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,732546,732546,"Shawarma & Co, Al Jada Sharjah",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,716908,716908,"Shawarma & Co, Arjan",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,716927,716927,"Shawarma & Co, Business Bay",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,696501,696501,"Shawarma & Co, DIC",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,717114,717114,"Shawarma & Co, DSO",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,730135,730135,"Shawarma & Co, Karama",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,702655,702655,"Shawarma & Co, Khalifa City",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,767196,767196,"Shawarma and Co, Mirdif",TLBT-BySHWK-Plugin,658446,Shawarma & Co,OWN_DELIVERY,,UAE
+TB_AE,655968,655968,"Six To Nine, Yas Island",TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,668429,668429,Six to Nine | Al Barsha 1,TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,657352,657352,Six to Nine | Khalifa City,TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,758487,758487,"Six to Nine, Abu Shagara",TLBT-BySHWK-Plugin,688313,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,701239,701239,"Six to Nine, Abu Shaghara ",TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,685179,685179,"Six to Nine, Al Barsha South",TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,758486,758486,"Six to Nine, Al Karama",TLBT-BySHWK-Plugin,688313,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,682096,682096,"Six to Nine, Business Bay",TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,750407,750407,"Six to Nine, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688313,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,748515,748515,"Six to Nine, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688313,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,766822,766822,"Six to Nine, Mirdif",TLBT-BySHWK-Plugin,688313,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,657353,657353,"Six to Nine, Reem Island",TLBT-BySHWK-Plugin,634787,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,759639,759639,"Six to Nine, Saadiyat, Saadiyat Island (South)",TLBT-BySHWK-Plugin,688313,Six To Nine,OWN_DELIVERY,,UAE
+TB_AE,766579,766579,"Sliced Pizza, Arjan",TLBT-BySHWK-Plugin,699237,Sliced Pizza,OWN_DELIVERY,,UAE
+TB_AE,767371,767371,"Sliced Pizza, Mirdif",TLBT-BySHWK-Plugin,699237,Sliced Pizza,OWN_DELIVERY,,UAE
+TB_AE,696359,696359,"Sliced Pizza, Saadiyat Island",TLBT-BySHWK-Plugin,658218,Sliced Pizza,OWN_DELIVERY,,UAE
+TB_AE,695371,695371,"Sliced Pizza, Yas Island",TLBT-BySHWK-Plugin,658218,Sliced Pizza,OWN_DELIVERY,,UAE
+TB_AE,700648,700648,"Soup & Co, Abu Shagara",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700644,700644,"Soup & Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700645,700645,"Soup & Co, Al Barsha 1",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,723279,723279,"Soup & Co, Al Karama",TLBT-BySHWK-Plugin,673685,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,718035,718035,"Soup & Co, Arjan",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700636,700636,"Soup & Co, Business Bay",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,727706,727706,"Soup & Co, Business Central Tower,Dubai Internet City - DIC",TLBT-BySHWK-Plugin,665748,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700637,700637,"Soup & Co, Central Park Towers",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700640,700640,"Soup & Co, DSO",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700635,700635,"Soup & Co, Dubai Motor City",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,730144,730144,"Soup & Co, Gymnation Al Ain,Central District",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,730141,730141,"Soup & Co, HPK Business Bay, Business Bay",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700638,700638,"Soup & Co, Hor Al Anz",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700550,700550,"Soup & Co, JLT",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,712600,712600,"Soup & Co, JLT HPK",TLBT-BySHWK-Plugin,665748,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,709744,709744,"Soup & Co, Khalifah City",TLBT-BySHWK-Plugin,665748,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700643,700643,"Soup & Co, Muwaileh Commercial",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700639,700639,"Soup & Co, Reem Island",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,724275,724275,"Soup & Co, Reem Island",TLBT-BySHWK-Plugin,665748,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700646,700646,"Soup & Co, Saadiyat Building",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700642,700642,"Soup & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,700641,700641,"Soup & Co, Yas Plaza",TLBT-BySHWK-Plugin,660936,Soup & Co,OWN_DELIVERY,,UAE
+TB_AE,733964,733964,"Souperior - Hearty Soups, Muwaileh Commercial",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,720284,720284,"Souperior - Hearty Soups, Reem Island",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,761949,761949,"Souperior - Soups & Sandwiches - Hearty Soups, Reem Island",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,655024,655024,"Souperior - Soups & Sandwiches, Abu Shagara",TLBT-BySHWK-Plugin,634118,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,36505,36505,"Souperior - Soups & Sandwiches, Al Barsha 1",TLBT-BySHWK-Plugin,20719,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,717817,717817,"Souperior - Soups & Sandwiches, Arjan",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,605073,605073,"Souperior - Soups & Sandwiches, Business Bay",TLBT-BySHWK-Plugin,20719,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,629578,629578,"Souperior - Soups & Sandwiches, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,618701,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,654207,654207,"Souperior - Soups & Sandwiches, JLT HPK",TLBT-BySHWK-Plugin,633594,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,650400,650400,"Souperior - Soups & Sandwiches, Jumeirah Lakes Tower - JLT",TLBT-BySHWK-Plugin,631331,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,665738,665738,"Souperior - Soups & Sandwiches, Khalifa City",TLBT-BySHWK-Plugin,640890,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,729882,729882,"Souperior - Soups & Sandwiches, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,681805,681805,"Souperior - Soups & Sandwiches, Saadiyat Building",TLBT-BySHWK-Plugin,650402,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,610033,610033,"Souperior - Soups & Sandwiches, Uptown - Mirdif",TLBT-BySHWK-Plugin,28952,Souperior - Soups & Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,726945,726945,"TAWOOK & CO, Al Barsha 1",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726941,726941,"TAWOOK & CO, Al Mina",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726942,726942,"TAWOOK & CO, Arjan",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726940,726940,"TAWOOK & CO, Deira",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726881,726881,"TAWOOK & CO, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726946,726946,"TAWOOK & CO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726943,726943,"TAWOOK & CO, HPK Business Bay",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726947,726947,"TAWOOK & CO, HPK Karama",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,726944,726944,"TAWOOK & CO, Khalifah City",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,730145,730145,"TAWOOK & Co, Saadiyat island (south)",TLBT-BySHWK-Plugin,675759,TAWOOK & CO,OWN_DELIVERY,,UAE
+TB_AE,725448,725448,"TRAINING DAY - Healthy Salads, Al Jurf 2",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,727576,727576,"TRAINING DAY - Healthy Salads, Business Bay",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,727913,727913,"TRAINING DAY - Healthy Salads, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,720296,720296,"TRAINING DAY - Healthy Salads, Reem Island",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,727674,727674,"TRAINING DAY - Healthy Salads, Uptown - Mirdif",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,770309,770309,"Tempo Pasta, 1762 - Mirdif",TLBT-BySHWK-Plugin,700934,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,712950,712950,"Tempo Pasta, Abu Shaghara ",TLBT-BySHWK-Plugin,666992,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,723677,723677,"Tempo Pasta, Al Barsha 1",TLBT-BySHWK-Plugin,666992,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,771411,771411,"Tempo Pasta, Al Karama",TLBT-BySHWK-Plugin,700934,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,769143,769143,"Tempo Pasta, Arjan",TLBT-BySHWK-Plugin,700934,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,712008,712008,"Tempo Pasta, Business Bay",TLBT-BySHWK-Plugin,666992,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,769145,769145,"Tempo Pasta, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,700934,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,769146,769146,"Tempo Pasta, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,700934,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,771409,771409,"Tempo Pasta, Khalifa City, Madinat Khalifa - A",TLBT-BySHWK-Plugin,700934,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,712302,712302,"Tempo Pasta, Reem Island",TLBT-BySHWK-Plugin,666992,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,712106,712106,"Tempo Pasta, Saadiyat Island (South)",TLBT-BySHWK-Plugin,666992,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,712303,712303,"Tempo Pasta, Yas Island",TLBT-BySHWK-Plugin,666992,Tempo Pasta,OWN_DELIVERY,,UAE
+TB_AE,758478,758478,"The Fresh Bowl, Abu Shagara",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,759637,759637,"The Fresh Bowl, Al Barsha, Al Barsha 1",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,758479,758479,"The Fresh Bowl, Al Karama",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,759638,759638,"The Fresh Bowl, Arjan",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,724514,724514,"The Fresh Bowl, Business Bay",TLBT-BySHWK-Plugin,673970,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,750403,750403,"The Fresh Bowl, DSO, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,748509,748509,"The Fresh Bowl, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,724513,724513,"The Fresh Bowl, Madinat Khalifa",TLBT-BySHWK-Plugin,673970,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,766818,766818,"The Fresh Bowl, Mirdif",TLBT-BySHWK-Plugin,688307,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,728605,728605,"The Fresh Bowl, Muwaileh Commercial",TLBT-BySHWK-Plugin,673970,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,724511,724511,"The Fresh Bowl, Reem Island",TLBT-BySHWK-Plugin,673970,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,723775,723775,"The Fresh Bowl, Saadiyat Island",TLBT-BySHWK-Plugin,673970,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,724510,724510,"The Fresh Bowl, Yas Island, Yas Island West",TLBT-BySHWK-Plugin,673970,The Fresh Bowl,OWN_DELIVERY,,UAE
+TB_AE,727438,727438,"The Green House, Abu Shagara",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,680393,680393,"The Green House, Al Barsha 1",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,670601,670601,"The Green House, Al Karama",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,697999,697999,"The Green House, Arjan",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,731786,731786,"The Green House, Business Bay 2",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,666915,666915,"The Green House, Business Central Tower, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,668921,668921,"The Green House, Dubai silicon Oasis",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,695076,695076,"The Green House, Gymnation Zahia City Center",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,731768,731768,"The Green House, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,691532,691532,"The Green House, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,677244,677244,"The Green House, Muroor Road, Saadiyat Building",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,680946,680946,"The Green House, Rashid Body Fitness Building - Ajman",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,688181,688181,"The Green House, Reem Island",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,727439,727439,"The Green House, Uptown - Mirdif",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,761892,761892,"The Green House, Yas Island",TLBT-BySHWK-Plugin,641682,The Green House,OWN_DELIVERY,,UAE
+TB_AE,727436,727436,"The Soul Bowl, Abu Shagara",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,670604,670604,"The Soul Bowl, Al Karama",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,727437,727437,"The Soul Bowl, Al Khawaneej",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,698003,698003,"The Soul Bowl, Arjan",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,680399,680399,"The Soul Bowl, Barsha 1",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,731785,731785,"The Soul Bowl, Business Bay 2",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,727938,727938,"The Soul Bowl, Dubai Internet City- DIC",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,669041,669041,"The Soul Bowl, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,695079,695079,"The Soul Bowl, Gymnation Zahia City Center",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,666992,666992,"The Soul Bowl, JLT",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,691526,691526,"The Soul Bowl, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,731760,731760,"The Soul Bowl, Rashid Body Fitness Building - Ajman",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,688161,688161,"The Soul Bowl, Reem Island",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,677227,677227,"The Soul Bowl, Saadiyat Building",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,680948,680948,"The Soul Bowl, Uptown - Mirdif",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,761891,761891,"The Soul Bowl, Yas Island",TLBT-BySHWK-Plugin,641747,The Soul Bowl,OWN_DELIVERY,,UAE
+TB_AE,764249,764249,"The Wholesome Binge,  Asharaj - Al Ain, Bida Bin Ammar",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701209,701209,"The Wholesome Binge,  Uptown - Mirdif",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,733003,733003,"The Wholesome Binge, Abu Shagara - Sharjah",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,758999,758999,"The Wholesome Binge, Ajman",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701205,701205,"The Wholesome Binge, Al Barsha 1",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701200,701200,"The Wholesome Binge, Al Karama",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701206,701206,"The Wholesome Binge, Arjan",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,731801,731801,"The Wholesome Binge, Business Bay 2",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,727932,727932,"The Wholesome Binge, Dubai Internet City- DIC",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701211,701211,"The Wholesome Binge, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,766813,766813,"The Wholesome Binge, GymNation - Al Ain, Central District",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,731773,731773,"The Wholesome Binge, Jumeirah Lakes Towers - JLT",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701196,701196,"The Wholesome Binge, Madinat Khalifa - A",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701194,701194,"The Wholesome Binge, Reem Island",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,770310,770310,"The Wholesome Binge, Reem Island",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,701208,701208,"The Wholesome Binge, Saadiyat Building",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,727459,727459,"The Wholesome Binge, Yas Plaza - AD",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,732403,732403,"The Wholesome Binge. Al Jada Sharjah, Muwaileh Commercial",TLBT-BySHWK-Plugin,660498,The Wholesome Binge,OWN_DELIVERY,,UAE
+TB_AE,761936,761936,"Training Day - Healthy Salads & Warm Bowls - Healthy Salads, Reem Island",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,725919,725919,"Training Day - Healthy Salads, Muweilah Commercial",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,654712,654712,"Training Day – Healthy Salads & Warm Bowls, Abu Shagara",TLBT-BySHWK-Plugin,633919,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,36563,36563,"Training Day – Healthy Salads & Warm Bowls, Al Barsha 1",TLBT-BySHWK-Plugin,20758,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,610034,610034,"Training Day – Healthy Salads & Warm Bowls, Al Muteena",TLBT-BySHWK-Plugin,601268,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,647457,647457,"Training Day – Healthy Salads & Warm Bowls, Arjan",TLBT-BySHWK-Plugin,629580,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,717838,717838,"Training Day – Healthy Salads & Warm Bowls, Arjan",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,605036,605036,"Training Day – Healthy Salads & Warm Bowls, Business Bay",TLBT-BySHWK-Plugin,601742,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,619630,619630,"Training Day – Healthy Salads & Warm Bowls, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,20758,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,654220,654220,"Training Day – Healthy Salads & Warm Bowls, JLT HPK",TLBT-BySHWK-Plugin,633601,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,650401,650401,"Training Day – Healthy Salads & Warm Bowls, Jumeirah Lakes Tower - JLT",TLBT-BySHWK-Plugin,631332,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,665739,665739,"Training Day – Healthy Salads & Warm Bowls, Khalifa City",TLBT-BySHWK-Plugin,640891,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,681808,681808,"Training Day – Healthy Salads & Warm Bowls, Saadiyat Building",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,727558,727558,"Training Day – Healthy Salads & Warm Bowls, Yas Plaza",TLBT-BySHWK-Plugin,650405,Training Day – Healthy Salads & Warm Bowls,OWN_DELIVERY,,UAE
+TB_AE,698354,698354,"Vegan & Co, Abu Shagara",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,657456,657456,"Vegan & Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,668800,668800,"Vegan & Co, Al Barsha 1",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,723270,723270,"Vegan & Co, Al Karama",TLBT-BySHWK-Plugin,673676,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,718032,718032,"Vegan & Co, Arjan",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650042,650042,"Vegan & Co, Business Bay,Business Bay",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,727707,727707,"Vegan & Co, Business Central Tower",TLBT-BySHWK-Plugin,665757,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,662177,662177,"Vegan & Co, Central Park Towers",TLBT-BySHWK-Plugin,638733,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650045,650045,"Vegan & Co, DSO",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650046,650046,"Vegan & Co, Dubai Motor City, Arjan",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,730126,730126,"Vegan & Co, Gymnation Al Ain, Central District",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,730125,730125,"Vegan & Co, HPK Business Bay",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650043,650043,"Vegan & Co, Hor Al Anz",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650039,650039,"Vegan & Co, JLT",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,712601,712601,"Vegan & Co, JLT HPK",TLBT-BySHWK-Plugin,665757,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,709763,709763,"Vegan & Co, Khalifah City",TLBT-BySHWK-Plugin,665757,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650324,650324,"Vegan & Co, Muwaileh Commercial",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,698353,698353,"Vegan & Co, Rashid Body Fitness Building, Ajman",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650041,650041,"Vegan & Co, Reem Island",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,724271,724271,"Vegan & Co, Reem Island",TLBT-BySHWK-Plugin,665757,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,688986,688986,"Vegan & Co, Saadiyat Building",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650040,650040,"Vegan & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,650044,650044,"Vegan & Co, Yas Plaza",TLBT-BySHWK-Plugin,631109,Vegan & Co,OWN_DELIVERY,,UAE
+TB_AE,727581,727581,"WINGO - House Of Wings, Business Bay",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,727676,727676,"WINGO - House of Wings, Al Khawaneej",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,761934,761934,"WINGO - House of Wings, Reem Island",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,676656,676656,"Wild Purple Acai, JLT",TLBT-BySHWK-Plugin,647321,Wild Purple Acai,OWN_DELIVERY,,UAE
+TB_AE,650405,650405,Wingo - House Of Wings,TLBT-BySHWK-Plugin,631336,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,654232,654232,Wingo - House Of Wings - Dubai Internet City,TLBT-BySHWK-Plugin,633611,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,655243,655243,"Wingo - House Of Wings, Abu Shagara",TLBT-BySHWK-Plugin,634262,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,36564,36564,"Wingo - House Of Wings, Al Barsha 1",TLBT-BySHWK-Plugin,20759,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,733963,733963,"Wingo - House Of Wings, Al Jada",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,647499,647499,"Wingo - House Of Wings, Arjan",TLBT-BySHWK-Plugin,629603,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,746787,746787,"Wingo - House Of Wings, Asharaj Al Ain, Asharej",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,605034,605034,"Wingo - House Of Wings, Business Bay",TLBT-BySHWK-Plugin,20759,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,619638,619638,"Wingo - House Of Wings, Dubai Silicon Oasis",TLBT-BySHWK-Plugin,20759,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,610041,610041,"Wingo - House Of Wings, Uptown - Mirdif",TLBT-BySHWK-Plugin,601261,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,717822,717822,"Wingo - House of Wings, Arjan",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,665740,665740,"Wingo - House of Wings, Khalifa City",TLBT-BySHWK-Plugin,640892,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,729877,729877,"Wingo - House of Wings, Rashid Body Fitness Building, Al Jurf 2",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,720298,720298,"Wingo - House of Wings, Reem Island",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,681800,681800,"Wingo - House of Wings, Saadiyat Building",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,727556,727556,"Wingo- House of Wings, Yas Plaza",TLBT-BySHWK-Plugin,650397,Wingo - House Of Wings,OWN_DELIVERY,,UAE
+TB_AE,730131,730131,"Wings & Co, Abu Shaghara ",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,675945,675945,"Wings & Co, Al Asharaj - Al Ain",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,676055,676055,"Wings & Co, Al Barsha 1",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,723273,723273,"Wings & Co, Al Karama",TLBT-BySHWK-Plugin,673679,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,675943,675943,"Wings & Co, Al Khawaneej",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,676017,676017,"Wings & Co, Al Mina",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,676021,676021,"Wings & Co, Arjan",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,718029,718029,"Wings & Co, Arjan",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,676019,676019,"Wings & Co, Business Bay,Business Bay",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,676020,676020,"Wings & Co, DSO",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,698093,698093,"Wings & Co, Dubai Internet City - DIC",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,730133,730133,"Wings & Co, HPK Business Bay",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,675940,675940,"Wings & Co, JLT",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,712602,712602,"Wings & Co, JLT HPK",TLBT-BySHWK-Plugin,665759,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,709765,709765,"Wings & Co, Khalifah City",TLBT-BySHWK-Plugin,665759,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,698096,698096,"Wings & Co, Rashid Body Fitness Building",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,761918,761918,"Wings & Co, Reem Island",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,688987,688987,"Wings & Co, Saadiyat Building",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,675944,675944,"Wings & Co, Uptown - Mirdif",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,676018,676018,"Wings & Co, Yas Island",TLBT-BySHWK-Plugin,646949,Wings & Co,OWN_DELIVERY,,UAE
+TB_AE,732992,732992,"Yaani Biryani, Abu Shagara",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,670600,670600,"Yaani Biryani, Al Karama",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,698006,698006,"Yaani Biryani, Arjan",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,695083,695083,"Yaani Biryani, Business Bay",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,680687,680687,"Yaani Biryani, Deira",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,669044,669044,"Yaani Biryani, Dubai silicon Oasis",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,688192,688192,"Yaani Biryani, Galleria Mall - Al Maryah Island",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,666986,666986,"Yaani Biryani, JLT",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,691521,691521,"Yaani Biryani, Madinat Khalifa - A",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,767131,767131,"Yaani Biryani, Mirdif",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE
+TB_AE,677840,677840,"Yaani Biryani, Saadiyat island (south)",TLBT-BySHWK-Plugin,641741,Yaani Biryani,OWN_DELIVERY,,UAE

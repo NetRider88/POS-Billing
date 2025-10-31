@@ -1,0 +1,113 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_KW,728307,e2133aa4-ed53-44d6-915f-566c54f2d2cf,"Amiti Noura, Avenues, Rai",Wi-Q,676495,Amiti Noura,OWN_DELIVERY,,Kuwait
+TB_KW,691870,146e12a4-6b5e-43e9-bcef-d0c9cf8e7deb,"Amiti Noura, Sabah Al-Salem",Wi-Q,656239,Amiti Noura,OWN_DELIVERY,,Kuwait
+TB_KW,655072,e19c253d-0fa1-4f37-8e67-e067ad04ecd9,"Asha's, Benied Al Qar",Wi-Q,634161,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,684994,5ee1216a-e218-40cd-b37e-acb6e86f02d8,"Asha's, Jabriya",Wi-Q,652410,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,655077,f703e88b-1e09-48ba-af69-ac21a1096c8d,"Asha's, Mahboula",Wi-Q,634166,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,655070,5c8fd184-415e-41ab-aa33-e29fc9790032,"Asha's, Salmiya Boulevard",Wi-Q,634159,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,655079,28c1f0e0-44aa-4e22-bc89-82265790ccb1,"Asha`s, Jahra HUB",Wi-Q,634168,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,764232,fea06fe5-6348-40cf-8df3-30477b31414c,"Asha`s, Sabah Al-Salem",Wi-Q,697760,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,655076,f2cc477c-61ad-40c3-9dfa-16db1cdc3d89,"Asha`s, Zahra, 360 Mall, Zahra",Wi-Q,634165,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,706248,4724f680-a853-4434-996c-5176189817d2,"Ashas, Ardhiya, (DH Kitchen), Ardiya",Wi-Q,663768,Asha's,OWN_DELIVERY,,Kuwait
+TB_KW,600881,ce40b35b-4313-4608-a17f-a188acc973c0,"Costa Coffee, ,Reggai",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,738157,4faa8663-eebb-463f-ab9f-1e2c4b702ba4,"Costa Coffee, Abu Ftaira",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,45527,e9d6a040-e1b6-460c-8c59-1c094abd2270,"Costa Coffee, Abu Hasaniya",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,628200,02d54b24-bb4d-4136-9dc9-18f59e79c971,"Costa Coffee, Al-Ahmadi",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,28581,1b139617-8db3-424f-bff0-5950f259a410,"Costa Coffee, Al-Bedae",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,684318,3da0ec0f-728d-4056-84da-1024b6fc6dbd,"Costa Coffee, Al-Qurain",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,600882,495c02c5-5c11-429d-a850-4e8987b12fc3,"Costa Coffee, Ardhiya",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,28580,bfd41f43-b21d-48ca-a980-0d17098cdd85,"Costa Coffee, Dasma",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,628199,a9ae718b-693d-4dd9-b7a0-057aa476c89c,"Costa Coffee, Egaila",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,28575,b44b5c03-c73f-4635-bbfd-7c5e5a6e717c,"Costa Coffee, Hawally",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,51244,2d2af1d1-1c3e-4ccd-ad96-c53757a8a624,"Costa Coffee, Hawally tgo The Story",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,639854,4de7dbf0-d032-4781-98c2-9fc7d53ecd75,"Costa Coffee, Jabriya",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,51242,8c2734ce-ad11-479a-b806-1db6193a1f04,"Costa Coffee, Jahra - Jahra Mikhyall Mall",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,28572,5c250ee8-132e-4d0a-a3ff-75bdeb2f048d,"Costa Coffee, Kaifan",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,692867,8021ad3a-0ffb-4ab6-b86b-bd0313c46078,"Costa Coffee, Khairan square",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,692865,b8b9da9a-c285-4018-86c6-6b3f99357ae6,"Costa Coffee, Kuwait City",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,28576,2c8fc786-6f9e-4c76-8a88-d273b78130a2,"Costa Coffee, Mahaboula Coast",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,684052,bd765061-50b4-4499-bbff-4d5490118876,"Costa Coffee, Rai",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,676827,7187d7e1-e947-43ab-b4c0-13e3fbc09e85,"Costa Coffee, Sabah Al Ahmad 1",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,649181,728b82fe-613a-4774-b3c8-0845502446e3,"Costa Coffee, Sabah Al Salem",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,51240,fb49ecdf-260f-4a9f-abe9-bfedfd3dca85,"Costa Coffee, Salmiya tgo Dalal Complex",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,32590,052a45fb-e270-48a6-ab99-6c631634a5c1,"Costa Coffee, Shaab",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,730375,28962158-c36a-4276-85cd-5e1a9dba6928,"Costa Coffee, Siddiq",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,692875,2d46f3dd-2e99-4882-b127-d1903e23e0d4,"Costa Coffee, Slayel Jahra,Jahra - Jahra Area",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,684320,4c14fbcb-966f-4f90-94ed-bb1f91b8efc9,"Costa Coffee, Wafra ",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,740974,8a9fe6ae-dfea-4e58-9042-bbb2ff3a5fb9,"Costa Coffee, Yall Mall, Fahaheel",Wi-Q,683869,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,733636,4141f805-69ae-4fd5-986b-9177f5f0a936,"Costa Coffee, Zahra",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,35667,38898b7f-aa87-4acb-89fb-5e28637e11e6,"Costa Coffee, mangaf Alkout med tgo",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,692873,55e66131-12a7-4548-b5a1-6a075ac9d8a7,"Costa Coffee,Bairaq Mall Egaila",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,692871,cad27f96-488a-45f1-902b-748dfdac0b6f,"Costa Coffee,Homz Mall- Dajeej",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,684064,9c3b14b7-3439-485a-9499-1ad660712949,"Costa Coffee,Sheikha Complex1 Salmiya",Wi-Q,16128,Costa Coffee,OWN_DELIVERY,,Kuwait
+TB_KW,706153,5513c941-5bfe-4e55-85cf-4690c0b0ce35,"Elevation Burger, Abu Ftaira",Wi-Q,663722,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706152,190b9362-b781-4c2a-bcc3-82d89fd97388,"Elevation Burger, Abu Halifa",Wi-Q,663721,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706161,d10fa58e-2864-4dd3-b711-05076da5145c,"Elevation Burger, Al Masayel",Wi-Q,663730,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706156,5044241e-93f6-41a4-97cc-d95ffdb50851,"Elevation Burger, Al-Bedae",Wi-Q,663725,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706155,c32efc49-b389-4c9e-9383-15b3637945fe,"Elevation Burger, Ardhiya",Wi-Q,663724,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,747960,335a99e5-fea7-436f-a6cc-cc39df85c611,"Elevation Burger, Bnaider",Wi-Q,687978,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706158,b449f025-fd64-46ae-a468-3e82fd73f810,"Elevation Burger, Jabriya",Wi-Q,663727,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706159,7b6718ad-9cb7-4e65-ac67-537d02914caa,"Elevation Burger, Jahra - Jahra Area",Wi-Q,663728,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706160,7c688a96-d555-489d-ad8d-c2570b0a94bf,"Elevation Burger, Kaifan",Wi-Q,663729,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,758888,5ca69918-6e2f-4e08-8fe4-5577c191a178,"Elevation Burger, Khairan",Wi-Q,694332,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706162,0372d42d-bd3b-4e2f-946d-820f5c0fac15,"Elevation Burger, Mishref",Wi-Q,663731,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706157,430567bc-8a78-44ff-bf00-36ff4a7ea7fc,"Elevation Burger, Promenade",Wi-Q,663726,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706164,2350567d-6423-4c7f-84b4-46225e2906cf,"Elevation Burger, Qortuba",Wi-Q,663733,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,706166,bb146212-ad33-4f07-89a3-f0166115dab9,"Elevation Burger, Sulaibhikat",Wi-Q,663735,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,721975,b6817fe6-02bf-4342-bff2-ed5966858ff7,"Elevation Burger, Warehouse Mall",Wi-Q,672859,Elevation Burger,OWN_DELIVERY,,Kuwait
+TB_KW,623668,cba369fa-3cc7-464e-9c1b-52c03994bd3d,"Faia, Hawally",Wi-Q,614597,Faia,OWN_DELIVERY,,Kuwait
+TB_KW,624695,2ff27928-5c81-47fd-a338-7a5b2f634e03,"Faia,Hawally",Wi-Q,614597,Faia,VENDOR_DELIVERY,,Kuwait
+TB_KW,655063,2d7bc7ec-fa3d-4fd2-9082-e6077775b2f2,"PF Chang's, Fahaheel",Wi-Q,634152,PF Chang's,OWN_DELIVERY,,Kuwait
+TB_KW,655062,2bef7e3b-89d3-48fb-8feb-1e6919dfaeaa,"PF Chang's, Shaab",Wi-Q,634151,PF Chang's,OWN_DELIVERY,,Kuwait
+TB_KW,655061,e90c0a45-3b09-4e7b-83e0-053e666f10d9,"PF Chang's,Jabriya",Wi-Q,634150,PF Chang's,OWN_DELIVERY,,Kuwait
+TB_KW,655071,b1e23944-79b7-49f8-a082-1f8f637b06fe,"PF Chang's,Mahboula",Wi-Q,634160,PF Chang's,OWN_DELIVERY,,Kuwait
+TB_KW,655721,e5cd85b8-dddc-411c-9ea7-078920c29eb6,"Pinkberry , Jabriya",Wi-Q,634632,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655050,b33c8fc1-a8f0-44df-a130-8465050091bc,"Pinkberry, Bneid Al Qar",Wi-Q,634139,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,710477,e72d95f6-4ac4-40d9-aa06-ce793427e058,"Pinkberry, Boulevard Salmiya",Wi-Q,666120,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655047,d018f924-1195-4fcb-89c5-a9c219b2a89a,"Pinkberry, Burj Alshaya",Wi-Q,634136,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655058,5b6dde67-6e40-46f3-be66-76125c7ce7ca,"Pinkberry, Egaila",Wi-Q,634147,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655075,aa029fe4-4410-4c0d-a172-e345887d64e4,"Pinkberry, Jahra, Jahra Area",Wi-Q,634164,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655057,c52f5fca-8bd6-4b54-b90f-23c18d49ca0d,"Pinkberry, Mahboula",Wi-Q,634146,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655053,4eb41d1c-ad61-4633-8f72-2fd58ae10a50,"Pinkberry, Mubarak Al Kabir",Wi-Q,634142,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,717939,c351177a-cb0f-40b8-ac0d-4e5ae4adf4a0,"Pinkberry, Warehouse Mall",Wi-Q,670437,Pinkberry,OWN_DELIVERY,,Kuwait
+TB_KW,655086,4aa4b4c0-00c0-4d2f-984b-529eecf850f3,"Pizza Express, Abdulla Salem",Wi-Q,634175,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655084,6b22342c-de8c-457d-bec4-879cf0690414,"Pizza Express, Al Ahmadi",Wi-Q,634173,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655085,721c63a8-5b9b-473f-9451-3c53f4076df6,"Pizza Express, Al-Bedae",Wi-Q,634174,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,727473,fdfc1aa6-5ee8-4fd8-b189-8b9aa25a9b1b,"Pizza Express, Avenues, Rai",Wi-Q,676074,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655093,97c7ecf4-9b9a-4e06-9cee-a912d4dd894d,"Pizza Express, Bneid Al Gar",Wi-Q,634182,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655051,c31e4ddb-8500-41de-a358-2bbffc05d770,"Pizza Express, Jabriya",Wi-Q,634140,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655090,d625dcf3-3f5c-4df9-b5b9-a60b550d7e9d,"Pizza Express, Jahra",Wi-Q,634179,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655095,1829b506-69f1-4fdb-8cf4-3d5378ca7960,"Pizza Express, Mahboula",Wi-Q,634184,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,696667,d275c718-3f42-470c-9a36-aac33069efc2,"Pizza Express, Sabah Al-Nasser",Wi-Q,658916,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,655092,a88943eb-1f56-491e-896b-d406968df5db,"Pizza Express, Salmiya - Marina Crescent, Salmiya",Wi-Q,634181,Pizza Express,OWN_DELIVERY,,Kuwait
+TB_KW,697881,2e38a1b7-11d5-474f-93f7-4b2800deb882,"Raising Cane's, 360 Mall, Zahra",Wi-Q,659566,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,682591,2b976a12-5290-4ddb-9236-8f42ca6cb2f2,"Raising Cane's, Bneid Al Qar",Wi-Q,650886,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654473,ff52b7ca-c009-4a17-be03-86210c38b501,"Raising Cane's, Daiya",Wi-Q,633777,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654474,182dbc42-5a1a-4651-9c75-7e4afc254d52,"Raising Cane's, Mishrif",Wi-Q,633778,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,696668,3d418d3d-069b-4a5c-909a-0d263739f052,"Raising Cane's, Sabah Al-Nasser, Ardhiya",Wi-Q,658917,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654445,d14e3aca-520e-4553-86b1-031bd29541ad,"Raising Cane's, Salmiya",Wi-Q,633756,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654437,8dc72fa7-1e28-4513-b2dc-5e625749ff9c,"Raising Cane's, Shuwaikh",Wi-Q,633748,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654472,3dbcf8d7-607e-4d5a-bdbf-81c3fb0ec8ff,"Raising Cane`s, Ahmadi Park",Wi-Q,633776,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654444,267705fc-2d49-4202-bb2e-ceeb57cfb225,"Raising Cane`s, Jabriya",Wi-Q,633755,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,743659,fd821306-41fa-4b8e-9bcc-8de567601496,"Raising Cane`s, Jahra Mall, Jahra Area",Wi-Q,682646,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,738852,0e708ce3-ff8d-47af-a97d-3b21c0a433a3,"Raising Cane`s, Sabah Al-Salem",Wi-Q,682646,Raising Cane's,OWN_DELIVERY,,Kuwait
+TB_KW,654443,05ca1306-be03-490c-85e0-eeb43c23e664,"Shake Shack - 360 Mall, Zahra",Wi-Q,633754,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654441,d7e26587-a628-46c5-b6f6-985147b72d87,"Shake Shack - Al Fanar Mall, Salmiya",Wi-Q,633752,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654438,986cdf30-84cb-40ca-9216-aea870bda211,"Shake Shack - Al Mourouj, Subhan",Wi-Q,633749,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,696268,c1a7ddf2-9412-4b65-bdf4-5f05d840b670,Shake Shack - Al Nasser,Wi-Q,658742,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654440,6fa8621d-c1d7-46e5-9b49-7fd95edf44cf,Shake Shack - Jabriya Land 2,Wi-Q,633751,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654442,7f9304bf-f9f5-4a6b-aa44-5e26c51a507c,"Shake Shack - Sidra Restaurants, Mahboula",Wi-Q,633753,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654478,cb97578b-0f4b-4e88-b580-9fbb7ed97bff,"Shake Shack - The Gate Mall, Egalia",Wi-Q,633782,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654479,21abfa34-7f51-4a7f-b923-8abff7d5c2d2,"Shake Shack, Abdullah Al Salem",Wi-Q,633783,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,708850,cd395118-270b-4186-905f-69b7581b7454,"Shake Shack, Al-Ahmadi",Wi-Q,665245,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654476,933bfdc1-fda2-4993-813a-a86a6e0ead23,"Shake Shack, Al-Bedae",Wi-Q,633780,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,654475,22f09a31-4cd8-4aa6-afb9-a412dd6662b8,"Shake Shack, Bneid Al Qar",Wi-Q,633779,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,686537,23e89bee-955b-400d-a4d9-419a20acdddd,"Shake Shack, Jahra Hub",Wi-Q,653320,Shake Shack,OWN_DELIVERY,,Kuwait
+TB_KW,715249,a64189c3-97b5-4003-ba35-b935d7ecb796,"Swaikhat, Ardhiya ",Wi-Q,643939,Swaikhat,OWN_DELIVERY,,Kuwait
+TB_KW,762125,d35d6641-283d-40f9-bfa0-ab4a8219cc98,"Swaikhat, Kaifan",Wi-Q,643939,Swaikhat,OWN_DELIVERY,,Kuwait
+TB_KW,676945,bea472de-dae3-4986-8091-fb4024e64938,"Swaikhat, Salmiya",Wi-Q,643939,Swaikhat,OWN_DELIVERY,,Kuwait
+TB_KW,670638,2e0d612e-48ab-4832-b3a5-cdacdcc2fab6,"Swaikhat,Sabah Al-Salem",Wi-Q,643939,Swaikhat,OWN_DELIVERY,,Kuwait
+TB_KW,655067,3fffc9ef-f408-42a8-a5bc-e911f47f47a0,"Texas RoadHouse, Sidra Mahboula",Wi-Q,634156,Texas RoadHouse,OWN_DELIVERY,,Kuwait
+TB_KW,655496,328d14c0-7eda-4cd3-af2d-9d3dfa60c04d,"The Cheesecake Factory,  Avenues Rai",Wi-Q,634457,The Cheesecake Factory,OWN_DELIVERY,,Kuwait
+TB_KW,655065,23305402-0da6-4194-b30d-84234f3a37eb,"The Cheesecake Factory, Bneid Al Qar",Wi-Q,634154,The Cheesecake Factory,OWN_DELIVERY,,Kuwait
+TB_KW,655066,4b769697-db81-462c-b4ec-25932f424f7f,"The Cheesecake Factory, Mahboula",Wi-Q,634155,The Cheesecake Factory,OWN_DELIVERY,,Kuwait

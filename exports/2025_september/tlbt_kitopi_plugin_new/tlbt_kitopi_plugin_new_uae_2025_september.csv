@@ -1,0 +1,846 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+TB_AE,607244,64603385-cdad-4b47-9574-e6e7ad7a5690,"  Pizzaro – Italian Pizza & Pasta, AL Nahyan - AD8",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,657113,69e5e70a-8cee-4aed-a374-0764f9dd232c,"  Pizzaro – Italian Pizza & Pasta, Dubai Silicon Oasis 2",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,669619,07087287-1740-4fc6-b188-c4f7afd3fae6," Fatburger – Fresh, Authentic, Tasty Burgers, Business Bay",TLBT Kitopi Plugin -New,637643," Fatburger – Fresh, Authentic, Tasty Burgers",OWN_DELIVERY,,UAE
+TB_AE,660537,4ac3633e-9b61-4bd8-a320-8bd9cf4f168c," Fatburger – Fresh, Authentic, Tasty Burgers, Media City",TLBT Kitopi Plugin -New,637643," Fatburger – Fresh, Authentic, Tasty Burgers",OWN_DELIVERY,,UAE
+TB_AE,742506,5db21637-6e33-4d88-940e-a16404d8f036," Right Bite by Snap, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,684795, Right Bite by Snap,OWN_DELIVERY,,UAE
+TB_AE,753843,fde19709-4651-4195-8694-851a4d538a86," SALATA by Snap, Al Nahyan",TLBT Kitopi Plugin -New,691292, SALATA by Snap,OWN_DELIVERY,,UAE
+TB_AE,753847,226ec924-0d57-46e0-ba17-466c3aa305e7," SALATA by Snap, Madinat Khalifa - A",TLBT Kitopi Plugin -New,691292, SALATA by Snap,OWN_DELIVERY,,UAE
+TB_AE,753846,0ad97ade-3081-45fd-b9ec-a699e5b85214," Salata by Snap, Business Bay",TLBT Kitopi Plugin -New,691292, SALATA by Snap,OWN_DELIVERY,,UAE
+TB_AE,28483,5e84271e63843cc5cd0892d5," Tawook Nation – Chicken platters, sandwiches & bowls, Al Nahyan - AD8",TLBT Kitopi Plugin -New,9292," Tawook Nation – Chicken platters, sandwiches & bowls",OWN_DELIVERY,,UAE
+TB_AE,22602,5dfda862e66ec4963be793c9," Tawook Nation – Chicken platters, sandwiches & bowls, Business Bay",TLBT Kitopi Plugin -New,9292," Tawook Nation – Chicken platters, sandwiches & bowls",OWN_DELIVERY,,UAE
+TB_AE,24443,5c7e8f21a9a18e37a1cfb0aa," Tawook Nation – Chicken platters, sandwiches & bowls, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9292," Tawook Nation – Chicken platters, sandwiches & bowls",OWN_DELIVERY,,UAE
+TB_AE,23599,5c83f7f9a9a18e37a1cfb121," Tawook Nation – Chicken platters, sandwiches & bowls, Hessa St",TLBT Kitopi Plugin -New,9292," Tawook Nation – Chicken platters, sandwiches & bowls",OWN_DELIVERY,,UAE
+TB_AE,22634,5d388998a9a18e37a1d37d49," Tawook Nation – Chicken platters, sandwiches & bowls, Marina 3",TLBT Kitopi Plugin -New,9292," Tawook Nation – Chicken platters, sandwiches & bowls",OWN_DELIVERY,,UAE
+TB_AE,54197,d10da65b-fdfa-44ff-8cbe-55470969f88e,"800 PIZZA – Authentic Italian Pizza, Al Nahyan - AD8",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,2994,893a6b86-dc4d-4038-a348-36f898025205,"800 PIZZA – Authentic Italian Pizza, Business bay",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,686845,68d6d0ab-3cd3-41ad-a7fb-412a1e20b73f,"800 PIZZA – Authentic Italian Pizza, Dubai Healthcare City ",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,2618,b8cbdb59-f721-47ea-b204-50aa3a90dca6,"800 PIZZA – Authentic Italian Pizza, Dubai Marina",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,2626,e3808b60-dcdc-4de6-bd51-dd93e96fa686,"800 PIZZA – Authentic Italian Pizza, Dubai Motor City",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,640200,6dc609e9-5080-4a1e-a7dc-bdde50d22b36,"800 PIZZA – Authentic Italian Pizza, Dubai Silicon Oasis 2",TLBT Kitopi Plugin -New,625609,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,690795,50336f4c-3c5f-4dde-a5a1-1c0e62b5c79c,"800 PIZZA – Authentic Italian Pizza, Khalifa City",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,2628,c4d79b59-e4e8-46ee-b4c3-7435f7a7cf49,"800 PIZZA – Authentic Italian Pizza, Media City",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,716406,365cfc5e-ce46-4648-9c24-4550582689a8,"800 PIZZA, Mirdif ",TLBT Kitopi Plugin -New,1673,800 PIZZA  Authentic Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,629682,22b5a66f-43e0-48c3-abcb-42e1d7c423f0,"800 Pizza,The Sustainable City",TLBT Kitopi Plugin -New,618762,800PIZZA®,OWN_DELIVERY,,UAE
+TB_AE,30367,5c56d00aa9a18e37a1cfada2,"All Things Acai, Al Nahyan",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,28969,5c7cdb4ea9a18e37a1cfb089,"All Things Acai, Business Bay",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,28971,5d3988bfa9a18e37a1d38476,"All Things Acai, Dubai Marina 3",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,28970,5c7ce29da9a18e37a1cfb08a,"All Things Acai, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,47565,1128b216-d55e-4f3d-b2db-5aa599c4b808,"All Things Acai, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,15348,All Things Acai,VENDOR_DELIVERY,,UAE
+TB_AE,28968,5c7cd980a9a18e37a1cfb088,"All Things Acai, Hessa Street",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,654948,f29bea4c-7728-48f4-8234-43821773862a,"All Things Acai, Khalifa City - AD7",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,701797,5e2eb5e2-f589-48f8-9fec-525005d17ec1,"All Things Acai, Midirf",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,32096,5cb19721a9a18e37a1cfc628,"All Things Acai, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,15348,All Things Acai,OWN_DELIVERY,,UAE
+TB_AE,663348,3218081c-981e-4bec-9db2-543ac3ad63d4,"Applebee's, Al Nahyan - AD8",TLBT Kitopi Plugin -New,632445,Applebee's,OWN_DELIVERY,,UAE
+TB_AE,652237,5b3fe649-5986-4710-8026-1a53c2d3406e,"Applebee's, Dubai Media City",TLBT Kitopi Plugin -New,632445,Applebee's,OWN_DELIVERY,,UAE
+TB_AE,663353,2ffd4159-b711-4f48-b5b9-80387b4a2a77,"Applebee`s, Business Bay",TLBT Kitopi Plugin -New,632445,Applebee's,OWN_DELIVERY,,UAE
+TB_AE,777657,ce410a45-6705-453d-bb55-ee50877ac293,"Awani Cafe, Meadows",TLBT Kitopi Plugin -New,706043,Awani Cafe,OWN_DELIVERY,,UAE
+TB_AE,749842,cd0c5648-9796-4e15-91e1-6c97f73c2fdb,"Awani – Middle Eastern Flavors, Al Bateen, Al Khalidiyah",TLBT Kitopi Plugin -New,600608,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,750751,793d9e29-8a18-4cae-bf8c-e667144dabf1,"Awani – Middle Eastern Flavors, Business Bay 4",TLBT Kitopi Plugin -New,689578,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,601326,3235b355-62d0-4a03-8d46-1be8d34b0538,"Awani – Middle Eastern Flavors, Downtown Burj Khalifa",TLBT Kitopi Plugin -New,600608,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,649343,1e738363-9ca0-49fe-80c9-2c48b370dd4e,"Awani – Middle Eastern Flavors, Dubai Hills Mall",TLBT Kitopi Plugin -New,600608,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,641187,2e5a3aa7-f0c8-408d-84b1-da25dd2baf8b,"Awani – Middle Eastern Flavors, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,600608,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,601327,51e34827-6bd0-49da-941a-c2859c00dcf1,"Awani – Middle Eastern Flavors, Jumeirah Beach Residence - JBR",TLBT Kitopi Plugin -New,600608,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,740095,f1df3019-7db4-48b9-8fc3-f52f2db52b51,"Awani – Middle Eastern Flavors, Meadows",TLBT Kitopi Plugin -New,600608,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,755473,da1d2ede-190c-4df4-98ab-c48061915456,"Awani – Middle Eastern Flavors, Mirdif SK",TLBT Kitopi Plugin -New,689578,Awani – Middle Eastern Flavors,OWN_DELIVERY,,UAE
+TB_AE,737620,b4607831-93fd-4ae4-9232-dafed6ad332f,"BUNDAY - Breakfast Buns & Toasties, Dubai Motor City",TLBT Kitopi Plugin -New,677602,BUNDAY - Breakfast Buns & Toasties,OWN_DELIVERY,,UAE
+TB_AE,730060,76aebea7-2e5b-42d8-85e7-eb0994e20849,"BUNDAY - Breakfast Buns & Toasties, Media City",TLBT Kitopi Plugin -New,677602,BUNDAY - Breakfast Buns & Toasties,OWN_DELIVERY,,UAE
+TB_AE,738018,85a89fb8-a6b3-4909-b667-c73d489096d4,"BUNDAY - Breakfast Buns & Toasties, Mirdiff SK",TLBT Kitopi Plugin -New,677602,BUNDAY - Breakfast Buns & Toasties,OWN_DELIVERY,,UAE
+TB_AE,757797,fa800616-7d96-4de3-be70-a7a80fa396e9,"Baker Fields - Healthy Desserts from Flavour Fields, AD7 Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,668575,Baker Fields - Healthy Desserts from Flavour Fields,OWN_DELIVERY,,UAE
+TB_AE,757796,07713130-09b1-45d7-9d12-713af91a9238,"Baker Fields - Healthy Desserts from Flavour Fields, AD8 Villaggio Hotel & Resort, Al Nahyan",TLBT Kitopi Plugin -New,668575,Baker Fields - Healthy Desserts from Flavour Fields,OWN_DELIVERY,,UAE
+TB_AE,717338,82f0c50a-38f8-4c94-982c-48fb54ce5551,"Baker Fields - Healthy Desserts from Flavour Fields, Dubai Galleria Mall ",TLBT Kitopi Plugin -New,668575,Baker Fields - Healthy Desserts from Flavour Fields,OWN_DELIVERY,,UAE
+TB_AE,714835,73b939ca-fe8d-4bc1-8ccf-712cf3a8c1a3,"Baker Fields - Healthy Desserts from Flavour Fields, Dubai Hills Mall",TLBT Kitopi Plugin -New,668575,Baker Fields - Healthy Desserts from Flavour Fields,OWN_DELIVERY,,UAE
+TB_AE,600464,318b1ac4-c84b-4bb7-88d7-208bf837c7da,"Barsalata Salads & Healthy Bites, Business Bay",TLBT Kitopi Plugin -New,11801,Barsalata Salads & Healthy Bites,OWN_DELIVERY,,UAE
+TB_AE,22610,8497536f-d8e8-4fdb-8798-70e3ca5f03ce,"Barsalata Salads & Healthy Bites, Dubai Marina",TLBT Kitopi Plugin -New,11801,Barsalata Salads & Healthy Bites,VENDOR_DELIVERY,,UAE
+TB_AE,600466,707f0dfc-a56d-484a-9f7d-d005c4aac101,"Barsalata Salads & Healthy Bites, Dubai Marina",TLBT Kitopi Plugin -New,11801,Barsalata Salads & Healthy Bites,OWN_DELIVERY,,UAE
+TB_AE,600467,fcca08c1-d312-40ae-8ba8-da14e05268d3,"Barsalata Salads & Healthy Bites, Hessa Street",TLBT Kitopi Plugin -New,11801,Barsalata Salads & Healthy Bites,OWN_DELIVERY,,UAE
+TB_AE,762975,0f0744a7-4506-4095-8d9c-cf8070902488,"Batch Cookies, Arabian Ranches",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,726517,d5622656-58f9-42cd-855b-e3d9e7b53744,"Batch Cookies, DIFC",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,726513,999689f8-1387-402b-8c62-ddbd39768487,"Batch Cookies, Mangrove",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,726516,3cb5921e-e20e-457c-b6be-633b5df6ce1d,"Batch Cookies, Marina Mall - AD",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,726514,1adf4016-7952-4b9a-8c1a-233f442128ce,"Batch Cookies, Mirdif SK",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,725777,34baa76e-a416-477f-af23-9ed875f2b3b5,"Batch Cookies, Studio City",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,763405,c6900f47-c8a7-42a7-b1e4-35e12ba7e87f,"Batch cookies, Circle Cafe Healthcare City, Dubai Healthcare City",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,763406,ec76567f-7028-4b7d-8136-e6b81dd5d4f2,"Batch cookies, Circle Cafe JIP, Jumeirah Heights",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,763407,c7e8cc3b-69bc-4c3f-b5e9-277b540d225a,"Batch cookies, Circle Cafe Saadiyat, Saadiyat Island (South)",TLBT Kitopi Plugin -New,675143,Batch Cookies,OWN_DELIVERY,,UAE
+TB_AE,761222,220b045e-580e-4a5f-bde3-711aedb2c653,"Big Boi Ramen, Al Nahyan - AD8",TLBT Kitopi Plugin -New,668984,Big Boi Ramen,OWN_DELIVERY,,UAE
+TB_AE,722754,e8af54f9-a9cf-4ea1-8f6c-87c3d8adde05,"Big Boi Ramen, Business Bay",TLBT Kitopi Plugin -New,668984,Big Boi Ramen,OWN_DELIVERY,,UAE
+TB_AE,732788,5269e054-85a6-41b2-b26d-72de3b36239c,"Big Boi Ramen, Dubai Marina 3",TLBT Kitopi Plugin -New,668984,Big Boi Ramen,OWN_DELIVERY,,UAE
+TB_AE,715595,98f0a40b-4983-417a-8417-4d64b9513511,"Big Boi Ramen, Hessa St",TLBT Kitopi Plugin -New,668984,Big Boi Ramen,OWN_DELIVERY,,UAE
+TB_AE,13829,5d1d1e08-3ae7-40cc-bdbc-0c45addb3bc5,"Biryani Pot - Savour The Heritage, Al Hili",TLBT Kitopi Plugin -New,7100,Biryani Pot - Savour The Heritage,VENDOR_DELIVERY,,UAE
+TB_AE,623768,c2a7a331-82c0-4d04-ac54-4395d8566ecf,"Biryani Pot - Savour The Heritage, Al Hili",TLBT Kitopi Plugin -New,7100,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,623766,ff83f4eb-8195-445a-a25b-93b1dda52e02,"Biryani Pot - Savour The Heritage, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,7102,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,11318,277bbcc8-97c1-45d0-a0da-8da9f35b9f85,"Biryani Pot - Savour The Heritage, Bani Yas East",TLBT Kitopi Plugin -New,5647,Biryani Pot - Savour The Heritage,VENDOR_DELIVERY,,UAE
+TB_AE,623764,e26a18c3-60ef-4514-bbb4-dfaea831e5d8,"Biryani Pot - Savour The Heritage, Bani Yas East",TLBT Kitopi Plugin -New,5647,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,13832,e40d1a4d-f60b-45d4-92c8-effb26249c36,"Biryani Pot - Savour The Heritage, Business Bay 4",TLBT Kitopi Plugin -New,7101,Biryani Pot - Savour The Heritage,VENDOR_DELIVERY,,UAE
+TB_AE,623767,a9b3f145-98a9-478b-81bb-76930339e12a,"Biryani Pot - Savour The Heritage, Business Bay 4",TLBT Kitopi Plugin -New,7101,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,651578,19db140a-7e57-495c-887f-a589c28f0d67,"Biryani Pot - Savour The Heritage, Dubai Media City",TLBT Kitopi Plugin -New,28777,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,52133,d0146cf3-fb12-4e52-ae47-d3e1ba797d23,"Biryani Pot - Savour The Heritage, Dubai Motor City",TLBT Kitopi Plugin -New,28777,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,603411,dca56ddf-992a-4a20-be34-2b9f043b0a7a,"Biryani Pot - Savour The Heritage, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,28777,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,650286,50c4706e-1b59-40b7-b0cf-2d8b7bd5260f,"Biryani Pot - Savour The Heritage, Forsan Mall",TLBT Kitopi Plugin -New,630637,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,13833,f74df761-0d42-45c3-ad4c-dd7669181712,"Biryani Pot - Savour The Heritage, Galleria Mall, Al Maryah Island",TLBT Kitopi Plugin -New,7102,Biryani Pot - Savour The Heritage,VENDOR_DELIVERY,,UAE
+TB_AE,603509,157fb5ff-1e02-4796-bcc8-d7866ce1b1d7,"Biryani Pot - Savour The Heritage, Mirdif SK",TLBT Kitopi Plugin -New,28777,Biryani Pot - Savour The Heritage,VENDOR_DELIVERY,,UAE
+TB_AE,649347,4414e6bc-f174-4b04-b77b-95165ada6081,"Biryani Pot - Savour The Heritage, Mirdif SK",TLBT Kitopi Plugin -New,630637,Biryani Pot - Savour The Heritage,OWN_DELIVERY,,UAE
+TB_AE,764318,5ab55ed3-b217-4aa4-85d4-569ff2012f21,"Biryani Pot-Savour The Heritage By Snap, Business Bay 4",TLBT Kitopi Plugin -New,697820,Biryani Pot - Savour The Heritage By Snap,OWN_DELIVERY,,UAE
+TB_AE,705397,b091a8b5-7a62-4c1b-8d80-293eeafbb76c,"Box It - Chinese, Noodles & Asian, Ajman,Mushairef Commercial",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,705398,6f9adf9c-fdbe-4a03-9cc6-dac1c186b600,"Box It - Chinese, Noodles & Asian, Al Ain,Al Towayya",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,704512,10694107-bc4b-4cb3-a5d1-cb40ad4683ff,"Box It - Chinese, Noodles & Asian, Al Satwa",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,721272,9c981c9b-fef2-4cd8-9b38-3a5cf8c3d849,"Box It - Chinese, Noodles & Asian, BAS Mall,Bani Yas East",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,653997,47dd3715-ffda-4898-aac0-9bb52bc15fb5,"Box It - Chinese, Noodles & Asian, Business Bay 4",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,759090,42049415-c25d-4f54-b3cb-29c2a0c9785b,"Box It - Chinese, Noodles & Asian, Deira City Centre,Deira",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,742519,8eb3c61b-cb2b-4423-8ca2-481b71f23f6d,"Box It - Chinese, Noodles & Asian, Dubai Festival City",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,692915,84d1e67b-bad0-423f-a93c-0e2332257d32,"Box It - Chinese, Noodles & Asian, Dubai Marina 2",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,651415,1e757830-c15d-4f14-84aa-01cfb3c978f6,"Box It - Chinese, Noodles & Asian, Hessa",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,742518,c698d77a-d15b-434e-b9aa-32251bc7fa55,"Box It - Chinese, Noodles & Asian, JVC, Jumeirah Village Circle - JVC",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,665540,8b0cc506-da9b-4638-8be9-831956de33e3,"Box It - Chinese, Noodles & Asian, Khalifa City-AD7, Madinat Khalifa - A",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,701793,ef004193-23e9-4022-bf3e-efcace9ea80d,"Box It - Chinese, Noodles & Asian, Mirdif",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,740076,a09974c5-3909-43bd-948c-35ac7edf905b,"Box It - Chinese, Noodles & Asian, Mushriff Mall, Al Zafranah",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,705399,2c75fdc8-1926-4846-9832-e371738a6663,"Box It - Chinese, Noodles & Asian, Muweilah - Sharjah,Muwaileh Commercial",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,701794,6847c1a4-e4d1-4ee7-a15f-3f2d1ad7f605,"Box It - Chinese, Noodles & Asian, Sahara Centre-Sharjah",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,654638,5aa989fb-98c9-4159-9e22-a9ec8c6a463b,"Box It, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,702585,195d7ece-e6a6-4769-9085-187024d30a79,"Box It- Chinese, Noodles & Asian, Al Zahiya",TLBT Kitopi Plugin -New,631957,"Box It - Chinese, Noodles & Asian",OWN_DELIVERY,,UAE
+TB_AE,669605,cf5218e5-6f38-4d45-9068-5343627b0267,"Buffalo's World Famous Wings, Business Bay",TLBT Kitopi Plugin -New,637645,Buffalo's World Famous Wings,OWN_DELIVERY,,UAE
+TB_AE,669606,7ab6cb93-9846-4544-a4a2-c1365f56e251,"Buffalo's World Famous Wings, Hessa Street",TLBT Kitopi Plugin -New,637645,Buffalo's World Famous Wings,OWN_DELIVERY,,UAE
+TB_AE,660539,9cf7835a-1a5b-4973-8dc3-4181b82cfc68,"Buffalo's World Famous Wings, Media City",TLBT Kitopi Plugin -New,637645,Buffalo's World Famous Wings,OWN_DELIVERY,,UAE
+TB_AE,738870,eb9f7a68-fc2d-4096-9b43-67121c4a4cce,"Bunday - Breakfast Buns & Toasties, Business Bay",TLBT Kitopi Plugin -New,677602,BUNDAY - Breakfast Buns & Toasties,OWN_DELIVERY,,UAE
+TB_AE,734847,b4b8121e-9aec-4dbe-840c-7b78524ce27e,"Burgdawg - Burgers & Fries	, Dubai Studio City",TLBT Kitopi Plugin -New,680305,Burgdawg - Burgers & Fries,OWN_DELIVERY,,UAE
+TB_AE,737621,f19e22b2-9880-495e-8466-9e2ed7ee4e20,"Burgdawg - Burgers & Fries	, JIP, Jumeirah Heights",TLBT Kitopi Plugin -New,680305,Burgdawg - Burgers & Fries,OWN_DELIVERY,,UAE
+TB_AE,36253,5d1c6b3da9a18e37a1d2cc7f,"BurgerFuel, Al Nahyan - AD8",TLBT Kitopi Plugin -New,19322,BurgerFuel,OWN_DELIVERY,,UAE
+TB_AE,638299,3238caf9-4e27-4b3b-8912-6a71dbf67049,"BurgerFuel, Hessa Street",TLBT Kitopi Plugin -New,600654,BurgerFuel,OWN_DELIVERY,,UAE
+TB_AE,638298,abf7e1b6-2283-49b9-8c58-d3fb88acb764,"BurgerFuel, Media City",TLBT Kitopi Plugin -New,600654,BurgerFuel,OWN_DELIVERY,,UAE
+TB_AE,26377,0887e0b6-e61e-4eef-95b8-012f10b13e3c,"CALI-POKE, Business Bay",TLBT Kitopi Plugin -New,14705,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,26376,05cf2224-1094-435d-ada5-6f70040b2950,"CALI-POKE, Dubai Media City",TLBT Kitopi Plugin -New,14704,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,34267,951a9358-1f3e-43f5-bc50-66adef3c4919,"CALI-POKE, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,14704,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,726363,d650ec01-5003-402e-84db-9e3d539980a4,"Cali Acai, Business Bay",TLBT Kitopi Plugin -New,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,741787,8c7a0df3-0eaa-4305-91b8-4ff9cea05ef3,"Cali Acai, Dubai Hills Park, Dubai Hills",TLBT Kitopi Plugin -New,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,726362,d1679be3-a192-45f4-a08b-670d27b13faa,"Cali Acai, Dubai Silicon Oasis 2",TLBT Kitopi Plugin -New,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,714032,a92ff8f2-f9d7-4f16-b4be-1dab1baf3b1f,"Cali Acai, Khalifa City AD7, Madinat Khalifa - A",TLBT Kitopi Plugin -New,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,713622,d400fea9-ebbf-4de4-a93c-bb817c85fb6d,"Cali Acai, Mirdif",TLBT Kitopi Plugin -New,667822,Cali Acai,OWN_DELIVERY,,UAE
+TB_AE,714393,f1c512ea-592b-4c48-9c4f-54d23c761f00,"Cali Poke, Al Nahyan - AD8",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,760789,15de9f59-82f1-4eee-9727-23b73c7c62db,"Cali Poke, DIFC",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,753665,53e40e5d-2add-4058-ae44-4eef73f03435,"Cali Poke, DXB Bike Station, Nad Al Sheba 1",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,713616,fde4d8d6-4158-4fa7-9878-7a698a769d58,"Cali Poke, Dubai DXB Bike",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,741786,642f6afd-1622-4f4b-b5fb-4c036b07ba58,"Cali Poke, Dubai Hills Park, Dubai Hills",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,712460,c3ebef8f-c7f8-498d-89ea-fed849a1ab0c,"Cali Poke, Khalifa City",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,714027,10ce6ad8-b252-4d96-938d-e5289ec78a56,"Cali Poke, Motor City 3",TLBT Kitopi Plugin -New,667183,CALI-POKE,OWN_DELIVERY,,UAE
+TB_AE,714407,61d886fd-8609-42a4-8780-16cfe13ba6c2,"California Seafood House, Al Nahyan - AD8",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,726361,2ad29bc7-8923-477f-807f-a47990b00a5a,"California Seafood House, Business Bay",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,724213,773611b1-d6fb-441a-b035-6cf6a565de48,"California Seafood House, Dubai Silicon Oasis, DSO2",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,714036,7562f65f-e0d8-436f-9c08-1c5743d8f4b6,"California Seafood House, Khalifa City AD 7, Madinat Khalifa - A",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,740084,26732ddf-b4ba-499b-ae02-2523b3825283,"California Seafood House, Media City, Al Sufouh 2",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,713628,fe5b466c-9440-406f-9a61-423adbf1ddd2,"California Seafood House, Mirdif",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,714037,81d4d97c-a9f2-4997-8c8c-e11e5c42ec94,"California Seafood House, Motor City 3",TLBT Kitopi Plugin -New,667827,California Seafood House,OWN_DELIVERY,,UAE
+TB_AE,690096,f7398bbd-9a70-4091-ad71-fa195f595e8b,"Catch 22, Dubai Hills",TLBT Kitopi Plugin -New,9100,Catch 22,OWN_DELIVERY,,UAE
+TB_AE,17407,6e6766cf-1451-42a1-a5c3-0722c402ed17,"Catch 22, JBR",TLBT Kitopi Plugin -New,9100,Catch 22,OWN_DELIVERY,,UAE
+TB_AE,746034,e334b25e-b48f-4047-a60b-f1d1783bb0c6,"Catch 22, Mirdif",TLBT Kitopi Plugin -New,9100,Catch 22,OWN_DELIVERY,,UAE
+TB_AE,762666,4daa4112-7880-4e79-9b75-2b5afe5d2b3e,"Cheese Onboard, Hessa Street, Al Barsha 3",TLBT Kitopi Plugin -New,696712,Cheese OnBoard,OWN_DELIVERY,,UAE
+TB_AE,716290,c5302176-37d1-4a6d-9115-29352eba0e21,"Chin Chin - Chinese, Asian & Noodles,  Bani Yas East - BAS Mall",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",VENDOR_DELIVERY,,UAE
+TB_AE,707083,baa32ad7-e3fc-41cd-a39f-4aea971308ea,"Chin Chin - Chinese, Asian & Noodles, Al Dhait North,(DH Kitchen)",TLBT Kitopi Plugin -New,664234,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,13312,a3f96f8b-be7d-4554-b10d-b5ebb620c43c,"Chin Chin - Chinese, Asian & Noodles, Al Majaz 2",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",VENDOR_DELIVERY,,UAE
+TB_AE,27498,da07cf12-7020-4697-8f9a-849be55b7b7b,"Chin Chin - Chinese, Asian & Noodles, Al Majaz 2",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,603262,b368e23a-aecb-44be-9801-26bfe0ff3159,"Chin Chin - Chinese, Asian & Noodles, Al Mushairef",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,27495,176f0fe7-bbf0-4b4d-a984-293455fe55ff,"Chin Chin - Chinese, Asian & Noodles, Al Satwa",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,634786,e34e379f-829a-4844-83bb-b67a97733700,"Chin Chin - Chinese, Asian & Noodles, Al Towayya",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,678157,affdff9a-5de0-4d03-bcc9-2eaf69deb84a,"Chin Chin - Chinese, Asian & Noodles, Bani Yas East",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,27499,fbde343b-2538-4213-9b44-600276d3fe37,"Chin Chin - Chinese, Asian & Noodles, Barsha Heights - TECOM",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,749196,953cc70b-8ccd-490c-be87-8b46e46620da,"Chin Chin - Chinese, Asian & Noodles, Burjuman, Al Mankhool",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,33765,cb5543dd-c227-4f33-88a0-8160482933d8,"Chin Chin - Chinese, Asian & Noodles, Business Bay 4",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,42893,febb67bd-a720-4004-ad64-b00c013cd61c,"Chin Chin - Chinese, Asian & Noodles, Central Mall,  Khalifa City- AD7",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,679473,419c9392-4e6c-47a2-8c9b-6a3bf7953cde,"Chin Chin - Chinese, Asian & Noodles, Deira",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,728387,31348005-4cbd-474a-88a4-cdf2539b3807,"Chin Chin - Chinese, Asian & Noodles, Dubai Festival City",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,27505,1fa7e7cd-7803-4732-86c3-44f6feb52dff,"Chin Chin - Chinese, Asian & Noodles, Dubai Marina",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,1717,97e841e1-f386-401b-8962-f7b60c96c55e,"Chin Chin - Chinese, Asian & Noodles, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",VENDOR_DELIVERY,,UAE
+TB_AE,27502,95287020-3256-4c0a-b72e-3e61c376a44c,"Chin Chin - Chinese, Asian & Noodles, Dubai Silicon Oasis ",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,703262,e9b1d7c4-83a9-42af-b898-024629fc0b69,"Chin Chin - Chinese, Asian & Noodles, Hessa street",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,643775,e0241bdb-d5bd-4976-9fff-5b1cf4b1b241,"Chin Chin - Chinese, Asian & Noodles, JVC",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,27501,7c98cb77-60c2-4afd-914d-c0ad3162127d,"Chin Chin - Chinese, Asian & Noodles, Mirdif SK",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,27496,7a89a5a8-523a-4747-8d34-9bde1c401e61,"Chin Chin - Chinese, Asian & Noodles, Motor city ",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,740073,4bc3bd8c-bd96-4218-9f39-639b7879d70e,"Chin Chin - Chinese, Asian & Noodles, Mushrif Mall, Al Zafranah",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,677135,716588de-2422-4bc3-a67f-cbd3b67f6967,"Chin Chin - Chinese, Asian & Noodles, Mussafah - AD3",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,35677,b9fd6561-3e97-4af4-ba70-94882ddcb443,"Chin Chin - Chinese, Asian & Noodles, Muwaileh Commercial",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",VENDOR_DELIVERY,,UAE
+TB_AE,39353,9cffdb96-3995-454e-bcda-405fbd51bf80,"Chin Chin - Chinese, Asian & Noodles, Muwaileh Commercial",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,731553,cd8731af-61f7-4ca0-acf4-ab44e5e22e69,"Chin Chin - Chinese, Asian & Noodles, Sahara Center,Al Nahda",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,612467,a1afc73b-7a7b-45bf-886d-30daaaf62d9b,"Chin Chin - Chinese, Asian & Noodles, Tourist Club (Al Zahiya)",TLBT Kitopi Plugin -New,1106,"Chin Chin - Chinese, Asian & Noodles",OWN_DELIVERY,,UAE
+TB_AE,46863,8333d280-6b6c-4882-918e-d2175ccebcc6,"Chubby Balls, Dubai Marina",TLBT Kitopi Plugin -New,26281,Chubby Balls,OWN_DELIVERY,,UAE
+TB_AE,49308,f8b2f1ac-8940-41f7-86fa-e0c01746060e,"Chubby Cookies, Business Bay",TLBT Kitopi Plugin -New,27548,Chubby Cookies,OWN_DELIVERY,,UAE
+TB_AE,633687,528c7117-1695-4806-9ea3-5d34ffb05727,"Chubby Cookies, Dubai Motor City",TLBT Kitopi Plugin -New,27548,Chubby Cookies,OWN_DELIVERY,,UAE
+TB_AE,600316,11a594b5-ce55-4c34-a721-a4dbf3591789,"Circle Cafe - Healthy Salads & Bowls,  Healthcare City",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,600317,c47b7875-a9bb-4e01-b492-9d62b38c5cbc,"Circle Cafe - Healthy Salads & Bowls,  Kite Beach, Jumeirah",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,755884,62031f37-9882-4cef-be1f-4c0c62e9b47a,"Circle Cafe - Healthy Salads & Bowls, Abu Dhabi Marina Mall, BreakWater",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,755852,5248bfb5-946f-4244-aa5f-27a657418bdb,"Circle Cafe - Healthy Salads & Bowls, Arabian Ranches",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,600314,4f95969a-7bf6-4f3a-9c16-a744e1a4be83,"Circle Cafe - Healthy Salads & Bowls, Business Bay",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,606075,134791db-7ed5-44a7-ab2a-85662d610f62,"Circle Cafe - Healthy Salads & Bowls, DIFC",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,600403,2174fbae-8c20-4b5e-98c8-86708624a08b,"Circle Cafe - Healthy Salads & Bowls, JIP",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,604305,b3e041a0-6e78-47ce-bab9-a8df463866ba,"Circle Cafe - Healthy Salads & Bowls, Mangrove, Al Maqta",TLBT Kitopi Plugin -New,1197,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,16796,dc02114a-271f-4bb6-bb95-d676bfda1c0f,"Circle Cafe - Healthy Salads & Bowls, Media City",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,600315,450196d4-540b-4964-8703-875e68b2e93b,"Circle Cafe - Healthy Salads & Bowls, Mirdif",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,604301,1ea90cd5-f9c8-4e3d-bb1a-9ffe999c3cc5,"Circle Cafe - Healthy Salads & Bowls, Saadiyat Island",TLBT Kitopi Plugin -New,1083,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,16797,ed413edc-9535-450b-af2d-c9dc91030248,"Circle Cafe - Healthy Salads & Bowls,ٍ Dubai Studio City",TLBT Kitopi Plugin -New,8717,Circle Cafe - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,760201,4db36f31-4754-4c0b-b3cc-96bf9b098b1c,"CrACKLES, Business Bay 4,Business Bay",TLBT Kitopi Plugin -New,695100,CrACKLES,OWN_DELIVERY,,UAE
+TB_AE,764243,bdd434d9-08df-4221-a5af-74c924ea430a,"Cuisine D'amour - World's Best Cookies & Desserts By Snap, Business Bay 4",TLBT Kitopi Plugin -New,697767,Cuisine D'amour - World's Best Cookies & Desserts By Snap,OWN_DELIVERY,,UAE
+TB_AE,759026,3f264cea-3304-43ae-889f-0b0f5ccd6244,"Cuisine D'amour - World's Best Cookies & Desserts, Dubai Marina ",TLBT Kitopi Plugin -New,632773,Cuisine D'amour - World's Best Cookies & Desserts ,OWN_DELIVERY,,UAE
+TB_AE,759027,653e983e-3390-4f55-89f6-bef8e3ade2de,"Cuisine D'amour - World's Best Cookies & Desserts, Dubai Silicon Oasis 2, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,632773,Cuisine D'amour - World's Best Cookies & Desserts ,OWN_DELIVERY,,UAE
+TB_AE,717616,19d9af85-e18f-4bf3-bba0-abf00ee32b59,"Cuisine D'amour - World's Best Cookies & Desserts, Mirdif SK ",TLBT Kitopi Plugin -New,632773,Cuisine D'amour - World's Best Cookies & Desserts ,OWN_DELIVERY,,UAE
+TB_AE,672718,7ffaed40-661b-41fb-a7a3-0aef7508107d,"Cuisine d'amour - World's best cookies & desserts عالم الحلويات اللذيذة,  Al Nahyan - AD8",TLBT Kitopi Plugin -New,632773,Cuisine D'amour - World's Best Cookies & Desserts ,OWN_DELIVERY,,UAE
+TB_AE,652762,ff0643c5-57e9-498f-b8f7-3f2e0be0ab6e,"Cuisine d'amour - World's best cookies & desserts عالم الحلويات اللذيذة, Al Barsha 3",TLBT Kitopi Plugin -New,632773,Cuisine D'amour - World's Best Cookies & Desserts ,OWN_DELIVERY,,UAE
+TB_AE,660674,b766312b-c58b-4396-8d7d-80aa1ac6f1f1,"Cuisine d'amour - World's best cookies & desserts عالم الحلويات اللذيذة, Business Bay",TLBT Kitopi Plugin -New,632773,Cuisine D'amour - World's Best Cookies & Desserts ,OWN_DELIVERY,,UAE
+TB_AE,617322,1c7d06d7-adc0-464f-90f9-528ecf310f31,"Curry Box - Indian, Grill & More,  Mirdif SK",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,735602,8c4ea73c-94d2-43bb-97eb-f426b88437b1,"Curry Box - Indian, Grill & More, Al Ain, Al Hili",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,735991,e4331f58-eb88-4a52-834e-bed91eef8e8b,"Curry Box - Indian, Grill & More, Bani Yas, Bani Yas East",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,617321,798a9515-a88c-463b-83df-c0aab3382cf9,"Curry Box - Indian, Grill & More, Dubai Business Bay 4",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,617323,dc20a287-2d71-49c6-bf76-967950752709,"Curry Box - Indian, Grill & More, Dubai Motor City",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,738746,80a1d7d5-7470-4d51-b79a-e1871d0f5d1d,"Curry Box - Indian, Grill & More, Forsan Mall,Madinat Khalifa - A",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,738885,6146cb79-f277-4258-8a6d-5c940f1f1e1d,"Curry Box - Indian, Grill & More, Galleria - Al Nahyan - AD 8",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,666312,fcbae258-9b66-4038-848c-d57945fd5c52,"Curry Box - Indian, Grill & More, Media City",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,OWN_DELIVERY,,UAE
+TB_AE,2335,268645c5-9a2b-49f7-a325-f21030d7d128,"Curry Box - Indian, Grill & More, Mirdif SK",TLBT Kitopi Plugin -New,1482,Curry Box - Authentic Indian Kitchen,VENDOR_DELIVERY,,UAE
+TB_AE,662398,3126d3d7-cd70-424d-a84f-6a3002331773,"Cut by High Joint - Calorie Counted Burgers, Al Khawaneej 2",TLBT Kitopi Plugin -New,638789,Cut by High Joint - Calorie Counted Burgers,OWN_DELIVERY,,UAE
+TB_AE,662253,9c7c780e-3532-431d-a52f-b96810bd9ba9,"Cut by High Joint - Calorie Counted Burgers, Business Bay",TLBT Kitopi Plugin -New,638789,Cut by High Joint - Calorie Counted Burgers,OWN_DELIVERY,,UAE
+TB_AE,670635,5d25cfd5-182d-4c80-a370-66828aed8872,"Cut by High Joint - Calorie Counted Burgers, Dubai Motor City",TLBT Kitopi Plugin -New,638789,Cut by High Joint - Calorie Counted Burgers,OWN_DELIVERY,,UAE
+TB_AE,662408,c9a6f36f-86c5-4ebc-9a25-3a5142f8e8f3,"Cut by High Joint - Calorie Counted Burgers, Media City",TLBT Kitopi Plugin -New,638789,Cut by High Joint - Calorie Counted Burgers,OWN_DELIVERY,,UAE
+TB_AE,766564,b58c103d-c346-42ac-9ccc-82ab08acb9ab,"Daddy Cool's Kitchen, Dubai Hills Mall, Dubai Hills",TLBT Kitopi Plugin -New,699226,Daddy Cool's Kitchen,OWN_DELIVERY,,UAE
+TB_AE,657405,11677834-e734-4a25-b47e-4ef49dc88168,"Deek Duke - Chicken Sandwiches & Salads, Al Sufouh 2",TLBT Kitopi Plugin -New,635649,Deek Duke - Chicken Sandwiches & Salads,OWN_DELIVERY,,UAE
+TB_AE,659187,7419523d-87c7-46b6-8066-c0ffb8e5533d,"Deek Duke - Chicken Sandwiches & Salads, Business Bay",TLBT Kitopi Plugin -New,635649,Deek Duke - Chicken Sandwiches & Salads,OWN_DELIVERY,,UAE
+TB_AE,665952,a507a004-0484-441d-901c-2a8d7d3c785a,"Deek Duke - Chicken Sandwiches & Salads, Hessa St",TLBT Kitopi Plugin -New,635649,Deek Duke - Chicken Sandwiches & Salads,OWN_DELIVERY,,UAE
+TB_AE,733823,0818c2e8-5824-4c3e-a3c5-54a13ea7b93c,"Durum Sarayi - Turkish Grills & Wraps, Business Bay 4, Business Bay",TLBT Kitopi Plugin -New,673474,Durum Sarayi - Turkish Grills & Wraps,OWN_DELIVERY,,UAE
+TB_AE,722947,5a36e782-c714-4300-993d-e8749d020f15,"Durum Sarayi - Turkish Grills & Wraps, Hessa St",TLBT Kitopi Plugin -New,673474,Durum Sarayi - Turkish Grills & Wraps,OWN_DELIVERY,,UAE
+TB_AE,747155,f0bd6384-3213-49c8-95c9-6ab0f7837527,"Durum Sarayi - Turkish Grills & Wraps, Meadows",TLBT Kitopi Plugin -New,687569,Durum Sarayi - Turkish Grills & Wraps,OWN_DELIVERY,,UAE
+TB_AE,666575,f7d6e0d3-8eed-4115-a199-f61342fcfe42,"EET FRESH, Business Bay 4",TLBT Kitopi Plugin -New,631725,EET Fresh,OWN_DELIVERY,,UAE
+TB_AE,651013,48e5a1ee-5cf2-4522-9fa6-60356f6779b2,"EET Fresh, Hessa st, Al Barsha 3",TLBT Kitopi Plugin -New,631725,EET Fresh,OWN_DELIVERY,,UAE
+TB_AE,643127,3c3d8a98-fda1-4bee-a73a-5686773dd89f,"Earth Kitchen - Healthy Meal Trays, DIFC",TLBT Kitopi Plugin -New,627268,Earth Kitchen - Healthy Meal Trays,OWN_DELIVERY,,UAE
+TB_AE,755883,333eaf71-5d35-4d6e-9750-8b0202252a77,"Eatopi - Signature Dishes from Iconic Local Chefs, Dubai Hills Mall,Dubai Hills",TLBT Kitopi Plugin -New,687372,Eatopi - Signature Dishes from Iconic Local Chefs,OWN_DELIVERY,,UAE
+TB_AE,746816,ea833f00-1c1e-45b4-91b8-d12961f73b16,"Eatopi - Signature Dishes from Iconic Local Chefs, One Central, Dubai World Trade Center - DWTC",TLBT Kitopi Plugin -New,687372,Eatopi - Signature Dishes from Iconic Local Chefs,OWN_DELIVERY,,UAE
+TB_AE,667321,f908efbf-3418-4a10-8fd3-437caa0dac99,"Elevation Burger – Ingredients Matter, Business Bay",TLBT Kitopi Plugin -New,637644,Elevation Burger - Ingredients Matter,OWN_DELIVERY,,UAE
+TB_AE,669621,97f25ebe-5594-4336-a1ac-2cdaeb203a89,"Elevation Burger – Ingredients Matter, Hessa Street",TLBT Kitopi Plugin -New,637644,Elevation Burger - Ingredients Matter,OWN_DELIVERY,,UAE
+TB_AE,660538,7866132b-28e8-4721-b06c-29c286bc9c69,"Elevation Burger – Ingredients Matter, Media City",TLBT Kitopi Plugin -New,637644,Elevation Burger - Ingredients Matter,OWN_DELIVERY,,UAE
+TB_AE,735827,c1f3f90e-1267-4fbe-8a5b-e62a7517d3b0,"FRYD: Fried Chicken, (DH Kitchen), Industrial Area 13",TLBT Kitopi Plugin -New,680854,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,645621,c219348f-63eb-45d5-afe9-e138d1400d86,"FRYD: Fried Chicken, Al Majaz 2",TLBT Kitopi Plugin -New,628592,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,625387,983e7aae-7875-4be9-9934-567a2550db07,"FRYD: Fried Chicken, Al Nahyan - AD8",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,48504,41fd19d7-bedd-4c3a-9d30-f833a8ca5158,"FRYD: Fried Chicken, Business Bay",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,45494,5e257f78e66ec4963be9fd40,"FRYD: Fried Chicken, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,47572,41bd9f4b-9d4d-46c1-a9f8-3e6c702a7f4f,"FRYD: Fried Chicken, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,VENDOR_DELIVERY,,UAE
+TB_AE,671214,0f7ace0d-38f6-459b-afdf-293062636ddb,"FRYD: Fried Chicken, Emirates Zoo",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,45495,5e257f6be66ec4963be9fd3f,"FRYD: Fried Chicken, Hessa Street",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,675200,6fb3aca7-9a70-4c39-af17-518ed6be3cb3,"FRYD: Fried Chicken, Khalifa City - AD7",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,45506,5e257f84e66ec4963be9fd41,"FRYD: Fried Chicken, Marina 3",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,705403,2be6f5b3-ab78-4ae9-82c2-33ef0d96bccb,"FRYD: Fried Chicken, Mirdif",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,47127,a2f635eb-43bc-4222-9dd2-969216a49d59,"FRYD: Fried Chicken, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,25610,FRYD: Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,727613,74fa55ca-5a1c-4f5d-9a27-1ef25e543b5a,"Farooj Al Baba - Charcoal Chicken, Hessa St",TLBT Kitopi Plugin -New,676139,Farooj El Baba – Fresh Charcoal Grilled Chicken,OWN_DELIVERY,,UAE
+TB_AE,762604,96172cd7-65ae-4c4b-9c1f-10350a63457f,"Farooj Al Baba - Charcoal Chicken, Jumeirah Beach Residence - JBR",TLBT Kitopi Plugin -New,687568,Farooj El Baba – Fresh Charcoal Grilled Chicken,OWN_DELIVERY,,UAE
+TB_AE,755846,b0063f5e-1ceb-467f-8936-63d1d1da3679,"Farooj Al Baba, Al Bateen, Al Khalidiyah",TLBT Kitopi Plugin -New,687568,Farooj El Baba – Fresh Charcoal Grilled Chicken,OWN_DELIVERY,,UAE
+TB_AE,747154,361878a8-150d-4818-9e77-e9e883401c4b,"Farooj Al Baba, Meadows",TLBT Kitopi Plugin -New,687568,Farooj El Baba – Fresh Charcoal Grilled Chicken,OWN_DELIVERY,,UAE
+TB_AE,733824,f2eff26b-be83-4e6d-a554-356677864857,"Farooj El Baba - Charcoal Chicken, Business Bay 4, Business Bay",TLBT Kitopi Plugin -New,676139,Farooj El Baba – Fresh Charcoal Grilled Chicken,OWN_DELIVERY,,UAE
+TB_AE,759705,f824228b-f0f9-4bf3-b9b1-53f076b020c5,"Farooj El Baba - Charcoal Chicken, Mirdiff SK,Mirdif",TLBT Kitopi Plugin -New,676139,Farooj El Baba – Fresh Charcoal Grilled Chicken,OWN_DELIVERY,,UAE
+TB_AE,669618,4e60a720-6b91-46e2-a49f-abb95795462b,"Fatburger – Fresh, Authentic, Tasty Burgers, Hessa Street",TLBT Kitopi Plugin -New,637643," Fatburger – Fresh, Authentic, Tasty Burgers",OWN_DELIVERY,,UAE
+TB_AE,740751,24838b51-cdc4-4a56-9596-6aa435ca7561,"Fireslice - Italian Pizza, Al Nahyan AD 8, Al Nahyan",TLBT Kitopi Plugin -New,668126,Fireslice - Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,714127,3f8bc90c-95f7-4609-9e1b-6d191ef74679,"Fireslice - Italian Pizza, Business Bay",TLBT Kitopi Plugin -New,668126,Fireslice - Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,735589,ec2b3f12-6e34-4c8a-9e02-6c34762143ef,"Fireslice - Italian Pizza, Dubai Motor City",TLBT Kitopi Plugin -New,668126,Fireslice - Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,736881,f3bf9fe9-badc-4fcc-8342-c89c5f4b14dc,"Fireslice - Italian Pizza, Media City, Al Sufouh 2",TLBT Kitopi Plugin -New,668126,Fireslice - Italian Pizza,OWN_DELIVERY,,UAE
+TB_AE,749086,bbd1aeb4-f263-4d0c-92cd-dbad1b5d7a6d,"Flavour Fields - Healthy Salads & Bowls, Galleria Mall, Jumeirah 1",TLBT Kitopi Plugin -New,688695,Flavour Fields - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,758391,c5b3f77d-5338-4be7-bf46-41c4b0cb3c83,"Flavour Fields - Healthy Salads & Bowls,Al Barsha 3",TLBT Kitopi Plugin -New,688695,Flavour Fields - Healthy Salads & Bowls,OWN_DELIVERY,,UAE
+TB_AE,759092,a2f221dc-7658-4518-bbbd-a1b263df2d40,"Fry Guys!, AD7 Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,756666,a2ab5432-8462-4ff1-8222-7afc8d38ff68,"Fry Guys!, Al Nahyan",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,740074,08c81539-693f-4ba1-9070-875965db3281,"Fry Guys!, Business Bay 4, Business Bay",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,740628,581461a6-47c7-45b7-af10-bca522929b0f,"Fry Guys!, DSO 2, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,737624,51c95fb4-4c88-449f-817c-2a8c7c837a7f,"Fry Guys!, Hessa Street ,Al Barsha 3",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,751711,da9e6c0a-c45d-4c51-91b5-1e99eafba937,"Fry Guys!, Marina 3, Dubai Marina",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,747178,010081eb-3807-45d7-ae19-60f02ff6a598,"Fry Guys!, Mirdif SK, Mirdif",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,761633,73986c82-67e6-441e-a343-7bcf4f3b3547,"Fry Guys!, Mussafah, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,742246,a3439361-37f1-4fb2-a9f5-bc502f53b6d7,"Fry Guys!, Sharjah 1 (Al Majaz 2), Al Majaz 2",TLBT Kitopi Plugin -New,681873,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,740450,87effae0-7c4b-4572-967c-141e5e52099e,"Fry Guys,(DH Kitchen), Industrial Area 13",TLBT Kitopi Plugin -New,683566,Fry Guys!,OWN_DELIVERY,,UAE
+TB_AE,759906,fa3ec537-7c2d-46b5-9e2d-6f552f0e76b5,"GYMFOOD, (DH Kitchen), Al Muteena",TLBT Kitopi Plugin -New,694916,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,653782,e5f54347-6726-476c-a13e-eec14bdfa34b,"GYMFOOD, Al Majaz 2",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,50664,5e74db7c-e932-4fcc-9fd5-b9ae825a1b08,"GYMFOOD, Al Nahyan - AD8",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,768157,6c0e1f80-04b9-4663-8f8c-552efcc94e6a,"GYMFOOD, Bani Yas East",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,614534,9ef36c6b-918a-4148-a60a-7c7ec82e13e3,"GYMFOOD, Business Bay",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,50660,d2b90662-fcc6-492b-b59f-71775d8d296e,"GYMFOOD, Dubai Marina 3",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,50662,66bc1b76-ff7e-4921-b6f3-d72535cb1b6b,"GYMFOOD, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,50661,ad45c23a-7043-4aaf-8bd2-b38bf65b5b44,"GYMFOOD, Hessa Street",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,665498,d6ea5cde-5fb8-4b7c-aa48-ba5114bce7cb,"GYMFOOD, Madinat Khalifa - A",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,701796,e0472357-541e-4bad-a827-9c2a4fae8cf9,"GYMFOOD, Mirdif",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,50665,81513c63-cb68-4fe8-abcd-93427a7f99ca,"GYMFOOD, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,28139,GYMFOOD,OWN_DELIVERY,,UAE
+TB_AE,763989,952187d1-7109-486c-a15e-555a028a55fe,"Go! Chinese - Healthier. Better - Deira City Centre, Deira",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,762961,9f574cbd-7c2d-45ed-aac8-5eb8802e24a0,"Go! Chinese - Healthier. Better, Burjuman, Al Mankhool",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,698832,3b9b6651-b5b6-4eff-b0ba-105c15e86991,"Go! Chinese - Healthier. Better, Business Bay 4",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,600949,c2f72fb3-01c1-443b-9b89-682e305d1115,"Go! Chinese - Healthier. Better, Dubai Marina 3",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,774626,1dd30b97-4b26-4479-895c-31807d0170a4,"Go! Chinese - Healthier. Better, Dubai Motor City",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,619940,e1445b34-6fa0-479e-89b8-9111c50a23d6,"Go! Chinese - Healthier. Better, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,600950,d85d8f44-f676-4aba-a4bd-7f54569f13d9,"Go! Chinese - Healthier. Better, Hessa St",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,764481,df901794-cfae-4232-9ab5-53ca4b5079bd,"Go! Chinese - Healthier. Better, Mushriff Mall - AD, Hadbat Al Zafranah",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,763990,caba445f-dc4e-4014-bd8f-06c1ac8f26a5,"Go! Chinese - Healthier. Better, Sahara Centre-Sharjah, Al Nahda",TLBT Kitopi Plugin -New,29193,Go! Chinese - Healthier. Better,OWN_DELIVERY,,UAE
+TB_AE,703264,54bb5b7a-2957-45d0-8a1e-2315dabaed71,"Go! Keto - The Keto Co, Business Bay",TLBT Kitopi Plugin -New,614261,Go! Keto - The Keto Co,OWN_DELIVERY,,UAE
+TB_AE,623214,7637016e-4261-4398-9955-106f9441dc28,"Go! Keto - The Keto Co, Hessa St. ",TLBT Kitopi Plugin -New,614261,Go! Keto - The Keto Co,OWN_DELIVERY,,UAE
+TB_AE,759344,780e5247-51c3-489a-9148-6c4fe2fa28ba,"HONEYBIRD - Nashville Fried Chicken, Hessa Street, Al Barsha 3",TLBT Kitopi Plugin -New,694625,HONEYBIRD - Nashville Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,738539,8c8a0f7b-4f50-4240-bd14-cb4bb21bd4ae,"HOTBUN Sliders, (DH Kitchen), Industrial Area 13",TLBT Kitopi Plugin -New,682442,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,706814,ec4189fa-72fb-44d1-a807-dbe4e46b702c,"HOTBUN Sliders, Business Bay",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,706825,22c0ffdc-1fab-4219-a7d9-fb900b7a8c36,"HOTBUN Sliders, Hessa St",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,645616,203237cd-0ccf-42d8-abce-e135b80b8b2e,"Haagen Dazs, Al Majaz 2",TLBT Kitopi Plugin -New,628588,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,44469,5dff0796e66ec4963be79a01,"Haagen-Dazs Ice Cream, Al Nahyan AD 8",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,43487,5dc7ebe2a9a18e37a1d6a22f,"Haagen-Dazs Ice Cream, Al Sufouh 2",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,49975,915f62a8-5e25-44b0-9a0a-4bb0f5272123,"Haagen-Dazs Ice Cream, Al Sufouh 2",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,VENDOR_DELIVERY,,UAE
+TB_AE,43488,5dff6574e66ec4963be79b5c,"Haagen-Dazs Ice Cream, Business Bay",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,44470,5dfe07bae66ec4963be793f3,"Haagen-Dazs Ice Cream, Dubai Motor City",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,43767,5dff069be66ec4963be799ee,"Haagen-Dazs Ice Cream, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,47576,d32c8db9-3a45-4c2a-8312-90ece770cf66,"Haagen-Dazs Ice Cream, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,VENDOR_DELIVERY,,UAE
+TB_AE,675757,8c23d5b6-0ef5-4185-b13b-9178a98826c1,"Haagen-Dazs Ice Cream, Mirdif",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,44467,5dde10dae66ec4963be635a6,"Haagen-Dazs Ice Cream, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,24420,Haagen-Dazs Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,652454,af19b6f8-e58e-4ba6-be94-4dcb4e5b5e70,"Habibi Kitchen, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,632569,Habibi Kitchen,OWN_DELIVERY,,UAE
+TB_AE,735727,1fd079dc-ba50-4621-b3fa-4bb16fa91a73,"High Joint, (DH Kitchen), Industrial Area 13",TLBT Kitopi Plugin -New,680787,High Joint,OWN_DELIVERY,,UAE
+TB_AE,729138,e7be3dc2-2401-4b2e-97f3-c97e6dc96816,"High Joint, AD7 Khalifa City",TLBT Kitopi Plugin -New,676550,High Joint,OWN_DELIVERY,,UAE
+TB_AE,642474,18cdd1bb-f04b-446c-8533-bc97ad479d45,"High Joint, Al Khawaneej 2",TLBT Kitopi Plugin -New,15121,High Joint,OWN_DELIVERY,,UAE
+TB_AE,732620,be269df3-d739-4f9e-888c-a4f37ec24b9d,"High Joint, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,676550,High Joint,OWN_DELIVERY,,UAE
+TB_AE,766613,b02795f1-7941-48fb-859a-3246b5a5cb5f,"High Joint, Bluewaters, Dubai Marina",TLBT Kitopi Plugin -New,676550,High Joint,OWN_DELIVERY,,UAE
+TB_AE,610835,a7305759-69fa-4339-9afc-075027e539e3,"High Joint, Business Bay",TLBT Kitopi Plugin -New,15121,High Joint,OWN_DELIVERY,,UAE
+TB_AE,732123,a949a4db-0543-41d5-bf6d-c3bdb041f94f,"High Joint, DSO",TLBT Kitopi Plugin -New,676550,High Joint,OWN_DELIVERY,,UAE
+TB_AE,26916,5a420ed4-4dfd-4161-9ed6-3cd9da581876,"High Joint, Jumeirah 1",TLBT Kitopi Plugin -New,15121,High Joint,OWN_DELIVERY,,UAE
+TB_AE,610834,3a4051f8-cc81-4311-8815-9cbd8cc45834,"High Joint, Media City",TLBT Kitopi Plugin -New,15121,High Joint,OWN_DELIVERY,,UAE
+TB_AE,728386,b25a2e4c-1c15-45d0-9d07-b3c9d8ec1ee3,"High Joint, Mirdiff SK",TLBT Kitopi Plugin -New,676550,High Joint,OWN_DELIVERY,,UAE
+TB_AE,600933,7fb6fdff-5bc2-403f-a3a0-1f6e38ed0023,"High Joint, Motor City",TLBT Kitopi Plugin -New,15121,High Joint,OWN_DELIVERY,,UAE
+TB_AE,765033,051500f5-912f-4d69-ac58-78bc70227d88,"High Joint, Mussafah, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,676550,High Joint,OWN_DELIVERY,,UAE
+TB_AE,755853,39d277b0-df34-4deb-8302-c7464a4c3b70,"HotBun Sliders,  Jumeirah, Umm Suqeim 1",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,726537,5bc6bb60-8721-43f6-9080-028b9eb63273,"HotBun Sliders, Al Majaz 2",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,710136,99b072c3-f16f-4d23-b3aa-0c556298cb60,"HotBun Sliders, Al Nahyan - AD8",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,770740,9656e033-67f0-41ee-9700-da1bf90aba47,"HotBun Sliders, Bluewaters, Dubai Marina",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,722167,7a66b682-34fd-4d75-a546-9c29555f43a3,"HotBun Sliders, DSO,Dubai Silicon Oasis",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,747176,aeabc7e2-8ee8-4bcd-a3a3-dfb384e3569b,"HotBun Sliders, Emirates Zoo AD, Al Bahya",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,714131,0bd8e020-367c-4e3b-9102-bd956ff18b87,"HotBun Sliders, Madinat Khalifa - A",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,710137,5abc4d42-7f0c-477c-88b4-f1a11059386c,"HotBun Sliders, Mirdif SK",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,735008,8cf8cd85-3888-4415-818b-e26923e37a79,"HotBun Sliders, Mussafah ,Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,664077,HOTBUN Sliders,OWN_DELIVERY,,UAE
+TB_AE,651531,2542c7f4-8f2c-4567-b00e-2114c15d42c2,"IHOP,  Al Nahyan - AD 8",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,645579,792bd496-946d-4055-bf80-6cd1d501fec2,"IHOP, Al Majaz 2",TLBT Kitopi Plugin -New,628565,IHOP,OWN_DELIVERY,,UAE
+TB_AE,619669,2c2a5eeb-ed71-4689-99cf-58e8acb8cfad,"IHOP, Al Sufouh 2",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,644393,55117598-96f3-4c51-88cd-eb50acf3d2f8,"IHOP, Business Bay",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,630262,2ac316f4-fdc5-4289-9ba0-35760a5358a3,"IHOP, Dubai Motor City",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,650089,28d85075-0d86-4d25-9770-351e90c06e7b,"IHOP, Dubai Silicon Oasis ",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,675753,db23e1cd-1ed3-4c8c-9b0a-2e0b05182f63,"IHOP, Khalifa City - AD7, Madinat Khalifa - A",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,701798,abad06bd-ce51-4fdf-ac69-980e7d2db351,"IHOP, Mirdif",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,663312,94117538-d6bc-4e7d-8478-d7de27a01b4a,"IHOP, Mussafah - AD3",TLBT Kitopi Plugin -New,611695,IHOP,OWN_DELIVERY,,UAE
+TB_AE,731429,00b64792-31c5-4633-a7b6-eabf98f4434f,"Ichiban Sushi, (DH Kitchen), Al Rashidiya",TLBT Kitopi Plugin -New,678390,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,643712,adb3615d-8e80-4f58-95c7-64b134decc82,"Ichiban Sushi, Al Nahyan - AD8",TLBT Kitopi Plugin -New,17157,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,36035,5e009726e66ec4963be7aac8,"Ichiban Sushi, Business Bay TGO",TLBT Kitopi Plugin -New,17157,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,722777,0ec9f04f-4d07-4f15-af5f-9cad1cd1e4b6,"Ichiban Sushi, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,673351,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,38288,725b0eaf-74b1-4aaf-ab17-38dbe3ab840b,"Ichiban Sushi, Green Community Motor City TGO",TLBT Kitopi Plugin -New,17157,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,675667,c99c12b5-5146-4049-bbbe-da5c7f44d5c2,"Ichiban Sushi, Madinat Khalifa - A",TLBT Kitopi Plugin -New,17157,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,42096,efbbdb17-29f0-48ed-8693-1d0945e5be42,"Ichiban Sushi, Media City",TLBT Kitopi Plugin -New,17157,Ichiban Sushi,VENDOR_DELIVERY,,UAE
+TB_AE,32877,5e7dad2463843cc5cd077295,"Ichiban Sushi, Media City TGO",TLBT Kitopi Plugin -New,17157,Ichiban Sushi,OWN_DELIVERY,,UAE
+TB_AE,645582,21ec9f1e-63bf-4796-af04-0028104d6113,"Japang - Japanese Fried Chicken & Sandos, Al Majaz 2",TLBT Kitopi Plugin -New,628569,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,628252,aff488db-8ef7-4f61-abd9-99ae4bb5944f,"Japang - Japanese Fried Chicken & Sandos, Al Nahyan - AD8",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,46090,5e54db9163843cc5cd051ce6,"Japang - Japanese Fried Chicken & Sandos, Business Bay",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,27466,5c752edda9a18e37a1cfb039,"Japang - Japanese Fried Chicken & Sandos, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,47577,9c4f72f2-2c89-407f-b6ca-2cc8e3b13430,"Japang - Japanese Fried Chicken & Sandos, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,VENDOR_DELIVERY,,UAE
+TB_AE,671211,415c3d71-f9bc-4c14-a43c-571c387409ab,"Japang - Japanese Fried Chicken & Sandos, Emirates Zoo",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,38200,5d495a23a9a18e37a1d47046,"Japang - Japanese Fried Chicken & Sandos, Hessa St",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,735828,a44f74ee-17a5-4bf4-b658-5a4ce964e3a7,"Japang - Japanese Fried Chicken & Sandos, Industrial Area 13",TLBT Kitopi Plugin -New,680855,Japang - Japanese Fried Chicken & Sandos,OWN_DELIVERY,,UAE
+TB_AE,675759,0815bad9-0ed3-4803-8067-9dddf2fedf90,"Japang - Japanese Fried Chicken & Sandos, Khalifa City - AD7",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,37709,5d387f26a9a18e37a1d37d43,"Japang - Japanese Fried Chicken & Sandos, Marina 3",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,701800,ff00a518-f150-4e34-b797-8d6529d4d3e3,"Japang - Japanese Fried Chicken & Sandos, mirdif",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,45756,b627075c-37bc-4398-aca8-f81e516abff7,"Japang, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,13421,Japang - Crispy Fried Chicken,OWN_DELIVERY,,UAE
+TB_AE,711683,2275df2f-4d30-445a-9b42-0861a406a468,"Jarful,  Al Danah",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,702953,ce669601-abaa-41bb-b314-fcb68dcc779c,"Jarful, (DH Kitchen), Shakhbout City",TLBT Kitopi Plugin -New,662068,Jarful,OWN_DELIVERY,,UAE
+TB_AE,723664,5ac6e9bd-c538-4d4a-8708-d88b93b471ae,"Jarful, Al Majaz 2",TLBT Kitopi Plugin -New,673900,Jarful,OWN_DELIVERY,,UAE
+TB_AE,701665,6702bae4-03ca-4656-a2f0-18afe0e8eb38,"Jarful, DSO, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,701664,59790e49-91a9-4dc0-b307-9299a7d16c23,"Jarful, Downtown ",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,701666,f72bc40e-e514-4914-b50e-a2a90b997bb4,"Jarful, Dubai Festival City",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,701668,52881f78-4b21-43db-8b89-8ab61ec2bb2f,"Jarful, Dubai Media City",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,701663,cc066247-0c25-416f-a7ed-0587855f9d65,"Jarful, Dubai Motor City",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,740338,6c286757-bd6b-4925-b698-bd87ab354cc2,"Jarful, Galleria Mall, Al Baraha 2",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,701645,c173ea70-843c-470f-9dcc-01dbb7eca273,"Jarful, Jumeirah Beach Residence - JBR",TLBT Kitopi Plugin -New,661384,Jarful,OWN_DELIVERY,,UAE
+TB_AE,723676,41023280-4889-47c7-8085-1dcb5f1e9066,"Jarful, Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,673900,Jarful,OWN_DELIVERY,,UAE
+TB_AE,682141,37891292-aff1-4c52-acd2-f3759033b36c,"Johnny Rockets – Home of the Original Burger, Al Nahyan - AD8",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,665232,f6f9fb33-ca88-42e9-b6d7-6ef8256843c2,"Johnny Rockets – Home of the Original Burger, Business Bay",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,669402,f39e8c66-2baa-4f56-94f1-d13004f524db,"Johnny Rockets – Home of the Original Burger, DSO",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,660499,224a7bbf-310f-4cb3-b951-b4469185e1f9,"Johnny Rockets – Home of the Original Burger, Dubai Media City",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,675158,666ee9e8-c44f-4adc-bc3e-14de337fac71,"Johnny Rockets – Home of the Original Burger, Forsan Mall",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,669403,e5ba6470-ae84-4d24-a081-539eed7c7de8,"Johnny Rockets – Home of the Original Burger, Hessa Street",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,762297,de7381aa-3474-4c8c-9691-2457de058abd,"Johnny Rockets – Home of the Original Burger, Jumeirah",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,701802,382c416d-91fe-4172-a832-0514c1f5e8bd,"Johnny Rockets – Home of the Original Burger, Mirdif",TLBT Kitopi Plugin -New,637612,Johnny Rockets - Home of the Original Burger,OWN_DELIVERY,,UAE
+TB_AE,755848,00b1b5b0-f4d6-4640-b3d1-97066e225919,"Kanoon - Healthy Lebanese Charcoal Grills, Al Bateen, Al Khalidiyah",TLBT Kitopi Plugin -New,687570,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,737254,0cd20e70-5c07-4852-9f03-44fe139ebdd2,"Kanoon - Healthy Lebanese Charcoal Grills, Business Bay 4",TLBT Kitopi Plugin -New,680265,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,756650,20ff61fb-a0b7-4dd7-aced-56c486b7a5a7,"Kanoon - Healthy Lebanese Charcoal Grills, DSO",TLBT Kitopi Plugin -New,687570,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,734769,e452a13a-855f-4ccb-8eb1-156cd23b2ca0,"Kanoon - Healthy Lebanese Charcoal Grills, Hessa Street",TLBT Kitopi Plugin -New,680265,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,760200,30f23c8a-d9e5-47c8-aa4a-1db428aab243,"Kanoon - Healthy Lebanese Charcoal Grills, Jumeirah Beach Residence - JBR",TLBT Kitopi Plugin -New,687570,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,747156,c6aaed36-a05d-44e6-86cb-8eaacfcb3bb9,"Kanoon - Healthy Lebanese Charcoal Grills, Meadows",TLBT Kitopi Plugin -New,687570,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,755475,ba721b9c-3ca6-4b75-b786-dc3b6453709e,"Kanoon - Healthy Lebanese Charcoal Grills, Mirdif SK",TLBT Kitopi Plugin -New,680265,Kanoon - Healthy Lebanese Charcoal Grills,OWN_DELIVERY,,UAE
+TB_AE,611337,77d81d07-4096-4e49-9836-068a18a21965,"Katsu - Japanese Soul food and Noodle Bar, DIFC",TLBT Kitopi Plugin -New,606235,Katsu - Japanese Soul food and Noodle Bar,OWN_DELIVERY,,UAE
+TB_AE,621213,406515cd-a9a0-4440-985d-10c7cafd033f,"Kava & Chai - Specialty Coffee & Tea, Mall of the Emirates",TLBT Kitopi Plugin -New,612706,Kava & Chai - Specialty Coffee & Tea,OWN_DELIVERY,,UAE
+TB_AE,645586,6067fca3-e739-425e-b79a-052cb016323d,"LUCA, Al Majaz 2",TLBT Kitopi Plugin -New,628573, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,677184,be5dabfc-586c-4077-9d69-fb08680c7438,"La Baguette de l'Entrecôte, Al Nahyan",TLBT Kitopi Plugin -New,645916,La Baguette de l'Entrecôte,OWN_DELIVERY,,UAE
+TB_AE,682441,da2d434d-2370-4994-8e8f-e6258fe3d01e,"La Baguette de l'Entrecôte, Business Bay",TLBT Kitopi Plugin -New,645916,La Baguette de l'Entrecôte,OWN_DELIVERY,,UAE
+TB_AE,674199,163c3cd0-8139-428b-b32c-6bfc975733e3,"La Baguette de l'Entrecôte, Hessa Street - Al Barsha 3",TLBT Kitopi Plugin -New,645916,La Baguette de l'Entrecôte,OWN_DELIVERY,,UAE
+TB_AE,768195,00e9a53d-483e-4835-8ca2-055e19ee830a,"La Baguette de l'Entrecôte, Khalifa City - AD 7, Madinat Khalifa - A",TLBT Kitopi Plugin -New,645916,La Baguette de l'Entrecôte,OWN_DELIVERY,,UAE
+TB_AE,681278,a0f5007d-3bd0-40c3-82d5-30bed23fc6dd,"La Baguette de l'Entrecôte, Mirdif",TLBT Kitopi Plugin -New,645916,La Baguette de l'Entrecôte,OWN_DELIVERY,,UAE
+TB_AE,730178,d6613657-c2b6-4e43-87c0-58858b88d133,"Little Dippers - Dessert Gift Boxes, Business bay",TLBT Kitopi Plugin -New,677604,Little Dippers - Dessert Gift Boxes,OWN_DELIVERY,,UAE
+TB_AE,731470,14021c3f-6b54-4556-bcb1-c506b1d6c5b1,"Little Dippers - Dessert Gift Boxes, Dubai Healthcare City",TLBT Kitopi Plugin -New,677604,Little Dippers - Dessert Gift Boxes,OWN_DELIVERY,,UAE
+TB_AE,733822,8b1214dc-7b68-4788-ac5d-8333d64b95d7,"Little Dippers - Dessert Gift Boxes, Dubai Studio City",TLBT Kitopi Plugin -New,677604,Little Dippers - Dessert Gift Boxes,OWN_DELIVERY,,UAE
+TB_AE,730082,5f4a6e23-5a79-411a-a930-d8730dd53eee,"Little Dippers - Dessert Gift Boxes, Hessa Street",TLBT Kitopi Plugin -New,677604,Little Dippers - Dessert Gift Boxes,OWN_DELIVERY,,UAE
+TB_AE,766556,c951384d-30aa-4273-8450-52824221bc79,"Lola Lita - Filipino Comfort Food, Al Muteena",TLBT Kitopi Plugin -New,699219,Lola Lita - Filipino Comfort Food,OWN_DELIVERY,,UAE
+TB_AE,751156,02b28757-f7f7-4f7d-8be0-f91e6b1b586c,"Lola Lita - Filipino Comfort Food, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,626864,Lola Lita - Filipino Comfort Food,OWN_DELIVERY,,UAE
+TB_AE,642350,9b73c1c5-a3fe-4a07-8743-3d697c654cc5,"Lola Lita - Filipino Comfort Food, Gate Avenue, DIFC",TLBT Kitopi Plugin -New,626864,Lola Lita - Filipino Comfort Food,OWN_DELIVERY,,UAE
+TB_AE,737619,e6a1d6e3-132f-40ee-9312-825a7b459f0a,"Lola Lita - Filipino Comfort Food, Hessa Street,Al Barsha 3",TLBT Kitopi Plugin -New,626864,Lola Lita - Filipino Comfort Food,OWN_DELIVERY,,UAE
+TB_AE,739624,1000fd7f-a292-4b0b-8083-376e8b55ed63,"Lola Lita - Filipino Comfort Food, Mirdif",TLBT Kitopi Plugin -New,626864,Lola Lita - Filipino Comfort Food,OWN_DELIVERY,,UAE
+TB_AE,738007,22488460-dfd2-4f4b-a427-58c2c955f900,"Lola Lita - Filipino Comfort Food, Sharjah 1, Al Majaz 2",TLBT Kitopi Plugin -New,626864,Lola Lita - Filipino Comfort Food,OWN_DELIVERY,,UAE
+TB_AE,764433,afa80bee-2840-4850-ba39-f00df5d50b0a,"Lotsa! Lazy Cake By Snap, Dubai Silicon Oasis 2",TLBT Kitopi Plugin -New,697768,Lotsa! Lazy Cake By Snap,OWN_DELIVERY,,UAE
+TB_AE,736280,6464f732-60ef-4dcd-ab4d-77040162f28b,"Lotsa! Lazy Cake, AD7 Khalifa City",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,756667,916af782-b79b-46d0-b308-4d790b1e81a7,"Lotsa! Lazy Cake, Al Hili -Al Ain, Al Hili",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,625568,467ce68b-797d-4380-aa9e-4d31e7f3f114,"Lotsa! Lazy Cake, Al Nahyan - AD8",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,606541,fc0ae37f-42a7-4bbe-a105-c9b0167fd68c,"Lotsa! Lazy Cake, DIFC TGO",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,600693,4877a8e4-1b88-46ee-a774-07331fdfc9b1,"Lotsa! Lazy Cake, Dubai Marina 3 TGO",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,736279,e1d70b09-1bb0-4653-a826-5f876c649331,"Lotsa! Lazy Cake, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,606543,8c570dd4-d5de-49fa-ac7c-df4d07e94756,"Lotsa! Lazy Cake, Green Community Motor City TGO",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,736278,36a27d06-6ae7-4e44-bb71-cf12f0f9cace,"Lotsa! Lazy Cake, Mirdiff ",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,616469,a042fbcd-2398-4a63-842c-d1363583ac81,"Lotsa! Lazy Cake, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,737652,cf19726e-6b85-4a99-a837-859c3c352552,"Lotsa! Lazy Cake, Sharjah 1, Al Majaz 2",TLBT Kitopi Plugin -New,600337,Lotsa! Lazy Cake,OWN_DELIVERY,,UAE
+TB_AE,649328,f2846304-939e-4a8c-92be-4ebabf5aa2e2,"Lovin` Bagels, Business Bay 4",TLBT Kitopi Plugin -New,630620,Lovin' Bagels,OWN_DELIVERY,,UAE
+TB_AE,649329,0a82a79d-2a36-4b19-8205-813f12398bfa,"Lovin` Bagels, Hessa St",TLBT Kitopi Plugin -New,630620,Lovin' Bagels,OWN_DELIVERY,,UAE
+TB_AE,764346,3cff8afb-3894-47c8-83ac-d3e419c08cfa,"Luca – Italian Pasta By Snap, Business Bay",TLBT Kitopi Plugin -New,697835,Luca – Italian Pasta By Snap,OWN_DELIVERY,,UAE
+TB_AE,764342,accaf566-182d-4dc4-91e6-1c411e1caefb,"Luca – Italian Pasta By Snap, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,697835,Luca – Italian Pasta By Snap,OWN_DELIVERY,,UAE
+TB_AE,760202,b93a98df-bfe6-4820-9673-c9d9b6faa94a,"Luca – Italian Pasta, (DH Kitchen) Al Muteena, Deira",TLBT Kitopi Plugin -New,664828,Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,774698,c7dffb59-23ef-45af-ab78-697f64a09bc2,"Luca – Italian Pasta, (DH Kitchen),  Industrial Area 13",TLBT Kitopi Plugin -New,665844,Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,625389,67eab2e8-fde8-4204-b366-559b042ffe5d,"Luca – Italian Pasta, Al Nahyan - AD8",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,751982,b09fceda-6d6f-4e95-81c0-d5fccef15833,"Luca – Italian Pasta, Al Shaab Village, Al Hazana",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,707514,757ec7ea-acb0-4278-a2f7-1dcc89e63eb7,"Luca – Italian Pasta, Aljada SHJ East, Muwaileh Commercial",TLBT Kitopi Plugin -New,628573, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,770297,99873e53-76cf-46ce-b963-d9680c9918ed,"Luca – Italian Pasta, BAS Mall - Bani Yas East",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,38203,5dfda862e66ec4963be793cd,"Luca – Italian Pasta, Business Bay 4",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,46187,12814f0c-5c6e-42d5-9532-cc2cb3e57084,"Luca – Italian Pasta, Dubai Silicon Oasis 2",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,671363,c695508b-9ee9-4d2b-bf26-dee44ee6154a,"Luca – Italian Pasta, Emirates Zoo, Al Bahya",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,665694,8e9836cf-6681-4568-a561-4cfe6a45235f,"Luca – Italian Pasta, Khalifa City",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,37711,5d387f26a9a18e37a1d37d45,"Luca – Italian Pasta, Media City",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,50176,46f9b58d-2d09-45dc-b5ec-94d6a1181ac3,"Luca – Italian Pasta, Media City",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,701799,60a9603a-e248-4b39-be66-ba2dcd25fe7d,"Luca – Italian Pasta, Mirdif",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,45762,887d2151-f927-4389-bf87-dda09bee72a7,"Luca – Italian Pasta, Mohammed Bin Zayed City ",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,38205,5d495a23a9a18e37a1d47045,"Luca – Italian Pasta, Motor City 3",TLBT Kitopi Plugin -New,19708, Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,773768,2a8b4022-3679-4b57-9173-10f5b0551992,"Luca – Italian Pasta,(DH Kitchen) Al Jimi",TLBT Kitopi Plugin -New,703605,Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,709910,335800ff-ee43-4c6c-b245-3280042846d3,"Luca – Italian Pasta,Al Dhait North,(DH Kitchen)",TLBT Kitopi Plugin -New,665844,Luca – Italian Pasta,OWN_DELIVERY,,UAE
+TB_AE,710828,f55161d0-e819-412e-a0b0-ff2e71ec1f2d,"Luca's Deli – Fresh Italian Sandwiches, Al Nahyan",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,708966,11cebb63-9d64-4d34-8484-cadf105aa528,"Luca's Deli – Fresh Italian Sandwiches, Arjan ",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,709995,493a9f5e-0e75-449e-8359-dac53277d441,"Luca's Deli – Fresh Italian Sandwiches, Dubai Healthcare City",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,708989,5d45ce98-3934-4b12-9605-226ad48df47b,"Luca's Deli – Fresh Italian Sandwiches, Dubai Marina",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,710829,d3c27f80-a8b5-4bed-b23d-4198fb0c3114,"Luca's Deli – Fresh Italian Sandwiches, Khalifa City",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,759091,2c80965c-7d43-46e4-a5b2-6cf88169ad6d,"Luca`s Deli – Fresh Italian Sandwiches, Al Shaab, Al Hazana",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,763334,74338fc3-1fe7-47ce-8997-fb842c8eb18f,"Luca`s Deli – Fresh Italian Sandwiches, Business Bay 4, Business Bay",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,763332,4c34474a-36ea-47d0-994f-191d32bac7bc,"Luca`s Deli – Fresh Italian Sandwiches, Mirdiff SK, Mirdif",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,769141,8e6e7c5f-89cc-432e-877a-e6d0b922caca,"Luca`s Deli – Fresh Italian Sandwiches, Mussafah, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,763339,0a619ad5-0ad5-47d4-93e7-993ac812e940,"Luca`s Deli – Fresh Italian Sandwiches, Silicon Oasis 2,Dubai Silicon Oasis",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,773954,8b1da7b7-cfb1-4655-9392-3d126b0df7cc,"Lucas Deli, (Dh Kitchen)  Al Jimi",TLBT Kitopi Plugin -New,703728,Lucas Deli,OWN_DELIVERY,,UAE
+TB_AE,754488,d1c2c5c8-8944-43b0-a41c-61c4a27f907c,"Luca’s Deli – Fresh Italian Sandwiches, Media City, Al Sufouh 2",TLBT Kitopi Plugin -New,665313,Luca's Deli – Fresh Italian Sandwiches,OWN_DELIVERY,,UAE
+TB_AE,729243,6eeb3f5e-30fd-4a38-973d-d5cd1c3b8bf0,"Luff - Mini Donuts, Al Dafrah",TLBT Kitopi Plugin -New,677062,Luff - Mini Donuts,OWN_DELIVERY,,UAE
+TB_AE,730149,816ed4a2-cb92-4443-90e7-daf57c9daa79,"Luff - Mini Donuts, Dubai Marina",TLBT Kitopi Plugin -New,677600,Luff - Mini Donuts,OWN_DELIVERY,,UAE
+TB_AE,730046,9bd08b5b-d23a-4f29-87df-a09a5b18f5b7,"Luff - Mini Donuts, Dubai Motor City",TLBT Kitopi Plugin -New,677600,Luff - Mini Donuts,OWN_DELIVERY,,UAE
+TB_AE,729242,500a603d-b346-409b-8925-bb7cdc71b1f5,"Luff - Mini Donuts, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,677062,Luff - Mini Donuts,OWN_DELIVERY,,UAE
+TB_AE,729241,ba478c8c-0dfc-44ac-8dbd-886e28b39266,"Luff - Mini Donuts, Muhaisnah 4",TLBT Kitopi Plugin -New,677062,Luff - Mini Donuts,OWN_DELIVERY,,UAE
+TB_AE,730148,1917e47d-ca1b-47ca-b3d1-222345f518c9,"Luff - Mini Donuts, SZR,DIFC",TLBT Kitopi Plugin -New,677600,Luff - Mini Donuts,OWN_DELIVERY,,UAE
+TB_AE,692553,1f47d8fb-504c-41f9-87eb-a1464696337e,"MAMA RITA - Lebanese Tabkha,  Business Bay",TLBT Kitopi Plugin -New,656604,MAMA RITA - Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,692552,13d8db86-02f0-46fa-bcb5-c55afbdc3ef2,"MAMA RITA - Lebanese Tabkha, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,656604,MAMA RITA - Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,692539,0f03a49d-d7a3-4edb-a7ef-4aa873c7e7a0,"MAMA RITA - Lebanese Tabkha, Dubai Marina",TLBT Kitopi Plugin -New,656604,MAMA RITA - Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,741930,d621d001-a79b-42fe-b317-ce0d9a25f6ce,"MAMA RITA - Lebanese Tabkha, Mirdif SK",TLBT Kitopi Plugin -New,656604,MAMA RITA - Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,692555,6bd249b2-c114-4257-80ba-25c0152e5bd3,"MAMA RITA - Lebanese Tabkha, Motor City 3",TLBT Kitopi Plugin -New,656604,MAMA RITA - Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,726531,2ed20c23-43f4-430f-a60b-8b18ebcb4b71,"Manoushe Brothers, (DH Kitchen) Shakhbout City",TLBT Kitopi Plugin -New,675551,Manoushe Brothers,OWN_DELIVERY,,UAE
+TB_AE,715988,420b2c03-f571-42e2-88bd-1382e933f9eb,"Manoushe Brothers, Al Danah, Al Manhal",TLBT Kitopi Plugin -New,662159,Manoushe Brothers,OWN_DELIVERY,,UAE
+TB_AE,703140,ea990640-28dc-4697-839a-f8291d030464,"Manoushe Brothers, Al Quasis",TLBT Kitopi Plugin -New,662159,Manoushe Brothers,OWN_DELIVERY,,UAE
+TB_AE,738019,d6b652c0-8c58-4ad3-8d86-5221904aeef5,"MiDomie - Indomie Noodles, Ajman, Al Mushairef",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,742767,be5bf4e0-6314-4c80-b25c-2463f8e56243,"MiDomie - Indomie Noodles, Bas Mall",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,737622,bdb81071-bcd8-4366-8f61-d78da1773477,"MiDomie - Indomie Noodles, Dubai Festival City",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,742766,866fe579-d162-4b91-bd6e-3197de556808,"MiDomie - Indomie Noodles, Mushrif Mall",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,742764,102e5a0e-d45c-4de5-90da-c4af2f381234,"MiDomie - Indomie Noodles, Muweilah Commercial",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,736281,2d198d96-7495-4264-91ea-e264864fc349,"MiDomie - Indomie Noodles, Sahara Centre, Al Nahda",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,736048,f2914a7e-e82b-4445-aad5-b23d79fbf8a5,"MiDomie - Indomie Noodles, Satwa",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,742765,9cc0652d-1242-4338-bd73-6bc19fe4ab58,"MiDomie - Indomie Noodles, Tourist Club Area (Al Zahia)",TLBT Kitopi Plugin -New,680963,MiDomie - Indomie Noodles,OWN_DELIVERY,,UAE
+TB_AE,44621,5cc033caa9a18e37a1d181d1,"Mix N Match , Al Nahyan - AD8",TLBT Kitopi Plugin -New,25016,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,44625,5c9107cba9a18e37a1cfb256,"Mix N Match , Motor City",TLBT Kitopi Plugin -New,25020,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,646554,1fba3461-c168-4ec4-909b-b39c74e0e60b,"Mix N Match, Al Majaz 2",TLBT Kitopi Plugin -New,629162,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,44623,5e54db9163843cc5cd051ce8,"Mix N Match, Business Bay",TLBT Kitopi Plugin -New,25018,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,44624,5c9107b0a9a18e37a1cfb253,"Mix N Match, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,25019,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,696595,0e8d8901-5fc1-43be-94b0-fdcc0da93b69,"Mix N Match, Khalifa City - AD 7,Madinat Khalifa - A",TLBT Kitopi Plugin -New,658872,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,46197,5d3d790da9a18e37a1d3dfc3,"Mix N Match, Marina 3",TLBT Kitopi Plugin -New,25930,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,702315,ce0928b3-c380-4596-a749-ec8878988b1d,"Mix N Match, Mirdif",TLBT Kitopi Plugin -New,661740,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,44620,5cc8739ea9a18e37a1d1aecf,"Mix N Match, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,25015,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,603133,98c64708-22c1-44c4-ae7c-c90427ffe8c2,"Mix N' Match,  Hessa St. Kitchen",TLBT Kitopi Plugin -New,601460,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,660739,a1591643-ac40-4983-82b7-50c336656590,"Mix N` Match, Dubai Media City",TLBT Kitopi Plugin -New,637760,Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,705986,6dc1f60f-0b4f-4e61-aafb-b2ca3f524fbb,"Mr. Beast Burger, Al Nahyan - AD8",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,705983,a241c629-0e84-4354-8f70-ad6568874b3d,"Mr. Beast Burger, Business Bay 4",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,705984,d35da329-587b-4588-93ec-63c3be20a3c9,"Mr. Beast Burger, Dubai Silicon Oasis 2 ",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,705957,c7c91729-cb2b-4820-be61-7b9114c59e79,"Mr. Beast Burger, Hessa St",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,705982,0b94f583-04ea-46cc-8494-29c7a3638dee,"Mr. Beast Burger, Media City",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,705981,8901b1b2-bfae-49f4-8ae1-d12e728b20a2,"Mr. Beast Burger, Mirdif SK",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,707374,3e4386ab-bbfa-463f-a49f-f4c4eb58a198,"Mr.Beast Burger, Al Mazaj 2",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,709485,0a35456d-df0f-4892-911f-844210b80211,"Mr.Beast Burger, Khalifa City AD7",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,707371,3796b86f-5692-42af-abd9-c0a313e6c21f,"Mr.Beast Burger, Mussafah",TLBT Kitopi Plugin -New,663611,Mr. Beast Burger,OWN_DELIVERY,,UAE
+TB_AE,22615,5d398405a9a18e37a1d38463,"NKD Pizza, Al Sufouh 2",TLBT Kitopi Plugin -New,11802,NKD Pizza,OWN_DELIVERY,,UAE
+TB_AE,50166,a12b7d04-2dae-4993-886d-736474cfd657,"NKD Pizza, Al Sufouh 2",TLBT Kitopi Plugin -New,11802,NKD Pizza,VENDOR_DELIVERY,,UAE
+TB_AE,670180,46c72336-990d-4e90-a278-2ef68af53d4e,"NKD Pizza, Business Bay",TLBT Kitopi Plugin -New,11802,NKD Pizza,OWN_DELIVERY,,UAE
+TB_AE,22616,5c8f9046a9a18e37a1cfb243,"NKD Pizza, Green Community Motor City",TLBT Kitopi Plugin -New,11802,NKD Pizza,OWN_DELIVERY,,UAE
+TB_AE,668770,925e58dd-ad1e-45e5-a3a6-1cbae4d54bff,Operation Falafel - Dubai Outlet Village,TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,661424,c5af0edd-d9fd-4c89-9db9-44c1842b32b3,Operation Falafel - Muhaisnah 4,TLBT Kitopi Plugin -New,1826,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,675620,db08accd-a391-41a4-9b6b-eed59870527d,"Operation Falafel, (DH Kitchens), Shakhbout City",TLBT Kitopi Plugin -New,646783,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,711696,c51eec76-1d99-47fd-8bb3-739a465b91f7,"Operation Falafel, Al Danah",TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,645581,455ee7f7-dc44-4c3a-956c-780f7120dca0,"Operation Falafel, Al Majaz 2",TLBT Kitopi Plugin -New,628568,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,11427,c5fec6c6-bfb4-447c-b390-95ccd62644a6,"Operation Falafel, Downtown Burj Khalifa",TLBT Kitopi Plugin -New,5699,Operation Falafel,VENDOR_DELIVERY,,UAE
+TB_AE,683818,84d81c6a-124b-404a-ad3b-6acb7efcaeac,"Operation Falafel, Downtown Burj Khalifa",TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,700483,b5ad94e4-46c7-43c1-ad25-7185a6965e73,"Operation Falafel, Dubai Festival City ",TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,688990,26c95e3b-91db-457b-9365-8c8047416cc8,"Operation Falafel, Dubai Hills",TLBT Kitopi Plugin -New,1826,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,684459,d38c2b21-eb61-448e-9528-90519cde5827,"Operation Falafel, Dubai Media City",TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,641184,dc4d5573-cbbc-47f0-83de-080763ebe573,"Operation Falafel, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,740339,c6d808ef-36d2-4be5-8bf3-cd092cf490c3,"Operation Falafel, Galleria Mall - Al Barsha 2",TLBT Kitopi Plugin -New,5699,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,2894,7c088968-ebe5-4a4a-a2a0-dc07e78b4a0d,"Operation Falafel, Jumeirah Beach Residence",TLBT Kitopi Plugin -New,1826,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,704423,f95d1406-10bf-462a-b9b9-f2b210d684bb,"Operation Falafel, Khalifa City - AD 7",TLBT Kitopi Plugin -New,15955,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,21040,debed264-0d87-4701-85f0-672f646da2e5,"Operation Falafel, Media City",TLBT Kitopi Plugin -New,5699,Operation Falafel,VENDOR_DELIVERY,,UAE
+TB_AE,684295,a0876d12-e940-4865-85b9-6c3c0350bcfb,"Operation Falafel, Motor City",TLBT Kitopi Plugin -New,1826,Operation Falafel,OWN_DELIVERY,,UAE
+TB_AE,4052,35a77274-dca3-4320-8f1e-c464f278a6a0,"Operation Falafel,Dubai Motor City",TLBT Kitopi Plugin -New,1826,Operation Falafel,VENDOR_DELIVERY,,UAE
+TB_AE,28533,5e84ceef63843cc5cd0892fa,"Organic Press Juices , Al Nahyan AD 8",TLBT Kitopi Plugin -New,13641,Organic Press Juices,OWN_DELIVERY,,UAE
+TB_AE,644664,8b61c092-0450-4d25-a21c-0fc617ae799a,"Organic Press Juices, Business Bay",TLBT Kitopi Plugin -New,13641,Organic Press Juices,OWN_DELIVERY,,UAE
+TB_AE,642756,652c2136-bcdf-4d17-8761-fca8083b72dc,"Organic Press Juices, Hessa Street",TLBT Kitopi Plugin -New,13641,Organic Press Juices,OWN_DELIVERY,,UAE
+TB_AE,25149,5d42f461a9a18e37a1d42c4f,"Organic Press Juices,Al Sufouh 2",TLBT Kitopi Plugin -New,13641,Organic Press Juices,OWN_DELIVERY,,UAE
+TB_AE,739577,7f67a81b-aba5-4316-acbd-86811916f4ab,"Oriental Box, Ajman, Al Mushairef",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,740349,fb92d620-cc73-4e5d-b2b6-14b39e68b7ea,"Oriental Box, BAS Mall - Baniyas, Bani Yas East",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,738745,431bb069-81cd-4e24-b568-4e6e2d614000,"Oriental Box, Burjuman,Al Mankhool",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,617369,f2698c69-69cb-4269-a84f-12090ada2edc,"Oriental Box, Business Bay 4",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,738744,cd0547c1-e76e-4500-98a0-4303a992191f,"Oriental Box, Mirdif",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,617368,9fe68f04-d2e1-4f50-ba73-614c0c61a7a8,"Oriental Box, Motor City 3",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,740083,77051a11-d7e9-4c4f-bc5e-7d14c721eca9,"Oriental Box, Mushriff Mall, Al Zafranah",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,739579,57cc7004-c88e-41a8-85af-7d8fc14a69f9,"Oriental Box, Muwaileh Commercial",TLBT Kitopi Plugin -New,1483,Oriental Box,OWN_DELIVERY,,UAE
+TB_AE,601053,1976570b-89ea-4946-8cfd-b98fa54d2229,"POPCITY, Al Nahyan",TLBT Kitopi Plugin -New,600496,Pop City Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,601054,d2e62ec2-6fa0-4379-b427-9a430e86e79b,"POPCITY, Khalifa City AD7 ",TLBT Kitopi Plugin -New,600496,Pop City Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,607521,53b040bb-72fd-4341-9b07-2a2d900fde11,"POPCITY, Mirdif SK ",TLBT Kitopi Plugin -New,600496,Pop City Ice Cream,OWN_DELIVERY,,UAE
+TB_AE,676035,f7837e98-e218-499c-a938-f5a180b0fa6f,"Papa Fluffy, Al Nahyan - AD8",TLBT Kitopi Plugin -New,621332,Papa Fluffy,OWN_DELIVERY,,UAE
+TB_AE,633593,c8c10bbc-1d3e-49d3-a257-18fcf23dcccb,"Papa Fluffy, Business Bay 4",TLBT Kitopi Plugin -New,621332,Papa Fluffy,OWN_DELIVERY,,UAE
+TB_AE,678605,48cfac7a-8e47-485f-a4f3-59afaf0d3ea3,"Papa Fluffy, Dubai Marina",TLBT Kitopi Plugin -New,621332,Papa Fluffy,OWN_DELIVERY,,UAE
+TB_AE,694536,84871236-4c98-4812-9454-6ffb646bcaf7,"Papa Fluffy, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,621332,Papa Fluffy,OWN_DELIVERY,,UAE
+TB_AE,648293,8d8206e8-8433-425c-bbb4-d64e8de84465,"Papa Fluffy, Hessa Street",TLBT Kitopi Plugin -New,621332,Papa Fluffy,OWN_DELIVERY,,UAE
+TB_AE,754991,84b37130-eac3-4fc7-8bab-25663d14103d,"Papa Fluffy, Mirdiff SK",TLBT Kitopi Plugin -New,621332,Papa Fluffy,OWN_DELIVERY,,UAE
+TB_AE,600225,9da06e05-2593-48b0-9dcd-e885445a1594,"Papa Johns Pizza, Al Mushrif - Airport Road (AD1)",TLBT Kitopi Plugin -New,28525,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,633534,06b3423b-acbf-4580-bfaf-b2bd5b9de5b8,"Papa Johns Pizza, Al Sufouh 2",TLBT Kitopi Plugin -New,28525,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,603462,fca99495-18b9-4eb3-98f8-4c714f883e11,"Papa Johns Pizza, Business Bay",TLBT Kitopi Plugin -New,28525,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,51542,973a78f8-ce3b-48f7-b7e6-fe26bb59c505,"Papa Johns Pizza, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,28525,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,603537,ec1b0407-a590-459e-bee0-7dd3a5d3c746,"Papa Johns Pizza, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,28525,Papa Johns Pizza,VENDOR_DELIVERY,,UAE
+TB_AE,603461,db03873e-ad29-4bda-876e-2c6aa1d15b66,"Papa Johns Pizza, Green Community Motor City",TLBT Kitopi Plugin -New,28525,Papa Johns Pizza,OWN_DELIVERY,,UAE
+TB_AE,764491,4743b5bd-831c-4186-bc7b-2fa71da39eb8,"Pastel Cakes By Snap, AD7 Khalifa City",TLBT Kitopi Plugin -New,697932,Pastel Cakes By Snap,OWN_DELIVERY,,UAE
+TB_AE,764256,aa57b1ea-f15e-4cdb-8a34-73f1dda68a64,"Pastel Cakes By Snap, Business Bay 4, Business Bay",TLBT Kitopi Plugin -New,697776,Pastel Cakes By Snap,OWN_DELIVERY,,UAE
+TB_AE,764257,da5d8070-9d1e-4e23-a383-385a1d286821,"Pastel Cakes By Snap, Silicon Oasis 2",TLBT Kitopi Plugin -New,697776,Pastel Cakes By Snap,OWN_DELIVERY,,UAE
+TB_AE,28845,5e84273b63843cc5cd0892d7,"Pastel Cakes, Al Nahyan AD 8",TLBT Kitopi Plugin -New,9352,Pastel Cakes,OWN_DELIVERY,,UAE
+TB_AE,22608,5c84d74ba9a18e37a1cfb138,"Pastel Cakes, Business Bay",TLBT Kitopi Plugin -New,9352,Pastel Cakes,OWN_DELIVERY,,UAE
+TB_AE,24467,5c7e7956a9a18e37a1cfb0a6,"Pastel Cakes, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9352,Pastel Cakes,OWN_DELIVERY,,UAE
+TB_AE,47580,153ffac7-4bf5-41fc-883e-41e3e2aa4344,"Pastel Cakes, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9352,Pastel Cakes,VENDOR_DELIVERY,,UAE
+TB_AE,32078,5cb19721a9a18e37a1cfc629,"Pastel Cakes, Khalifa City, AD7",TLBT Kitopi Plugin -New,9352,Pastel Cakes,OWN_DELIVERY,,UAE
+TB_AE,666106,8e33ab1c-2a1b-4b8f-a23d-7bc90fad8443,"Pinkberry, Business Bay",TLBT Kitopi Plugin -New,625215,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,646783,74dee9a6-a75f-45a8-85c9-94b33ff19d59,"Pinkberry, Hessa St",TLBT Kitopi Plugin -New,625215,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,639563,11c506e9-e024-4b71-8133-b94916272393,"Pinkberry, Media City",TLBT Kitopi Plugin -New,625215,Pinkberry,OWN_DELIVERY,,UAE
+TB_AE,41846,43995856-c169-444a-9afe-7d9810a58d7f,"Pinsanity - Authentic Roman Pinsa, Dubai Motor City",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,638508,9be6095b-3e17-4e32-858e-66ca251e1c60,"Pinsanity - Authentic Roman Pinsa, Dubai Silicon Oasis 2",TLBT Kitopi Plugin -New,624500,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,41850,f4a677e9-10cf-4603-b555-e953a56b3964,"Pinsanity - Thin & Crispy Pinsa, Business bay",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,41847,a3ff24e7-709a-4fe9-aaf4-580059e114e2,"Pinsanity - Thin & Crispy Pinsa, Marina promenade",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,41848,00b2d1c9-e3b4-41db-9d51-668a5b83257b,"Pinsanity - Thin & Crispy Pinsa, Media City",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,732978,dcb0551e-989a-402c-a339-396ff82fec6b,"Pinsanity - Thin & Crispy Pizza, Al shaab Village, Al Hazana",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,686853,2c9c2ff4-c086-4bfe-b73a-59a13cd20ee2,"Pinsanity - Thin & Crispy Pizza, Dubai Health Care City",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,690498,80d94b63-b6b2-4f91-b100-108299b81ed4,"Pinsanity - Thin & Crispy Pizza, Khalifa City",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,716408,66cbbc19-a288-4cee-a628-81a34c9bb8c8,"Pinsanity - Thin & Crispy Pizza, Mirdif",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,735097,b656b67e-98e2-4dcd-b7c9-12124675981f,"Pinsanity- Thin & Crispy, Emirates Zoo, AL Bahya",TLBT Kitopi Plugin -New,23508,Pinsanity - Authentic Roman Pinsa,OWN_DELIVERY,,UAE
+TB_AE,772441,78b5a27c-5d4c-4f41-8252-6d32933dca06,"Pizzaro – Italian Pizza & Pasta, (DH Kitchen), Al Jimi",TLBT Kitopi Plugin -New,702855,Pizzaro – Italian Pizza & Pasta	,OWN_DELIVERY,,UAE
+TB_AE,51725,2205262e-862d-47bc-b721-05eeb27815a8,"Pizzaro – Italian Pizza & Pasta, AL Shaab",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,1959,7ebef405-4a1f-4197-92df-4483eec923f5,"Pizzaro – Italian Pizza & Pasta, Al Juraina",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,602545,37d05b24-cc7c-4aa8-a31a-0220e93b8de4,"Pizzaro – Italian Pizza & Pasta, Al Majaz 2",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,605549,3521afab-5a42-4a98-ba2d-df017700fca6,"Pizzaro – Italian Pizza & Pasta, Al Majaz 2",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,32132,65dc86ac-b4cc-4c96-a9ea-d2a055b4c93d,"Pizzaro – Italian Pizza & Pasta, Arjan",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,50447,9e168375-1b71-4674-a8cc-0a0285d328ad,"Pizzaro – Italian Pizza & Pasta, BAS Mall",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,607246,d91232d3-7413-41d1-9dfe-67b9b4d909f0,"Pizzaro – Italian Pizza & Pasta, Business Bay 4",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,687337,c90e21b2-0f05-409f-9034-b55c6370e611,"Pizzaro – Italian Pizza & Pasta, Dubai Health Care City",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,6559,7520daa9-37e8-4d9d-a0d2-e7cd346fbb1d,"Pizzaro – Italian Pizza & Pasta, Dubai Silicon Oasis TMP",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,600897,2ceb5509-3daf-4241-819e-f3f78e4dc4ce,"Pizzaro – Italian Pizza & Pasta, Emirates Zoo",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,43798,84842bba-5a38-48e2-b8b7-231efdd371cb,"Pizzaro – Italian Pizza & Pasta, Khalifa City  (TGO)",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,31801,473fec96-3055-49a0-8320-80c71ce5b235,"Pizzaro – Italian Pizza & Pasta, Marina Promenade",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,50445,39bdd3b7-d2d3-4570-9393-b789eac9bb9a,"Pizzaro – Italian Pizza & Pasta, Media City",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,683,27c299c7-5bf0-4ff0-91c2-df92115e9219,"Pizzaro – Italian Pizza & Pasta, Mirdif SK",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,44126,7cbeba64-c09b-4a9b-9307-a7912b437166,"Pizzaro – Italian Pizza & Pasta, Mirdif SK",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,761634,97799bd2-c4a4-40ad-a413-314ad76cacdd,"Pizzaro – Italian Pizza & Pasta, Mussafah, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,OWN_DELIVERY,,UAE
+TB_AE,1472,a6337801-536a-4509-a96b-c572faef8ec9,"Pizzaro – Italian Pizza & Pastao, Media City",TLBT Kitopi Plugin -New,494,Pizzaro – Italian Pizza & Pasta,VENDOR_DELIVERY,,UAE
+TB_AE,630506,780bbcd5-04f9-4fba-918a-343b1ec760ea,"Poke Poke, Al Nahyan - AD8",TLBT Kitopi Plugin -New,619322,Poke Poke,OWN_DELIVERY,,UAE
+TB_AE,19099,7e25939b-25a6-4f0a-808d-55e86ee22c91,"Poke Poke, DIFC",TLBT Kitopi Plugin -New,8284,Poke Poke,OWN_DELIVERY,,UAE
+TB_AE,640873,4c2e1aad-b41f-4edb-8657-d1721670dd16,"Poke Poke, Dubai Media City",TLBT Kitopi Plugin -New,619322,Poke Poke,OWN_DELIVERY,,UAE
+TB_AE,640872,a758affa-8992-463f-b5bd-bebd8d5ce4e2,"Poke Poke, Green Community Motor City",TLBT Kitopi Plugin -New,619322,Poke Poke,OWN_DELIVERY,,UAE
+TB_AE,631701,7f07a4f7-c719-4158-8ef8-1decec3b4500,"Poke Wai - Hawaiian Roots, Local Soul, Al Nahyan - AD8",TLBT Kitopi Plugin -New,620101,"Poke Wai - Hawaiian Roots, Local Soul",OWN_DELIVERY,,UAE
+TB_AE,631973,e78f66c8-9131-4593-b70d-004fcca49a17,"Poke Wai - Hawaiian Roots, Local Soul, DIFC",TLBT Kitopi Plugin -New,612702,"Poke Wai - Hawaiian Roots, Local Soul",OWN_DELIVERY,,UAE
+TB_AE,627150,207680fe-083b-4cc4-aaaf-72bc023dd081,"Poke Wai - Hawaiian Roots, Local Soul, Green Community Motor City",TLBT Kitopi Plugin -New,612702,"Poke Wai - Hawaiian Roots, Local Soul",OWN_DELIVERY,,UAE
+TB_AE,621209,75a91037-7340-4f02-9f56-45dd80a04a49,"Poke Wai - Hawaiian Roots, Local Soul, Media City",TLBT Kitopi Plugin -New,612702,"Poke Wai - Hawaiian Roots, Local Soul",OWN_DELIVERY,,UAE
+TB_AE,615569,4b0f4075-464f-4e58-a9e7-7f5c776a38b0,"Pop Culture - A Concept by Fruitful Day, Al Barsha 3",TLBT Kitopi Plugin -New,608959,Pop Culture Ice Cream - Healthy & Fresh Fruit Pops,OWN_DELIVERY,,UAE
+TB_AE,615570,d5acca62-7d95-435a-ad03-79c013e329bc,"Pop Culture - A Concept by Fruitful Day, Al Nahyan AD 8",TLBT Kitopi Plugin -New,608959,Pop Culture Ice Cream - Healthy & Fresh Fruit Pops,OWN_DELIVERY,,UAE
+TB_AE,625582,3b52e1d9-db7e-4cc2-9a8d-81bc6db71418,"Pop Culture - A Concept by Fruitful Day, DIFC",TLBT Kitopi Plugin -New,608959,Pop Culture Ice Cream - Healthy & Fresh Fruit Pops,OWN_DELIVERY,,UAE
+TB_AE,754992,bd774073-7c7f-4e9a-af13-4713bf3e39e0,"Pop Culture - A Concept by Fruitful Day, Mirdiff SK",TLBT Kitopi Plugin -New,608959,Pop Culture Ice Cream - Healthy & Fresh Fruit Pops,OWN_DELIVERY,,UAE
+TB_AE,755476,f2ed4f37-0e44-4d31-8383-8255f6f6e1e7,"Pop Culture - A Concept by Fruitful Day, Sharjah 1, Al Majaz 2",TLBT Kitopi Plugin -New,608959,Pop Culture Ice Cream - Healthy & Fresh Fruit Pops,OWN_DELIVERY,,UAE
+TB_AE,666576,f776c10e-29a8-48a4-8c17-16805eb660dd,"Prept Restaurant, Business bay 4",TLBT Kitopi Plugin -New,631724,Prept Restaurant,OWN_DELIVERY,,UAE
+TB_AE,651012,4086a526-25fe-49db-8f48-5d0605bc9609,"Prept Restaurant, Hessa - Al Barsha 3",TLBT Kitopi Plugin -New,631724,Prept Restaurant,OWN_DELIVERY,,UAE
+TB_AE,741101,f68f4afc-5b14-4d66-a95d-d96c303fab9d,"Puffies - Mini Dutch Pancakes, Khalifa City - AD7, Madinat Khalifa - A",TLBT Kitopi Plugin -New,682038,Puffies - Mini Dutch Pancakes,OWN_DELIVERY,,UAE
+TB_AE,737914,a0cac43f-4351-4ba9-82aa-aa9294c7f41e,"Puffies, Hessa Street, Al Barsha 3",TLBT Kitopi Plugin -New,682038,Puffies - Mini Dutch Pancakes,OWN_DELIVERY,,UAE
+TB_AE,665686,3cc67939-c65a-4571-9f71-512cd0c3cb7c,"Rainbow Karak Chai - Since 1955, Al Hili",TLBT Kitopi Plugin -New,629499,Rainbow Karak Chai - Since 1955,OWN_DELIVERY,,UAE
+TB_AE,647339,2871deb3-b1bb-4e1a-b7a1-a8dadbaa2102,"Rainbow Karak Chai - Since 1955, Dubai Motor City",TLBT Kitopi Plugin -New,629499,Rainbow Karak Chai - Since 1955,OWN_DELIVERY,,UAE
+TB_AE,665497,3ed29faf-8a1f-460d-b32a-1c876ac665b0,"Rainbow Karak Chai - Since 1955, Gate Avenue - DIFC",TLBT Kitopi Plugin -New,629499,Rainbow Karak Chai - Since 1955,OWN_DELIVERY,,UAE
+TB_AE,760140,5ac24a09-496a-4379-9211-8dfa8c86db59,"Rainbow Karak Chai - Since 1955, Media City, Al Sufouh 2",TLBT Kitopi Plugin -New,629499,Rainbow Karak Chai - Since 1955,OWN_DELIVERY,,UAE
+TB_AE,755474,1090bcef-addf-48b5-9523-05312f1fcc07,"Rainbow Karak Chai - Since 1955, Mirdif SK, Mirdif",TLBT Kitopi Plugin -New,629499,Rainbow Karak Chai - Since 1955,OWN_DELIVERY,,UAE
+TB_AE,730015,252c0e0d-949d-41b3-b8da-4885d0291f36,"Richy`s, Business Bay ",TLBT Kitopi Plugin -New,614267,Richy's,OWN_DELIVERY,,UAE
+TB_AE,623220,c4186fe6-3e5d-464c-a3b7-0a3fa00a8269,"Richy`s, Hessa St",TLBT Kitopi Plugin -New,614267,Richy's,OWN_DELIVERY,,UAE
+TB_AE,764283,f101a852-9e8c-47a7-a9db-acd9258e584c,"Right Bite By Snap, Business Bay 4",TLBT Kitopi Plugin -New,697797,Right Bite By Snap,OWN_DELIVERY,,UAE
+TB_AE,764289,fd468839-580d-4d24-924e-79f872aa5ae9,"Right Bite By Snap, Silicon Oasis 2",TLBT Kitopi Plugin -New,697797,Right Bite By Snap,OWN_DELIVERY,,UAE
+TB_AE,760206,8c17f60d-c8c8-4afa-b360-8381e6fda4d2,"Right Bite, (DH Kitchen), Al Muteena",TLBT Kitopi Plugin -New,664827,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,774697,c397c3bb-3f98-4e68-8991-dd6f5e912cda,"Right Bite, (DH Kitchen), Industrial Area 13",TLBT Kitopi Plugin -New,664827,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,645620,dcaaa896-9469-4a54-a5ae-be2a336db275,"Right Bite, Al Majaz 2",TLBT Kitopi Plugin -New,628593,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,28493,5c970596a9a18e37a1cfb51d,"Right Bite, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,11367,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,679353,c83305a5-61b5-4241-9757-de2ad289a3a4,"Right Bite, Al Sufouh 1",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,707513,18cbda6f-2596-4a3b-a12c-0e3374b03adc,"Right Bite, Aljada SHJ East, Muwaileh Commercial",TLBT Kitopi Plugin -New,628593,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,766111,337acb96-d693-4a79-af75-7f791139233d,"Right Bite, Baniyas, Bani Yas East",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,22606,5c83fd8ca9a18e37a1cfb123,"Right Bite, Business Bay",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,24435,5c7e872aa9a18e37a1cfb0a7,"Right Bite, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,47583,e37548b5-4ef1-443d-8ce2-718370b88463,"Right Bite, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9439,Right Bite,VENDOR_DELIVERY,,UAE
+TB_AE,23598,5c8409a2a9a18e37a1cfb124,"Right Bite, Hessa Street",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,654777,8078e2ba-69a9-4177-a05b-a87757494dda,"Right Bite, Khalifa City - AD7",TLBT Kitopi Plugin -New,11367,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,22632,5d3889a8a9a18e37a1d37d4b,"Right Bite, Marina 3",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,701795,d956bf8d-bbb9-46a5-a0c9-04c74747de9b,"Right Bite, Mirdif",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,32106,5cb19721a9a18e37a1cfc623,"Right Bite, Mohammed Bin Zayed City, Abu Dhabi",TLBT Kitopi Plugin -New,9439,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,708160,cf9713cb-cdbd-4c4e-a723-31eec47a63d3,"Right Bite,Al Dhait North,(DH Kitchen)",TLBT Kitopi Plugin -New,664827,Right Bite,OWN_DELIVERY,,UAE
+TB_AE,659169,6041e596-52ed-4574-b29e-a78ac474b2fc,"Roadster Diner, Business Bay",TLBT Kitopi Plugin -New,635646,Roadster,OWN_DELIVERY,,UAE
+TB_AE,657402,36776da9-51b5-49b4-a74e-51b9682a519b,"Roadster, Al Sufouh 2",TLBT Kitopi Plugin -New,635646,Roadster,OWN_DELIVERY,,UAE
+TB_AE,666701,be068bfc-8839-4ffa-b615-4346ac70440f,"Roadster, Hessa St",TLBT Kitopi Plugin -New,635646,Roadster,OWN_DELIVERY,,UAE
+TB_AE,676950,88bf3530-3121-4cfa-900f-3241efe29265,SLD BAR - Business Bay,TLBT Kitopi Plugin -New,633412,SLD BAR - Salad Bar,OWN_DELIVERY,,UAE
+TB_AE,653876,28f18832-f7fc-4e63-8a11-28a3f8945bbf,"SLD BAR, Dubai Media City",TLBT Kitopi Plugin -New,633412,SLD BAR - Salad Bar,OWN_DELIVERY,,UAE
+TB_AE,672040,e7846169-3c82-4138-8a14-b655fa351b2d,"SLD BAR, Hessa Street",TLBT Kitopi Plugin -New,633412,SLD BAR - Salad Bar,OWN_DELIVERY,,UAE
+TB_AE,766089,7e7d4d5f-b18d-4d8d-a873-71d6d90ff84d,"SLD Bar, Arjan, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,633412,SLD BAR - Salad Bar,OWN_DELIVERY,,UAE
+TB_AE,630282,2a8147af-083b-45d4-8790-c4c0c4ed72ad,"SOUP & SOUL, Dubai Media City",TLBT Kitopi Plugin -New,619149,SOUP & SOUL,OWN_DELIVERY,,UAE
+TB_AE,744480,c2d2ad9b-58dc-4215-b083-a52ea0e63480,"Salata, AD7 Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,744474,2805e7e5-f3e9-4cb4-8086-425fa7c9bf6d,"Salata, Al Majaz 2",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,675293,ab6cf46c-b2e4-47e6-a977-141bbd43d9b1,"Salata, Al Nahyan AD 8",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,658485,35813432-6383-4041-9e1a-98ed798c9352,"Salata, Business Bay",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,743795,e9e474ef-380c-4a2c-8b10-ae6aaed73f81,"Salata, DSO, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,655104,4b564722-8a5d-4c8b-83a0-b70b61f43748,"Salata, Dubai Marina",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,661143,cd3a5282-ffdb-4d39-b553-ebf884449267,"Salata, Dubai motor City",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,761619,215a7b25-423a-4cb4-a0af-ecbeaec31541,"Salata, Jumeirah",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,684098,f82f4d4c-1b43-4b8b-ad57-8ec51d038db5,"Salata, Mirdif",TLBT Kitopi Plugin -New,634192,SALATA,OWN_DELIVERY,,UAE
+TB_AE,711678,9e80278e-2489-4499-bb1c-f1b5298dd159,"Shawarmetna,  Al Danah",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,678474,6e3a4bc8-fa6c-4eaf-b8c4-287eb37feff6,"Shawarmetna, (DH Kitchens) Shakhbout City",TLBT Kitopi Plugin -New,648413,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,700939,c3b1ca43-f80c-41ea-bf5a-e85625b080c4,"Shawarmetna, Al Majaz 2, Sharjah",TLBT Kitopi Plugin -New,661100,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,666846,cc1670cf-884c-42f0-ba57-c36de64ee450,"Shawarmetna, Al Qusais",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,697933,fa8fc708-92c3-4c56-89ab-b3efca1f983a,"Shawarmetna, Downtown",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,700480,96cf0405-19bb-45ba-95c5-6f63f96cfb9e,"Shawarmetna, Dubai Festival City",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,697936,e5d1c89f-0661-4e27-b093-0ec419747d41,"Shawarmetna, Dubai Media City",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,667361,0b187daa-175d-4f3b-8bb5-44b3e78c758b,"Shawarmetna, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,740337,92cd523f-97cc-4764-b263-e608a7041c70,"Shawarmetna, Galleria Mall - Al Barsha 2",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,706049,74666cec-f537-4b45-adaa-4c08051d0785,"Shawarmetna, Khalifa City - A",TLBT Kitopi Plugin -New,661100,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,761612,52f17caa-df88-4edd-907a-d0c32d3a7f17,"Shawarmetna, Outlet Village,Jebel Ali Freezone",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,697935,7f7b21c6-7d44-4a7e-bee1-f1c00f0961e5,"Shawarmetna,Dubai Motor City",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,697932,fbb92e2a-2792-422d-9fe0-4004942d6cc7,"Shawarmetna,JBR",TLBT Kitopi Plugin -New,641629,Shawarmetna,OWN_DELIVERY,,UAE
+TB_AE,29228,a41451e5-44d0-4e8d-8192-bc34e3088db6,"Soulfull - The Original Healthy, AD7 - Khalifa City ",TLBT Kitopi Plugin -New,9564,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,33927,7cd7e4de-cc16-480c-abd0-38bf218ccf4b,"Soulfull - The Original Healthy, Al Nahyan - AD8",TLBT Kitopi Plugin -New,9828,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,44197,5dfda862e66ec4963be793c8,"Soulfull - The Original Healthy, Business Bay",TLBT Kitopi Plugin -New,19657,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,34608,57bb2051-0937-46c0-ace8-c0c0ef9e574a,"Soulfull - The Original Healthy, Dubai Marina",TLBT Kitopi Plugin -New,19657,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,675506,d0af2fcd-4ad6-4191-ac25-f9b2956f4a7d,"Soulfull - The Original Healthy, Hessa ST",TLBT Kitopi Plugin -New,19657,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,747181,b72b282a-c000-488a-a134-3a84f97d5957,"Soulfull - The Original Healthy, Mirdiff SK, Mirdif",TLBT Kitopi Plugin -New,19657,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,763311,90c7819e-5680-4a70-b142-d24d076d9d8c,"Soulfull - The Original Healthy, Mussafah, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,19657,Soulfull - The Original Healthy,OWN_DELIVERY,,UAE
+TB_AE,652727,e731d024-6b60-4d7d-b0d5-a5b24e951b9b,"Soup & Soul, Al Nahyan - AD8",TLBT Kitopi Plugin -New,619149,SOUP & SOUL,OWN_DELIVERY,,UAE
+TB_AE,653234,10d4c0b0-649f-48b6-a6cf-6ece8dba8d9a,"Soup & Soul, Business Bay",TLBT Kitopi Plugin -New,619149,SOUP & SOUL,OWN_DELIVERY,,UAE
+TB_AE,639371,ca278f51-1832-44b6-905a-f15ac5bb7c58,"Soup & Soul, Green Community Motor City",TLBT Kitopi Plugin -New,619149,SOUP & SOUL,OWN_DELIVERY,,UAE
+TB_AE,697240,a18dc6de-a136-4b79-bdc6-665d155ef227,"Soup & Soul, Khalifa City - AD 7",TLBT Kitopi Plugin -New,619149,SOUP & SOUL,OWN_DELIVERY,,UAE
+TB_AE,701804,7017e8f4-7e9b-4abc-a118-0c0e16310ff7,"Soup & Soul, Mirdif",TLBT Kitopi Plugin -New,619149,SOUP & SOUL,OWN_DELIVERY,,UAE
+TB_AE,741770,0461583f-5a70-420a-a0fc-7f39e05ebae7,"Spiro’s - Greek Bowls and Pitas, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,681080,Spiro’s - Greek Bowls and Pitas,OWN_DELIVERY,,UAE
+TB_AE,739625,614bc4f3-6d12-4eca-b21d-d6a0ca3a3c0a,"Spiro’s - Greek Bowls and Pitas, Business Bay ",TLBT Kitopi Plugin -New,681080,Spiro’s - Greek Bowls and Pitas,OWN_DELIVERY,,UAE
+TB_AE,736229,49323169-30a0-46ac-83cd-70f9e17b713d,"Spiro’s - Greek Bowls and Pitas, Hessa Street",TLBT Kitopi Plugin -New,681080,Spiro’s - Greek Bowls and Pitas,OWN_DELIVERY,,UAE
+TB_AE,738366,4cbccc3b-aec6-40d7-aed6-6201b7eece31,"Spiro’s - Greek Bowls and Pitas, Madinat Khalifa - A",TLBT Kitopi Plugin -New,681080,Spiro’s - Greek Bowls and Pitas,OWN_DELIVERY,,UAE
+TB_AE,738750,775b9552-f99d-44c8-a1e3-68104ac2ca2b,"Spiro’s - Greek Bowls and Pitas, Mirdif SK",TLBT Kitopi Plugin -New,681080,Spiro’s - Greek Bowls and Pitas,OWN_DELIVERY,,UAE
+TB_AE,731367,df816e3c-2919-4ced-8a0f-bfaca72ab137,"Sushi Counter, (DH Kitchen), Al Rashidiya",TLBT Kitopi Plugin -New,678343,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,605455,c4bf7c6c-58a2-438f-9d6c-29f9ece6e12c,"Sushi Counter, Al Nahyan - AD8",TLBT Kitopi Plugin -New,8716,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,693653,5b25a716-e992-44ee-9547-6dd7ebfdeaa6,"Sushi Counter, Business Bay 4",TLBT Kitopi Plugin -New,8716,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,746439,c0f0fb98-bb3c-422b-967d-764f8f5ca771,"Sushi Counter, DSO AWJ kitchen",TLBT Kitopi Plugin -New,687119,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,16792,66a4b6c4-f10f-44c9-a5fa-e1bf5be4ba1e,"Sushi Counter, Dubai Media City",TLBT Kitopi Plugin -New,8716,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,737885,692c3ef6-8f31-4b81-8186-9f119c1f2c1c,"Sushi Counter, Dubai Motor City",TLBT Kitopi Plugin -New,675370,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,723391,c8088d1f-29b8-4ffe-bb66-ab9aeb1cee07,"Sushi Counter, Khalifa City",TLBT Kitopi Plugin -New,8716,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,680603,4d22ddf3-c6e0-4aee-8506-1d115030dc7c,"Sushi Counter, Saadiyat Island",TLBT Kitopi Plugin -New,8716,Sushi Counter,OWN_DELIVERY,,UAE
+TB_AE,677435,8d604a29-4e04-41e8-83c9-71e3c8d6bfef,"SushiDo, (DH Kitchen), Rashidiya",TLBT Kitopi Plugin -New,647760,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,674652,37f5a8f7-828b-4070-8da7-13cf990abe21,"SushiDo, Al Nahyan - AD8",TLBT Kitopi Plugin -New,641537,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,649876,8a01c1e1-3f97-44ba-9590-74429a6cd218,"SushiDo, Business Bay 4",TLBT Kitopi Plugin -New,625665,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,746437,931c1c46-1bcb-458e-a018-f7e901e08899,"SushiDo, DSO AWJ kitchen",TLBT Kitopi Plugin -New,687117,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,704514,dd3bbfcd-f791-46da-a29a-2733ca09d8a1,"SushiDo, Khalifa City - A",TLBT Kitopi Plugin -New,641537,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,640320,d8745e3d-e7ea-4004-9784-2c1256e94fc6,"SushiDo, Media City",TLBT Kitopi Plugin -New,625665,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,642477,2aa178f4-aa36-4f6b-8e08-9c05b0b4a9ff,"SushiDo, Motor City",TLBT Kitopi Plugin -New,625665,SushiDo,OWN_DELIVERY,,UAE
+TB_AE,749982,e840d6ab-d5a1-449a-8f69-0c26ee7d7f0d,"Tabkha – Homemade Arabic Dishes, Al Bateen, Al Khalidiyah",TLBT Kitopi Plugin -New,626099,Tabkha – Homemade Arabic Dishes,OWN_DELIVERY,,UAE
+TB_AE,750750,f0f69bb3-0da5-4fdf-bc2e-8a5301f17743,"Tabkha – Homemade Arabic Dishes, Business Bay 4",TLBT Kitopi Plugin -New,689577,Tabkha – Homemade Arabic Dishes,OWN_DELIVERY,,UAE
+TB_AE,641065,e3294988-b160-49d1-87a3-fe9467dcaf2d,"Tabkha – Homemade Arabic Dishes, Downtown Burj Khalifa",TLBT Kitopi Plugin -New,626099,Tabkha – Homemade Arabic Dishes,OWN_DELIVERY,,UAE
+TB_AE,643111,aae61792-b52e-488f-9a01-373fe6373490,"Tabkha – Homemade Arabic Dishes, Dubai Marina Mall",TLBT Kitopi Plugin -New,626099,Tabkha – Homemade Arabic Dishes,OWN_DELIVERY,,UAE
+TB_AE,740094,a446f851-da44-4438-ab1e-7db681cd559b,"Tabkha – Homemade Arabic Dishes, Meadows",TLBT Kitopi Plugin -New,626099,Tabkha – Homemade Arabic Dishes,OWN_DELIVERY,,UAE
+TB_AE,754749,2cf255d6-87f1-4d83-a36a-8c9613352e37,"Tabkha – Homemade Arabic Dishes, Mirdif SK",TLBT Kitopi Plugin -New,689577,Tabkha – Homemade Arabic Dishes,OWN_DELIVERY,,UAE
+TB_AE,710969,a268d5b2-1bb7-4d85-9492-a31e3eb576f6,"Tacos & Burritos, Al Nahyan - AD8",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,778276,c67db091-ee7d-47ce-b30b-63f4f6c9079c,"Tacos & Burritos, Aljada SHJ East, Muwaileh Commercial",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,767110,4f44c26a-6ffe-4bfb-b44f-4d31f5e7a48d,"Tacos & Burritos, Arabian Ranches",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,651026,5f7cf189-016c-47d4-be3b-bb9740e4fcb8,"Tacos & Burritos, Barsha Heights",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,710768,c0237669-df17-41cd-b720-e154065a611e,"Tacos & Burritos, Bay Square",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,726510,784d8883-3444-412a-8b60-e70b76b431ba,"Tacos & Burritos, DIFC",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,710738,30c326f4-d869-4ec7-b60a-4d876eceed0e,"Tacos & Burritos, Dubai Media City",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,711781,9fb96f4e-2818-4f1d-9247-307f3c58fc03,"Tacos & Burritos, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,710736,7c224273-f444-463c-bdfd-a8305fbc1e1c,"Tacos & Burritos, Dubai Studio City",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,710958,17a70cf7-0dd8-4cb1-b2d4-c1b1ff0dd882,"Tacos & Burritos, Khalifa City - AD 7",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,726511,ac607569-6b67-46d8-9689-edf29424fa90,"Tacos & Burritos, Kite Beach, Jumeirah 3",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,726512,8b9b4637-776d-4e8e-b381-d614be15a5e0,"Tacos & Burritos, MOE, Al Barsha 1",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,726536,8669fadd-501c-4731-945b-5da46a588b64,"Tacos & Burritos, Sharjah 1, Al Majaz 2",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,710737,63ea4fd7-dc10-4457-b6b2-53d4f1be0f75,"Tacos & Burritos, Town Square",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,726509,3b360249-c77c-48df-94d0-3d742bcd4013,"Tacos & Burritos, Yas Mall, Yas Island",TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,755881,c77ac454-a44e-4784-aeac-1ac2c3b9f213,Tacos & Burritos. DXB Bike Station - Nad Al Sheba 1,TLBT Kitopi Plugin -New,631734,Tacos & Burritos,OWN_DELIVERY,,UAE
+TB_AE,721721,f0400ce0-c08f-4f65-bf4c-2df0c5b25109,"Taqado Mexican Kitchen - Burritos & Bowls, Al Nahyan - AD8",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721719,bbcac030-1895-4fc2-b577-4577d3ef1766,"Taqado Mexican Kitchen - Burritos & Bowls, Aljada SHJ East,Muwaileh Commercial",TLBT Kitopi Plugin -New,672715,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,755886,041a025a-55f3-482b-bf21-8b2389003c01,"Taqado Mexican Kitchen - Burritos & Bowls, Arabian Ranches",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721736,acef8695-067b-4cfb-894d-50e49cca8add,"Taqado Mexican Kitchen - Burritos & Bowls, Barsha Heights - TECOM",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721741,50f881fe-5695-4ad1-90c2-9421fd62225f,"Taqado Mexican Kitchen - Burritos & Bowls, Bay Square, Business Bay",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721739,fb383e5d-72ee-42be-94f0-e2ad06335084,"Taqado Mexican Kitchen - Burritos & Bowls, DIFC",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,752878,1fb12bcb-45cb-444a-b783-7b86b9b551dd,"Taqado Mexican Kitchen - Burritos & Bowls, DXB Bike Station - Nad Al Sheba 1",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721735,40e8e839-aa73-4f0f-af07-d6082013f33a,"Taqado Mexican Kitchen - Burritos & Bowls, Dubai Hills Mall",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721727,48b42fb6-ad34-4350-bede-2e581dfb8976,"Taqado Mexican Kitchen - Burritos & Bowls, Dubai Media City",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721738,b3f495c1-1cc2-46e4-9dc6-d089f7eb8455,"Taqado Mexican Kitchen - Burritos & Bowls, Dubai Studio City",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721737,960818aa-c629-4154-a635-2cb6e3a07812,"Taqado Mexican Kitchen - Burritos & Bowls, Kite Beach, Jumeirah 3",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721711,2a2a21f2-04e9-480e-83c4-ce71aed475ea,"Taqado Mexican Kitchen - Burritos & Bowls, Madinat Khalifa - A",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721740,ee27e0cf-2812-47c5-aca9-0fd94b766b07,"Taqado Mexican Kitchen - Burritos & Bowls, Mall of the Emirates, Al Barsha 1",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721725,b14b7697-a37a-4775-bd11-47b8309b0b7e,"Taqado Mexican Kitchen - Burritos & Bowls, Mirdif",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,732959,f4d30d8a-6bc4-4881-9766-a6ec2a6720e0,"Taqado Mexican Kitchen - Burritos & Bowls, Mussafah",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721730,b592c90b-1f5e-4170-a206-c75a7bd233a8,"Taqado Mexican Kitchen - Burritos & Bowls, Saadiyat Island (South)",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721742,76dc8bfd-ae7b-4a3f-887e-c90d8cbabef4,"Taqado Mexican Kitchen - Burritos & Bowls, Sharjah 1,Al Majaz 2",TLBT Kitopi Plugin -New,672715,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721734,7178575a-8632-49c3-b6bd-944a844790b6,"Taqado Mexican Kitchen - Burritos & Bowls, Silicon Oasis 2,Dubai Silicon Oasis",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721733,ce22ccff-bf50-4eaf-a9d0-8f210a2fc04d,"Taqado Mexican Kitchen - Burritos & Bowls, Town Square",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,721731,0233c55d-47e5-4cf5-8dae-0d23092bf24f,"Taqado Mexican Kitchen - Burritos & Bowls, Yas Mall, Yas Island",TLBT Kitopi Plugin -New,672716,Taqado Mexican Kitchen - Burritos & Bowls,OWN_DELIVERY,,UAE
+TB_AE,719577,fe36a6a5-0185-46f8-b58d-bb1437125b40,"Tarator – Shawarma Fusion, DSO",TLBT Kitopi Plugin -New,671431,Tarator – Shawarma Fusion,OWN_DELIVERY,,UAE
+TB_AE,675125,168c0738-3b52-4b59-84b5-02b9f4c66ff9,"Tarator – Shawarma Fusion, Madinat Khalifa - A",TLBT Kitopi Plugin -New,625157,Tarator – Shawarma Fusion,OWN_DELIVERY,,UAE
+TB_AE,696564,8967dbc8-81a9-439e-af52-ff674aefea72,"Tarator – Shawarma Fusion, Marina 2",TLBT Kitopi Plugin -New,625157,Tarator – Shawarma Fusion,OWN_DELIVERY,,UAE
+TB_AE,669094,ccfdce88-b5a1-4cce-9756-d3cb07e07a58,"Tarator – Shawarma Fusion, Motor City",TLBT Kitopi Plugin -New,625157,Tarator – Shawarma Fusion,OWN_DELIVERY,,UAE
+TB_AE,734038,3783e87f-01d8-40da-9722-01ab8a1e87c2,"Tarator – Shawarma Fusion, Muhaisnah",TLBT Kitopi Plugin -New,671431,Tarator – Shawarma Fusion,OWN_DELIVERY,,UAE
+TB_AE,639481,2eda61f3-139a-442b-a054-377b7332a9ca,"Tarator – Shawarma Fusion, SZR",TLBT Kitopi Plugin -New,625157,Tarator – Shawarma Fusion,OWN_DELIVERY,,UAE
+TB_AE,762599,9d01e46d-dfe2-40a0-ba6a-df1671225c16,"Tawook Nation – Chicken Platters, Sandwiches & Bowls, Jumeirah Beach Residence - JBR",TLBT Kitopi Plugin -New,687753,"Tawook Nation – Chicken Platters, Sandwiches & Bowls",OWN_DELIVERY,,UAE
+TB_AE,47584,cd140c35-c948-46b5-b3e8-3b8b734ad0fc,"Tawook Nation – Chicken platters, sandwiches & bowls, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9292," Tawook Nation – Chicken platters, sandwiches & bowls",VENDOR_DELIVERY,,UAE
+TB_AE,751744,b2c19908-833d-42b8-8f92-5b690342d431,"Tawook Nation, Al Bateen, Al Khalidiyah",TLBT Kitopi Plugin -New,687753,"Tawook Nation – Chicken Platters, Sandwiches & Bowls",OWN_DELIVERY,,UAE
+TB_AE,751745,4c5e5918-7382-4fe6-8c51-5711bbaf368d,"Tawook Nation, DSO, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,687753,"Tawook Nation – Chicken Platters, Sandwiches & Bowls",OWN_DELIVERY,,UAE
+TB_AE,747537,d2a9c161-ca91-4950-b3cc-12d2692e53de,"Tawook Nation, Meadows",TLBT Kitopi Plugin -New,687753,"Tawook Nation – Chicken Platters, Sandwiches & Bowls",OWN_DELIVERY,,UAE
+TB_AE,742219,8e3265f1-4fd2-4ef4-b38c-bd1eb0f3791b,"Terra Mezze - Modern Greek Bowls & Pitas , Al Nahyan - AD 8",TLBT Kitopi Plugin -New,671549,Terra Mezze - Modern Greek Bowls & Pitas ,OWN_DELIVERY,,UAE
+TB_AE,733821,ff5aa637-041e-412a-b762-63af24921301,"Terra Mezze - Modern Greek Bowls & Pitas , Business Bay",TLBT Kitopi Plugin -New,671549,Terra Mezze - Modern Greek Bowls & Pitas ,OWN_DELIVERY,,UAE
+TB_AE,719748,30ddbabc-e620-4c9c-ab8d-173229d402c8,"Terra Mezze - Modern Greek Bowls & Pitas , Hessa St",TLBT Kitopi Plugin -New,671549,Terra Mezze - Modern Greek Bowls & Pitas ,OWN_DELIVERY,,UAE
+TB_AE,30134,2a2cd32c-5d07-48f6-830d-2fa17dc86bfe,"The Breakfast Shop , Dubai Health Care City",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,30135,c31205f2-b3ca-438d-b9e6-2aa4436ca753,"The Breakfast Shop, Bay Square, Business bay",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,606074,eeeb241d-2295-48ba-9af4-7c409717c3ec,"The Breakfast Shop, DIFC",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,680342,542b8862-6fb8-40c0-ac6a-a2221cb67524,"The Breakfast Shop, Hessa St",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,600404,8949d7cc-af65-44b9-a0f8-e2f1dc9b5d2b,"The Breakfast Shop, JIP",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,604303,eaeee558-326c-4fd9-9fc5-5eadff0f08c5,"The Breakfast Shop, Mangrove, Al Maqta",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,678523,666ca599-72c9-46e4-af06-5b47234b175c,"The Breakfast Shop, Media City",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,30138,a36415f4-aae2-492e-aa39-b82a50eb1ede,"The Breakfast Shop, Mirdif",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,604306,e75fd549-fb87-47a1-b531-366d9e16f215,"The Breakfast Shop, Saadiyat Island",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,30132,a3aca121-70de-416d-bfcc-51d2a7d4aef5,"The Breakfast Shop- By Circle Cafe,  Studio City",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,756668,50a4edd6-674e-4c6e-9783-4a15b30a2178,"The Breakfast Shop- By Circle Cafe, Abu Dhabi Marina Mall, BreakWater",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,746038,1a4d0790-3e25-49a1-aa70-32fadf22306f,"The Dessert Spot - Cakes, Cookies, Cupcakes And More, Al Nahyan",TLBT Kitopi Plugin -New,684462,"The Dessert Fix - Cakes, Cookies, Cupcakes and more",OWN_DELIVERY,,UAE
+TB_AE,750221,308c42b8-96a5-4cdf-b62f-10392822cf00,"The Dessert Spot - Cakes, Cookies, Cupcakes and more , Mirdif",TLBT Kitopi Plugin -New,684462,"The Dessert Fix - Cakes, Cookies, Cupcakes and more",OWN_DELIVERY,,UAE
+TB_AE,750220,c0fc87eb-884b-41d2-907b-7ffe5ded5849,"The Dessert Spot - Cakes, Cookies, Cupcakes and more, AD7 Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,684462,"The Dessert Fix - Cakes, Cookies, Cupcakes and more",OWN_DELIVERY,,UAE
+TB_AE,741933,04431208-a432-4ae3-a7d2-8abd49527e69,"The Dessert Spot - Cakes, Cookies, Cupcakes and more, Business Bay 4",TLBT Kitopi Plugin -New,684462,"The Dessert Fix - Cakes, Cookies, Cupcakes and more",OWN_DELIVERY,,UAE
+TB_AE,744020,b02c3edd-493f-459f-a721-cd4efafc5930,"The Dessert Spot - Cakes, Cookies, Cupcakes and more, Hessa Street, Al Barsha 3",TLBT Kitopi Plugin -New,684462,"The Dessert Fix - Cakes, Cookies, Cupcakes and more",OWN_DELIVERY,,UAE
+TB_AE,736902,129594d8-6f7c-499c-9966-abaaeef96140,"The Glow Paradise, AD7 Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,619320,The Glow Paradise,OWN_DELIVERY,,UAE
+TB_AE,679052,b05204cc-d9df-4f86-b118-14d75c56942e,"The Glow Paradise, Al Nahyan - AD8",TLBT Kitopi Plugin -New,619320,The Glow Paradise,OWN_DELIVERY,,UAE
+TB_AE,648303,95efa5d0-c2a6-471e-ae64-d77e273cf851,"The Glow Paradise, Business Bay",TLBT Kitopi Plugin -New,619320,The Glow Paradise,OWN_DELIVERY,,UAE
+TB_AE,630500,f156882e-4f7e-40f4-91e9-b749488508fb,"The Glow Paradise, Hessa Street",TLBT Kitopi Plugin -New,619320,The Glow Paradise,OWN_DELIVERY,,UAE
+TB_AE,678393,366ca7d6-4c06-4f23-90f9-4975b249ffb0,"The Phil by High, Al Khawaneej 2",TLBT Kitopi Plugin -New,648372,The Phil by High Joint,OWN_DELIVERY,,UAE
+TB_AE,680147,e145aba0-cb1f-4f1d-8eb1-27fd0790be2b,"The Phil by High, Business Bay",TLBT Kitopi Plugin -New,648372,The Phil by High Joint,OWN_DELIVERY,,UAE
+TB_AE,682592,4153bb6e-9cf6-4a34-8c6e-3ba2f42a4f65,"The Phil by High, Dubai Motor City",TLBT Kitopi Plugin -New,648372,The Phil by High Joint,OWN_DELIVERY,,UAE
+TB_AE,682593,fee2ddff-c987-47c5-b990-7acfd311b11d,"The Phil by High, Media City",TLBT Kitopi Plugin -New,648372,The Phil by High Joint,OWN_DELIVERY,,UAE
+TB_AE,728383,2edaa2a0-0674-4cf0-a0bf-add329884d10,"The Sharing Table, Business Bay 4",TLBT Kitopi Plugin -New,676547,The Sharing Table,OWN_DELIVERY,,UAE
+TB_AE,760890,e63d977d-93f9-43a7-afd3-643addb913cc,"The Soup Shop by Circle Cafe, Abu Dhabi Marina Mall, BreakWater",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,760891,b632fe54-01cb-4d0d-bae1-47416b336d11,"The Soup Shop by Circle Cafe, Arabian Ranches",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,706434,1ba2df6a-6538-4cf3-8cca-26a0ae3ecb4b,"The Soup Shop by Circle Cafe, Bay Square",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,727923,7a8b8292-5a99-44ce-9f9b-dd02e2fe23c4,"The Soup Shop by Circle Cafe, DIFC",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,727922,1c82d15e-04e4-404f-b730-ee13bf680a3b,"The Soup Shop by Circle Cafe, Dubai Healthcare City",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,727921,476541a1-265d-4903-b69e-b38530d936d5,"The Soup Shop by Circle Cafe, JIP,Jumeirah Islands",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,760892,dcc78690-eab5-408e-9282-2cc04e7f3cd3,"The Soup Shop by Circle Cafe, Mangrove, Abu Dhabi Gate City",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,706450,a0675bf9-a2bc-4b33-9d00-11e1d861897a,"The Soup Shop by Circle Cafe, Media City",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,706452,870af595-7f76-474b-bd03-431471f1530c,"The Soup Shop by Circle Cafe, Mirdif",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,706451,84e93b7c-0012-46b6-8ce0-1a01cc6dd291,"The Soup Shop by Circle Cafe, Studio City",TLBT Kitopi Plugin -New,663853,The Soup Shop by Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,755882,3c064720-3e6b-4a6d-8461-437cd0ccf05f,"The breakfast shop - By Circle Cafe, Arabian Ranches",TLBT Kitopi Plugin -New,17076,The Breakfast Shop- By Circle Cafe,OWN_DELIVERY,,UAE
+TB_AE,46177,5e84272c63843cc5cd0892d6,"Ultimate Chicken - Wraps, Platters & Bites, Al Nahyan - AD8",TLBT Kitopi Plugin -New,25922,"Ultimate Chicken - Wraps, Platters & Bites",OWN_DELIVERY,,UAE
+TB_AE,46173,5e25adece66ec4963be9fd92,"Ultimate Chicken - Wraps, Platters & Bites, Business Bay",TLBT Kitopi Plugin -New,25922,"Ultimate Chicken - Wraps, Platters & Bites",OWN_DELIVERY,,UAE
+TB_AE,46175,5e25ad6ce66ec4963be9fd90,"Ultimate Chicken - Wraps, Platters & Bites, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,25922,"Ultimate Chicken - Wraps, Platters & Bites",OWN_DELIVERY,,UAE
+TB_AE,47586,831e3fd2-c0a6-4a67-8f21-4d190a4cd206,"Ultimate Chicken - Wraps, Platters & Bites, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,25922,"Ultimate Chicken - Wraps, Platters & Bites",VENDOR_DELIVERY,,UAE
+TB_AE,46172,5e25a634e66ec4963be9fd8c,"Ultimate Chicken - Wraps, Platters & Bites, Hessa St",TLBT Kitopi Plugin -New,25922,"Ultimate Chicken - Wraps, Platters & Bites",OWN_DELIVERY,,UAE
+TB_AE,46174,5e25ad95e66ec4963be9fd91,"Ultimate Chicken - Wraps, Platters & Bites, Marina 3",TLBT Kitopi Plugin -New,25922,"Ultimate Chicken - Wraps, Platters & Bites",OWN_DELIVERY,,UAE
+TB_AE,738066,090d9d77-5b60-404c-a17e-7cfe18ffaa4d,"Under 30 by Mix N Match, AD8 VIllagio Hotel & Resort, Al Nahyan",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738063,c558b1f0-2dfb-4ed6-972a-64eb6ae51313,"Under 30 by Mix N Match, Business Bay",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738023,b7d4d2a7-95c2-43f5-893e-bceeb36adf02,"Under 30 by Mix N Match, DSO 2, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738065,bcab9981-99c4-4784-a588-342372eb7635,"Under 30 by Mix N Match, Hessa Street, Al Barsha 3",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,742357,87bdcf40-d259-451d-8cdd-8cbd18c35077,"Under 30 by Mix N Match, Khalifa City - AD7",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738064,86397a6d-e651-42b8-9bbb-51f4fa3fa105,"Under 30 by Mix N Match, Marina 3, Dubai Marina",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738067,1ab8f0fa-e5d5-49ae-82ec-9f115cbff852,"Under 30 by Mix N Match, Media City, Al Sufouh 2",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,741903,a35d2a14-1ab0-4e86-90a4-6a34dfac0191,"Under 30 by Mix N Match, Mirdif SK",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738062,bc98f26c-4e3e-4e54-93b2-1ec4698ea583,"Under 30 by Mix N Match, Motor City 3, Dubai Motor City",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,742358,6fef443b-7f8f-456c-a72f-6d3514b72752,"Under 30 by Mix N Match, Mussafah, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,738057,f4018082-2349-43e6-88ba-6d80142f8ccb,"Under 30 by Mix N Match, Sharjah 1 ,Al Majaz 2",TLBT Kitopi Plugin -New,682100,Under 30 by Mix N Match,OWN_DELIVERY,,UAE
+TB_AE,764315,e88d3402-8dfd-4362-8bf4-dc464fceaba8,"Under500 - Healthy Bowls and Salads By Snap, AD7 Khalifa City, Madinat Khalifa - A",TLBT Kitopi Plugin -New,697806,"Under500 - Healthy, Bowls and Salads By Snap",OWN_DELIVERY,,UAE
+TB_AE,764304,fe71e25e-3ad8-4748-9a10-13fb6f59f215,"Under500 - Healthy, Bowls and Salads By Snap, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,697806,"Under500 - Healthy, Bowls and Salads By Snap",OWN_DELIVERY,,UAE
+TB_AE,759924,aba751c0-d431-4eb6-accb-d4dd816306e0,"Under500 - Healthy, Bowls and Salads,  Al Muteena",TLBT Kitopi Plugin -New,694929,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,773836,18ea36d5-0826-4be0-a7f7-47787c10c764,"Under500 - Healthy, Bowls and Salads, (DH Kitchen) Industrial Area 13",TLBT Kitopi Plugin -New,694929,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,766661,3069fed9-8668-4151-b5ab-35eac912f055,"Under500 - Healthy, Bowls and Salads, Baniyas, Bani Yas East",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,653784,298301f8-5590-4f61-a8cd-c22ef4ff3cdd,"Under500 - Healthy, Comfort and Salads, Al Majaz 2",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,31294,5c7a173aa9a18e37a1cfb05f,"Under500 - Healthy, Comfort and Salads, Al Nahyan - AD8",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,679304,034384ec-7ef6-478b-a351-7c71e2829746,"Under500 - Healthy, Comfort and Salads, Al Sufouh 1",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,603397,2db1eab3-d65d-4f97-aaf8-f2dddf59fbc7,"Under500 - Healthy, Comfort and Salads, Business Bay",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,34467,5e7dad2463843cc5cd077296,"Under500 - Healthy, Comfort and Salads, Dubai Marina 3",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,30248,5c7cf213a9a18e37a1cfb08b,"Under500 - Healthy, Comfort and Salads, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,47587,3559586f-d85b-442a-86ee-a080dec16469,"Under500 - Healthy, Comfort and Salads, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",VENDOR_DELIVERY,,UAE
+TB_AE,35176,ba621427-70a6-4129-8ab9-20c679a5fc6c,"Under500 - Healthy, Comfort and Salads, Hessa Street",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,665690,fce9f609-9626-48c4-b798-9b2f15b13b35,"Under500 - Healthy, Comfort and Salads, Madinat Khalifa - A",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,701791,6bc36e6e-8762-466f-95b8-fa306e551399,"Under500 - Healthy, Comfort and Salads, Mirdif",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,32098,5cb19721a9a18e37a1cfc62b,"Under500 - Healthy, Comfort and Salads, Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,17138,"Under500 - Healthy, Bowls and Salads",OWN_DELIVERY,,UAE
+TB_AE,633539,a1148139-2638-4b30-b034-75a158ab4d1d,"Vamos Tacos, Bay Square",TLBT Kitopi Plugin -New,616655,Vamos Tacos,OWN_DELIVERY,,UAE
+TB_AE,626775,868cf59f-8faa-4f97-9664-c1b76f4bebbd,"Vamos Tacos, Dubai Media City",TLBT Kitopi Plugin -New,616655,Vamos Tacos,OWN_DELIVERY,,UAE
+TB_AE,626777,23bb8de0-bb98-438d-8a7b-e9a78112c728,"Vamos Tacos, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,616655,Vamos Tacos,OWN_DELIVERY,,UAE
+TB_AE,626776,2872679f-8c98-4655-b5c9-9dcd84fcd8a6,"Vamos Tacos, Dubai Studio City",TLBT Kitopi Plugin -New,616655,Vamos Tacos,OWN_DELIVERY,,UAE
+TB_AE,721252,3b7fc545-441e-4508-972d-58e0546fcfb0,"Vamos Tacos, Mussafah (AD 3),Mohammed Bin Zayed City",TLBT Kitopi Plugin -New,616655,Vamos Tacos,OWN_DELIVERY,,UAE
+TB_AE,726534,d7440fa7-ff28-4b44-ae4a-cb5ad9057698,"Vamos Tacos, Sharjah 1, Al Majaz 2",TLBT Kitopi Plugin -New,616655,Vamos Tacos,OWN_DELIVERY,,UAE
+TB_AE,711552,f94b15c1-eaf8-434d-b135-0c67cd55e022,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls , DIFC",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,645585,8d3b5b31-21ae-4994-975f-392d11691ef5,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, , Al Majaz 2",TLBT Kitopi Plugin -New,628572,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,625381,a1e57af5-4ac1-4a0f-8571-f00c3c9aa095,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Al Nahyan - AD8",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,600056,b2ab2feb-3b80-445f-ac26-78e8eb0d3ed6,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Bay Square",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,755879,4e912b9c-85d2-43ed-85ab-1b1dcd0c1e48,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, DXB Bike Station - Nad Al Sheba 1",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,42045,5d3889a0a9a18e37a1d37d4a,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Dubai Media City",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,28129,12fcaeca-24ba-4d63-9fe4-ab70ba39995d,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",VENDOR_DELIVERY,,UAE
+TB_AE,600256,5c7bca02a9a18e37a1cfb080,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,42229,5c7bcf9fa9a18e37a1cfb082,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Dubai Studio City",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,666313,e2c91021-1e73-427e-8ed8-ea24d9ae3afa,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Khalifa City - AD7",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,32105,5cb19721a9a18e37a1cfc627,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls, Mohamad Bin Zayed City",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,756670,d225b641-e60b-41f9-a125-21d2d22ff781,"Vigilante Mexican Kitchen – Tacos, Burritos & Bowls, Al Barsha 1",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,756672,f539442e-756a-4344-9df0-d304bd951861,"Vigilante Mexican Kitchen – Tacos, Burritos & Bowls, Barsha Heights - TECOM",TLBT Kitopi Plugin -New,10469,"Vigilante Mexican Kitchen - Tacos, Burritos & Bowls",OWN_DELIVERY,,UAE
+TB_AE,736277,f154b463-9015-4e44-83ca-1a9a6ba749d8,"Wise Spice By Right Bite, Mirdif",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,37710,5d513edca9a18e37a1d472f8,"Wise Spice by Right Bite,  Media City",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,759089,9c8685ac-b80e-433b-aa5c-8a01f788b9aa,"Wise Spice by Right Bite, Al Hili - Al Ain ",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,732971,fda0b05b-8b4e-453d-94da-b32b1b049206,"Wise Spice by Right Bite, Al Nahyan - AD 8",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,727926,535b329d-4af6-4738-9e6c-07f7c3e7f4bd,"Wise Spice by Right Bite, Business Bay 4",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,745055,088157cb-2a92-4b22-ae00-34ce3462dfac,"Wise Spice by Right Bite, DSO 2, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,732972,e434aa5f-019c-4660-afd8-cdb4701f1c5a,"Wise Spice by Right Bite, Forsan Mall - Khalifa City, A",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,50186,c1f77c5d-d294-47b9-aa0d-e4c3f571d6ae,"Wise Spice by Right Bite, Media City",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,VENDOR_DELIVERY,,UAE
+TB_AE,727925,e37b2dce-6ee5-4a01-90a0-591a09f84674,"Wise Spice by Right Bite, Motor City 3",TLBT Kitopi Plugin -New,19464,Wise Spice By Right Bite - Healthy Indian,OWN_DELIVERY,,UAE
+TB_AE,605572,2ac4b62a-c72a-437f-8df1-a812cd55e121,"Wok Boyz, Green Community Motor City",TLBT Kitopi Plugin -New,602452,Wok Boyz,OWN_DELIVERY,,UAE
+TB_AE,725305,2888f739-f67e-4c2e-b72e-56d4c807845a,"Wokkong - Chinese Noodles & Fried Rice, BAS Mall,Bani Yas East",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,756669,02ae5d2c-79cf-4ef7-85e8-ba51b55ada96,"Wokkong - Chinese Noodles & Fried Rice, Business Bay 4, Business Bay",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,725289,070016ad-c39e-4c9e-a29a-eb57a1f78583,"Wokkong - Chinese Noodles & Fried Rice, Dubai Festival City",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,711905,87b7a953-8393-4217-8807-783470c9906d,"Wokkong - Chinese Noodles & Fried Rice, Hessa St",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,740075,2bee283d-c794-4a21-b83f-b18b3b351b5d,"Wokkong - Chinese Noodles & Fried Rice, Mushriff Mall, Al Zafranah",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,745234,2a60f3bd-20e5-4d4e-8846-f721131047b6,"Wokkong – Chinese Noodles & Fried Rice, AD7 Khalifa City",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,727300,2fc358e2-5861-4dc1-863e-3902ce4e6587,"Wokkong – Chinese Noodles & Fried Rice, Ajman,Al Mushairef",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,727301,73947b14-8208-4565-b9c0-d3cd2101ff74,"Wokkong – Chinese Noodles & Fried Rice, Al Ain,Al Towayya",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,732132,456cc9c3-3e1f-45ee-9ae6-67211e80a736,"Wokkong – Chinese Noodles & Fried Rice, Barsha Heights - TECOM",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,729160,8b11c60f-a4a8-4be7-9ad8-ba7251a39f61,"Wokkong – Chinese Noodles & Fried Rice, Burjuman, Bur Dubai",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,732131,da6ab8d1-2c75-4135-a18b-f7933c2172c6,"Wokkong – Chinese Noodles & Fried Rice, Deira",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,753216,f7c9a594-9540-4172-9fc3-aa5b5d3dc1ca,"Wokkong – Chinese Noodles & Fried Rice, Dubai Marina",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,732130,b2547c80-4f04-4a33-9d4e-347083eb6619,"Wokkong – Chinese Noodles & Fried Rice, Jumeirah Village Circle - JVC",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,742485,70f167b3-003c-4891-9d0e-ef99de1f5e10,"Wokkong – Chinese Noodles & Fried Rice, Mirdif",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,754489,6e2087c2-4893-4994-a94f-df976c157866,"Wokkong – Chinese Noodles & Fried Rice, Motor City 3, Dubai Motor City",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,727302,cb33dd45-a88d-4f1d-80a7-2c282c5f0f1c,"Wokkong – Chinese Noodles & Fried Rice, Muweilah Commercial",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,730018,56c4c387-abe3-4d30-91bc-80ac72db25ae,"Wokkong – Chinese Noodles & Fried Rice, Sahara Centre - Sharjah",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,732133,c8ea9131-e923-4d1c-b7b2-d142db90a45b,"Wokkong – Chinese Noodles & Fried Rice, Tourist Club Area (Al Zahiya)",TLBT Kitopi Plugin -New,666941,Wokkong - Chinese Noodles & Fried Rice,OWN_DELIVERY,,UAE
+TB_AE,645578,d260c681-b3a4-4248-9a0e-655b743a4352,"Yawmi – Authentic Lebanese Tabkha,  Al Majaz 2",TLBT Kitopi Plugin -New,628566,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,22603,5c8423eea9a18e37a1cfb127,"Yawmi – Authentic Lebanese Tabkha, Business Bay",TLBT Kitopi Plugin -New,9307,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,754597,686515b7-5684-4cd2-9a96-9aece56d55ce,"Yawmi – Authentic Lebanese Tabkha, Dubai Marina",TLBT Kitopi Plugin -New,691722,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,24442,5c7f952da9a18e37a1cfb0ad,"Yawmi – Authentic Lebanese Tabkha, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9307,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,47588,abd1883e-c9cf-42f4-b679-e518bfe73f9a,"Yawmi – Authentic Lebanese Tabkha, Dubai Silicon Oasis",TLBT Kitopi Plugin -New,9307,Yawmi – Authentic Lebanese Tabkha,VENDOR_DELIVERY,,UAE
+TB_AE,23600,5c84325da9a18e37a1cfb128,"Yawmi – Authentic Lebanese Tabkha, Hessa Street",TLBT Kitopi Plugin -New,9307,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,22635,5d398405a9a18e37a1d38462,"Yawmi – Authentic Lebanese Tabkha, Marina 3",TLBT Kitopi Plugin -New,9307,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,754805,688a656d-2300-42c6-8548-4794f127efba,"Yawmi – Authentic Lebanese Tabkha, Meadows",TLBT Kitopi Plugin -New,691722,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,754806,d789a480-3f73-46d1-a67f-c26e99491b11,"Yawmi – Authentic Lebanese Tabkha, Meadows, Al Bateen, Al Khalidiyah",TLBT Kitopi Plugin -New,691722,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,701792,0840d6e9-0eb1-4224-b047-74e972200922,"Yawmi – Authentic Lebanese Tabkha, Mirdif",TLBT Kitopi Plugin -New,9307,Yawmi – Authentic Lebanese Tabkha,OWN_DELIVERY,,UAE
+TB_AE,661128,8bf6bfad-b9f4-4a77-9c16-84f4f8d8226d,Zaroob زاروب,TLBT Kitopi Plugin -New,609370,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE
+TB_AE,665689,c5b6e81f-b227-4ef2-884f-54b0c76434eb,"Zaroob زاروب, Central Mall, Madinat Khalifa - A",TLBT Kitopi Plugin -New,609370,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE
+TB_AE,30280,32ae8551-faa2-48fe-ac84-8a83133ffcbd,"Zaroob زاروب, Dubai Marina",TLBT Kitopi Plugin -New,1979,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE
+TB_AE,667595,4c806eea-559f-41f0-b102-833329c72983,"Zaroob زاروب, Motor City",TLBT Kitopi Plugin -New,1979,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE
+TB_AE,30281,b177e441-1244-45bc-8e46-9a5d4f3da961,"Zaroob زاروب, SZR",TLBT Kitopi Plugin -New,1979,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE
+TB_AE,734037,9aeca1e0-a643-474f-8dcf-ecf058f11b2b,"Zaroob, Deira City Center",TLBT Kitopi Plugin -New,671427,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE
+TB_AE,719570,6549c24f-7800-4e32-b5b3-5b82514f14ad,"Zaroob, Dubai Silicon OasiS",TLBT Kitopi Plugin -New,671427,Zaroob – Levant Street Flavors,OWN_DELIVERY,,UAE

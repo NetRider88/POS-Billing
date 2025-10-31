@@ -1,0 +1,231 @@
+Entity ID,vendor_code,remote_id,Branch Name,Integration Name,Chain ID,Chain Name,Delivery Type,Orders,Country
+HF_EG,708946,9112b0dc-10c3-4438-a629-1ef987b98722,"Abo Anas ElSoury, Dokki - Mosaddak",TLBT GrubTech Plugin,665301,Abo Anas ElSoury,VENDOR_DELIVERY,,Egypt
+HF_EG,713554,c826a02d-5081-40b7-8955-31a3109911ff,"Abo Anas ElSoury, Dokki - Mosaddak - TGO",TLBT GrubTech Plugin,665301,Abo Anas ElSoury,OWN_DELIVERY,,Egypt
+HF_EG,713555,ac846978-27f3-4855-97c4-6709af606892,"Abo Anas ElSoury, Mokattam - El Nafora Square-2 - TGO",TLBT GrubTech Plugin,665301,Abo Anas ElSoury,OWN_DELIVERY,,Egypt
+HF_EG,713563,59308e2d-8cf7-41e0-91e3-31451e213786,"Abo Anas ElSoury, Nasr City - Mostafa El Nahaas 2 - TGO",TLBT GrubTech Plugin,665301,Abo Anas ElSoury,OWN_DELIVERY,,Egypt
+HF_EG,738602,2d448d88-d5ec-4663-8b42-7ce1d7e3fda2,"Abo Anas ElSoury, New Maadi - Taqseem Laselky",TLBT GrubTech Plugin,665301,Abo Anas ElSoury,OWN_DELIVERY,,Egypt
+HF_EG,706618,7636d414-3dde-428f-bc96-61903a622280,"Bad Jones, 5TH Settlement",TLBT GrubTech Plugin,663955,Bad Jones,OWN_DELIVERY,,Egypt
+HF_EG,765214,4f95226a-84a1-4b41-b92b-1b01344343d0,"Bakery Khan, 6th of October - Lake Front",TLBT GrubTech Plugin,698319,Bakery Khan,OWN_DELIVERY,,Egypt
+HF_EG,766668,7f9077cb-a198-434f-8a61-27fba17f71cf,"Bakery Khan, 6th of October - Lake Front TMP",TLBT GrubTech Plugin,698319,Bakery Khan,VENDOR_DELIVERY,,Egypt
+HF_EG,765107,18664abf-c7ec-4370-bc13-f3f558910dd5,"Bakery Khan, Ard El Golf 2",TLBT GrubTech Plugin,698319,Bakery Khan,OWN_DELIVERY,,Egypt
+HF_EG,766669,cb613a61-c20d-4d02-baf2-39ced61de415,"Bakery Khan, Ard El Golf 2 TMP",TLBT GrubTech Plugin,698319,Bakery Khan,VENDOR_DELIVERY,,Egypt
+HF_EG,507694,2b656fa2-70a8-4a87-b905-64d129dc509b,"Bakery Khan, Heliopolis - Almazah",TLBT GrubTech Plugin,505360,Bakery Khan,OWN_DELIVERY,,Egypt
+HF_EG,689956,59229569-17cd-40e9-9718-8b38b098f4f2,"Bakery Khan, Heliopolis-Almazah - TMP",TLBT GrubTech Plugin,505360,Bakery Khan,VENDOR_DELIVERY,,Egypt
+HF_EG,685058,c41349ee-0fe8-4b56-93e7-1d10f290dd17,"Bakery Khan, Tagammoa 1",TLBT GrubTech Plugin,505360,Bakery Khan,OWN_DELIVERY,,Egypt
+HF_EG,765215,bb109f68-3616-4d12-959b-c13b380b3dfd,"Bakery Khan, Tagammoa 1 - Sharq El Academya 2",TLBT GrubTech Plugin,698319,Bakery Khan,OWN_DELIVERY,,Egypt
+HF_EG,766667,9c3f5029-100b-4e61-afe4-aa69ef6f93a3,"Bakery Khan, Tagammoa 1 - Sharq El Academya 2 TMP",TLBT GrubTech Plugin,698319,Bakery Khan,VENDOR_DELIVERY,,Egypt
+HF_EG,689940,7fb3d3eb-1b13-4c6d-8180-d044cedb5cd5,"Bakery Khan, Tagammoa 1 - TMP",TLBT GrubTech Plugin,505360,Bakery Khan,VENDOR_DELIVERY,,Egypt
+HF_EG,765213,edc6fa92-3d02-43a3-b5e5-f85deab5204c,"Bakery Khan, Zahraa El Maadi - El Me'arag El Soufly",TLBT GrubTech Plugin,698319,Bakery Khan,OWN_DELIVERY,,Egypt
+HF_EG,766666,9890ec95-8b02-4260-827f-ddbf674eaa3d,"Bakery Khan, Zahraa El Maadi - El Me'arag El Soufly TMP",TLBT GrubTech Plugin,698319,Bakery Khan,VENDOR_DELIVERY,,Egypt
+HF_EG,692859,9ac61191-e3b7-4d34-84c7-5775cfae96db,"Bazooka ,  Masaken Sheraton,TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,673387,a6c50be7-5a11-4169-bcf0-7f99c179de30,"Bazooka , 6th of October - Hosary - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,655837,53c7d27a-434b-4886-9e55-1d683879a3b9,"Bazooka , Mohandessin,Mohandiseen - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,693556,30716d1d-726f-475d-8b12-680c879342d4,"Bazooka ,Saray el quba-TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,693555,c51eabee-7fb7-4f48-ada3-9fee56f192e9,"Bazooka,  Roxy-TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,738857,a0470f20-0ab4-4227-9586-a7544de9394a,"Bazooka, 6th of October - West Somed - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,754029,88af1c45-b4f3-4ada-ba53-578c05a48129,"Bazooka, Ain Shams TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,666376,ca733ab7-9954-4da2-998c-209a3f538e58,"Bazooka, Al Manial - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,687257,7c560342-07cf-47c7-a768-98aaa766e3c3,"Bazooka, Asafra,TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,688368,fc3098a3-5fd7-483e-9f60-925fee8e9af9,"Bazooka, Asuit, TGO ",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,684488,f8e303c1-d029-4e1f-a65b-7a3c5dd6c7a5,"Bazooka, Dokki - El Dokki Street-TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,698720,b0cb000f-c478-4eaa-98f1-d6decbba6adf,"Bazooka, Downtown - Talaat Harab,TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,738810,f57b8c5f-e5b3-4f91-aec0-afcc4682eaae,"Bazooka, Downtown- Al Alfy - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,643360,3025b31a-e4f2-4d35-b4e2-bd795b443c58,"Bazooka, El Bahr Street - Qesm Thany - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,704048,bd13bdb6-025d-4f52-a324-fba7078a8608,"Bazooka, El Gomhuria Street,TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,637216,baab1505-831d-482f-9a8f-0b9de292f9ae,"Bazooka, El Obour - Golf Area - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,657998,bdee7cfb-b98f-4799-85f6-540c8c1d4202,"Bazooka, El Rehab City 1 - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,632601,4fff2378-34ed-4318-942b-383707fea719,"Bazooka, El Sheikh Zayed - El Hay 1- TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,705669,23a3ba41-3ad3-46c5-9a39-d3de0a8c7487,"Bazooka, El Shorouk - 8th District - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,670264,2459b73a-9567-4154-abda-92e32e8962a1,"Bazooka, El-Gaish Street, El Geesh Street - TGO ",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,518363,ff4774ba-98c9-4130-bdc4-50713b16a7e6,"Bazooka, Faisal - Akher Faisal - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,743002,23a67bfb-d43f-4a34-a516-99e088e1c615,"Bazooka, Faisal - El Matba'a - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,711016,06d22f1a-6f53-423d-927d-230125f2bace,"Bazooka, Hadayek El Ahram - Area ع - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,740486,5abdef93-6c0f-40ef-adac-dafafc8bb81a,"Bazooka, Hadayek El Ahram Club, Hadayek El Ahram - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,693293,51f207c9-1210-46f9-9ba2-62a195bb5304,"Bazooka, Heliopolis - Hegaz Square-TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,702903,85820a16-285c-4d4d-9291-0579830397fa,"Bazooka, Helwan,TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,752441,5fce9fbf-1873-40c4-bc70-566bb0195b3b,"Bazooka, Hurghada, Sheraton - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,766259,d622f22d-583c-419f-934c-55fda556dfd2,"Bazooka, Imbabah, Madinat El Omal - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,711487,da450623-bc82-4486-8eef-9376417050b1,"Bazooka, Ismailia - Downtown - Champollion - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,701247,d23c8d87-33e6-46a9-9e64-312b1a7b3399,"Bazooka, Kesm El Hokamaa - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,717528,c847fbe2-74de-432e-93c0-193735811533,"Bazooka, Lauran - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,657997,60ab82c3-f25e-4f14-bb78-97f4f278a042,"Bazooka, Maadi 9 street, Maadi 1 - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,625461,1fa363d1-b6dd-41cd-849f-dd67088b0d0c,"Bazooka, Maadi-Zahraa - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,725008,71336615-e3f1-4ec1-8a9c-9e39669c096e,"Bazooka, Madinaty - South Park - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,756171,4cd23b28-d0d0-493f-a978-a9369cdef4da,"Bazooka, Masr wl Sudan - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,774069,c5919432-d3aa-4cd7-a013-0e7c53236264,"Bazooka, Minya, Cornishe El Nile TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,732879,3da75fc5-9598-4e56-b294-09001d92c3f8,"Bazooka, Moheb - El Mahala - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,720130,021da1ba-fe5b-4ecc-b5ce-3de9e5e78b66,"Bazooka, Nasr City - Abbas El Akkad - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,720367,c5d76e14-2168-4ff2-a053-10245c5e58b9,"Bazooka, Nasr City - El Serag Mall - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,720129,8848bfd3-ee30-454e-bf34-52aaee5c3e52,"Bazooka, Nasr City - Hay 10 - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,724079,b1c8b99e-8a11-4f0b-b2c2-3fd8475fa378,"Bazooka, Nasr City - Hay 7 - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,738114,b6bf80cb-2a29-44f7-b990-f4fd80292f7e,"Bazooka, Port Said - Al Sharq District - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,649724,3736f189-3b86-4b54-aac1-c906a324d481,"Bazooka, Raml Station - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,748009,7fe64156-eb85-4037-8136-ff8159a558ef,"Bazooka, Rehab Chillout - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,714202,0e332a0c-fc08-4418-a910-646fa678bb3e,"Bazooka, Semouha - Modereyt El Amn El Gadeda - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,747019,fbc30210-a4ae-4abf-a424-91ac7d2386b2,"Bazooka, Shebin El Kom - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,631787,2cea6607-e4df-4a11-8e8f-3e92375d33da,"Bazooka, Shobra TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,730774,3d7c1547-354a-4be2-8c9f-47cd85876845,"Bazooka, Suez - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,702552,4c6b31bb-3635-423a-b156-360ea4b1018e,"Bazooka, Tagammoa 1 - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,635383,29d36067-8798-4677-b81e-d5bf984953b6,"Bazooka, Tagammoa 5 - North Investors - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,728042,cd285348-c8a5-4041-88a4-4f5ca5b9610d,"Bazooka, Tagammoa 5 - One Golden Square - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,732359,9da885c8-957f-4b0f-beb8-e8d070487744,"Bazooka, Town Square - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,726817,2635c0c8-632f-43ae-960a-86f74a5eda82,"Bazooka, Waslet Dahshour - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,648159,ea532ee3-5126-41a1-9f08-53daa6e3cb41,"Bazooka,Haram - Omraniya - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,628611,8b8c44f4-0b3f-4293-9540-6f0e16c79697,"Bazooka,Mokattam - TGO",TLBT GrubTech Plugin,506073,Bazooka,OWN_DELIVERY,,Egypt
+HF_EG,509465,772d5762-74e7-4376-9d9a-b42b7302bbaf,"Buffalo Burger, 6th of October - Hosary and Ahyaa'  - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,700435,7300d0bd-25b1-4b64-a7d1-f6c56df7c01c,"Buffalo Burger, Al Manial - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,741807,fff05846-dedb-4a50-8ec7-2db45f6cb540,"Buffalo Burger, AlMaza Airport - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,644047,c5182590-da09-4067-a718-b555e54090ef,"Buffalo Burger, Asafra - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,514388,ce3e3693-e946-49d0-841a-f5492516ee97,"Buffalo Burger, Asuit - El Gomhorya St - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,760325,919851d1-15c5-4fd7-afb2-66719acd196b,"Buffalo Burger, Banha - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,703706,a57fddbc-00ab-455b-b1fe-0c9ad9976819,"Buffalo Burger, Dokki - Moustafa Mahmoud - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503406,921304ce-ae7b-426e-b428-2456a3835833,"Buffalo Burger, Downtown Mall - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503412,2eb33148-ce54-420b-ab01-51440434c855,"Buffalo Burger, El Nasr Street - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503413,08b891f7-91e2-4bf4-8aa1-404adc0bbf06,"Buffalo Burger, El Obour - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503416,d33d2a16-3156-496d-8858-d569c1d90361,"Buffalo Burger, El Rehab City - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503408,86816cd6-7e72-447e-bdd5-e222932cdb5e,"Buffalo Burger, El Sheikh Zayed - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503405,74fa9a49-0c7d-40f0-a1a8-2377648591bf,"Buffalo Burger, El Sherouk City - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,511709,a4443074-5d8e-4a12-af98-71b1320e2c61,"Buffalo Burger, Faisal - Maryoteya - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,517656,7dd983ac-56fd-45a4-b96d-abc633d3509f,"Buffalo Burger, Hadayek Al Ahram - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,511278,1fbc98ec-6d05-4cea-836a-16f78890ee84,"Buffalo Burger, Hay Thany Zagazig - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,631394,2b6a7adf-5e11-4ec7-99b6-7397536f3754,"Buffalo Burger, Hurghada - El Hadaba - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,643079,ec10e7cb-50ff-4b86-bb57-1ebf289bfdcb,"Buffalo Burger, Ismailia - Shebeen El Kom Street - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503414,9c3c12db-520f-435a-a379-71d4998c73e3,"Buffalo Burger, Madinaty - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,518646,2ac2e0e0-b3f6-4ada-809c-63f6619d3ed7,"Buffalo Burger, Mansoura - Gomhoria Street - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503402,cc1447c4-3a7f-4677-bdf4-ea66bfce928a,"Buffalo Burger, Mansoura, Gehan Street - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503400,e6e16aeb-33a1-41c6-b01a-81dade8d69b2,"Buffalo Burger, Masaken Sheraton - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,640402,174d7c73-b15e-4ce0-bc97-547e3b9ebf1f,"Buffalo Burger, Mokattam - Al Jazzera Higher Institute - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503415,b335b5ac-4092-49f0-9353-2bd5e6ad5bb8,"Buffalo Burger, Mostafa Kamel - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,511632,7f30ffe4-7b03-43ec-b14c-069a0b04dcd4,"Buffalo Burger, Nasr City - Ahmed Fakhry - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503401,2eaa182f-0f55-438b-bdc2-e3e390b594fa,"Buffalo Burger, Nasr City - Hay 7 - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503419,d24605eb-05f6-4145-9c10-26fe0f7c9579,"Buffalo Burger, Port Said - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,650510,f423bafe-4707-4b07-bd1c-e6ab092b766b,"Buffalo Burger, Ras El Bar - El Lesan - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,656543,42c0e8e7-ac13-4eb7-8a35-7b3bd66abcb2,"Buffalo Burger, Roxy - Masr el gdida - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,518638,6cface1a-76ce-4570-ae12-b68b11dc7f43,"Buffalo Burger, Semouha - Medan El Gama'a - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,653611,0dfc5117-e87c-41e7-b018-ef9c872e824c,"Buffalo Burger, Shobra - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503411,743e22d6-0847-43d5-842e-0f38ef102c2b,"Buffalo Burger, South Investors - Concord Mall - TGO ",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,715591,89f6691c-1ba6-44b9-a23d-2929a72011c5,"Buffalo Burger, Tagammoa 1 - Sharq El Academya 2 - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,511445,82099ea4-b821-4b45-a209-f1d699d92700,"Buffalo Burger, Tanta - El Bahr Street - Qesm Thany - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,509709,1afba1d0-eee6-4a1a-9777-e624ef336fbe,"Buffalo Burger, Zahraa El Maadi - Street 50 - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,503396,e326b4b0-7f08-4a35-b4c2-a368ce4a5eb8,"Buffalo Burger, Zamalek - TGO",TLBT GrubTech Plugin,502407,Buffalo Burger,OWN_DELIVERY,,Egypt
+HF_EG,690830,9b2847b4-2ef6-441e-993a-7071ff82c2ea,"Bun N Bun, Almaza Mall - TGO",TLBT GrubTech Plugin,655665,Bun N Bun,OWN_DELIVERY,,Egypt
+HF_EG,730647,231eb1ce-136e-4883-b958-89208d2d7641,"Bun N Bun, Ard El Golf",TLBT GrubTech Plugin,655665,Bun N Bun,OWN_DELIVERY,,Egypt
+HF_EG,695166,4608342d-bb64-4535-8a13-700326cd6964,"Bun N Bun, El Mashaya - TGO",TLBT GrubTech Plugin,655665,Bun N Bun,OWN_DELIVERY,,Egypt
+HF_EG,695167,d71e0ba6-4c53-4f0d-b846-8ba91605ea71,"Bun N Bun, Nasr City - Abo Dawoud El Zahery 2",TLBT GrubTech Plugin,655665,Bun N Bun,OWN_DELIVERY,,Egypt
+HF_EG,692854,0568fda6-0453-497c-b14e-02f8759534ae,"Bun N Bun, Tagammoa5 - Cairo Festival - TMP",TLBT GrubTech Plugin,655665,Bun N Bun,VENDOR_DELIVERY,,Egypt
+HF_EG,704281,571fd218-4579-44b9-93f9-b0b4264bbb2f,"Cookievore, El Rehab City 2",TLBT GrubTech Plugin,659477,Cookievore,OWN_DELIVERY,,Egypt
+HF_EG,748153,,"DOOS, Tagammoa 5 - Banks Center 1",TLBT GrubTech Plugin,674008,DOOS,OWN_DELIVERY,,Egypt
+HF_EG,723841,,"DOOS,Tagammoa 5 - Banks Center",TLBT GrubTech Plugin,674008,DOOS,OWN_DELIVERY,,Egypt
+HF_EG,704380,fda8e3f7-1848-4853-8a8d-23616cd58443,"DOUBLE DECKER, Madinaty",TLBT GrubTech Plugin,662771,DOUBLE DECKER,OWN_DELIVERY,,Egypt
+HF_EG,765492,acea78b9-fb15-4656-8e2d-db1e64f0c4c4,"DUSHKA BURGER, Mokattam - El Andalus Park-1",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,668349,f32db4f9-5069-45d7-ae28-76cb13935639,Daje - El Rehab,TLBT GrubTech Plugin,642538,Daje,OWN_DELIVERY,,Egypt
+HF_EG,693622,435baa77-2f44-458e-abd3-0dd349b06dc3,"Daje, Tagammoa 1 MP",TLBT GrubTech Plugin,642538,Daje,VENDOR_DELIVERY,,Egypt
+HF_EG,733265,bc05a082-a719-4c60-a977-71a9cfb3dafe,"Double Decker, Madinaty - Golf Club",TLBT GrubTech Plugin,662771,DOUBLE DECKER,VENDOR_DELIVERY,,Egypt
+HF_EG,754781,2e5fa416-5147-4355-9322-77b3c2dbd558,"Dushka Burger, 6th of October - West Somed",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,732711,3ea1c75b-849f-4f38-8a7f-3e07d7f6a448,"Dushka Burger, Chill Out Pyramids Garden - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,746245,82d0733e-289a-48a0-ad19-cc1ccb8347ad,"Dushka Burger, Chillout Dokki - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,745307,90c59605-940f-4cab-b9c8-ef875e007304,"Dushka Burger, Downtown - Talaat Harab - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,743001,d69d0e3b-b208-47aa-8229-98edb2ca1873,"Dushka Burger, Haram - Talbiya - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,750918,159b1d2e-c006-41c7-9ef6-29514665b676,"Dushka Burger, Madinaty - South Park",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,738705,d3a7b491-87cc-4103-9ecb-2885a93e5382,"Dushka Burger, Nasr City - Makram Ebeid 2 - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,728208,e02f0c97-4ea9-468f-ac3f-f242fee2d3c2,"Dushka Burger, Sheraton - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,747580,f2851616-dc79-4c82-af65-ab5f5d21721f,"Dushka Burger, Tagammoa5 - El Lotus El Ganoubeya - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,728300,0243ef82-c96d-4092-b590-af0363ed4047,"Dushka Burger, Zahraa El Maadi - El Me'arag El Soufly - TGO",TLBT GrubTech Plugin,676446,Dushka Burger,OWN_DELIVERY,,Egypt
+HF_EG,503689,97f60a33-fedd-4046-a79e-c8eb3441d56a,FooolTank - Agouza,TLBT GrubTech Plugin,502497,FooolTank,VENDOR_DELIVERY,,Egypt
+HF_EG,708987,374b5f68-e164-4228-abbb-808e01d76ac8,"HEART ATTACK, 10th of Ramadan - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,705765,99a8b2d3-c55e-47b4-a669-e729e19c8775,"HEART ATTACK, 6th of October - 1st District - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,691011,f0d8ec11-748f-4aae-b38b-31a67e7bb22b,"HEART ATTACK, Al Matariyyah, Matareya - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,717285,35ce6fc3-2357-4f86-822a-b2b88295c96a,"HEART ATTACK, Cornish - Assiut - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,670935,9dc650dc-19c9-49ad-af78-3b749263e462,"HEART ATTACK, Gesr El Suez - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,697215,a3fb38bd-94ba-4a5a-9b39-a7bb9944d27c,"HEART ATTACK, Giza - Mourad - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,691013,36d3a93a-4a06-4dee-b9e8-94d27a3159a7,"HEART ATTACK, Madinat el salam,El Salam City - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,705768,99216865-fc1b-421a-9db8-dea4b387cc5a,"HEART ATTACK, Madinaty - Green Belt - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,703942,10a2fcca-f9a6-4916-a9c9-f299a678374e,"HEART ATTACK, Mall Of Arabia - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,705772,7fb165be-c34f-4d60-84a7-7ce9fd131a38,"HEART ATTACK, Nasr City - Abbas El Akkad - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,705773,9bae26a6-43fa-4430-95e1-f28c259ebbe4,"HEART ATTACK, Shobra - El Mazalat - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,699852,8d3d679b-2e5c-4670-9ca7-1fe416091e9b,"HEART ATTACK, Zayed - Masged El Shorta - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,506332,dfe3068f-76a6-4825-a933-3bd3deaef36a,Hawawshi EL Refaey - Tagmoaa 5,TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,509117,ae02709e-98bc-4c82-b513-c9151398421e,"Hawawshi El Hara2, Shobra - Gesr Shobra",TLBT GrubTech Plugin,506105,Hawawshi El Hara2,OWN_DELIVERY,,Egypt
+HF_EG,725361,875e9b3e-0abc-453d-93c5-9063fa7731cb,"Hawawshi El Hara2, Shobra - Gesr Shobra TMP",TLBT GrubTech Plugin,506105,Hawawshi El Hara2,VENDOR_DELIVERY,,Egypt
+HF_EG,709894,8d5f7b37-1dc5-4beb-8282-db65dcca8de0,Hawawshi El Refaay - El Obour,TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,725349,a5ecb5f1-562f-434f-b59a-563a9a8535dd,"Hawawshi El Refaay, 6th of October - 2nd District",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,765413,a12be15a-9eda-48ea-bc9e-9227f05c72ec,"Hawawshi El Refaay, Ard El Gam'iyat",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,508259,41faf79e-16b2-4be7-9666-1765815237a7,"Hawawshi El Refaay, Downtown - Abdin",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,704293,23d4c139-372c-475e-afbd-d32f523becf8,"Hawawshi El Refaay, El Rehab City 1",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,515511,8398eb09-a096-441a-83aa-91f4cfffa512,"Hawawshi El Refaay, El Sheikh Zayed - El Hay 6",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,748137,2f747786-40d2-4553-81fc-bd45d32dae09,"Hawawshi El Refaay, El Shorouk - 9th Area",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,679294,f1c68010-b3bb-4d18-8885-945c4931e1b7,"Hawawshi El Refaay, Faisal - El Talbeya",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,746996,f42f0496-23e5-4cf7-92a9-eaf094afb05b,"Hawawshi El Refaay, Gamal Abdel Nasser",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,658907,64bb5fa3-ac04-4074-8c40-6af1a0b9fe55,"Hawawshi El Refaay, Nasr City",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,737148,3e044cb7-4be6-43c0-9241-b02dea2aad04,"Hawawshi El Refaay, Shatby",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,515510,cf6919e0-66a5-4553-8ed1-b0658ba2bb70,"Hawawshi El Refaay, Tagammoa 5 - Hay 2",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,635679,c329eddc-a5b7-41b7-a8d8-e71bb0a08655,"Hawawshi El Refaay, Zahraa El Maadi - Street 50",TLBT GrubTech Plugin,504456,Hawawshi El Refaay,OWN_DELIVERY,,Egypt
+HF_EG,639932,72856b30-ce2c-46a0-8d32-952e606c02db,Heart Attack - Tanta - Stadium Area - TGO,TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,660469,59272815-9148-4663-8327-c6221c8f3e6d,"Heart Attack Faisal street, Faisal - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639929,c5b450e0-642b-41df-853c-3dee35d6af6f,"Heart Attack, 6th of October - 1st District",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,667139,5c687fdc-8558-4aae-aaed-94f4d56adebb,"Heart Attack, Abbasiya - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,676268,fcf9a9c1-f553-4669-b998-1d56e13767e8,"Heart Attack, Ain Shams - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639933,de7669d3-2cfa-4201-aac8-13a6d5a72e60,"Heart Attack, Al Manial - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,647479,f7f4759c-4b63-48de-af69-07a421e00bee,"Heart Attack, Alex Raml Station - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,673669,3794ed9f-6391-40be-abc0-12b3a077b46a,"Heart Attack, Asafra, TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,683742,58698815-6cc0-40ce-8531-b160e3cde551,"Heart Attack, Banha - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,730609,8a71ceb6-3f8d-4fc9-adb9-e0e0f15c4ad2,"Heart Attack, City Stars - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,663308,59cf3582-d00c-494f-b45b-b666e8e2455c,"Heart Attack, Damanhour Al Gomhorya Street - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639946,fe61c191-4b48-4c08-bf74-240f3d1a7c81,"Heart Attack, Damietta - 2nd District - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,647477,4193e5d0-7abb-47d8-a511-32391946980f,"Heart Attack, Downtown - Magales El Sha'ab - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,706237,56c027ab-0a61-49c4-b2d1-d73a5ea6e31e,"Heart Attack, El Mahallah Al Kubra",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639940,5f188f25-e374-4403-a5b2-e84b39978582,"Heart Attack, El Mansoura El Mashaya - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639937,363c9eb6-1dc0-44ee-9aec-9e53d68092ca,"Heart Attack, El Obour - Golf Area - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,673670,b1133c6a-e89f-4681-8fa0-f33d99ac59cf,"Heart Attack, El Rehab 2",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,705759,62fed1cd-f3ed-4650-a67a-8f41223b7753,"Heart Attack, El Rehab City - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,647481,c97b440f-c3f6-4aeb-815d-f586ce8523f9,"Heart Attack, Hadayek Al Ahram - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639928,35482c00-b38d-4fcd-8bc7-fdd61c4ca513,"Heart Attack, Heliopolis - Triumph Square - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,692277,64677e7e-8ecd-45db-a2a4-c4b2d149f9db,"Heart Attack, Hurghada, El Kothar - TGO",TLBT GrubTech Plugin,656456,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,684965,353bbe01-a864-4991-8286-67ff6196c3df,"Heart Attack, Ismalia - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,692720,24eee564-a801-4703-a9a1-47f1ed89c13b,"Heart Attack, Madinaty - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,705771,c7a1d6f0-6681-4433-bea6-cc3709577541,"Heart Attack, Masaken Sheraton - Abdel Hamid Badwai - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,511421,c7a1d6f0-6681-4433-bea6-cc3709577541,"Heart Attack, Masaken Sheraton - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,660471,de4bcc5d-84ef-4866-8aab-ab5e9c4e7d75,"Heart Attack, Mohandiseen - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639934,3e1bc913-7a59-4985-afc1-d213fb6fe54b,"Heart Attack, Mokattam - El Nafora Square - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639942,9e9d729a-6668-4c6f-b6d1-abc8c204ea1e,"Heart Attack, Nasr City - Abbas El Akkad",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,647478,7c396c07-50b3-45c9-8137-d803e636ac12,"Heart Attack, Nasr City - Hay 10 - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639945,f908b35f-5bf1-4d1a-b59b-3d02cc49fd3c,"Heart Attack, New Maadi - Taqseem Laselky - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639943,3970dbd6-4e28-4d59-ac04-f84d3632231e,"Heart Attack, Port Said - Al Sharq District - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639938,ebe75c78-7e31-4bdc-aacd-305d2c3137eb,"Heart Attack, Ras El-Bar TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639939,32a39095-087d-416b-a22c-46b911b9747f,"Heart Attack, Semouha - Semouha Sporting Club",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,660464,694d7acf-168e-4a12-80dd-40f7783ebfaa,"Heart Attack, Shbeen EL Koom - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639930,9bae26a6-43fa-4430-95e1-f28c259ebbe4,"Heart Attack, Shobra - El Mazalat - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,717936,25a881d7-080f-4923-ab07-1f169b9c7e0c,"Heart Attack, Suez - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,512613,,"Heart Attack, Tagammoa 5 - Banks Center - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,705760,53194e01-ce7e-4f60-ab68-d74a8d049d2d,"Heart Attack, Tagammoa 5 - Banks Center - TMP",TLBT GrubTech Plugin,507422,Heart Attack,VENDOR_DELIVERY,,Egypt
+HF_EG,511420,2f276ec7-8975-4034-8508-829f9365aff1,"Heart Attack, Wadi Degla - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,639936,c2988ceb-8d63-4c2e-8122-6635d85c89b2,"Heart Attack, Zagazig University - TGO",TLBT GrubTech Plugin,507422,Heart Attack,OWN_DELIVERY,,Egypt
+HF_EG,711755,d319abf7-df47-4c89-99b4-69eb4d1eef0b,"PINCH, Sidi Gaber",TLBT GrubTech Plugin,666840,PINCH,OWN_DELIVERY,,Egypt
+HF_EG,718805,cacb3855-3c00-4f30-94fc-989a6a703cc3,"Qedra, Mohandessin, Dokki - Shooting Club",TLBT GrubTech Plugin,648385,Qedra,OWN_DELIVERY,,Egypt
+HF_EG,678415,c27e110f-ab33-4ae8-b760-3042e40bc14b,"Qedra, Zamalek - 26 July",TLBT GrubTech Plugin,648385,Qedra,OWN_DELIVERY,,Egypt
+HF_EG,741788,a5bc8983-64a2-4237-9b0a-5f17a2a3bc67,"Roma Pizza To Go, Almaza Airport - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,667136,1db5b576-a5eb-4aa5-a71b-069fa121de22,"Roma Pizza To Go, Concord Plaza Mall - New Cairo, Tagammoa 5 - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,711504,704a4ed1-d0c6-498a-abd1-67c1f8242f18,"Roma Pizza To Go, El Shorouk - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,745305,27f60017-d9c8-4a99-9ff0-4b768674d572,"Roma Pizza To Go, Haram - Wimpy - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,729270,54296b9a-4764-4bcd-93ec-973f43417e4b,"Roma Pizza To Go, Maadi old - El nahda Street - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,720706,bd72fbdd-abac-4820-b260-47efc8cb90f4,"Roma Pizza To Go, Tagammoa 1 - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,696344,4b99a33a-474b-4187-8061-34bb245f7960,"Roma Pizza To Go, Tayaran - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,656853,9732ccf7-f721-4ca6-84a4-8183249b9a30,"Roma Pizza To Go, Zahraa El Maadi - El Shatr El Sades - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,716795,65d1f220-848f-43e2-b813-1285bf1d3c54,"Roma Pizza To Go, Zamalek - Mohamed Mazhar - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,749495,b52d63a2-f280-4d7c-b00c-9e7ac2771b5f,"Roma Pizza To Go, Zayed Nile University - TGO",TLBT GrubTech Plugin,635298,Roma Pizza To Go,OWN_DELIVERY,,Egypt
+HF_EG,705504,7dc50508-1400-4d01-8a89-114f9f0ef7e3,Strella Coffee - Hadayek El Ahram,TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,705503,9c28f782-2502-4094-b4b6-4d1fbaa2e1fe,"Strella Coffee, Dokki - Mosaddak",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,728747,801d5db6-7eff-473d-b7ef-fe87d3119537,"Strella Coffee, Downtown - Talaat Harab",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,705494,4311cc73-95bd-4dd0-8beb-41521b43e60a,"Strella Coffee, Heliopolis - Maqreezi",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,739767,27e244cc-ecb6-47cc-8620-d4ed293c87cd,"Strella Coffee, Masaken Sheraton - Fairmont Heliopolis",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,747005,d6eed26e-9b67-4a3f-b866-9d73e9bc0956,"Strella Coffee, Mohandesin - Jazerat El Arab",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,774940,8eedb946-f834-4115-944c-d5a09e45ce60,"Strella Coffee, Mokattam - Centeral El Mokattam",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,726828,72bd9cc2-a027-4240-82bf-37919b23a1c8,"Strella Coffee, Nasr City - Makram Ebeid 2",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,728783,e9e2dbbb-964d-4f82-a67b-b18c03e3bb10,"Strella Coffee, Zahraa El Maadi - El Me'arag El Soufly",TLBT GrubTech Plugin,663364,Strella Coffee,OWN_DELIVERY,,Egypt
+HF_EG,515396,a93b9aa4-ed8e-45f0-9218-17439666a556,Tayer Ya Fatayer Zamalek,TLBT GrubTech Plugin,505438,Tayer ya Fatayer,OWN_DELIVERY,,Egypt
+HF_EG,742555,8adc8bd3-b79a-4058-9f96-a624909a59a2,"Tayer Ya Fatayer, El Sheikh Zayed - El Hay 2",TLBT GrubTech Plugin,505438,Tayer ya Fatayer,OWN_DELIVERY,,Egypt
+HF_EG,744194,e5bff073-2b18-4e3f-8569-3fbd90f09bfd,"Tayer Ya Fatayer, El Sheikh Zayed - El Hay 2 Hybrid",TLBT GrubTech Plugin,505438,Tayer ya Fatayer,VENDOR_DELIVERY,,Egypt
+HF_EG,776141,e76cd6d0-a4d9-47d4-8f7b-06d790ca4e88,"Tayer ya Fatayer, New Maadi - TMP Victoria Square ",TLBT GrubTech Plugin,505438,Tayer ya Fatayer,VENDOR_DELIVERY,,Egypt
+HF_EG,765668,0268f2ce-cd45-487c-9fe5-3878b6071be2,"Tayer ya Fatayer, New Maadi - Victoria Square",TLBT GrubTech Plugin,505438,Tayer ya Fatayer,OWN_DELIVERY,,Egypt
+HF_EG,731498,9c382240-217a-4e08-a3a2-1049cd7093c8,"Three Diner, El Rehab City - TMP",TLBT GrubTech Plugin,674988,Three Diner,VENDOR_DELIVERY,,Egypt
+HF_EG,725523,82b31eb0-3272-4fe0-b00a-120680018c07,"Three Diner, El Rehab City 2",TLBT GrubTech Plugin,674988,Three Diner,OWN_DELIVERY,,Egypt
