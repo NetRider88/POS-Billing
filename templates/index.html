@@ -1,0 +1,194 @@
+{% extends 'base.html' %}
+
+{% block title %}POS Billing Dashboard{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+    <h1 class="mt-5">POS Billing Dashboard</h1>
+
+    <!-- Summary Section -->
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Total Invoices</h5>
+                    <p class="card-text">{{ summary.total_invoices }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Total Size</h5>
+                    <p class="card-text">{{ summary.total_size|round(2) }} MB</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Last Generated</h5>
+                    <p class="card-text">{{ summary.last_generated }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Actions Section -->
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Actions</h5>
+                    <form id="upload-form" class="form-inline">
+                        <div class="form-group mb-2">
+                            <label for="csv-file" class="sr-only">CSV File</label>
+                            <input type="file" class="form-control-file" id="csv-file" name="file" accept=".csv">
+                        </div>
+                        <button type="button" id="upload-btn" class="btn btn-primary mb-2 ml-2">Upload CSV</button>
+                        <button type="button" id="generate-btn" class="btn btn-success mb-2 ml-2">Generate Invoices</button>
+                        <a href="{{ url_for('download_all') }}" class="btn btn-info mb-2 ml-2">Download All</a>
+                        <a href="{{ url_for('tax_config') }}" class="btn btn-secondary mb-2 ml-2">Tax Config</a>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Invoices Table -->
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Invoices</h5>
+                    {% if has_invoices %}
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Invoice Name</th>
+                                <th>File Size</th>
+                                <th>Last Modified</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for invoice in invoices %}
+                            <tr>
+                                <td>{{ invoice.name }}</td>
+                                <td>{{ invoice.size }}</td>
+                                <td>{{ invoice.modified }}</td>
+                                <td>
+                                    <a href="{{ url_for('download_invoice', filename=invoice.filename) }}" class="btn btn-sm btn-primary">Download</a>
+                                    <a href="{{ url_for('preview_invoice', filename=invoice.filename) }}" target="_blank" class="btn btn-sm btn-info">Preview</a>
+                                    <button class="btn btn-sm btn-secondary email-btn" data-filename="{{ invoice.filename }}">Email</button>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                    {% else %}
+                    <p>No invoices found. Upload a CSV and generate invoices to get started.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Email Modal -->
+<div class="modal fade" id="emailModal" tabindex="-1" role="dialog" aria-labelledby="emailModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="emailModalLabel">Email Invoice</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <form id="email-form">
+          <div class="form-group">
+            <label for="recipient-email">Recipient Email</label>
+            <input type="email" class="form-control" id="recipient-email" required>
+          </div>
+          <input type="hidden" id="email-filename">
+        </form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" id="send-email-btn" class="btn btn-primary">Send Email</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+$(document).ready(function() {
+    // Upload CSV
+    $('#upload-btn').on('click', function() {
+        var formData = new FormData();
+        formData.append('file', $('#csv-file')[0].files[0]);
+
+        $.ajax({
+            url: '{{ url_for("upload_csv") }}',
+            type: 'POST',
+            data: formData,
+            processData: false,
+            contentType: false,
+            success: function(data) {
+                alert(data.message);
+                location.reload();
+            },
+            error: function(data) {
+                alert('Error: ' + data.responseJSON.error);
+            }
+        });
+    });
+
+    // Generate Invoices
+    $('#generate-btn').on('click', function() {
+        $.ajax({
+            url: '{{ url_for("generate_invoices") }}',
+            type: 'POST',
+            success: function(data) {
+                alert(data.message);
+                location.reload();
+            },
+            error: function(data) {
+                alert('Error: ' + data.responseJSON.error);
+            }
+        });
+    });
+
+    // Email Invoice
+    var filenameToEmail;
+    $('.email-btn').on('click', function() {
+        filenameToEmail = $(this).data('filename');
+        $('#email-filename').val(filenameToEmail);
+        $('#emailModal').modal('show');
+    });
+
+    $('#send-email-btn').on('click', function() {
+        var recipient = $('#recipient-email').val();
+        var filename = $('#email-filename').val();
+
+        $.ajax({
+            url: '{{ url_for("email_invoice") }}',
+            type: 'POST',
+            contentType: 'application/json',
+            data: JSON.stringify({ recipient: recipient, filenames: [filename] }),
+            success: function(data) {
+                alert(data.message);
+                $('#emailModal').modal('hide');
+            },
+            error: function(data) {
+                alert('Error: ' + data.responseJSON.error);
+            }
+        });
+    });
+});
+</script>
+{% endblock %}

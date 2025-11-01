@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block title %}Tax Configuration{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="mt-5">Tax Configuration</h1>
+    <p class="lead">Tax rates applied to invoices based on the entity's country.</p>
+
+    <div class="row mt-4">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Current Tax Rates</h5>
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Entity ID Prefix</th>
+                                <th>Country</th>
+                                <th>Tax Rate</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for entity_id, rate in tax_rates.items() %}
+                            <tr>
+                                <td>{{ entity_id }}</td>
+                                <td>{{ entity_id.split('_')[1] }}</td>
+                                <td>{{ "{:.0%}".format(rate) }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <a href="{{ url_for('index') }}" class="btn btn-primary mt-4">Back to Dashboard</a>
+</div>
+{% endblock %}

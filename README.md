@@ -31,14 +31,12 @@ To run the web application:
 
 1.  Start the Flask development server:
     ```bash
-    python app.py
+    python dashboard.py
     ```
 
 2.  Open your web browser and navigate to `http://127.0.0.1:5001/`.
 
-3.  On the web interface, upload your CSV file, specify the billing month and year (optional), and click "Upload and Process".
-
-4.  After processing, a summary table will be displayed with links to download the generated CSV files per integrator and country.
+3.  The dashboard will display a summary of the existing invoices. You can upload a new CSV file, generate new invoices, download individual or all invoices, and email invoices.
 
 ## How It Works
 
@@ -64,15 +62,15 @@ The system uses **fuzzy matching** (85% similarity threshold) to identify duplic
 
 ```
 POS Billing/
-├── app.py                                                    # Flask web application
+├── dashboard.py                                              # Flask web application for the dashboard
 ├── generate_invoices.py                                      # Core logic for processing and exclusions
 ├── requirements.txt                                          # Python dependencies
 ├── README.md                                                 # This file
 ├── templates/                                                # HTML templates for the web interface
 │   ├── base.html
-│   ├── upload.html
-│   └── results.html
-├── uploads/                                                  # Directory for uploaded CSV files
+│   ├── index.html
+│   └── tax_config.html
+├── invoices/                                                 # Directory for generated PDF invoices
 ├── exports/                                                  # Directory for generated CSV files
 │   └── 2025_september/                                       # Example output structure
 │       ├── integrator_name_1/
@@ -85,7 +83,7 @@ POS Billing/
 
 ### Application not starting or port conflict
 - Ensure no other application is using port `5001`.
-- Check the console output for any error messages when running `python app.py`.
+- Check the console output for any error messages when running `python dashboard.py`.
 
 ### Missing dependencies
 ```bash
@@ -97,5 +95,5 @@ pip install -r requirements.txt
 - Review the `generate_invoices.py` file for the `INTEGRATOR_RULES` dictionary and exclusion logic.
 
 ### Download links not working (404 error)
-- Ensure the `exports` directory exists in the project root.
+- Ensure the `exports` and `invoices` directories exist in the project root.
 - Check the Flask application console for any errors related to file serving.
