@@ -38,7 +38,12 @@ def index():
     """Main dashboard page"""
     # Check if invoices exist
     if not INVOICES_DIR.exists() or not list(INVOICES_DIR.glob('*.pdf')):
-        return render_template('index.html', invoices=[], has_invoices=False)
+        summary = {
+            'total_invoices': 0,
+            'total_size': 0,
+            'last_generated': 'Never'
+        }
+        return render_template('index.html', invoices=[], has_invoices=False, summary=summary)
     
     # Get all invoice files
     invoices = []
@@ -243,4 +248,4 @@ if __name__ == '__main__':
     print(f"Invoices folder: {INVOICES_DIR}")
     print("="*60 + "\n")
     
-    app.run(debug=True, host='0.0.0.0', port=5001)
+    app.run(debug=True, host='0.0.0.0', port=5002)
